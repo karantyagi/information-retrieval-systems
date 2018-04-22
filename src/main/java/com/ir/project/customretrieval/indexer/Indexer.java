@@ -23,7 +23,7 @@ public class Indexer {
         Map<String, List<Posting>> index =  generateIndex("/tmp/irproject/");
 
         try {
-            System.out.println(new ObjectMapper().writeValueAsString(index.get("and")));
+            System.out.println(new ObjectMapper().writeValueAsString(index.get("andgit ")));
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         }
