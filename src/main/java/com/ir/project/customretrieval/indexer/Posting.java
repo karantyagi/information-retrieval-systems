@@ -27,4 +27,12 @@ public class Posting {
     public void setFrequency(int frequency) {
         this.frequency = frequency;
     }
+
+    @Override
+    public String toString() {
+        return "Posting{" +
+                "documentId='" + documentId + '\'' +
+                ", frequency=" + frequency +
+                '}';
+    }
 }

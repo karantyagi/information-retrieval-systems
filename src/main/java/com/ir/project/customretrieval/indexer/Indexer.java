@@ -5,6 +5,9 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import javafx.util.Pair;
 
 import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -19,20 +22,25 @@ public class Indexer {
     private static final int MAX_THREADS = 100;
 
 
-    public static void main(String []args) {
-        Map<String, List<Posting>> index =  generateIndex("/tmp/irproject/");
+    public static void main(String args[]) {
+        String outFile = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
+        DocMetadataAndIndex medatada =  generateIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp");
 
         try {
-            System.out.println(new ObjectMapper().writeValueAsString(index.get("andgit ")));
+            Files.write(Paths.get(outFile), new ObjectMapper().writeValueAsString(medatada).getBytes());
         } catch (JsonProcessingException e) {
             e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+
+        System.out.println(outFile);
     }
 
-    public static Map<String, List<Posting>> generateIndex(String documentPath) {
+    public static DocMetadataAndIndex generateIndex(String documentPath) {
 
         File cleanedDocsFolder = new File(documentPath);
-        Map<String, List<Posting>> index = new HashMap<String, List<Posting>>();
+        DocMetadataAndIndex medatada = null;
 
         if (cleanedDocsFolder.exists()) {
 
@@ -46,32 +54,37 @@ public class Indexer {
                 Future f = executor.submit(indexerThread);
                 futureList.add(f);
             }
+            executor.shutdown();
+            medatada = pollAndMerge(futureList);
 
-            index = pollAndMerge(futureList);
-
-            return index;
+            return medatada;
         } else {
             System.out.println("Folder " + documentPath + " doesn't exists.");
         }
 
-        return index;
+
+        return medatada;
     }
 
-    private static Map<String,List<Posting>> pollAndMerge(List<Future<Pair<String, Map<String, Integer>>>> futureList) {
+    private static DocMetadataAndIndex pollAndMerge(List<Future<Pair<String, Map<String, Integer>>>> futureList) {
         Map<String, List<Posting>> index = new HashMap<String, List<Posting>>();
 
+        Map<String, Integer> documentLengthData = new HashMap<>();
         for (Future<Pair<String, Map<String, Integer>>> f : futureList) {
             try {
 
                 Pair<String, Map<String, Integer>> pair = f.get();
 
-
                 String docId = pair.getKey();
+                int documentLength = 0;
+
                 Map<String, Integer> wordMap = pair.getValue();
                 for(Map.Entry<String, Integer> entry : wordMap.entrySet()) {
                     String term = entry.getKey();
                     Integer termFreqInDoc = entry.getValue();
+                    documentLength+= termFreqInDoc;
                     Posting posting = new Posting(docId, termFreqInDoc);
+
                     if (index.containsKey(term)) {
                         index.get(term).add(posting);
                     } else {
@@ -79,7 +92,10 @@ public class Indexer {
                         postingList.add(posting);
                         index.put(term, postingList);
                     }
+
                 }
+
+                documentLengthData.put(docId, documentLength);
 
             } catch (InterruptedException e) {
                 e.printStackTrace();
@@ -88,6 +104,6 @@ public class Indexer {
             }
         }
 
-        return index;
+        return new DocMetadataAndIndex(index, documentLengthData);
     }
 }
