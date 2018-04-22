@@ -61,4 +61,10 @@ fabric.properties
 *.jar
 *.rar
 *.tar
-*.zi
+:i
+# Java*.class*.jar*.war*.ear
+# Java
+*.class
+*.jar
+*.war
+*.ear
