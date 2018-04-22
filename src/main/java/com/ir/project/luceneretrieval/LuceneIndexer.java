@@ -1,4 +1,4 @@
-package com.ir.project.luceneindexer;
+package com.ir.project.luceneretrieval;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;
@@ -48,23 +48,32 @@ public class LuceneIndexer {
 
         //System.out.println(args.length);
         String indexDirPath;
+        String rawDocsPath;
 
-        if(args.length ==1)
+        if(args.length != 2)
         {
-            indexDirPath = args[0];
+            System.out.println("Enter path for saving index and path for raw docs, as arguments!");
+            System.out.println("Example: java LuceneIndexer Karan_Tyagi_Project\\lucene-index Karan_Tyagi_Project\\resources\\CACM");
+            System.out.println("Please run again with correct arguments.\n");
+            System.exit(1);
         }
 
-        else
-        {
-            System.out.println("Enter path as argument!");
-        }
+        indexDirPath = args[0];
+        System.out.println("Saving index at        : "+indexDirPath);
+        rawDocsPath = args[1];
+        System.out.println("Fetching raw docs from : "+rawDocsPath);
+        System.out.println();
+
+        /*
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter the path to save the index (e.g. /Usr/index or c:\\temp\\index)");
 
         // "..\\..\\luceneIndex";
-        // E:\1st - Career\NEU_start\@@Technical\2 - sem\IR\Karan_Tyagi_Project\lucene-index
+        // "E:\1st - Career\NEU_start\@@Technical\2 - sem\IR\Karan_Tyagi_Project\lucene-index"
 
         indexDirPath = br.readLine();
+        */
+
         LuceneIndexer indexer = null;
 
         // ==========================================================================================================
@@ -78,8 +87,7 @@ public class LuceneIndexer {
         else{
             File dir = new File(indexDirPath);
             dir.mkdirs();
-            System.out.println(Paths.get(indexDirPath).toAbsolutePath()+" created!");
-
+            System.out.println("New directory created!\n"+Paths.get(indexDirPath).toAbsolutePath()+"\n");
         }
 
         try {
@@ -91,13 +99,15 @@ public class LuceneIndexer {
             System.exit(-1);
         }
 
-
+        /*
         System.out.println("Enter the FULL path for raw docs (e.g. /Usr/index or c:\\temp\\index)");
 
         // "..\\..\\rawDocs"
-        // E:\1st - Career\NEU_start\@@Technical\2 - sem\IR\Karan_Tyagi_Project\resources\CACM
+        // "E:\1st - Career\NEU_start\@@Technical\2 - sem\IR\Karan_Tyagi_Project\resources\CACM"
 
-        String rawDocsPath  = br.readLine();
+        rawDocsPath  = br.readLine();
+        */
+
         final Path docDir = Paths.get(rawDocsPath);
         if (!Files.isReadable(docDir)) {
             System.out.println("Document directory '" + docDir.toAbsolutePath() + "' does not exist or is not readable, please check the path");
@@ -111,7 +121,7 @@ public class LuceneIndexer {
         // ==========================================================================================================
 
         indexDocs(writer, docDir);
-        br.close();
+        // br.close();
 
 
         // ==========================================================================================================
