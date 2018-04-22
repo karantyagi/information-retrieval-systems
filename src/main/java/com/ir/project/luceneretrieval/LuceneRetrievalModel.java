@@ -32,7 +32,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
      * @param indexDir path of index directory
      * @throws java.io.IOException when exception loading index.
      */
-    public static void loadIndex(String indexDir) throws IOException {
+    public void loadIndex(String indexDir) throws IOException {
 
         simpleAnalyzer = new SimpleAnalyzer(Version.LUCENE_47);
         reader = DirectoryReader.open(FSDirectory.open(new File(indexDir)));
@@ -68,27 +68,32 @@ public class LuceneRetrievalModel implements RetrievalModel {
     private static Set<SearchedDocument> getSearchedDocsList(ScoreDoc[] hits) throws IOException {
 
         Set<SearchedDocument> retrievedDocList = new HashSet<>();
-        System.out.println("Found " + hits.length + " hits.\n");
+        System.out.println("\nFound " + hits.length + " hits.\n");
         for (int i = 0; i < hits.length; ++i) {
             int luceneDocID = hits[i].doc;
             Document d = searcher.doc(luceneDocID);
             String docID = d.get("path").toString();
-            docID = docID.substring(0, docID.lastIndexOf('.'));
+            docID = docID.substring(docID.lastIndexOf('\\') + 1);
+            docID = docID.substring(0, docID.lastIndexOf("."));
             SearchedDocument s = new SearchedDocument(docID);
             s.updateScore(hits[i].score);
-            System.out.printf("%-3d  %-85s       Rank: %-3d | Score: %1.7f \n", (i + 1), s.docID(), s.rank(), s.score());
+            s.updateRank(i+1);
+            System.out.printf(" %-10s  |  Rank: %-3d  |  Score: %1.7f \n", s.docID(), s.rank(), s.score());
             retrievedDocList.add(s);
         }
 
-        // sort and update ranks
-
-        // ---------------------------------
-        // Try and optimize this code later
-        // ---------------------------------
-
-
-
+        // hits are already sorted
         return retrievedDocList;
+    }
+
+    public static void  main(String args[]) throws IOException {
+
+        String query = "What articles exist which deal with TSS (Time Sharing System), an\n" +
+                "operating system for IBM computers?";
+        LuceneRetrievalModel test = new LuceneRetrievalModel();
+
+        test.loadIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\lucene-index");
+        test.search(query);
     }
 
 }
