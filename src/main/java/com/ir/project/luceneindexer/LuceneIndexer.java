@@ -28,7 +28,6 @@ public class LuceneIndexer {
     private static float fileCounter;
     private static int totalDocs;
 
-
     /**
      * Constructor
      *
@@ -47,10 +46,25 @@ public class LuceneIndexer {
 
     public static void main(String[] args) throws IOException {
 
+        //System.out.println(args.length);
+        String indexDirPath;
+
+        if(args.length ==1)
+        {
+            indexDirPath = args[0];
+        }
+
+        else
+        {
+            System.out.println("Enter path as argument!");
+        }
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Enter the FULL path where the index will be created: (e.g. /Usr/index or c:\\temp\\index)");
+        System.out.println("Enter the path to save the index (e.g. /Usr/index or c:\\temp\\index)");
+
         // "..\\..\\luceneIndex";
-        String indexDirPath = br.readLine();
+        // E:\1st - Career\NEU_start\@@Technical\2 - sem\IR\Karan_Tyagi_Project\lucene-index
+
+        indexDirPath = br.readLine();
         LuceneIndexer indexer = null;
 
         // ==========================================================================================================
@@ -79,7 +93,10 @@ public class LuceneIndexer {
 
 
         System.out.println("Enter the FULL path for raw docs (e.g. /Usr/index or c:\\temp\\index)");
+
         // "..\\..\\rawDocs"
+        // E:\1st - Career\NEU_start\@@Technical\2 - sem\IR\Karan_Tyagi_Project\resources\CACM
+
         String rawDocsPath  = br.readLine();
         final Path docDir = Paths.get(rawDocsPath);
         if (!Files.isReadable(docDir)) {
