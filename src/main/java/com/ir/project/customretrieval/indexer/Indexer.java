@@ -22,9 +22,9 @@ public class Indexer {
     private static final int MAX_THREADS = 100;
 
 
-    public static void main(String []args) {
-        String outFile = "/tmp/metadata.json";
-        DocMetadataAndIndex medatada =  generateIndex("/tmp/irproject/");
+    public static void main(String args[]) {
+        String outFile = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
+        DocMetadataAndIndex medatada =  generateIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp");
 
         try {
             Files.write(Paths.get(outFile), new ObjectMapper().writeValueAsString(medatada).getBytes());

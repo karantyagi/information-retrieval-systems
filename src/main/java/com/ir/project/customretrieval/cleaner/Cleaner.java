@@ -11,9 +11,10 @@ import java.util.concurrent.Future;
 public class Cleaner {
 
     public static final int MAX_THREADS = 100;
-    public static void main(String []args) {
-        String documentFolderPath = "/Users/local/Downloads/cacm";
-        String outputFolderPath = "/tmp/irproject";
+
+    public static void main(String args[]) {
+        String documentFolderPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\resources\\CACM";
+        String outputFolderPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp";
         List<String> cleanedFiles = cleanDocuments(documentFolderPath, outputFolderPath);
 
         System.out.println("Cleaned " + cleanedFiles.size() + " files.");
