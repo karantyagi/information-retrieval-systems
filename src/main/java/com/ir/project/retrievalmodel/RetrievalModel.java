@@ -8,6 +8,6 @@ public interface RetrievalModel {
     /**
      * @return List of retrieved documents after running Lucene retrieval model on a given query
      */
-    Set<SearchedDocument> search(String query) throws IOException;
+    Set<SearchedDocument> search(int qID, String query) throws IOException;
 
 }

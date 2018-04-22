@@ -7,7 +7,8 @@ import java.io.IOException;
 
 
 public class Metadata {
-	
+	private static String path="";
+
 	private Metadata() {
 	}
 	public static int fileCount=0;
@@ -17,7 +18,8 @@ public class Metadata {
 	 * @return average doc length
 	 * @throws IOException
 	 */
-	public static Double averageDocLen(String path) throws IOException{
+	public static double averageDocLen() throws IOException{
+	
 		 File directory = new File(path);
 		 File[] fList = directory.listFiles();
 		 double totalDocLen = 0.0d;
@@ -28,6 +30,21 @@ public class Metadata {
 			totalDocLen += br.toString().length();
 		 }
 		return totalDocLen/fileCount ;	
+	}
+	/**
+	 * 
+	 * @return total number of documents
+	 */
+	public static int totalDocs(){
+		 File directory = new File(path);
+		 File[] fList = directory.listFiles();
+		 for (File file : fList){
+			 if(!file.getName().endsWith(".txt")) continue;
+			 fileCount++;
+			 }
+		 return fileCount;
+		 
+		
 	}
 	
 	
