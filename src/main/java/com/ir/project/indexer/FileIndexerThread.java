@@ -43,6 +43,7 @@ public class FileIndexerThread implements Callable <Pair<String, Map<String, Int
                 }
             }
         }
+        sc.close();
         String docId = file.getName().split("\\.")[0];
         return new Pair<String, Map<String, Integer>>(docId,wordMap);
     }

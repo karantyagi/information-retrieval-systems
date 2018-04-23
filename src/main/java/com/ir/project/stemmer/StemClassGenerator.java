@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 public class StemClassGenerator {
-    
+
     private String corpusDocPath;
     private PorterStemmer porterStemmer;
 

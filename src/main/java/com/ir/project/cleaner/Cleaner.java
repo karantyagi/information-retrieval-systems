@@ -26,6 +26,7 @@ public class Cleaner {
             outputFolderPath = outputFolderPath.substring(0, outputFolderPath.length() - 1);
         }
 
+
         File outputFolder = new File(outputFolderPath);
 
         if (!outputFolder.isDirectory()) {
