@@ -1,13 +1,19 @@
+// =========================
+// ADD RELEVANCE INFORMATION
+// =========================
+
+// create getter - setters
+
 package com.ir.project.retrievalmodel.bm25retrieval;
 
-
-import java.util.Set;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.*;
 import java.io.File;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeSet;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ir.project.indexer.DocMetadataAndIndex;
@@ -15,132 +21,214 @@ import com.ir.project.indexer.Posting;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
 import com.ir.project.retrievalmodel.RetrievedDocument;
+import com.ir.project.utils.*;
+
 
 public class BM25 implements RetrievalModel {
-    public static double k1=1.2;
-    public static double b=0.75;
-    public static double K;
-    public static double k2 = 100;
-    public static Map<String, Integer> qF = new HashMap<>();
-    public static Map<String, Double> scoreMap = new HashMap<>();
-    public static Set<String> sortedScoreSet;
+    private double k1;
+    private double b;
+    private double k2;
+    private int totalDocs;
+    private double avgLength;
 
-    private static Map<String, List<Posting>> index;
-    private static Map<String, Integer> docLengths;
-    private static int totalDocs = 0;
-    private static double avgLength = 0.0d;
+    private Map<String, List<Posting>> invertedIndex;
+    private Map<String, Integer> docLengths;
+    private Map<String, Integer> relevance;
 
-    ///Method to find the avergae doc length
-    public static double avgDocLength() throws IOException {
+    public BM25(DocMetadataAndIndex metadataAndIndex,Map<String, Integer> relevance, double k1, double k2, double b)throws IOException {
+
+        this.invertedIndex = metadataAndIndex.getIndex();
+        this.relevance = relevance;
+        this.docLengths = metadataAndIndex.getDocumentLength();
+        //this.k1 = 1.2;
+        //this.b = 0.75;
+        //this.k2 = 100;
+        this.k1 = k1;
+        this.k2 = k2;
+        this.b = b;
+        avgLength = this.avgDocLength();
+        totalDocs = docLengths.size();
+    }
+
+    ///Method to find the average doc length
+    private double avgDocLength(){
         double totalLength = 0.0d;
-        for(String doc : docLengths.keySet()) {
-            totalLength += docLengths.get(doc);
+        for(String doc : this.docLengths.keySet()) {
+            totalLength += this.docLengths.get(doc);
         }
-        return totalLength/docLengths.size();
+        return totalLength/this.docLengths.size();
     }
 
-    public static void loadIndex(String indexPath){
+    public List<RetrievedDocument> search(String query) throws IOException {
+        List<RetrievedDocument> retrievedDocs = new ArrayList<>();
+        List<String> queryTerms;
+        queryTerms = Utilities.getQueryTerms(query);
+        //queryTerms .forEach(q->System.out.println("QUERY TERM: "+q));
 
-        // load previously created index
-
-        ObjectMapper om = new ObjectMapper();
-        try {
-            DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
-            System.out.println(metadataAndIndex.getIndex().get("Glossary"));
-            index = metadataAndIndex.getIndex();
-            docLengths = metadataAndIndex.getDocumentLength();
-            avgLength = avgDocLength();
-            totalDocs = docLengths.size();
-
-        } catch (IOException e) {
-            e.printStackTrace();
+        // Add all docs to retrievedDocsList
+        for (Map.Entry<String, Integer> doc : docLengths.entrySet()) {
+            retrievedDocs.add(new RetrievedDocument(doc.getKey()));
         }
+
+        // Calculate Query Likelihood probability(score) for all documents
+        // (one document at a time for a given query)
+
+        for(RetrievedDocument rd : retrievedDocs){
+            rd.setScore(calculateBM25Score(queryTerms,rd.getDocumentID()));
+        }
+
+        // sort the docs in decreasing order of score
+        Collections.sort(retrievedDocs, (RetrievedDocument a, RetrievedDocument b) -> Double.compare(b.getScore(), a.getScore()));
+        return retrievedDocs;
     }
 
-    public Set<RetrievedDocument> search(String query) throws IOException {
-        return null;
+    private double calculateBM25Score(List<String> queryTerms, String docID) throws IOException {
+
+        double bm25score = 0;
+        for(String term : queryTerms){
+            bm25score = bm25score + termScore(term,docID,getQueryTermFreq(term, queryTerms));
+        }
+        return bm25score;
     }
 
+    private double termScore(String term, String docID, double queryTermFreq) throws IOException {
+        // No relevance information
+        // get relevance information for a query from  index and metadata Relevance Judgement File
 
-    /**
-     *
-     *
-     * @throws IOException
-     */
+
+        // double totalRelevantDocs;
+        // double relevantDocsforQuery;
+
+        double r = 0;
+        double R = 0;
+
+        double k1 = 1.2;
+        double k2 = 100;
+        double b = 0.75;
+        double K = getNormalizationFactor(docID);
+
+        double f = getTermDocumentFrequency(term,docID); // term frequency of term in given doc
+        double qf = queryTermFreq;
+        //System.out.println("TF(fi)   : "+f);
+        //System.out.println("% of doc : "+ (f*100)/DocLength.getDocLength(rdoc));
+        //System.out.println("QTF(qfi): "+qf);
+
+        double ni = computeDocFreq(term);
+        double N = totalDocs;
+        //System.out.println("Doc Freq:" +ni);
+
+        double firstN = (r+0.5) / (R- r+0.5);
+        double firstD = (ni-r +0.5) / (N-ni-R+r+0.5);
+
+        double secondN = (k1 + 1.0)*f;
+        double secondD = K+f;
+
+        double thirdN = (k2+1)*qf;
+        double thirdD = k2+qf;
+
+        double score = (Math.log(firstN/firstD))*(secondN/secondD)*(thirdN/thirdD);
+
+        //System.out.println("first N : " + firstN);
+        //System.out.println("first D : " + firstD);
+        //System.out.println("secondN : " + secondN);
+        //System.out.println("secondD : " + secondD);
+        //System.out.println("thirdN  : " + thirdN);
+        //System.out.println("thirdD  : " + thirdD);
+        //System.out.println("Score   : " + score);
+        return score;
+    }
+
+    private double computeDocFreq(String term) {
+        List<Posting> postings = invertedIndex.get(term);
+        return postings.size();
+    }
+
     //Method to compute the Normalization factor K that normalizes the tf component by document length
     //K=k1((1−b)+b· dl )
-    public static Double getNormalizationFactor() throws IOException {
-        K = k1 * ((1 - b) + b *avgLength);
-        return K;
+    private double getNormalizationFactor(String docID) throws IOException {
+        return k1 * ((1 - b) + b * (docLengths.get(docID)/avgLength));
     }
 
-
-    //Method to find the IDF factor ,r and R are set to zero since there is no relevance information
-    public static double getIDF(int ni) {
-        return Math.log((((1 + (totalDocs - ni + 0.5) / (ni + 0.5)))));
-    }
-    /**
-     *
-     * @param query
-     * @throws IOException
-     *///Method to find the BM25 score
-    public static Map<String, Double> findScore(String query,Map<String, List<Posting>> index) throws IOException {
-        for(String q : query.split(" ")) {
-            qF.put(q, qF.getOrDefault(q, 0) + 1);
-        }
-        String[] queries = query.split(" ");
-        for(String q : queries) {
-            int queryFrequency = qF.get(q);
-            if(index.containsKey(q)) {
-                List<Posting> postings = index.get(q);
-                for(Posting p : postings) {
-                    String title = p.getDocumentId();
-                    Double tf = (double)p.getFrequency();
-
-                    double weightedScore=
-                            getIDF(postings.size()) *((k1 + 1) * tf / (K + tf))
-                                    *((k2+1d)*queryFrequency/(k2+queryFrequency));
-                    scoreMap.put(title, scoreMap.getOrDefault(title, 0.0d) + weightedScore);
+    private double getTermDocumentFrequency(String term, String docID) {
+        if(invertedIndex.get(term)!=null){
+            List<Posting> indexList = invertedIndex.get(term);
+            double termFrequency = 0;
+            for (Posting p  : indexList) {
+                if(p.getDocumentId().equals(docID)){
+                    return p.getFrequency();
                 }
+            }
+            return termFrequency;
+        }
+        else{
+            System.out.println("TERM not in inverted index - pre processing mis-match : "+term);
+            return 0;
+        }
 
+    }
+
+    private static int getQueryTermFreq(String queryTerm, List<String> queryTerms) {
+        int freq = 0;
+        for(String s: queryTerms){
+            if(s.equals(queryTerm)){
+                freq+=1;
             }
         }
-        return scoreMap;
+        //System.out.println("QTF(qfi)  : "+freq);
+        return freq;
     }
 
-    /**
-     *
-     * @param qID
-     * @param query
-     * @throws IOException
-     */
-    //Method to sort the documents according to score and find the top 100 results and write them to file
-    public static Set<RetrievedDocument> topdocs(int qID,String query,Map<String, List<Posting>> index) throws IOException{
-        findScore(query,index);
-        Set<RetrievedDocument> res = new TreeSet<>((a,b) ->{
-            if(a.getScore() <= b.getScore()) return 1;
-            else return -1;
-        });
-        int rank = 1;
-        for(String s : scoreMap.keySet()) {
-            RetrievedDocument doc = new RetrievedDocument(s);
-            doc.setScore(scoreMap.get(s));
-            res.add(doc);
-        }
-        for(RetrievedDocument s : res) {
-            s.setRank(rank++);
-        }
-        return res;
 
-    }
 
     //Main method to run BM25
 
     public static void main(String[] args) throws IOException {
 
-        BM25 b=new BM25();
-        b.loadIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\lucene-index");
-        //System.out.println(b.search(1,  "Algorithms or statistical packages for ANOVA, regression using least squares or generalized linear models. System design, capabilities,statistical formula are of interest.  Student's t test, Wilcoxon and sign tests, multivariate and univariate components can be included"));
+        // ====================
+        // Test query Search
+        // ====================
+
+        String query = "What articles exist which deal with TSS (Time Sharing System), an\n" +
+                "operating system for IBM computers?";
+        String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
+        double k1 = 1.2;
+        double b = 0.75;
+        double k2 = 100;
+        // load previously created inverted index and metadata
+
+        ObjectMapper om = new ObjectMapper();
+        try {
+            DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
+
+            // Relevance Judgements Information
+
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+            System.out.println("Enter the FULL path for Relevance Judgements file : (e.g. /Usr/cacm.rel.txt or c:\\temp\\cacm.rel.txt)");
+            //String filePath = br.readLine();
+            String filePath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\resources\\cacm.rel.txt";
+            System.out.println(filePath);
+
+            final Path relevanceFilePath = Paths.get(filePath);
+            if (!Files.isReadable(relevanceFilePath)) {
+                System.out.println("Document directory '" + relevanceFilePath.toAbsolutePath() + "' does not exist or is not readable, please check the path");
+                System.exit(1);
+            }
+            if (!new File(filePath).isFile() && (new File(filePath).isDirectory()) ){
+                System.out.println("Relevance file not found at the specified path.");
+                System.exit(1);
+            }
+
+            Map<String, Integer> relevance = new HashMap<>();
+
+            BM25 test = new BM25(metadataAndIndex,relevance, k1,k2,b);
+            Utilities.displayRetrieverdDoc(test.search(query));
+
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.exit(1);
+
+        }
     }
 
 

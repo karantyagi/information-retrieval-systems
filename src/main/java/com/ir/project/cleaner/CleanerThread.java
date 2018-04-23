@@ -1,5 +1,6 @@
 package com.ir.project.cleaner;
 
+import com.ir.project.utils.Utilities;
 import com.sun.istack.internal.NotNull;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -19,7 +20,6 @@ public class CleanerThread implements Callable<String> {
 
 
     private CleanerThread() {
-
     }
 
     public CleanerThread(@NotNull String inputFilePath, @NotNull String outPutFilePath) {
@@ -41,15 +41,14 @@ public class CleanerThread implements Callable<String> {
                 if (isIgnorableLine(line))
                     continue;
 
+                line = Utilities.processedText(line);
                 cleanedText.append(line).append("\n");
             }
         }
-
-
         writeToFile(cleanedText.toString());
-
         return outPutFilePath;
     }
+
 
     // if line contains three columns and all of them are digits.
     private boolean isIgnorableLine(String line) {
@@ -62,10 +61,8 @@ public class CleanerThread implements Callable<String> {
         for (String token : lineTokens) {
             allNumbers &= token.matches("-?\\d+(\\.\\d+)?");
         }
-
         return allNumbers;
     }
-
 
     private void writeToFile(String content) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter(this.outPutFilePath));
