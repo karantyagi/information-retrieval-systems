@@ -29,17 +29,11 @@ public class RetrievedDocument {
         this.score = score;
     }
 
-    /* (non-Javadoc)
-     * @see java.lang.Object#toString()
-     */
     @Override
     public String toString() {
-
-        String result = "DocID: "+ documentID+" Score: "+String.valueOf(score);
-        return result.trim();
+        return "RetrievedDocument{" +
+                "documentID='" + documentID + '\'' +
+                ", score=" + score+
+                '}';
     }
-
-
-
-
 }

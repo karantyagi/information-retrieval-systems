@@ -38,7 +38,7 @@ public class Indexer {
             System.out.println("Index created!\n" + outFile );
 
             // writing index to file
-            // writeIndex(resultDir,metadata.getIndex());
+            writeIndex(resultDir,metadata.getIndex());
 
         } catch (JsonProcessingException e) {
             e.printStackTrace();

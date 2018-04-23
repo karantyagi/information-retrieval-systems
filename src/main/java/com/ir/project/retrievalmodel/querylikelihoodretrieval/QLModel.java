@@ -5,8 +5,6 @@ import com.ir.project.indexer.DocMetadataAndIndex;
 import com.ir.project.indexer.Posting;
 import com.ir.project.retrievalmodel.RetrievalModel;
 import com.ir.project.retrievalmodel.RetrievedDocument;
-
-import javax.management.relation.Relation;
 import java.io.*;
 import java.util.*;
 
@@ -17,48 +15,68 @@ import static com.ir.project.utils.Utilities.*;
  **/
 public class QLModel implements RetrievalModel {
 
-    private static Map<String, List<Posting>> invertedIndex;
-    private static Map<String, Integer> docLengths;
-    private static int corpusSize;
+    private Map<String, List<Posting>> invertedIndex;
+    private Map<String, Integer> docLengths;
+    private int corpusSize; // corpus size is total number of words in collections
+    private double smoothingFactor;
 
-    // =======================================================================
-    // This function needs to run once and is common to the 3 retrieval model
-    // =======================================================================
+    public Map<String, List<Posting>> getInvertedIndex() {
+        return invertedIndex;
+    }
 
-    public static void loadIndex(String indexPath) {
+    public int getCorpusSize() {
+        return corpusSize;
+    }
 
-        // load previously created inverted index and metadata
+    public void setInvertedIndex(Map<String, List<Posting>> invertedIndex) {
+        this.invertedIndex = invertedIndex;
+    }
 
-        ObjectMapper om = new ObjectMapper();
-        try {
-            DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
+    public Map<String, Integer> getDocLengths() {
+        return docLengths;
+    }
+
+    public void setDocLengths(Map<String, Integer> docLengths) {
+        this.docLengths = docLengths;
+    }
+
+    public void setCorpusSize(int corpusSize) {
+        this.corpusSize = corpusSize;
+    }
+
+    public double getSmoothingFactor() {
+        return smoothingFactor;
+    }
+
+    public void setSmoothingFactor(double smoothingFactor) {
+        this.smoothingFactor = smoothingFactor;
+    }
+
+    public QLModel(String indexPath, DocMetadataAndIndex metadataAndIndex, double smoothingFactor) {
+
             invertedIndex = metadataAndIndex.getIndex();
             docLengths = metadataAndIndex.getDocumentLength();
+            // smoothingFactor = 0.35;
+            this.smoothingFactor = smoothingFactor;
             System.out.println("\nIndex loaded to memory.\n");
 
             for (Map.Entry<String, Integer> doc : docLengths.entrySet()) {
                 corpusSize += doc.getValue();
             }
-
             System.out.println("\nCorpus size (total no. of word occurrences in corpus) : "+corpusSize+"\n");
             // System.out.println(metadataAndIndex.getIndex().get("Glossary"));
-
-        } catch (IOException e) {
-            e.printStackTrace();
-            System.exit(1);
-        }
     }
 
     /**
      * @param query
-     * @return List of retrieved documents after running Lucene retrieval model on a given query
+     * @return Sorted List of retrieved documents after running the retrieval model for a given query
      */
     public List<RetrievedDocument> search(String query) throws IOException {
 
         List<RetrievedDocument> retrievedDocs = new ArrayList<>();
         List<String> queryTerms;
         queryTerms = getQueryTerms(query);
-        queryTerms .forEach(q->System.out.println("QUERY TERM: "+q));
+        //queryTerms .forEach(q->System.out.println("QUERY TERM: "+q));
 
         // Add all docs to retrievedDocsList
         for (Map.Entry<String, Integer> doc : docLengths.entrySet()) {
@@ -68,18 +86,12 @@ public class QLModel implements RetrievalModel {
         // Calculate Query Likelihood probability(score) for all documents
         // (one document at a time for a given query)
 
-        for(RetrievedDocument s: retrievedDocs){
-            s.setScore(calculateQueryLikelihoodProbability(queryTerms,s.getDocumentID()));
-            //System.out.println(s.getDocumentID()+"  Score: "+s.getScore());
+        for(RetrievedDocument rd : retrievedDocs){
+            rd.setScore(calculateQueryLikelihoodProbability(queryTerms,rd.getDocumentID()));
             }
-
-        //displayRetrieverdDoc(retrievedDocs);
 
         // sort the docs in decreasing order of score
         Collections.sort(retrievedDocs, (RetrievedDocument a, RetrievedDocument b) -> Double.compare(b.getScore(), a.getScore()));
-
-
-        // return all (not just top 100)
         return retrievedDocs;
     }
 
@@ -105,7 +117,7 @@ public class QLModel implements RetrievalModel {
         // Jelinek-Mercer Smoothing
         // Smoothing factor = 0.35
 
-        double smoothingFactor = 0.35;
+
         double first = (1-smoothingFactor)*documentTermFrequency/documentLength;
         //System.out.print("First : "+first);
         double second = (smoothingFactor*(collectionTermFrequency/getCorpusSize()));
@@ -148,6 +160,20 @@ public class QLModel implements RetrievalModel {
             System.out.println("TERM not in corpus : "+term);
             return 0;
         }
+    }
+
+    public void displayIndex(){
+        this.invertedIndex.forEach((k,v)->System.out.println("TERM: "+k+"\n"+v.toString()));
+    }
+
+    public void displayDocLengths(){
+        System.out.println("No. of Docs: " + this.docLengths.size()+"\n");
+        this.docLengths.forEach((k,v)->System.out.println(k+"  |  "+v));
+    }
+
+    public void displayRetrieverdDoc(List<RetrievedDocument> retreivedDocs){
+        System.out.println("\nNo. of Docs scored: "+ retreivedDocs.size()+"\n");
+        retreivedDocs.forEach(doc->System.out.println(doc.toString()));
     }
 
     // =========================================
@@ -194,30 +220,21 @@ public class QLModel implements RetrievalModel {
 
         String query = "What articles exist which deal with TSS (Time Sharing System), an\n" +
                 "operating system for IBM computers?";
-        QLModel test = new QLModel();
         String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
-        test.loadIndex(indexPath);
-        List<RetrievedDocument> retrievedDocs = test.search(query);
-        displayRetrieverdDoc(retrievedDocs);
+        double smoothingFactor = 0.35;
+        // load previously created inverted index and metadata
 
+        ObjectMapper om = new ObjectMapper();
+        try {
+            DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
+            QLModel test = new QLModel(query,metadataAndIndex,smoothingFactor);
+            test.displayRetrieverdDoc(test.search(query));
+
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.exit(1);
+
+        }
     }
 
-    public static void displayIndex(){
-        invertedIndex.forEach((k,v)->System.out.println("TERM: "+k+"\n"+v.toString()));
-    }
-
-    public static void displayDocLengths(){
-        System.out.println("No. of Docs: "+docLengths.size()+"\n");
-        docLengths.forEach((k,v)->System.out.println(k+"  |  "+v));
-    }
-
-    public static void displayRetrieverdDoc(List<RetrievedDocument> retreivedDocs){
-        System.out.println("\nNo. of Docs scored: "+ retreivedDocs.size()+"\n");
-        retreivedDocs.forEach(doc->System.out.println(doc.toString()));
-    }
-
-    // corpus size is total number of words in collections
-    public int getCorpusSize() {
-        return corpusSize;
-    }
 }
