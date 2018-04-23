@@ -18,6 +18,7 @@ public class QLModel implements RetrievalModel {
     private static Map<String, List<Posting>> invertedIndex;
     //private static Map<String, List<Posting>> invertedListsForQuery;
     private static Map<String, Integer> docLengths;
+    private static int corpusSize;
 
     // =======================================================================
     // This function needs to run once and is common to the 3 retrieval model
@@ -33,6 +34,12 @@ public class QLModel implements RetrievalModel {
             invertedIndex = metadataAndIndex.getIndex();
             docLengths = metadataAndIndex.getDocumentLength();
             System.out.println("\nIndex loaded to memory.\n");
+
+            for (Map.Entry<String, Integer> doc : docLengths.entrySet()) {
+                corpusSize += doc.getValue();
+            }
+
+            System.out.println("\nCorpus size (total no. of word occurrences in corpus) : "+corpusSize+"\n");
             // System.out.println(metadataAndIndex.getIndex().get("Glossary"));
 
         } catch (IOException e) {
@@ -86,16 +93,38 @@ public class QLModel implements RetrievalModel {
     private double termProbability(String term, String docID) {
 
         double languageModelProbability;
-        int collectionTermFrequency;
-        int documentTermFrequency;
+        int collectionTermFrequency = getTermCorpusFrequency(term);
+        int documentTermFrequency = getTermDocumentFrequency(term,docID);
         int documentLength = docLengths.get(docID);
 
         // Jelinek-Mercer Smoothing
         // Smoothing factor = 0.35
 
         double smoothingFactor = 0.35;
-        languageModelProbability = (1-smoothingFactor);
+        languageModelProbability = ((1-smoothingFactor)*(documentTermFrequency/documentLength) +
+                (smoothingFactor*(collectionTermFrequency/getCorpusSize())));
         return languageModelProbability;
+    }
+
+    private int getTermDocumentFrequency(String term, String docID) {
+        List<Posting> indexList = invertedIndex.get(term);
+        int termFrequency = 0;
+        for (Posting p  : indexList) {
+            if(p.getDocumentId().equals(docID)){
+                return p.getFrequency();
+            }
+        }
+        return termFrequency;
+    }
+
+    private int getTermCorpusFrequency(String term) {
+
+        List<Posting> indexList = invertedIndex.get(term);
+        int corpusFrequency = 0;
+        for (Posting p  : indexList) {
+            corpusFrequency+= p.getFrequency();
+        }
+        return corpusFrequency;
     }
 
 
@@ -187,5 +216,8 @@ public class QLModel implements RetrievalModel {
         docLengths.forEach((k,v)->System.out.println(k+"  |  "+v));
     }
 
-
+    // corpus size is total number of words in collections
+    public int getCorpusSize() {
+        return corpusSize;
+    }
 }
