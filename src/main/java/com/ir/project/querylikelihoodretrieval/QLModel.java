@@ -22,21 +22,26 @@ public class QLModel {
 
     public static void loadIndex(String indexPath){
 
-        // load previously created index
+        // load previously created inverted index and metadata
 
         ObjectMapper om = new ObjectMapper();
         try {
             DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
             System.out.println(metadataAndIndex.getIndex().get("Glossary"));
-            invertedIndex = null;
-            docLengths = null;
-            
+            invertedIndex = metadataAndIndex.getIndex();
+            docLengths = metadataAndIndex.getDocumentLength();
+
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-
     }
+
+
+
+
+
+
+
 
     public static void main(String[] args) {
         String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
