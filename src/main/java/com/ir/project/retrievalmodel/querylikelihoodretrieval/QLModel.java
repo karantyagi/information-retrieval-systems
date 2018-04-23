@@ -72,11 +72,11 @@ public class QLModel implements RetrievalModel {
      * @param query
      * @return Sorted List of retrieved documents after running the retrieval model for a given query
      */
-    public List<RetrievedDocument> search(String query) throws IOException {
+    public List<RetrievedDocument> search(SearchQuery query) throws IOException {
 
         List<RetrievedDocument> retrievedDocs = new ArrayList<>();
         List<String> queryTerms;
-        queryTerms = getQueryTerms(query);
+        queryTerms = getQueryTerms(query.getQuery());
         //queryTerms .forEach(q->System.out.println("QUERY TERM: "+q));
 
         // Add all docs to retrievedDocsList
@@ -214,8 +214,10 @@ public class QLModel implements RetrievalModel {
         // Test query Search
         // ====================
 
-        String query = "What articles exist which deal with TSS (Time Sharing System), an\n" +
+        String queryText = "What articles exist which deal with TSS (Time Sharing System), an\n" +
                 "operating system for IBM computers?";
+        int queryID =1;
+        SearchQuery testQuery = new SearchQuery(queryID,queryText);
         String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
         double smoothingFactor = 0.35;
         // load previously created inverted index and metadata
@@ -224,7 +226,7 @@ public class QLModel implements RetrievalModel {
         try {
             DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
             QLModel test = new QLModel(metadataAndIndex,smoothingFactor);
-            Utilities.displayRetrieverdDoc(test.search(query));
+            Utilities.displayRetrieverdDoc(test.search(testQuery));
 
         } catch (IOException e) {
             e.printStackTrace();
