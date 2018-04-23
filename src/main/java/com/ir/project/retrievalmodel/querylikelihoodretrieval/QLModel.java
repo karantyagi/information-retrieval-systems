@@ -5,12 +5,13 @@ import com.ir.project.indexer.DocMetadataAndIndex;
 import com.ir.project.indexer.Posting;
 import com.ir.project.retrievalmodel.RetrievalModel;
 import com.ir.project.retrievalmodel.RetrievedDocument;
+import com.ir.project.utils.*;
 import java.io.*;
 import java.util.*;
 
 import static com.ir.project.utils.Utilities.*;
 /**
- * Implements BM25 retrieval model
+ * Implements Smoothed Query Likelihood retrieval model
  * Produces a ranked list of documents(using BM25 model) for a given query or a list of queries
  **/
 public class QLModel implements RetrievalModel {
@@ -52,7 +53,7 @@ public class QLModel implements RetrievalModel {
         this.smoothingFactor = smoothingFactor;
     }
 
-    public QLModel(String indexPath, DocMetadataAndIndex metadataAndIndex, double smoothingFactor) {
+    public QLModel(DocMetadataAndIndex metadataAndIndex, double smoothingFactor) {
 
             invertedIndex = metadataAndIndex.getIndex();
             docLengths = metadataAndIndex.getDocumentLength();
@@ -171,11 +172,6 @@ public class QLModel implements RetrievalModel {
         this.docLengths.forEach((k,v)->System.out.println(k+"  |  "+v));
     }
 
-    public void displayRetrieverdDoc(List<RetrievedDocument> retreivedDocs){
-        System.out.println("\nNo. of Docs scored: "+ retreivedDocs.size()+"\n");
-        retreivedDocs.forEach(doc->System.out.println(doc.toString()));
-    }
-
     // =========================================
     //  Main function to TEST
     // =========================================
@@ -227,8 +223,8 @@ public class QLModel implements RetrievalModel {
         ObjectMapper om = new ObjectMapper();
         try {
             DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
-            QLModel test = new QLModel(query,metadataAndIndex,smoothingFactor);
-            test.displayRetrieverdDoc(test.search(query));
+            QLModel test = new QLModel(metadataAndIndex,smoothingFactor);
+            Utilities.displayRetrieverdDoc(test.search(query));
 
         } catch (IOException e) {
             e.printStackTrace();

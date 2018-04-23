@@ -1,5 +1,7 @@
 package com.ir.project.utils;
 
+import com.ir.project.retrievalmodel.RetrievedDocument;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -58,5 +60,10 @@ public class Utilities {
 
         }
         return queryTerms;
+    }
+
+    public static void displayRetrieverdDoc(List<RetrievedDocument> retreivedDocs){
+        System.out.println("\nNo. of Docs scored: "+ retreivedDocs.size()+"\n");
+        retreivedDocs.forEach(doc->System.out.println(doc.toString()));
     }
 }
