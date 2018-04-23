@@ -2,6 +2,8 @@ package com.ir.project.customretrieval.indexer;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.ir.utils.Constants;
+
 import javafx.util.Pair;
 
 import java.io.File;
@@ -23,8 +25,8 @@ public class Indexer {
 
 
     public static void main(String args[]) {
-        String outFile = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
-        DocMetadataAndIndex medatada =  generateIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp");
+        String outFile = Constants.INDEX_OUTPUT_FOLDER;
+        DocMetadataAndIndex medatada =  generateIndex(Constants.CLEANED_OUTPUT_FOLDER_PATH);
 
         try {
             Files.write(Paths.get(outFile), new ObjectMapper().writeValueAsString(medatada).getBytes());
