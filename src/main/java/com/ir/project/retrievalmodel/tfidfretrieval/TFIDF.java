@@ -43,10 +43,10 @@ public class TFIDF implements RetrievalModel {
         return totalLength/this.docLengths.size();
     }
 
-    public List<RetrievedDocument> search(String query) throws IOException {
+    public List<RetrievedDocument> search(SearchQuery query) throws IOException {
         List<RetrievedDocument> retrievedDocs = new ArrayList<>();
         List<String> queryTerms;
-        queryTerms = Utilities.getQueryTerms(query);
+        queryTerms = Utilities.getQueryTerms(query.getQuery());
         //queryTerms .forEach(q->System.out.println("QUERY TERM: "+q));
 
         // Add all docs to retrievedDocsList
@@ -137,8 +137,11 @@ public class TFIDF implements RetrievalModel {
         // Test query Search
         // ====================
 
-        String query = "What articles exist which deal with TSS (Time Sharing System), an\n" +
+        String queryText = "What articles exist which deal with TSS (Time Sharing System), an\n" +
                 "operating system for IBM computers?";
+        int queryID =1;
+        SearchQuery testQuery = new SearchQuery(queryID,queryText);
+
         String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
 
         // load previously created inverted index and metadata
@@ -146,7 +149,7 @@ public class TFIDF implements RetrievalModel {
         try {
             DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
             TFIDF test = new TFIDF(metadataAndIndex);
-            Utilities.displayRetrieverdDoc(test.search(query));
+            Utilities.displayRetrieverdDoc(test.search(testQuery));
 
         } catch (IOException e) {
             e.printStackTrace();
