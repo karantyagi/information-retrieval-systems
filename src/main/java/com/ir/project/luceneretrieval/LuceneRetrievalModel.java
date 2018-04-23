@@ -1,7 +1,8 @@
 package com.ir.project.luceneretrieval;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
-import com.ir.project.retrievalmodel.SearchedDocument;
+import com.ir.project.retrievalmodel.RetrievedDocument;
+import com.ir.project.retrievalmodel.RetrievedDocument;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;
@@ -44,9 +45,9 @@ public class LuceneRetrievalModel implements RetrievalModel {
      * @param query
      * @return List of retrieved documents after running Lucene retrieval model on a given query
      */
-    public Set<SearchedDocument> search(String query) throws IOException {
+    public Set<RetrievedDocument> search(String query) throws IOException {
 
-        Set<SearchedDocument> retrievedDocs = new HashSet<>();
+        Set<RetrievedDocument> retrievedDocs = new HashSet<>();
         TopScoreDocCollector collector = TopScoreDocCollector.create(100, true);
         Query q;
         ScoreDoc[] hits;
@@ -65,9 +66,9 @@ public class LuceneRetrievalModel implements RetrievalModel {
     }
 
 
-    private static Set<SearchedDocument> getSearchedDocsList(ScoreDoc[] hits) throws IOException {
+    private static Set<RetrievedDocument> getSearchedDocsList(ScoreDoc[] hits) throws IOException {
 
-        Set<SearchedDocument> retrievedDocList = new HashSet<>();
+        Set<RetrievedDocument> retrievedDocList = new HashSet<>();
         System.out.println("\nFound " + hits.length + " hits.\n");
         for (int i = 0; i < hits.length; ++i) {
             int luceneDocID = hits[i].doc;
@@ -75,10 +76,10 @@ public class LuceneRetrievalModel implements RetrievalModel {
             String docID = d.get("path").toString();
             docID = docID.substring(docID.lastIndexOf('\\') + 1);
             docID = docID.substring(0, docID.lastIndexOf("."));
-            SearchedDocument s = new SearchedDocument(docID);
-            s.updateScore(hits[i].score);
-            s.updateRank(i+1);
-            System.out.printf(" %-10s  |  Rank: %-3d  |  Score: %1.7f \n", s.docID(), s.rank(), s.score());
+            RetrievedDocument s = new RetrievedDocument(docID);
+            s.setScore(hits[i].score);
+            s.setRank(i+1);
+            System.out.printf(" %-10s  |  Rank: %-3d  |  Score: %1.7f \n", s.getDocumentID(), s.getRank(), s.getScore());
             retrievedDocList.add(s);
         }
 
