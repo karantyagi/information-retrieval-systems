@@ -1,5 +1,6 @@
 package com.ir.project.cleaner;
 
+import com.ir.project.utils.Utilities;
 import com.sun.istack.internal.NotNull;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -12,17 +13,13 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.concurrent.Callable;
 
-import static com.ir.project.utils.Utilities.processedText;
-
 public class CleanerThread implements Callable<String> {
 
     private String inputFilePath;
     private String outPutFilePath;
 
 
-    private CleanerThread() {
-
-    }
+    private CleanerThread() {}
 
     public CleanerThread(@NotNull String inputFilePath, @NotNull String outPutFilePath) {
         this.inputFilePath = inputFilePath;
@@ -43,18 +40,11 @@ public class CleanerThread implements Callable<String> {
                 if (isIgnorableLine(line))
                     continue;
 
-
-                // ===== APPLY SAME PROCESSING TO QUERY too =======
-
-                line = processedText(line);
-
+                line = Utilities.processedText(line);
                 cleanedText.append(line).append("\n");
             }
         }
-
-
         writeToFile(cleanedText.toString());
-
         return outPutFilePath;
     }
 
@@ -70,10 +60,8 @@ public class CleanerThread implements Callable<String> {
         for (String token : lineTokens) {
             allNumbers &= token.matches("-?\\d+(\\.\\d+)?");
         }
-
         return allNumbers;
     }
-
 
     private void writeToFile(String content) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter(this.outPutFilePath));
