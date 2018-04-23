@@ -1,4 +1,4 @@
-package com.ir.project.customretrieval.indexer;
+package com.ir.project.indexer;
 
 import javafx.util.Pair;
 

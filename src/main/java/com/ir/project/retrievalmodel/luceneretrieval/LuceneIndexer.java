@@ -1,4 +1,4 @@
-package com.ir.project.luceneretrieval;
+package com.ir.project.retrievalmodel.luceneretrieval;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;

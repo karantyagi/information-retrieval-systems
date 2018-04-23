@@ -1,15 +1,12 @@
-package com.ir.project.querylikelihoodretrieval;
+package com.ir.project.retrievalmodel.querylikelihoodretrieval;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ir.project.customretrieval.indexer.DocMetadataAndIndex;
-import com.ir.project.customretrieval.indexer.Posting;
+import com.ir.project.indexer.DocMetadataAndIndex;
+import com.ir.project.indexer.Posting;
 import com.ir.project.retrievalmodel.RetrievalModel;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.*;
 
 /**

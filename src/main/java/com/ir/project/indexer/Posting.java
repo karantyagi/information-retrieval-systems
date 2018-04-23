@@ -1,4 +1,4 @@
-package com.ir.project.customretrieval.indexer;
+package com.ir.project.indexer;
 
 public class Posting {
     private String documentId;

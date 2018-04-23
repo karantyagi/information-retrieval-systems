@@ -6,7 +6,7 @@ import java.util.Set;
 public interface RetrievalModel {
 
     /**
-     * @return List of retrieved documents after running Lucene retrieval model on a given query
+     * @return List of retrieved documents for a  given query
      */
     Set<RetrievedDocument> search(String query) throws IOException;
 

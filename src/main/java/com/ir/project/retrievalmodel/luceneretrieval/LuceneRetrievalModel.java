@@ -1,7 +1,6 @@
-package com.ir.project.luceneretrieval;
+package com.ir.project.retrievalmodel.luceneretrieval;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
-import com.ir.project.retrievalmodel.RetrievedDocument;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 
 import org.apache.lucene.analysis.Analyzer;
@@ -16,9 +15,7 @@ import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Set;

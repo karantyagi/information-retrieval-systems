@@ -1,4 +1,4 @@
-package com.ir.project.customretrieval.cleaner;
+package com.ir.project.cleaner;
 
 import java.io.File;
 import java.util.ArrayList;

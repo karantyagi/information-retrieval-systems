@@ -1,4 +1,4 @@
-package com.ir.project.customretrieval.cleaner;
+package com.ir.project.cleaner;
 
 import com.sun.istack.internal.NotNull;
 import org.jsoup.Jsoup;
