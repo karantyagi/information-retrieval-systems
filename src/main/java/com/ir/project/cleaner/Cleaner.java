@@ -13,15 +13,21 @@ public class Cleaner {
     public static final int MAX_THREADS = 100;
 
     public static void main(String args[]) {
-        String documentFolderPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\resources\\CACM";
-        String outputFolderPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp";
+        String documentFolderPath = "/Users/local/Downloads/cacm";
+        String outputFolderPath = "/tmp/irproject/";
         List<String> cleanedFiles = cleanDocuments(documentFolderPath, outputFolderPath);
 
         System.out.println("Cleaned " + cleanedFiles.size() + " files.");
     }
 
     public static List<String> cleanDocuments(String documentFolderPath, String outputFolderPath) {
+
+        if (outputFolderPath.lastIndexOf('/') == outputFolderPath.length() - 1) {
+            outputFolderPath = outputFolderPath.substring(0, outputFolderPath.length() - 1);
+        }
+
         File outputFolder = new File(outputFolderPath);
+
         if (!outputFolder.isDirectory()) {
             System.out.println("Error!! A file with output folder path name exists!");
             return new ArrayList<String>();

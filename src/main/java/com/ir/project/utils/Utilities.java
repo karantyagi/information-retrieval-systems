@@ -15,7 +15,8 @@ public class Utilities {
                 .replaceAll("[\\p{Punct}](?![0-9a-zA-Z])", "")
                 .replace("(", "")
                 .replace(")", "")
-                .replaceAll("/"," ");
+                .replaceAll("/"," ")
+                .replace("'s", "s");
     }
 
     public static String processedText(String line) {
