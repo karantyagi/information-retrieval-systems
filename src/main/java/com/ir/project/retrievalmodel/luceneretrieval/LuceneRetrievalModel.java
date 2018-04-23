@@ -17,7 +17,9 @@ import org.apache.lucene.util.Version;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 public class LuceneRetrievalModel implements RetrievalModel {
@@ -42,9 +44,9 @@ public class LuceneRetrievalModel implements RetrievalModel {
      * @param query
      * @return List of retrieved documents after running Lucene retrieval model on a given query
      */
-    public Set<RetrievedDocument> search(String query) throws IOException {
+    public List<RetrievedDocument> search(String query) throws IOException {
 
-        Set<RetrievedDocument> retrievedDocs = new HashSet<>();
+        List<RetrievedDocument> retrievedDocs = new ArrayList<>();
         TopScoreDocCollector collector = TopScoreDocCollector.create(100, true);
         Query q;
         ScoreDoc[] hits;
@@ -63,9 +65,9 @@ public class LuceneRetrievalModel implements RetrievalModel {
     }
 
 
-    private static Set<RetrievedDocument> getSearchedDocsList(ScoreDoc[] hits) throws IOException {
+    private static List<RetrievedDocument> getSearchedDocsList(ScoreDoc[] hits) throws IOException {
 
-        Set<RetrievedDocument> retrievedDocList = new HashSet<>();
+        List<RetrievedDocument> retrievedDocList = new ArrayList<>();
         System.out.println("\nFound " + hits.length + " hits.\n");
         for (int i = 0; i < hits.length; ++i) {
             int luceneDocID = hits[i].doc;
@@ -75,8 +77,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
             docID = docID.substring(0, docID.lastIndexOf("."));
             RetrievedDocument s = new RetrievedDocument(docID);
             s.setScore(hits[i].score);
-            s.setRank(i+1);
-            System.out.printf(" %-10s  |  Rank: %-3d  |  Score: %1.7f \n", s.getDocumentID(), s.getRank(), s.getScore());
+            System.out.printf(" %-10s  |  Rank: %-3d  |  Score: %1.7f \n", s.getDocumentID(), i+1, s.getScore());
             retrievedDocList.add(s);
         }
 

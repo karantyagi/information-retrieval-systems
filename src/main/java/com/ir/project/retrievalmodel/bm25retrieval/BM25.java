@@ -57,7 +57,7 @@ public class BM25 implements RetrievalModel {
         }
     }
 
-    public Set<RetrievedDocument> search(String query) throws IOException {
+    public List<RetrievedDocument> search(String query) throws IOException {
         return null;
     }
 
@@ -121,14 +121,11 @@ public class BM25 implements RetrievalModel {
             if(a.getScore() <= b.getScore()) return 1;
             else return -1;
         });
-        int rank = 1;
+
         for(String s : scoreMap.keySet()) {
             RetrievedDocument doc = new RetrievedDocument(s);
             doc.setScore(scoreMap.get(s));
             res.add(doc);
-        }
-        for(RetrievedDocument s : res) {
-            s.setRank(rank++);
         }
         return res;
 

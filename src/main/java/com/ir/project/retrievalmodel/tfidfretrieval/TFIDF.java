@@ -57,7 +57,7 @@ public class TFIDF  implements RetrievalModel {
      * @param query
      * @return List of retrieved documents for a  given query
      */
-    public Set<RetrievedDocument> search(String query) throws IOException {
+    public List<RetrievedDocument> search(String query) throws IOException {
         return null;
     }
 
@@ -105,15 +105,12 @@ public class TFIDF  implements RetrievalModel {
             if(a.getScore() <= b.getScore()) return 1;
             else return -1;
         });
-        int rank = 1;
         for(String s : scoreMap.keySet()) {
             RetrievedDocument doc = new RetrievedDocument(s);
             doc.setScore(scoreMap.get(s));
             res.add(doc);
         }
-        for(RetrievedDocument s : res) {
-            s.setRank(rank++);
-        }
+
         return res;
     }
 

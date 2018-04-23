@@ -12,6 +12,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.concurrent.Callable;
 
+import static com.ir.project.utils.Utilities.processedText;
+
 public class CleanerThread implements Callable<String> {
 
     private String inputFilePath;
@@ -41,6 +43,11 @@ public class CleanerThread implements Callable<String> {
                 if (isIgnorableLine(line))
                     continue;
 
+
+                // ===== APPLY SAME PROCESSING TO QUERY too =======
+
+                line = processedText(line);
+
                 cleanedText.append(line).append("\n");
             }
         }
@@ -50,6 +57,7 @@ public class CleanerThread implements Callable<String> {
 
         return outPutFilePath;
     }
+
 
     // if line contains three columns and all of them are digits.
     private boolean isIgnorableLine(String line) {

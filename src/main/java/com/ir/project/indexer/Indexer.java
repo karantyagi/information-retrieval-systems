@@ -4,14 +4,13 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import javafx.util.Pair;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -22,19 +21,40 @@ public class Indexer {
     private static final int MAX_THREADS = 100;
 
 
-    public static void main(String args[]) {
-        String outFile = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
-        DocMetadataAndIndex medatada =  generateIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp");
+    public static void main(String args[]) throws IOException {
+        String resultDir = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index";
+        String outFile = resultDir+"\\metadata.json";
+        // Create directory if not already present
+        if (!new File(resultDir).isDirectory())
+        {
+            File dir = new File(resultDir);
+            dir.mkdirs();
+            System.out.println("Created new directory!\n"+resultDir+"\n");
+        }
+
+        DocMetadataAndIndex metadata =  generateIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp");
 
         try {
-            Files.write(Paths.get(outFile), new ObjectMapper().writeValueAsString(medatada).getBytes());
+
+            Files.write(Paths.get(outFile), new ObjectMapper().writeValueAsString(metadata).getBytes());
+            System.out.println("Index created!\n" + outFile );
+            // writing index to file
+
+            Map<String, List<Posting>> invertedIndex = metadata.getIndex();
+            List<String> listOfTerms = new ArrayList<String>(invertedIndex.keySet());
+            Collections.sort(listOfTerms);
+            FileWriter fw = new FileWriter(resultDir+"\\unigramIndex.txt");
+            System.out.println(resultDir+"\\unigramIndex.txt");
+            BufferedWriter bw= new BufferedWriter(fw);
+            for(String term: listOfTerms){
+                bw.append(term+"\n");
+            }
+
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        System.out.println(outFile);
     }
 
     public static DocMetadataAndIndex generateIndex(String documentPath) {
@@ -61,7 +81,6 @@ public class Indexer {
         } else {
             System.out.println("Folder " + documentPath + " doesn't exists.");
         }
-
 
         return medatada;
     }
