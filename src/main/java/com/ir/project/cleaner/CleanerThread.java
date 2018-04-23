@@ -19,7 +19,8 @@ public class CleanerThread implements Callable<String> {
     private String outPutFilePath;
 
 
-    private CleanerThread() {}
+    private CleanerThread() {
+    }
 
     public CleanerThread(@NotNull String inputFilePath, @NotNull String outPutFilePath) {
         this.inputFilePath = inputFilePath;

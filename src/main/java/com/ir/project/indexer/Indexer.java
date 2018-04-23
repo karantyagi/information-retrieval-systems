@@ -20,7 +20,6 @@ public class Indexer {
 
     private static final int MAX_THREADS = 100;
 
-
     public static void main(String args[]) throws IOException {
         String resultDir = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index";
         String outFile = resultDir+"\\metadata.json";
@@ -35,26 +34,31 @@ public class Indexer {
         DocMetadataAndIndex metadata =  generateIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp");
 
         try {
-
             Files.write(Paths.get(outFile), new ObjectMapper().writeValueAsString(metadata).getBytes());
             System.out.println("Index created!\n" + outFile );
-            // writing index to file
 
-            Map<String, List<Posting>> invertedIndex = metadata.getIndex();
-            List<String> listOfTerms = new ArrayList<String>(invertedIndex.keySet());
-            Collections.sort(listOfTerms);
-            FileWriter fw = new FileWriter(resultDir+"\\unigramIndex.txt");
-            System.out.println(resultDir+"\\unigramIndex.txt");
-            BufferedWriter bw= new BufferedWriter(fw);
-            for(String term: listOfTerms){
-                bw.append(term+"\n");
-            }
+            // writing index to file
+            // writeIndex(resultDir,metadata.getIndex());
 
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static void writeIndex(String resultDir, Map<String, List<Posting>> index) throws IOException {
+        Map<String, List<Posting>> invertedIndex = index;
+        List<String> listOfTerms = new ArrayList<String>(invertedIndex.keySet());
+        Collections.sort(listOfTerms);
+        FileWriter fw = new FileWriter(resultDir+"\\unigramIndex.txt");
+        System.out.println(resultDir+"\\unigramIndex.txt");
+        BufferedWriter bw= new BufferedWriter(fw);
+        for(String term: listOfTerms){
+            bw.append(term+"\n");
+        }
+        bw.close();
+        fw.close();
     }
 
     public static DocMetadataAndIndex generateIndex(String documentPath) {
@@ -111,7 +115,6 @@ public class Indexer {
                         postingList.add(posting);
                         index.put(term, postingList);
                     }
-
                 }
 
                 documentLengthData.put(docId, documentLength);
@@ -122,7 +125,6 @@ public class Indexer {
                 e.printStackTrace();
             }
         }
-
         return new DocMetadataAndIndex(index, documentLengthData);
     }
 }
