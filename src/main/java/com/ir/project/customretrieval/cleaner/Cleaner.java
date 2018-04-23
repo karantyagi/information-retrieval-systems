@@ -8,13 +8,15 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
+import com.ir.utils.Constants;
+
 public class Cleaner {
 
     public static final int MAX_THREADS = 100;
 
     public static void main(String args[]) {
-        String documentFolderPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\resources\\CACM";
-        String outputFolderPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp";
+        String documentFolderPath =Constants.CORPUSPATH;
+        String outputFolderPath = Constants.CLEANED_OUTPUT_FOLDER_PATH;
         List<String> cleanedFiles = cleanDocuments(documentFolderPath, outputFolderPath);
 
         System.out.println("Cleaned " + cleanedFiles.size() + " files.");

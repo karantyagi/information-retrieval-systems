@@ -49,3 +49,22 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+# eclipse project file
+.settings/
+.classpath
+.project
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+:i
+# Java*.class*.jar*.war*.ear
+# Java
+*.class
+*.jar
+*.war
+*.ear
