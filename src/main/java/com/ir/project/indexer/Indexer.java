@@ -62,11 +62,15 @@ public class Indexer {
     }
 
     public static DocMetadataAndIndex generateIndex(String documentPath) {
+        return generateIndex(documentPath, null);
+    }
+
+    public static DocMetadataAndIndex generateIndex(String documentPath, List<String> stopList) {
 
         File cleanedDocsFolder = new File(documentPath);
         DocMetadataAndIndex medatada = null;
 
-        if (cleanedDocsFolder.exists()) {
+        if (cleanedDocsFolder.exists() && null != cleanedDocsFolder.listFiles()) {
 
             List<Future<Pair<String, Map<String, Integer>>>> futureList =
                     new ArrayList<Future<Pair<String, Map<String, Integer>>>>();
@@ -74,10 +78,11 @@ public class Indexer {
             ExecutorService executor = Executors.newFixedThreadPool(MAX_THREADS);
 
             for (File file : cleanedDocsFolder.listFiles()) {
-                FileIndexerThread indexerThread = new FileIndexerThread(file.getAbsolutePath());
-                Future f = executor.submit(indexerThread);
+                FileIndexerThread indexerThread = new FileIndexerThread(file.getAbsolutePath(), stopList);
+                Future<Pair<String, Map<String, Integer>>> f = executor.submit(indexerThread);
                 futureList.add(f);
             }
+
             executor.shutdown();
             medatada = pollAndMerge(futureList);
 

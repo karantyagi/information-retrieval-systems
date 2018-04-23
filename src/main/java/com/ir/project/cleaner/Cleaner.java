@@ -61,6 +61,7 @@ public class Cleaner {
         return cleanedFiles;
 
     }
+
     private static List<String> pollForCompletion(List<Future<String>> futures) {
         List<String> cleanedFiles = new ArrayList<String>();
         for (Future<String> f : futures) {
