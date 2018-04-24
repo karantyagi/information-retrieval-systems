@@ -146,7 +146,7 @@ public class QLModel implements RetrievalModel {
             return termFrequency;
         }
         else{
-            System.out.println("TERM not in inverted index - pre processing mis-match : "+term);
+            //System.out.println("TERM not in inverted index - pre processing mis-match : "+term);
             return 0;
         }
 
@@ -164,7 +164,7 @@ public class QLModel implements RetrievalModel {
             return corpusFrequency;
         }
         else{
-            System.out.println("TERM not in corpus : "+term);
+            //System.out.println("TERM not in corpus : "+term);
             return 0;
         }
     }

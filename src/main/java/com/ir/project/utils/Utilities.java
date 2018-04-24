@@ -40,13 +40,10 @@ public class Utilities {
         query = query.trim();
 
         // ==== APPLY SAME PRE_PROCESSING to query also ======
-
         query = processedText(query);
 
         // split on any whitespace
         // Using java's predefined character classes
-
-
 
         terms = query.split(WHITESPACE);
         for(String t : terms) {

@@ -1,7 +1,6 @@
 package com.ir.project.retrievalmodel.luceneretrieval;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
-import com.ir.project.retrievalmodel.RetrievalModelRun;
 import com.ir.project.retrievalmodel.RetrievalModelType;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 
@@ -25,6 +24,8 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+
+import static com.ir.project.utils.Utilities.processedText;
 
 public class LuceneRetrievalModel implements RetrievalModel {
 
@@ -60,7 +61,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
         ScoreDoc[] hits;
 
         try {
-            q = new QueryParser(Version.LUCENE_47, "contents", simpleAnalyzer).parse(query.getQuery());
+            q = new QueryParser(Version.LUCENE_47, "contents", simpleAnalyzer).parse(processedText(query.getQuery()));
             searcher.search(q, collector);
             hits = collector.topDocs().scoreDocs;
             retrievedDocs = getSearchedDocsList(hits);
@@ -95,8 +96,10 @@ public class LuceneRetrievalModel implements RetrievalModel {
 
     public static void  main(String args[]) throws IOException {
 
-        String queryText = "What articles exist which deal with TSS (Time Sharing System), an\n" +
-                "operating system for IBM computers?";
+        String queryText = "I am interested in articles written either by Prieve or Udo Pooch\n" +
+                "\n" +
+                "Prieve, B.\n" +
+                "Pooch, U.";
         int queryID = 1;
         SearchQuery testQuery = new SearchQuery(queryID,queryText);
         LuceneRetrievalModel test = new LuceneRetrievalModel();
