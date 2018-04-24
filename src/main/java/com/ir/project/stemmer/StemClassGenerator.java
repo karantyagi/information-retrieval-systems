@@ -70,7 +70,7 @@ public class StemClassGenerator {
 
         int window = Utilities.TERM_ASSOCIATION_WINDOW;
 
-        // for a pair in 
+        // for a pair in
 
 
 
