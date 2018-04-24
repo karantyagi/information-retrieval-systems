@@ -9,11 +9,12 @@ import com.ir.project.retrievalmodel.tfidfretrieval.TFIDF;
 import com.ir.project.utils.SearchQuery;
 
 import javax.validation.constraints.NotNull;
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
+
+import static com.ir.project.utils.Utilities.getQueryTerms;
 
 public class Runner {
 
@@ -39,11 +40,13 @@ public class Runner {
         String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator;
 
         runTFIDFModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        System.out.println(" ============================================== TFID Retrieval Run complete ======");
+        System.out.println("\n --------------------------------- TFID Retrieval Run complete ------------------------------\n");
+
         runBM25Model(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        System.out.println(" ============================================== BM25 Retrieval Run complete ======");
+        System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------\n");
+
         runQueryLikelihoodModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        System.out.println(" ============================================== Smoothed Query Likelihood Retrieval Run complete ======");
+        System.out.println("\n ------------------------ Smoothed Query Likelihood Retrieval Run complete ------------------\n");
 
     }
 
@@ -135,8 +138,69 @@ public class Runner {
 
 
 
-    public List<SearchQuery> fetchSearchQueries(@NotNull String queryFilePath) {
+    public List<SearchQuery> fetchSearchQueries(@NotNull String queryFilePath) throws IOException {
         List<SearchQuery> searchQueryList = new ArrayList<>();
+
+        FileInputStream fstream;
+        try {
+            fstream = new FileInputStream(queryFilePath);
+            BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+            String line;
+            String fullQuery = "";
+            String words[];
+            SearchQuery temp = new SearchQuery(0,"");
+
+            //Read File Line By Line
+            while ((line = br.readLine())!= null)   {
+                System.out.println("Line: "+line);
+                words = line.split(" ");
+                if(words.length==0){
+                    System.out.println("No words. -------- ");
+                }
+                else {
+                    System.out.println("Words: "+words.length+" | "+words[0]);
+
+                    if(words[0].equals("<DOCNO>")){
+                        temp.setQueryID(Integer.parseInt(words[1]));
+                        searchQueryList.add(temp);
+                        System.out.println(temp.toString());
+                        System.out.println(" ------------------- QUERY_ID: "+temp.getQueryID()+" added.");
+                    }
+
+
+
+                }
+
+                /*
+                if(words.length>1 && words[0].equals("<DOC>")){
+                    fullQuery = "";
+                }
+                else if(words.length>1 && words[1].equals("<DOCNO>")) {
+                    temp.setQueryID(Integer.parseInt(words[1]));
+                }
+
+                else if(words.length>1 && words[1].equals("</DOCNO>")) {
+                    temp.setQuery(fullQuery);
+                    searchQueryList.add(temp);
+                    System.out.println(temp.toString());
+                    fullQuery = "";
+                }
+
+                else{ fullQuery = fullQuery + line + "\n";
+                    //System.out.print("\t\t  ------ Line added");
+                    }
+                */
+
+            }
+            //Close the input stream
+            br.close();
+            fstream.close();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
+
+
 
         // TODO add fecth from file logic
 
@@ -145,7 +209,7 @@ public class Runner {
 
     public static void main(String args[]) throws IOException {
 
-        //TODO: task1 task2 task3
+        System.out.println();
 
         Runner testRun = new Runner();
 
@@ -157,15 +221,16 @@ public class Runner {
         String queriesFilePath = "src" + File.separator + "main" + File.separator + "resources"
                 + File.separator + "testcollection" +  File.separator + "cacm.query.txt";
 
-        List<SearchQuery> queries = testRun.fetchSearchQueries(queriesFilePath);
+        List<SearchQuery> queries1 = testRun.fetchSearchQueries(queriesFilePath);
+        List<SearchQuery> queries = new ArrayList<>();
         // ------- comment the below out -------
-        queries.add(testQuery);
+        ////queries.add(testQuery);
 
         // ==============================================================
         // Run 1,2,3: TFIDFNoStopNoStem, BM25NoStopNoStem, QLNoStopNoStem
         // ==============================================================
 
-        testRun.run(queries);
+        ////testRun.run(queries);
 
         // ==========================
         // Run 4: LuceneNoStopNoStem
@@ -176,8 +241,8 @@ public class Runner {
         String luceneIndexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
         runLucene.loadIndex(luceneIndexDirPath);
         String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator;
-        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        System.out.println(" ============================================== Lucene(default settings) Retrieval Run complete ======");
+        ////testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
+        ////System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------\n");
 
     }
 }
