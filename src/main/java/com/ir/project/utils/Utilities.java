@@ -4,6 +4,7 @@ import com.ir.project.retrievalmodel.RetrievedDocument;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class Utilities {
 
@@ -26,7 +27,13 @@ public class Utilities {
 
         return (line.trim().toLowerCase()
                 .replaceAll("\\("," ")
-                .replaceAll("\\)"," "));
+                .replaceAll("\\)"," ")
+                .replaceAll("(\\r)", " "));
+    }
+
+    public static Map<String, String[]> corpusToWordList(String corpusPath) {
+        //TODO:
+        return null;
     }
 
     public static List<String> getQueryTerms(String query) {
@@ -40,13 +47,10 @@ public class Utilities {
         query = query.trim();
 
         // ==== APPLY SAME PRE_PROCESSING to query also ======
-
         query = processedText(query);
 
         // split on any whitespace
         // Using java's predefined character classes
-
-
 
         terms = query.split(WHITESPACE);
         for(String t : terms) {

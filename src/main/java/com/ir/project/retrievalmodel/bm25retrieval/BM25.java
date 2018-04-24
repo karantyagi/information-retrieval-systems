@@ -139,8 +139,12 @@ public class BM25 implements RetrievalModel {
     }
 
     private double computeDocFreq(String term) {
-        List<Posting> postings = invertedIndex.get(term);
-        return postings.size();
+        if(invertedIndex.containsKey(term)){
+            return invertedIndex.get(term).size();
+        }
+        else{
+            return 0;
+        }
     }
 
     //Method to compute the Normalization factor K that normalizes the tf component by document length
@@ -161,7 +165,7 @@ public class BM25 implements RetrievalModel {
             return termFrequency;
         }
         else{
-            System.out.println("TERM not in inverted index - pre processing mis-match : "+term);
+            //System.out.println("TERM not in inverted index - pre processing mis-match : "+term);
             return 0;
         }
 

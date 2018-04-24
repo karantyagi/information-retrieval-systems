@@ -6,12 +6,16 @@ import com.ir.project.retrievalmodel.bm25retrieval.BM25;
 import com.ir.project.retrievalmodel.luceneretrieval.LuceneRetrievalModel;
 import com.ir.project.retrievalmodel.querylikelihoodretrieval.QLModel;
 import com.ir.project.retrievalmodel.tfidfretrieval.TFIDF;
+import com.ir.project.stemmer.QueryEnhancer;
+import com.ir.project.stemmer.StemClassGenerator;
 import com.ir.project.utils.SearchQuery;
 
 import javax.validation.constraints.NotNull;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.*;
 
 import static com.ir.project.utils.Utilities.getQueryTerms;
@@ -36,17 +40,27 @@ public class Runner {
 
     public void run(List<SearchQuery> queries) {
         //TODO:
-
+        long start;
+        long elapsed;
         String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator;
 
+        start = System.currentTimeMillis();
         runTFIDFModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        System.out.println("\n --------------------------------- TFID Retrieval Run complete ------------------------------\n");
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("\n --------------------------------- TFID Retrieval Run complete ------------------------------");
+        System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
+        start = System.currentTimeMillis();
         runBM25Model(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------\n");
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------");
+        System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
+        start = System.currentTimeMillis();
         runQueryLikelihoodModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        System.out.println("\n ------------------------ Smoothed Query Likelihood Retrieval Run complete ------------------\n");
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("\n ------------------------ Smoothed Query Likelihood Retrieval Run complete ------------------");
+        System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
     }
 
@@ -143,53 +157,42 @@ public class Runner {
 
         FileInputStream fstream;
         try {
+
             fstream = new FileInputStream(queryFilePath);
             BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
             String line;
             String fullQuery = "";
+            int qID = 0;
             String words[];
-            SearchQuery temp = new SearchQuery(0,"");
 
             //Read File Line By Line
             while ((line = br.readLine())!= null)   {
-                System.out.println("Line: "+line);
-                words = line.split(" ");
+                //System.out.println("Line: "+line);
+                words = line.trim().split(" ");
                 if(words.length==0){
-                    System.out.println("No words. -------- ");
+                    //System.out.println("No words. -------- ");
                 }
                 else {
-                    System.out.println("Words: "+words.length+" | "+words[0]);
-
+                    //System.out.println("Words: "+words.length+" | "+words[0]);
                     if(words[0].equals("<DOCNO>")){
-                        temp.setQueryID(Integer.parseInt(words[1]));
-                        searchQueryList.add(temp);
-                        System.out.println(temp.toString());
-                        System.out.println(" ------------------- QUERY_ID: "+temp.getQueryID()+" added.");
+                        qID = Integer.parseInt(words[1]);
+                        fullQuery = "";
+                    }
+
+                    if(words[0].equals("</DOC>")){
+                      // System.out.println("qID: "+qID+" Query: "+fullQuery.trim());
+                       searchQueryList.add(new SearchQuery(qID,fullQuery.trim()));
+                        //System.out.println(" ------------------- QUERY_ID: "+temp.getQueryID()+" added.");
+                        //fullQuery = "";
+                    }
+
+                    if(!words[0].equals("<DOC>") && !words[0].equals("<DOCNO>") && !words[0].equals("</DOC>")){
+                        fullQuery+= line + "\n";
                     }
 
 
 
                 }
-
-                /*
-                if(words.length>1 && words[0].equals("<DOC>")){
-                    fullQuery = "";
-                }
-                else if(words.length>1 && words[1].equals("<DOCNO>")) {
-                    temp.setQueryID(Integer.parseInt(words[1]));
-                }
-
-                else if(words.length>1 && words[1].equals("</DOCNO>")) {
-                    temp.setQuery(fullQuery);
-                    searchQueryList.add(temp);
-                    System.out.println(temp.toString());
-                    fullQuery = "";
-                }
-
-                else{ fullQuery = fullQuery + line + "\n";
-                    //System.out.print("\t\t  ------ Line added");
-                    }
-                */
 
             }
             //Close the input stream
@@ -199,10 +202,12 @@ public class Runner {
             e.printStackTrace();
         }
 
+        /*
+        for(SearchQuery s : searchQueryList){
+            System.out.println("QUERY: "+s.getQueryID()+"\n"+s.getQuery());
+        }
+        */
 
-
-
-        // TODO add fecth from file logic
 
         return searchQueryList;
     }
@@ -211,6 +216,7 @@ public class Runner {
 
         System.out.println();
 
+        /*
         Runner testRun = new Runner();
 
         String queryText = "What articles exist which deal with TSS (Time Sharing System), an\n" +
@@ -221,8 +227,8 @@ public class Runner {
         String queriesFilePath = "src" + File.separator + "main" + File.separator + "resources"
                 + File.separator + "testcollection" +  File.separator + "cacm.query.txt";
 
-        List<SearchQuery> queries1 = testRun.fetchSearchQueries(queriesFilePath);
-        List<SearchQuery> queries = new ArrayList<>();
+        List<SearchQuery> queries = testRun.fetchSearchQueries(queriesFilePath);
+        //List<SearchQuery> queries = new ArrayList<>();
         // ------- comment the below out -------
         ////queries.add(testQuery);
 
@@ -230,19 +236,50 @@ public class Runner {
         // Run 1,2,3: TFIDFNoStopNoStem, BM25NoStopNoStem, QLNoStopNoStem
         // ==============================================================
 
-        ////testRun.run(queries);
+        testRun.run(queries);
+
+        */
 
         // ==========================
         // Run 4: LuceneNoStopNoStem
         // ==========================
 
+        /*
         Runner testRunLucene = new Runner(RetrievalModelType.LUCENE.name());
         LuceneRetrievalModel runLucene = new LuceneRetrievalModel();
         String luceneIndexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
         runLucene.loadIndex(luceneIndexDirPath);
         String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator;
-        ////testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
-        ////System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------\n");
+
+        long start = System.currentTimeMillis();
+        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
+        runLucene .closeIndex();
+        long elapsed = System.currentTimeMillis() - start;
+
+        System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------");
+        System.out.println("Run Time : " + elapsed + " milliseconds");
+
+        */
+
+        // ==========================
+        // Run 1: TASK 2
+        // ==========================
+        String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "cleanedcorpus";
+
+        String tempstemmedCorpusFilePath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "cacm_stem.txt";
+
+        Map<String, Set<String>> stemClasses =
+                new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
+
+        QueryEnhancer queryEnhancer = new QueryEnhancer(stemClasses);
+
+        queryEnhancer.enhanceQuery("hello world query");
+
+
+
+
 
     }
 }

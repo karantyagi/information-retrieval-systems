@@ -70,6 +70,7 @@ public class TFIDF implements RetrievalModel {
         // sort the docs in decreasing order of score
         Collections.sort(retrievedDocs, (RetrievedDocument a, RetrievedDocument b) -> Double.compare(b.getScore(), a.getScore()));
         return retrievedDocs;
+
     }
 
     private double calculateTFIDFScore(List<String> queryTerms, String docID) throws IOException {
@@ -99,8 +100,13 @@ public class TFIDF implements RetrievalModel {
     }
 
     private double computeDocFreq(String term) {
-        List<Posting> postings = invertedIndex.get(term);
-        return postings.size();
+        if(invertedIndex.containsKey(term)){
+            return invertedIndex.get(term).size();
+        }
+        else{
+            return 0;
+        }
+
     }
 
 
@@ -116,7 +122,7 @@ public class TFIDF implements RetrievalModel {
             return termFrequency;
         }
         else{
-            System.out.println("TERM not in inverted index - pre processing mis-match : "+term);
+            //System.out.println("TERM not in inverted index - pre processing mis-match : "+term);
             return 0;
         }
 
