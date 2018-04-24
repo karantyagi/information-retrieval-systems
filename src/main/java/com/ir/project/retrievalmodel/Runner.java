@@ -6,12 +6,16 @@ import com.ir.project.retrievalmodel.bm25retrieval.BM25;
 import com.ir.project.retrievalmodel.luceneretrieval.LuceneRetrievalModel;
 import com.ir.project.retrievalmodel.querylikelihoodretrieval.QLModel;
 import com.ir.project.retrievalmodel.tfidfretrieval.TFIDF;
+import com.ir.project.stemmer.QueryEnhancer;
+import com.ir.project.stemmer.StemClassGenerator;
 import com.ir.project.utils.SearchQuery;
 
 import javax.validation.constraints.NotNull;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.*;
 
 import static com.ir.project.utils.Utilities.getQueryTerms;
@@ -212,6 +216,7 @@ public class Runner {
 
         System.out.println();
 
+        /*
         Runner testRun = new Runner();
 
         String queryText = "What articles exist which deal with TSS (Time Sharing System), an\n" +
@@ -233,10 +238,13 @@ public class Runner {
 
         testRun.run(queries);
 
+        */
+
         // ==========================
         // Run 4: LuceneNoStopNoStem
         // ==========================
 
+        /*
         Runner testRunLucene = new Runner(RetrievalModelType.LUCENE.name());
         LuceneRetrievalModel runLucene = new LuceneRetrievalModel();
         String luceneIndexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
@@ -250,5 +258,28 @@ public class Runner {
 
         System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds");
+
+        */
+
+        // ==========================
+        // Run 1: TASK 2
+        // ==========================
+        String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "cleanedcorpus";
+
+        String tempstemmedCorpusFilePath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "cacm_stem.txt";
+
+        Map<String, Set<String>> stemClasses =
+                new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
+
+        QueryEnhancer queryEnhancer = new QueryEnhancer(stemClasses);
+
+        queryEnhancer.enhanceQuery("hello world query");
+
+
+
+
+
     }
 }
