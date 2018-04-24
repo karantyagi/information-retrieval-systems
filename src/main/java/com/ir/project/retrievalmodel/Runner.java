@@ -9,6 +9,7 @@ import com.ir.project.retrievalmodel.tfidfretrieval.TFIDF;
 import com.ir.project.stemmer.QueryEnhancer;
 import com.ir.project.stemmer.StemClassGenerator;
 import com.ir.project.utils.SearchQuery;
+import com.ir.project.utils.Utilities;
 
 import javax.validation.constraints.NotNull;
 import java.io.*;

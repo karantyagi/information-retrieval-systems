@@ -2,9 +2,9 @@ package com.ir.project.utils;
 
 import com.ir.project.retrievalmodel.RetrievedDocument;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.*;
 
 public class Utilities {
 
@@ -32,8 +32,39 @@ public class Utilities {
     }
 
     public static Map<String, String[]> corpusToWordList(String corpusPath) {
-        //TODO:
-        return null;
+        Map<String, String[]> docTextMap = new HashMap<>();
+        File cleanedCorpusDoc = new File(corpusPath);
+        for (File f : cleanedCorpusDoc.listFiles()) {
+            String words[] = new String[0];
+            try {
+                words = getWordListForDoc(f);
+                String docId = f.getName().split("_")[0].split("\\.")[0];
+                docTextMap.put(docId, words);
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            }
+        }
+        return docTextMap;
+    }
+
+    private static String[] getWordListForDoc(File doc) throws FileNotFoundException {
+        List<String> words = new ArrayList<>();
+        Scanner sc = new Scanner(doc);
+        while(sc.hasNext()){
+            String line = sc.nextLine();
+            line = processedText(line);
+            if (line.length() > 0) {
+
+                for (String word : line.split(Utilities.WHITESPACE)) {
+                    word = Utilities.processedWord(word);
+                    words.add(word);
+                }
+            }
+        }
+        sc.close();
+        String wordArray[] = new String[words.size()];
+        words.toArray(wordArray);
+        return wordArray;
     }
 
     public static List<String> getQueryTerms(String query) {
