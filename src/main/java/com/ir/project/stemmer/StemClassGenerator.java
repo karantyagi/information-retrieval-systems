@@ -56,9 +56,27 @@ public class StemClassGenerator {
                 stemClasses.put(stemmedWord, wordList);
             }
         }
+        // prune stem classes
+        return pruneStemClasses(stemClasses);
+    }
 
-        return stemClasses;
+    private Map<String,Set<String>> pruneStemClasses(Map<String, Set<String>> stemClasses) {
 
+        Map<String,Set<String>> prunedStemClasses;
+        Map<String,Set<String>> allStemClasses = stemClasses;
+        String corpusPath = "src" + File.separator + "main" + File.separator
+                + "resources" + File.separator + "testcollection" +  File.separator + "cleanedcorpus";
+        Map<String, String[]> docsAsWords = Utilities.corpusToWordList(corpusPath);
+
+        int window = Utilities.TERM_ASSOCIATION_WINDOW;
+
+        // for a pair in 
+
+
+
+
+
+        return prunedStemClasses;
     }
 
     private Set<String> fetchWordSetInDocument() throws FileNotFoundException {
@@ -70,6 +88,7 @@ public class StemClassGenerator {
                 Scanner sc = new Scanner(document);
                 while(sc.hasNext()){
                     String line = sc.nextLine();
+                    line = Utilities.processedText(line);
 
                     if (line.length() > 0) {
                         for (String word: line.split(" ")) {
