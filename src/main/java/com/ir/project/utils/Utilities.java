@@ -4,6 +4,7 @@ import com.ir.project.retrievalmodel.RetrievedDocument;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class Utilities {
 
@@ -28,6 +29,11 @@ public class Utilities {
                 .replaceAll("\\("," ")
                 .replaceAll("\\)"," ")
                 .replaceAll("(\\r)", " "));
+    }
+
+    public static Map<String, String[]> corpusToWordList(String corpusPath) {
+        //TODO:
+        return null;
     }
 
     public static List<String> getQueryTerms(String query) {
