@@ -6,14 +6,12 @@
 
 package com.ir.project.retrievalmodel.bm25retrieval;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
+import java.io.*;
+import java.nio.DoubleBuffer;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
-import java.io.File;
-import java.io.IOException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ir.project.indexer.DocMetadataAndIndex;
@@ -33,9 +31,9 @@ public class BM25 implements RetrievalModel {
 
     private Map<String, List<Posting>> invertedIndex;
     private Map<String, Integer> docLengths;
-    private Map<String, Integer> relevance;
+    private Map<Integer, Double> relevance;
 
-    public BM25(DocMetadataAndIndex metadataAndIndex,Map<String, Integer> relevance, double k1, double k2, double b)throws IOException {
+    public BM25(DocMetadataAndIndex metadataAndIndex, double k1, double k2, double b)throws IOException {
 
         this.invertedIndex = metadataAndIndex.getIndex();
         this.relevance = relevance;
@@ -59,10 +57,11 @@ public class BM25 implements RetrievalModel {
         return totalLength/this.docLengths.size();
     }
 
-    public List<RetrievedDocument> search(String query) throws IOException {
+    public List<RetrievedDocument> search(SearchQuery query) throws IOException {
+
         List<RetrievedDocument> retrievedDocs = new ArrayList<>();
         List<String> queryTerms;
-        queryTerms = Utilities.getQueryTerms(query);
+        queryTerms = Utilities.getQueryTerms(query.getQuery());
         //queryTerms .forEach(q->System.out.println("QUERY TERM: "+q));
 
         // Add all docs to retrievedDocsList
@@ -82,6 +81,7 @@ public class BM25 implements RetrievalModel {
         return retrievedDocs;
     }
 
+
     private double calculateBM25Score(List<String> queryTerms, String docID) throws IOException {
 
         double bm25score = 0;
@@ -93,11 +93,6 @@ public class BM25 implements RetrievalModel {
 
     private double termScore(String term, String docID, double queryTermFreq) throws IOException {
         // No relevance information
-        // get relevance information for a query from  index and metadata Relevance Judgement File
-
-
-        // double totalRelevantDocs;
-        // double relevantDocsforQuery;
 
         double r = 0;
         double R = 0;
@@ -119,6 +114,7 @@ public class BM25 implements RetrievalModel {
 
         double firstN = (r+0.5) / (R- r+0.5);
         double firstD = (ni-r +0.5) / (N-ni-R+r+0.5);
+
 
         double secondN = (k1 + 1.0)*f;
         double secondD = K+f;
@@ -188,8 +184,10 @@ public class BM25 implements RetrievalModel {
         // Test query Search
         // ====================
 
-        String query = "What articles exist which deal with TSS (Time Sharing System), an\n" +
+        String queryText = "What articles exist which deal with TSS (Time Sharing System), an\n" +
                 "operating system for IBM computers?";
+        int queryID =1;
+        SearchQuery query = new SearchQuery(queryID,queryText);
         String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
         double k1 = 1.2;
         double b = 0.75;
@@ -199,29 +197,7 @@ public class BM25 implements RetrievalModel {
         ObjectMapper om = new ObjectMapper();
         try {
             DocMetadataAndIndex metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
-
-            // Relevance Judgements Information
-
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-            System.out.println("Enter the FULL path for Relevance Judgements file : (e.g. /Usr/cacm.rel.txt or c:\\temp\\cacm.rel.txt)");
-            //String filePath = br.readLine();
-            String filePath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\resources\\cacm.rel.txt";
-            System.out.println(filePath);
-
-            final Path relevanceFilePath = Paths.get(filePath);
-            if (!Files.isReadable(relevanceFilePath)) {
-                System.out.println("Document directory '" + relevanceFilePath.toAbsolutePath() + "' does not exist or is not readable, please check the path");
-                System.exit(1);
-            }
-            if (!new File(filePath).isFile() && (new File(filePath).isDirectory()) ){
-                System.out.println("Relevance file not found at the specified path.");
-                System.exit(1);
-            }
-
-            Map<String, Integer> relevance = new HashMap<>();
-
-            BM25 test = new BM25(metadataAndIndex,relevance, k1,k2,b);
+            BM25 test = new BM25(metadataAndIndex,k1,k2,b);
             Utilities.displayRetrieverdDoc(test.search(query));
 
         } catch (IOException e) {
@@ -230,7 +206,5 @@ public class BM25 implements RetrievalModel {
 
         }
     }
-
-
 
 }
