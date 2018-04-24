@@ -31,12 +31,10 @@ public class BM25 implements RetrievalModel {
 
     private Map<String, List<Posting>> invertedIndex;
     private Map<String, Integer> docLengths;
-    private Map<Integer, Double> relevance;
 
     public BM25(DocMetadataAndIndex metadataAndIndex, double k1, double k2, double b)throws IOException {
 
         this.invertedIndex = metadataAndIndex.getIndex();
-        this.relevance = relevance;
         this.docLengths = metadataAndIndex.getDocumentLength();
         //this.k1 = 1.2;
         //this.b = 0.75;
@@ -188,7 +186,8 @@ public class BM25 implements RetrievalModel {
                 "operating system for IBM computers?";
         int queryID =1;
         SearchQuery query = new SearchQuery(queryID,queryText);
-        String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
+        String indexPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "invertedindex" + File.separator + "metadata.json";
+
         double k1 = 1.2;
         double b = 0.75;
         double k2 = 100;

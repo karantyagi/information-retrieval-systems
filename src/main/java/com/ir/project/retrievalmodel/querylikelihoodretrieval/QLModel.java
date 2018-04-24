@@ -218,7 +218,7 @@ public class QLModel implements RetrievalModel {
                 "operating system for IBM computers?";
         int queryID =1;
         SearchQuery testQuery = new SearchQuery(queryID,queryText);
-        String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
+        String indexPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "invertedindex" +  File.separator + "metadata.json";
         double smoothingFactor = 0.35;
         // load previously created inverted index and metadata
 

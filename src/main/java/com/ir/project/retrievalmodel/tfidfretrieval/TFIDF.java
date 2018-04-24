@@ -142,8 +142,7 @@ public class TFIDF implements RetrievalModel {
         int queryID =1;
         SearchQuery testQuery = new SearchQuery(queryID,queryText);
 
-        String indexPath = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index\\metadata.json";
-
+        String indexPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "invertedindex" + File.separator + "metadata.json";
         // load previously created inverted index and metadata
         ObjectMapper om = new ObjectMapper();
         try {

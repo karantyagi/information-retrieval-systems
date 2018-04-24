@@ -10,9 +10,6 @@ import java.util.*;
 
 public class StemmedIndexer {
 
-    private static final String WHITESPACE = "\\s";  // any whitespace character -  [ \t\n\x0B\f\r]
-    private static final String MULTIPLE_WHITESPACES = "//s"; // ????????????? mutliple whitespaces - regex
-
     private StemmedIndexer(){
     }
 
@@ -33,9 +30,9 @@ public class StemmedIndexer {
                     documentWordMap.put(currentDocId, new HashMap<>());
 
                 } else {
-                    for (String word : line.split(WHITESPACE)) {
+                    for (String word : line.split(Utilities.WHITESPACE)) {
                         word = Utilities.processedWord(word);
-                        if(!(word.trim().equals("")) && !(word.trim().equals(MULTIPLE_WHITESPACES))) {
+                        if(!(word.trim().equals("")) && !(word.trim().equals(Utilities.MULTIPLE_WHITESPACES))) {
                             int count = documentWordMap.get(currentDocId).containsKey(word) ?
                                     documentWordMap.get(currentDocId).get(word) : 0;
                             documentWordMap.get(currentDocId).put(word, count + 1);

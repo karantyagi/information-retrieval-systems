@@ -7,6 +7,9 @@ import java.util.List;
 
 public class Utilities {
 
+    public static final String WHITESPACE = "\\s"; // any whitespace character -  [ \t\n\x0B\f\r]+
+    public static final String MULTIPLE_WHITESPACES = "//s"; // ????????????? mutliple whitespaces - regex
+
     public static String processedWord(String word) {
         // remove all punctuations
         return word.replaceAll("[^\\p{ASCII}]", "")
@@ -43,8 +46,6 @@ public class Utilities {
         // split on any whitespace
         // Using java's predefined character classes
 
-        final String WHITESPACE = "\\s"; // any whitespace character -  [ \t\n\x0B\f\r]+
-        final String MULTIPLE_WHITESPACES = "//s"; // ????????????? mutliple whitespaces - regex
 
 
         terms = query.split(WHITESPACE);

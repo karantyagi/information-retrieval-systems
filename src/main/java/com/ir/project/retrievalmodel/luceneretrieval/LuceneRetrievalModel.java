@@ -74,7 +74,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
             int luceneDocID = hits[i].doc;
             Document d = searcher.doc(luceneDocID);
             String docID = d.get("path").toString();
-            docID = docID.substring(docID.lastIndexOf('\\') + 1);
+            docID = docID.substring(docID.lastIndexOf(File.separator) + 1);
             docID = docID.substring(0, docID.lastIndexOf("."));
             RetrievedDocument s = new RetrievedDocument(docID);
             s.setScore(hits[i].score);
@@ -93,8 +93,9 @@ public class LuceneRetrievalModel implements RetrievalModel {
         int queryID = 1;
         SearchQuery testQuery = new SearchQuery(queryID,queryText);
         LuceneRetrievalModel test = new LuceneRetrievalModel();
+        String indexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
 
-        test.loadIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\lucene-index");
+        test.loadIndex(indexDirPath);
 
         test.search(testQuery);
     }

@@ -21,9 +21,8 @@ public class Indexer {
     private static final int MAX_THREADS = 100;
 
     public static void main(String args[]) throws IOException {
-        String resultDir = "E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\temp_index";
-        String outFile = resultDir+"\\metadata.json";
-        // Create directory if not already present
+        String resultDir = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "invertedindex";
+        String outFile = resultDir + File.separator + "metadata.json";
         if (!new File(resultDir).isDirectory())
         {
             File dir = new File(resultDir);
@@ -31,13 +30,12 @@ public class Indexer {
             System.out.println("Created new directory!\n"+resultDir+"\n");
         }
 
-        DocMetadataAndIndex metadata =  generateIndex("E:\\1st - Career\\NEU_start\\@@Technical\\2 - sem\\IR\\Karan_Tyagi_Project\\tmp");
+        DocMetadataAndIndex metadata =  generateIndex("src" + File.separator + "main" + File.separator + "resources" + File.separator + "testcollection" + File.separator + "cleanedcorpus");
 
         try {
             Files.write(Paths.get(outFile), new ObjectMapper().writeValueAsString(metadata).getBytes());
             System.out.println("Index created!\n" + outFile );
 
-            // writing index to file
             writeIndex(resultDir,metadata.getIndex());
 
         } catch (JsonProcessingException e) {
@@ -51,8 +49,8 @@ public class Indexer {
         Map<String, List<Posting>> invertedIndex = index;
         List<String> listOfTerms = new ArrayList<String>(invertedIndex.keySet());
         Collections.sort(listOfTerms);
-        FileWriter fw = new FileWriter(resultDir+"\\unigramIndex.txt");
-        System.out.println(resultDir+"\\unigramIndex.txt");
+        FileWriter fw = new FileWriter(resultDir+"" + File.separator + "unigramIndex.txt");
+        System.out.println(resultDir+"" + File.separator + "unigramIndex.txt");
         BufferedWriter bw= new BufferedWriter(fw);
         for(String term: listOfTerms){
             bw.append(term+"\n");

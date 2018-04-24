@@ -50,17 +50,18 @@ public class LuceneIndexer {
         String indexDirPath;
         String rawDocsPath;
 
-        if(args.length != 2)
+        /*if(args.length != 2)
         {
             System.out.println("Enter path for saving index and path for raw docs, as arguments!");
             System.out.println("Example: java LuceneIndexer Karan_Tyagi_Project\\lucene-index Karan_Tyagi_Project\\resources\\CACM");
             System.out.println("Please run again with correct arguments.\n");
             System.exit(1);
-        }
+        }*/
 
-        indexDirPath = args[0];
+        indexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
         System.out.println("Saving index at        : "+indexDirPath);
-        rawDocsPath = args[1];
+        rawDocsPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "testcollection" +  File.separator + "cacm" + File.separator;
+        ;
         System.out.println("Fetching raw docs from : "+rawDocsPath);
         System.out.println();
 

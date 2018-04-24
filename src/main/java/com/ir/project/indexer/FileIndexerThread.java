@@ -12,9 +12,6 @@ import java.util.concurrent.Callable;
 
 public class FileIndexerThread implements Callable <Pair<String, Map<String, Integer>>> {
 
-    private static final String WHITESPACE = "\\s";  // any whitespace character -  [ \t\n\x0B\f\r]
-    private static final String MULTIPLE_WHITESPACES = "//s"; // ????????????? mutliple whitespaces - regex
-
     private String filePath;
     private List<String> stopList;
 
@@ -33,7 +30,6 @@ public class FileIndexerThread implements Callable <Pair<String, Map<String, Int
     public Pair<String, Map<String, Integer>> call() throws Exception {
 
         Map<String, Integer> wordMap = new HashMap<String, Integer>();
-
         File file = new File(filePath);
 
         Scanner sc = new Scanner(file);
@@ -42,13 +38,13 @@ public class FileIndexerThread implements Callable <Pair<String, Map<String, Int
 
             if (line.length() > 0) {
 
-                for (String word : line.split(WHITESPACE)) {
+                for (String word : line.split(Utilities.WHITESPACE)) {
                     word = Utilities.processedWord(word);
 
                     if (stopList != null && stopList.contains(word))
                         continue;
 
-                    if(!(word.trim().equals("")) && !(word.trim().equals(MULTIPLE_WHITESPACES))) {
+                    if(!(word.trim().equals("")) && !(word.trim().equals(Utilities.MULTIPLE_WHITESPACES))) {
                         int count = wordMap.containsKey(word) ? wordMap.get(word) : 0;
                         wordMap.put(word, count + 1);
                     }

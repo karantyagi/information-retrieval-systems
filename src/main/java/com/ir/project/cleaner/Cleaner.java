@@ -13,8 +13,8 @@ public class Cleaner {
     public static final int MAX_THREADS = 100;
 
     public static void main(String args[]) {
-        String documentFolderPath = "/Users/local/Downloads/cacm";
-        String outputFolderPath = "/tmp/irproject/";
+        String documentFolderPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "testcollection" + File.separator + "cacm" + File.separator + "";
+        String outputFolderPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "testcollection" + File.separator + "cleanedcorpus";
         List<String> cleanedFiles = cleanDocuments(documentFolderPath, outputFolderPath);
 
         System.out.println("Cleaned " + cleanedFiles.size() + " files.");
@@ -22,7 +22,7 @@ public class Cleaner {
 
     public static List<String> cleanDocuments(String documentFolderPath, String outputFolderPath) {
 
-        if (outputFolderPath.lastIndexOf('/') == outputFolderPath.length() - 1) {
+        if (outputFolderPath.lastIndexOf(File.separator) == outputFolderPath.length() - 1) {
             outputFolderPath = outputFolderPath.substring(0, outputFolderPath.length() - 1);
         }
 
@@ -30,7 +30,7 @@ public class Cleaner {
         File outputFolder = new File(outputFolderPath);
 
         if (!outputFolder.isDirectory()) {
-            System.out.println("Error!! A file with output folder path name exists!");
+            System.out.println("Error!! A file with output folder path name exists! path: " + outputFolder.getAbsolutePath() + " " + outputFolder.isDirectory());
             return new ArrayList<String>();
         } else if (!outputFolder.exists()) {
             System.out.println("Error!! A folder doesn't exist!");
@@ -48,7 +48,7 @@ public class Cleaner {
                 if (file.isFile() && file.getName().endsWith(".html")) {
                     CleanerThread thread =
                             new CleanerThread(file.getAbsolutePath(),
-                                    outputFolderPath + "/" + file.getName() + "_cleaned");
+                                    outputFolderPath + "" + File.separator + "" + file.getName() + "_cleaned");
                     Future<String> f = executor.submit(thread);
                     futures.add(f);
                 }
