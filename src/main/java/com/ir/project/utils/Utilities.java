@@ -99,8 +99,31 @@ public class Utilities {
         return queryTerms;
     }
 
-    public static void displayRetrieverdDoc(List<RetrievedDocument> retreivedDocs){
+    public static void displayRetrieverdDoc(List<RetrievedDocument> retreivedDocs) {
         System.out.println("\nNo. of Docs scored: "+ retreivedDocs.size()+"\n");
         retreivedDocs.forEach(doc->System.out.println(doc.toString()));
+    }
+
+    public static Map<Integer, List<String>> fetchQueryRelevantDocList(String filePath)
+            throws FileNotFoundException {
+        Map<Integer, List<String>> queryRelevantDocList = new HashMap<>();
+
+
+        File f = new File(filePath);
+
+        Scanner sc = new Scanner(f);
+        while (sc.hasNext()) {
+            //1 Q0 CACM-1410 1
+            String line = sc.nextLine();
+            Integer queryId = Integer.parseInt(line.split(" ")[0]);
+            String docId = line.split(" ")[2];
+
+            if (!queryRelevantDocList.containsKey(queryId)) {
+                queryRelevantDocList.put(queryId, new ArrayList<>());
+            }
+            queryRelevantDocList.get(queryId).add(docId);
+        }
+        sc.close();
+        return queryRelevantDocList;
     }
 }
