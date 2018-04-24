@@ -1,6 +1,7 @@
 package com.ir.project.retrievalmodel.luceneretrieval;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
+import com.ir.project.retrievalmodel.RetrievalModelRun;
 import com.ir.project.retrievalmodel.RetrievalModelType;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 
@@ -75,7 +76,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
     private static List<RetrievedDocument> getSearchedDocsList(ScoreDoc[] hits) throws IOException {
 
         List<RetrievedDocument> retrievedDocList = new ArrayList<>();
-        System.out.println("\nFound " + hits.length + " hits.\n");
+        //// System.out.println("\nFound " + hits.length + " hits.\n");
         for (int i = 0; i < hits.length; ++i) {
             int luceneDocID = hits[i].doc;
             Document d = searcher.doc(luceneDocID);

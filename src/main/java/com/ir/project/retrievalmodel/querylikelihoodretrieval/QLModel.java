@@ -60,12 +60,12 @@ public class QLModel implements RetrievalModel {
             docLengths = metadataAndIndex.getDocumentLength();
             // smoothingFactor = 0.35;
             this.smoothingFactor = smoothingFactor;
-            System.out.println("\nIndex loaded to memory.\n");
+            //// System.out.println("\nIndex loaded to memory.\n");
 
             for (Map.Entry<String, Integer> doc : docLengths.entrySet()) {
                 corpusSize += doc.getValue();
             }
-            System.out.println("\nCorpus size (total no. of word occurrences in corpus) : "+corpusSize+"\n");
+            //// System.out.println("\nCorpus size (total no. of word occurrences in corpus) : "+corpusSize+"\n");
             // System.out.println(metadataAndIndex.getIndex().get("Glossary"));
     }
 
