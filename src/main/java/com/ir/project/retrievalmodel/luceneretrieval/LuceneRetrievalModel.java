@@ -1,9 +1,11 @@
 package com.ir.project.retrievalmodel.luceneretrieval;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
+import com.ir.project.retrievalmodel.RetrievalModelType;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 
 import com.ir.project.utils.SearchQuery;
+import com.ir.project.utils.Utilities;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.document.Document;
@@ -40,6 +42,10 @@ public class LuceneRetrievalModel implements RetrievalModel {
         searcher = new IndexSearcher(reader);
     }
 
+    @Override
+    public RetrievalModelType getModelType() {
+        return RetrievalModelType.LUCENE;
+    }
 
     /**
      * @param query
@@ -78,7 +84,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
             docID = docID.substring(0, docID.lastIndexOf("."));
             RetrievedDocument s = new RetrievedDocument(docID);
             s.setScore(hits[i].score);
-            System.out.printf(" %-10s  |  Rank: %-3d  |  Score: %1.7f \n", s.getDocumentID(), i+1, s.getScore());
+            //System.out.printf(" %-10s  |  Rank: %-3d  |  Score: %1.7f \n", s.getDocumentID(), i+1, s.getScore());
             retrievedDocList.add(s);
         }
 
@@ -96,8 +102,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
         String indexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
 
         test.loadIndex(indexDirPath);
-
-        test.search(testQuery);
+        Utilities.displayRetrieverdDoc(test.search(testQuery));
     }
 
 }

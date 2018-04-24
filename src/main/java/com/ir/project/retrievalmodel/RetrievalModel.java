@@ -7,6 +7,8 @@ import java.util.List;
 
 public interface RetrievalModel {
 
+    RetrievalModelType getModelType();
+
     List<RetrievedDocument> search(SearchQuery query) throws IOException;
 
 }

@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ir.project.indexer.DocMetadataAndIndex;
 import com.ir.project.indexer.Posting;
 import com.ir.project.retrievalmodel.RetrievalModel;
+import com.ir.project.retrievalmodel.RetrievalModelType;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 import com.ir.project.utils.*;
 import java.io.*;
@@ -66,6 +67,11 @@ public class QLModel implements RetrievalModel {
             }
             System.out.println("\nCorpus size (total no. of word occurrences in corpus) : "+corpusSize+"\n");
             // System.out.println(metadataAndIndex.getIndex().get("Glossary"));
+    }
+
+    @Override
+    public RetrievalModelType getModelType() {
+        return RetrievalModelType.QL;
     }
 
     /**

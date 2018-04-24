@@ -18,6 +18,7 @@ import com.ir.project.indexer.DocMetadataAndIndex;
 import com.ir.project.indexer.Posting;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
+import com.ir.project.retrievalmodel.RetrievalModelType;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 import com.ir.project.utils.*;
 
@@ -53,6 +54,11 @@ public class BM25 implements RetrievalModel {
             totalLength += this.docLengths.get(doc);
         }
         return totalLength/this.docLengths.size();
+    }
+
+    @Override
+    public RetrievalModelType getModelType() {
+        return RetrievalModelType.BM25;
     }
 
     public List<RetrievedDocument> search(SearchQuery query) throws IOException {

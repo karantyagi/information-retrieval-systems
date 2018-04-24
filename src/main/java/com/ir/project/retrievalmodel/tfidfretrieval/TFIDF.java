@@ -15,6 +15,7 @@ import com.ir.project.indexer.DocMetadataAndIndex;
 import com.ir.project.indexer.Posting;
 
 import com.ir.project.retrievalmodel.RetrievalModel;
+import com.ir.project.retrievalmodel.RetrievalModelType;
 import com.ir.project.retrievalmodel.RetrievedDocument;
 import com.ir.project.utils.*;
 
@@ -41,6 +42,11 @@ public class TFIDF implements RetrievalModel {
             totalLength += this.docLengths.get(doc);
         }
         return totalLength/this.docLengths.size();
+    }
+
+    @Override
+    public RetrievalModelType getModelType() {
+        return RetrievalModelType.TFIDF;
     }
 
     public List<RetrievedDocument> search(SearchQuery query) throws IOException {
