@@ -26,7 +26,8 @@ public class Utilities {
 
         return (line.trim().toLowerCase()
                 .replaceAll("\\("," ")
-                .replaceAll("\\)"," "));
+                .replaceAll("\\)"," ")
+                .replaceAll("(\\r)", " "));
     }
 
     public static List<String> getQueryTerms(String query) {

@@ -24,6 +24,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 import static com.ir.project.utils.Utilities.processedText;
 
@@ -61,7 +62,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
         ScoreDoc[] hits;
 
         try {
-            q = new QueryParser(Version.LUCENE_47, "contents", simpleAnalyzer).parse(processedText(query.getQuery()));
+            q = new QueryParser(Version.LUCENE_47, "contents", simpleAnalyzer).parse(QueryParser.escape(processedText(query.getQuery())));
             searcher.search(q, collector);
             hits = collector.topDocs().scoreDocs;
             retrievedDocs = getSearchedDocsList(hits);
@@ -69,8 +70,19 @@ public class LuceneRetrievalModel implements RetrievalModel {
         } catch (Exception e) {
             System.out.println("Error searching " + query + " : " + e.getMessage());
         }
-        reader.close();
-        return retrievedDocs;
+
+        return retrievedDocs.stream().map(doc -> {
+            return new RetrievedDocument(doc.getDocumentID().substring(doc.getDocumentID().lastIndexOf("/")+1),
+                    doc.getScore());
+        }).collect(Collectors.toList());
+    }
+
+    public void closeIndex(){
+        try {
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
 
@@ -99,7 +111,7 @@ public class LuceneRetrievalModel implements RetrievalModel {
         String queryText = "I am interested in articles written either by Prieve or Udo Pooch\n" +
                 "\n" +
                 "Prieve, B.\n" +
-                "Pooch, U.";
+                "Pooch, U.\n";
         int queryID = 1;
         SearchQuery testQuery = new SearchQuery(queryID,queryText);
         LuceneRetrievalModel test = new LuceneRetrievalModel();

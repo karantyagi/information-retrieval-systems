@@ -153,13 +153,13 @@ public class Runner {
 
         FileInputStream fstream;
         try {
+
             fstream = new FileInputStream(queryFilePath);
             BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
             String line;
             String fullQuery = "";
             int qID = 0;
             String words[];
-            SearchQuery temp;
 
             //Read File Line By Line
             while ((line = br.readLine())!= null)   {
@@ -198,10 +198,11 @@ public class Runner {
             e.printStackTrace();
         }
 
-
+        /*
         for(SearchQuery s : searchQueryList){
             System.out.println("QUERY: "+s.getQueryID()+"\n"+s.getQuery());
         }
+        */
 
 
         return searchQueryList;
@@ -244,6 +245,7 @@ public class Runner {
 
         long start = System.currentTimeMillis();
         testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
+        runLucene .closeIndex();
         long elapsed = System.currentTimeMillis() - start;
 
         System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------");

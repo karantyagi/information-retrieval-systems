@@ -59,15 +59,21 @@ public class RetrievalTask implements Callable<List<RetrievedDocument>>{
 
                 bw.append(this.query.getQueryID()+"\t"+this.literal+"\t"+rd.getDocumentID()
                         +"\t"+(i+1)+"\t"+rd.getScore()+"\t\t"+retrievalModel.getModelType().name()
-                        +this.systemName+"\r");
+                        +this.systemName);
+
                 if(i<99){
                     bw.append("\n");
                 }
                 /*
-                System.out.printf("%-4d %4s %-80s  %-4d   %3.7f  %s \n",
+
+                System.out.println(this.query.getQueryID()+"\t"+this.literal+"\t"+rd.getDocumentID()
+                        +"\t"+(i+1)+"\t"+rd.getScore()+"\t\t"+retrievalModel.getModelType().name()
+                        +this.systemName+"\r");
+
+                System.out.printf("%-4d %4s %-80s  %-4d   %3.7f  %s%s \n",
                         this.query.getQueryID(),this.literal,rd.getDocumentID(),rd.getScore(),
-                        retrievalModel.getModelType().name()+this.systemName);
-                        */
+                        retrievalModel.getModelType().name(),this.systemName);
+                */
             }
         }
         bw.close();
