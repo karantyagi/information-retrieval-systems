@@ -2,6 +2,7 @@ package com.ir.project.indexer;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.ir.project.utils.Utilities;
 import javafx.util.Pair;
 
 import java.io.BufferedWriter;
@@ -43,6 +44,34 @@ public class Indexer {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        List<String> stopwords = Utilities.getStopWords();
+
+        String resultDir2 = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "stoppedIndex";
+        String outFile2 = resultDir2 + File.separator + "metadata.json";
+        if (!new File(resultDir2).isDirectory())
+        {
+            File dir = new File(resultDir2);
+            dir.mkdirs();
+            System.out.println("Created new directory!\n"+resultDir+"\n");
+        }
+
+        DocMetadataAndIndex metadata2 =  generateIndex("src" + File.separator
+                + "main" + File.separator + "resources" + File.separator
+                + "testcollection" + File.separator + "cleanedcorpus", stopwords);
+
+        try {
+            Files.write(Paths.get(outFile2), new ObjectMapper().writeValueAsString(metadata2).getBytes());
+            System.out.println("Stopped Index created!\n" + outFile2 );
+
+            writeIndex(resultDir2,metadata2.getIndex());
+
+        } catch (JsonProcessingException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 
     private static void writeIndex(String resultDir, Map<String, List<Posting>> index) throws IOException {
