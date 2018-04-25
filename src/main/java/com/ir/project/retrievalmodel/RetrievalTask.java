@@ -1,6 +1,7 @@
 package com.ir.project.retrievalmodel;
 
 import com.ir.project.utils.SearchQuery;
+import javafx.util.Pair;
 
 import javax.validation.constraints.NotNull;
 import java.io.BufferedWriter;
@@ -10,7 +11,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.Callable;
 
-public class RetrievalTask implements Callable<List<RetrievedDocument>>{
+public class RetrievalTask implements Callable<Pair<SearchQuery, List<RetrievedDocument>>>{
 
     private RetrievalModel retrievalModel;
     private SearchQuery query;
@@ -31,12 +32,12 @@ public class RetrievalTask implements Callable<List<RetrievedDocument>>{
     }
 
     @Override
-    public List<RetrievedDocument> call() throws Exception {
+    public Pair<SearchQuery, List<RetrievedDocument>> call() throws Exception {
         long start = System.currentTimeMillis();
         List<RetrievedDocument> retrievedDocumentList = retrievalModel.search(this.query);
         long searchTime = System.currentTimeMillis() - start;
         writeToFile(retrievedDocumentList,searchTime);
-        return retrievedDocumentList;
+        return new Pair(this.query, retrievedDocumentList);
     }
 
     private void writeToFile(List<RetrievedDocument> retrievedDocumentList, long searchTime) throws IOException {
@@ -47,7 +48,7 @@ public class RetrievalTask implements Callable<List<RetrievedDocument>>{
         {
             File dir = new File(snippetFolder);
             dir.mkdirs();
-            System.out.println(snippetFolder+" created! ==========");
+            //System.out.println(snippetFolder+" created! ==========");
         }
 
 
@@ -55,7 +56,7 @@ public class RetrievalTask implements Callable<List<RetrievedDocument>>{
         {
             File dir = new File(outFolder);
             dir.mkdirs();
-            System.out.println(outFolder+" created!");
+            //System.out.println(outFolder+" created!");
         }
 
 
