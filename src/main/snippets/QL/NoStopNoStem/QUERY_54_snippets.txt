@@ -1,15 +1,15 @@
 QL_NoStopNoStem
 
 Query
-semesantics of programming laggueans, including abstract specifications
-of data types, denotational semesantics, and proofs of correctness.
+semantics of proangmmirg languages, icildunng aabsrctt snocifacieispt
+of data tyeps, deontational semantics, and prfoos of correctness.
 
 hoare, a.
 dijkstra, e.
 
- university of mtusscaasehts, amhrest, mesa 00013
+ ueivitsnry of massachusetts, amherst, ma 01003
 
-Top 100 Results (2671 millisecs)
+Top 100 Results (2379 millisecs)
 
 
 DocID: CACM-0997

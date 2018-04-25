@@ -1,9 +1,10 @@
 QL_NoStopNoStem
 
 Query
-list all articles on el1 and engel (el1 may be given as el/1; i data-transfer how they did it.
+list all altirces on el1 and ecl (el1 may be geivn as el/1; i don't
+remember how they did it.
 
-Top 100 Results (964 millisecs)
+Top 100 Results (794 millisecs)
 
 
 DocID: CACM-0997

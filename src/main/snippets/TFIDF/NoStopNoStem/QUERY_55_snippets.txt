@@ -1,10 +1,10 @@
 TFIDF_NoStopNoStem
 
 Query
-aligning driving with sitar highest of radar languages or reoular
-erpxesisgns or radar events.
+anntyhig dianleg with star height of relugar lgauneags or relugar
+expressions or relugar etevns.
 
-Top 100 Results (824 millisecs)
+Top 100 Results (565 millisecs)
 
 
 DocID: CACM-0997

@@ -1,10 +1,10 @@
 QL_NoStopNoStem
 
 Query
-articles on treat formatting ssymets, including "wait yu see is wait yu
-get" ssymets.  expamles: t/nroff, scribe, bravo.
+alicrets on text ftrmnatiog stmeyss, ilcunding "what you see is what you
+get" stmeyss.  eeaxlmps: t/nroff, scribe, bravo.
 
-Top 100 Results (553 millisecs)
+Top 100 Results (465 millisecs)
 
 
 DocID: CACM-0997

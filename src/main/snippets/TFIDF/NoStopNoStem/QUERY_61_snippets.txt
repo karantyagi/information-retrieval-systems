@@ -1,12 +1,13 @@
 TFIDF_NoStopNoStem
 
 Query
-information retrieval articles by grad salton or others about clustering,
-bibliographic coupling, use of credits or co-credits, the variable-space moedl, bosten search methods using intended files, feabdeck, etc.
+itaonmfiron retrieval aetlcirs by grared salton or others about clustering,
+bibliographic coupling, use of cinatiots or cociia-ttons, the vrcoea
+sptce mdoel, boolean search methods uisng ievrnted flies, feedback, etc.
 
 salton, g.
 
-Top 100 Results (1257 millisecs)
+Top 100 Results (975 millisecs)
 
 
 DocID: CACM-0997

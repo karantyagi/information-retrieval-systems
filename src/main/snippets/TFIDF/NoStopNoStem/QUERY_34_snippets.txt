@@ -1,11 +1,12 @@
 TFIDF_NoStopNoStem
 
 Query
-currently invented in isolation of root of poaimloynl; there is an osborne recent material.
+currently interested in iaolitosn of root of pomynoilal; trehe is an odomlr
+e reenct material.
 
 heindel, l.
 
-Top 100 Results (1264 millisecs)
+Top 100 Results (1320 millisecs)
 
 
 DocID: CACM-0997

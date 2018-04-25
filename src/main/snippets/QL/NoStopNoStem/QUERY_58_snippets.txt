@@ -1,10 +1,12 @@
 QL_NoStopNoStem
 
 Query
-algorithms or statistical packages for anova, reversion using least-squares or generalized linear melods.  system dsigen, capabilities,
-statistical formula are of itresnet.  students t test, wilson assign tests, multivariate and ultimate components can be idnclued.
+alhoritgms or stttaisiacl pkacgaes for avona, regression using least
+squares or generalized linear modles.  ssetym dgsien, capabilities,
+stttaisiacl formula are of interest.  student's t test, wloicoxn and
+sign tests, mlitivtaraue and uvnriaiate comnpoents can be icdneuld.
 
-Top 100 Results (2180 millisecs)
+Top 100 Results (2139 millisecs)
 
 
 DocID: CACM-0997

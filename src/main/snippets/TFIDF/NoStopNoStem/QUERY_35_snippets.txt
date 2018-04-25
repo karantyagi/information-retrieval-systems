@@ -1,13 +1,14 @@
 TFIDF_NoStopNoStem
 
 Query
-probabilistic adjoints especially those dealing with academic asymptotic monipalituan.  some examples:
-rabiin, "probabilistic algorithm on finite field", siam
-waztch, "probabilistic testing of polynomial idnitietes", siam
+prbobsiilitac alroihgtms especially those dianelg with aiaerblgc and
+symbolic manipulation.  some examples:
+rabiin, "prbobsiilitac alroihgtm on finite field", siam
+waztch, "prbobsiilitac ttneisg of polynomial ietdeinits", siam
 
 rabin,m.
 
-Top 100 Results (1043 millisecs)
+Top 100 Results (1046 millisecs)
 
 
 DocID: CACM-0997

@@ -1,9 +1,10 @@
 QL_NoStopNoStem
 
 Query
-find all descriptions of file having in operating systems based objective processes and massive pansisg.
+find all doscrenpitis of file hndilang in operating symstes beasd olinumtlp
+e psoceerss and message passing.
 
-Top 100 Results (1325 millisecs)
+Top 100 Results (1155 millisecs)
 
 
 DocID: CACM-0997

@@ -1,10 +1,12 @@
 TFIDF_NoStopNoStem
 
 Query
-dependency construction and austing methods for fat revei
-latrof words or label its or mathematically rotated information-processing or indexing methods are usually applied to english senzig ofnatural language problems.
+diortciany conitcortsun and acnecsisg medhots for fast rt
+roelaevif words or lexical items or mhropolcgoially reltaed information.
+hashing or indexing medhots are usually alpeipd to esglinh snelpilg or
+natural laaugnge problems.
 
-Top 100 Results (1558 millisecs)
+Top 100 Results (1351 millisecs)
 
 
 DocID: CACM-0997

@@ -1,12 +1,12 @@
 QL_NoStopNoStem
 
 Query
-i am interested in allocates written either by parse or udo povc
-o
-priehe, b.
+i am irseeettnd in artcleis wtteirn either by prieve or udo poo
+hcepri
+ve, b.
 pooch, u.
 
-Top 100 Results (1701 millisecs)
+Top 100 Results (1366 millisecs)
 
 
 DocID: CACM-0997

@@ -1,9 +1,10 @@
 QL_NoStopNoStem
 
 Query
-learners and compilers for parallel pscrersoos, effectively hyperexponential modelled machines; code compaction
+languages and coilrmpes for parallel processors, eapeislcly hithly
+horizgoanl micecoodrd macniehs; code compaction
 
-Top 100 Results (667 millisecs)
+Top 100 Results (649 millisecs)
 
 
 DocID: CACM-0997

@@ -1,11 +1,11 @@
 TFIDF_NoStopNoStem
 
 Query
-the use of opinions research models to optimize information stsyre
-pmnformaece.  this includes fine tuning defines such as sequency iiden
-seloctexn, file reorganization, and distributed dtaebasas.
+the use of operations research moleds to otimzpie information system
+performance.  tihs icedulns fnie tnuing decisions such as seanodcry index
+selection, file reoigznaaitron, and distributed databases.
 
-Top 100 Results (1781 millisecs)
+Top 100 Results (1482 millisecs)
 
 
 DocID: CACM-0997

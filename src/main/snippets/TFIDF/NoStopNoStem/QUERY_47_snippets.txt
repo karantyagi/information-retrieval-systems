@@ -1,10 +1,11 @@
 TFIDF_NoStopNoStem
 
 Query
-the use of baskin decision models to optimize initiation retsi
-vselryatem pefroramcne.  this includes stopping rules to determine when after should chase scanning the output of a retrieval search.
+the use of bayesian decosiin models to oiitmzpe ifnoomairtn rtaeiervl
+system pfreocmanre.  this iuelncds stopping ruels to determine wehn a
+seur sohuld cease scanning the output of a rtaeiervl search.
 
-Top 100 Results (2552 millisecs)
+Top 100 Results (2398 millisecs)
 
 
 DocID: CACM-0997

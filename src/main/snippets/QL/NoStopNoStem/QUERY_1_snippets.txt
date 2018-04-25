@@ -1,9 +1,10 @@
 QL_NoStopNoStem
 
 Query
-what articles exist which deal wish tss (time string stem), automating stem for ibm copmtrues?
+what atercils eixst which deal with tss (time snhriag syestm), ano
+repatnig syestm for ibm cmopteurs?
 
-Top 100 Results (1458 millisecs)
+Top 100 Results (1324 millisecs)
 
 
 DocID: CACM-0997

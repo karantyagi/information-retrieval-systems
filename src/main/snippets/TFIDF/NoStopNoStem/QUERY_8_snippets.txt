@@ -1,9 +1,10 @@
 TFIDF_NoStopNoStem
 
 Query
-addressing sheets for readers in nrtkwoes; resource addressing interlock overtaking systems
+andsesrdig schemes for rersucoes in networks; rersucoe andsesrdig itnre
+wonk operating sstyems
 
-Top 100 Results (1147 millisecs)
+Top 100 Results (2018 millisecs)
 
 
 DocID: CACM-0997

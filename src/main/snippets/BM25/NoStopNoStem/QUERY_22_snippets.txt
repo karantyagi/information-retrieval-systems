@@ -1,14 +1,11 @@
 BM25_NoStopNoStem
 
 Query
-i am inserted in hidden-line and hidden-surface algorithms for
-cylinders, toroids, sherpes, and cones.  ties is a rather sequential-cyclic in computer giaprhcs.
+i am interested in hidilend-ne and hidden-surface algorithms for
+cylinders, troodis, spheres, and cones.  tihs is a rather spe
+aipzielctodic in computer gciahprs.
 
-Top 100 Results (2224 millisecs)
-
-
-DocID: CACM-2473
-
+Top 100 Results (2118 millisecs)
 
 
 DocID: CACM-2913
@@ -23,11 +20,7 @@ DocID: CACM-2692
 
 
 
-DocID: CACM-2384
-
-
-
-DocID: CACM-2441
+DocID: CACM-0266
 
 
 
@@ -35,23 +28,11 @@ DocID: CACM-1551
 
 
 
-DocID: CACM-1198
-
-
-
-DocID: CACM-2638
+DocID: CACM-0087
 
 
 
 DocID: CACM-2809
-
-
-
-DocID: CACM-2637
-
-
-
-DocID: CACM-2564
 
 
 
@@ -71,6 +52,10 @@ DocID: CACM-3028
 
 
 
+DocID: CACM-1014
+
+
+
 DocID: CACM-2273
 
 
@@ -83,6 +68,14 @@ DocID: CACM-1237
 
 
 
+DocID: CACM-0435
+
+
+
+DocID: CACM-1397
+
+
+
 DocID: CACM-2905
 
 
@@ -91,19 +84,19 @@ DocID: CACM-1931
 
 
 
+DocID: CACM-0616
+
+
+
 DocID: CACM-1373
 
 
 
-DocID: CACM-1331
+DocID: CACM-1867
 
 
 
 DocID: CACM-2325
-
-
-
-DocID: CACM-1166
 
 
 
@@ -160,10 +153,6 @@ DocID: CACM-2337
 
 
 DocID: CACM-2485
-
-
-
-DocID: CACM-0696
 
 
 
@@ -255,6 +244,10 @@ DocID: CACM-2932
 
 
 
+DocID: CACM-1623
+
+
+
 DocID: CACM-2598
 
 
@@ -307,11 +300,19 @@ DocID: CACM-1978
 
 
 
+DocID: CACM-0531
+
+
+
 DocID: CACM-3032
 
 
 
 DocID: CACM-1658
+
+
+
+DocID: CACM-0492
 
 
 
@@ -509,6 +510,9 @@ DocID: CACM-2522
 DocID: CACM-2053
 
 
+DocID: CACM-2473
+
+
 DocID: CACM-2392
 
 
@@ -630,9 +634,6 @@ DocID: CACM-1378
 
 
 DocID: CACM-1190
-
-
-DocID: CACM-0616
 
 
 DocID: CACM-2731
@@ -1280,9 +1281,6 @@ DocID: CACM-0041
 DocID: CACM-1754
 
 
-DocID: CACM-1397
-
-
 DocID: CACM-0829
 
 
@@ -1386,12 +1384,6 @@ DocID: CACM-2096
 
 
 DocID: CACM-2538
-
-
-DocID: CACM-0435
-
-
-DocID: CACM-1014
 
 
 DocID: CACM-2813
@@ -2345,9 +2337,6 @@ DocID: CACM-3076
 DocID: CACM-1813
 
 
-DocID: CACM-0531
-
-
 DocID: CACM-2424
 
 
@@ -2924,9 +2913,6 @@ DocID: CACM-2925
 DocID: CACM-1550
 
 
-DocID: CACM-1867
-
-
 DocID: CACM-3189
 
 
@@ -3152,6 +3138,9 @@ DocID: CACM-2217
 DocID: CACM-2301
 
 
+DocID: CACM-1166
+
+
 DocID: CACM-1672
 
 
@@ -3282,9 +3271,6 @@ DocID: CACM-3045
 
 
 DocID: CACM-1197
-
-
-DocID: CACM-1623
 
 
 DocID: CACM-2803
@@ -4319,6 +4305,9 @@ DocID: CACM-2461
 DocID: CACM-1105
 
 
+DocID: CACM-2441
+
+
 DocID: CACM-1141
 
 
@@ -4859,6 +4848,9 @@ DocID: CACM-2057
 DocID: CACM-2920
 
 
+DocID: CACM-1198
+
+
 DocID: CACM-1987
 
 
@@ -5183,6 +5175,9 @@ DocID: CACM-1035
 DocID: CACM-1402
 
 
+DocID: CACM-1331
+
+
 DocID: CACM-1691
 
 
@@ -5244,6 +5239,9 @@ DocID: CACM-1536
 
 
 DocID: CACM-2374
+
+
+DocID: CACM-0696
 
 
 DocID: CACM-2556
@@ -6000,9 +5998,6 @@ DocID: CACM-2316
 
 
 DocID: CACM-0184
-
-
-DocID: CACM-0492
 
 
 DocID: CACM-0689
@@ -7187,10 +7182,16 @@ DocID: CACM-0003
 DocID: CACM-0005
 
 
+DocID: CACM-2637
+
+
 DocID: CACM-2636
 
 
 DocID: CACM-2639
+
+
+DocID: CACM-2638
 
 
 DocID: CACM-1300
@@ -7554,6 +7555,9 @@ DocID: CACM-2563
 
 
 DocID: CACM-2562
+
+
+DocID: CACM-2564
 
 
 DocID: CACM-1287
@@ -7995,6 +7999,9 @@ DocID: CACM-1059
 
 
 DocID: CACM-2382
+
+
+DocID: CACM-2384
 
 
 DocID: CACM-1061
@@ -8511,9 +8518,6 @@ DocID: CACM-0263
 
 
 DocID: CACM-1597
-
-
-DocID: CACM-0266
 
 
 DocID: CACM-0260
@@ -9162,9 +9166,6 @@ DocID: CACM-2068
 
 
 DocID: CACM-2085
-
-
-DocID: CACM-0087
 
 
 DocID: CACM-0927

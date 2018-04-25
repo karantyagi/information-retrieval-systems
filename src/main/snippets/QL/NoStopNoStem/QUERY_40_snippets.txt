@@ -1,9 +1,11 @@
 QL_NoStopNoStem
 
 Query
-list all arises dealing with data times in the filling load-dependent are referenced fidelity in papers on the above languages (e.g. company languages with interesting type structures that i might have misesd).
+list all acerltis dealing with data tpeys in the following lagaunges:
+that are rcnerefeed fruqenelty in papers on the above lagaunges (e.g. catca
+hny lagaunges with irstneteing type surcrtutes that i mghit hvae missed).
 
-Top 100 Results (2867 millisecs)
+Top 100 Results (2624 millisecs)
 
 
 DocID: CACM-0997

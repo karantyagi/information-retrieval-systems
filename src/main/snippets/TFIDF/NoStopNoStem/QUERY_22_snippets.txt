@@ -1,10 +1,11 @@
 TFIDF_NoStopNoStem
 
 Query
-i am inserted in hidden-line and hidden-surface algorithms for
-cylinders, toroids, sherpes, and cones.  ties is a rather sequential-cyclic in computer giaprhcs.
+i am interested in hidilend-ne and hidden-surface algorithms for
+cylinders, troodis, spheres, and cones.  tihs is a rather spe
+aipzielctodic in computer gciahprs.
 
-Top 100 Results (2626 millisecs)
+Top 100 Results (2260 millisecs)
 
 
 DocID: CACM-0997

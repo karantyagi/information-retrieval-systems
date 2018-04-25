@@ -1,29 +1,9 @@
 BM25_NoStopNoStem
 
 Query
-concurrency control machines in operating stems
+cnourercncy control mschenaims in operating semtyss
 
-Top 100 Results (341 millisecs)
-
-
-DocID: CACM-3065
-
-
-
-DocID: CACM-1463
-
-
-
-DocID: CACM-3127
-
-
-
-DocID: CACM-2379
-
-
-
-DocID: CACM-1385
-
+Top 100 Results (290 millisecs)
 
 
 DocID: CACM-1591
@@ -31,10 +11,6 @@ DocID: CACM-1591
 
 
 DocID: CACM-2878
-
-
-
-DocID: CACM-1154
 
 
 
@@ -50,35 +26,7 @@ DocID: CACM-1750
 
 
 
-DocID: CACM-1603
-
-
-
-DocID: CACM-2297
-
-
-
 DocID: CACM-2320
-
-
-
-DocID: CACM-1413
-
-
-
-DocID: CACM-1308
-
-
-
-DocID: CACM-2624
-
-
-
-DocID: CACM-2022
-
-
-
-DocID: CACM-3023
 
 
 
@@ -86,23 +34,7 @@ DocID: CACM-1534
 
 
 
-DocID: CACM-1425
-
-
-
-DocID: CACM-2866
-
-
-
-DocID: CACM-1310
-
-
-
 DocID: CACM-3105
-
-
-
-DocID: CACM-2085
 
 
 
@@ -114,15 +46,7 @@ DocID: CACM-2372
 
 
 
-DocID: CACM-2938
-
-
-
 DocID: CACM-1922
-
-
-
-DocID: CACM-3073
 
 
 
@@ -130,23 +54,11 @@ DocID: CACM-2949
 
 
 
-DocID: CACM-2817
-
-
-
 DocID: CACM-2319
 
 
 
-DocID: CACM-0011
-
-
-
 DocID: CACM-1264
-
-
-
-DocID: CACM-0014
 
 
 
@@ -159,10 +71,6 @@ DocID: CACM-2626
 
 
 DocID: CACM-3154
-
-
-
-DocID: CACM-0719
 
 
 
@@ -190,10 +98,6 @@ DocID: CACM-0617
 
 
 
-DocID: CACM-3110
-
-
-
 DocID: CACM-2849
 
 
@@ -202,7 +106,7 @@ DocID: CACM-2036
 
 
 
-DocID: CACM-1409
+DocID: CACM-2379
 
 
 
@@ -215,10 +119,6 @@ DocID: CACM-2256
 
 
 DocID: CACM-1461
-
-
-
-DocID: CACM-2017
 
 
 
@@ -238,10 +138,6 @@ DocID: CACM-1476
 
 
 
-DocID: CACM-0414
-
-
-
 DocID: CACM-2668
 
 
@@ -255,6 +151,10 @@ DocID: CACM-2629
 
 
 DocID: CACM-3050
+
+
+
+DocID: CACM-3127
 
 
 
@@ -310,10 +210,6 @@ DocID: CACM-1069
 
 
 
-DocID: CACM-2716
-
-
-
 DocID: CACM-1728
 
 
@@ -326,15 +222,7 @@ DocID: CACM-0121
 
 
 
-DocID: CACM-1553
-
-
-
 DocID: CACM-0972
-
-
-
-DocID: CACM-1844
 
 
 
@@ -351,10 +239,6 @@ DocID: CACM-0971
 
 
 DocID: CACM-2357
-
-
-
-DocID: CACM-0848
 
 
 
@@ -375,14 +259,6 @@ DocID: CACM-1464
 
 
 DocID: CACM-0638
-
-
-
-DocID: CACM-0799
-
-
-
-DocID: CACM-1258
 
 
 
@@ -409,115 +285,125 @@ DocID: CACM-2482
 DocID: CACM-1050
 
 
+
 DocID: CACM-2439
+
 
 
 DocID: CACM-2119
 
 
+
 DocID: CACM-0059
 
-
-DocID: CACM-2921
 
 
 DocID: CACM-2254
 
 
+
 DocID: CACM-2939
 
-
-DocID: CACM-1292
 
 
 DocID: CACM-1304
 
 
+
 DocID: CACM-2069
+
 
 
 DocID: CACM-2821
 
 
+
 DocID: CACM-2433
+
 
 
 DocID: CACM-2207
 
 
+
 DocID: CACM-0084
 
-
-DocID: CACM-1884
 
 
 DocID: CACM-1805
 
 
+
 DocID: CACM-1331
+
 
 
 DocID: CACM-2536
 
 
+
 DocID: CACM-2370
 
-
-DocID: CACM-1767
 
 
 DocID: CACM-2477
 
 
+
 DocID: CACM-2219
+
 
 
 DocID: CACM-2940
 
 
+
 DocID: CACM-2283
 
-
-DocID: CACM-1852
 
 
 DocID: CACM-2950
 
 
+
 DocID: CACM-3183
+
 
 
 DocID: CACM-2000
 
 
-DocID: CACM-2034
-
 
 DocID: CACM-0679
+
 
 
 DocID: CACM-0618
 
 
+
 DocID: CACM-2411
+
 
 
 DocID: CACM-1751
 
 
+
 DocID: CACM-0104
 
-
-DocID: CACM-2169
 
 
 DocID: CACM-2574
 
 
+
 DocID: CACM-3025
 
 
+
 DocID: CACM-1752
+
 
 
 DocID: CACM-1236
@@ -538,25 +424,19 @@ DocID: CACM-2074
 DocID: CACM-1962
 
 
-DocID: CACM-2298
-
-
 DocID: CACM-2851
 
 
 DocID: CACM-1519
 
 
-DocID: CACM-0329
-
-
-DocID: CACM-3148
-
-
 DocID: CACM-1213
 
 
 DocID: CACM-0236
+
+
+DocID: CACM-2297
 
 
 DocID: CACM-2003
@@ -577,13 +457,7 @@ DocID: CACM-1698
 DocID: CACM-0300
 
 
-DocID: CACM-2527
-
-
 DocID: CACM-1353
-
-
-DocID: CACM-2112
 
 
 DocID: CACM-2541
@@ -592,16 +466,7 @@ DocID: CACM-2541
 DocID: CACM-3011
 
 
-DocID: CACM-0078
-
-
-DocID: CACM-0185
-
-
 DocID: CACM-2342
-
-
-DocID: CACM-1161
 
 
 DocID: CACM-2558
@@ -649,6 +514,9 @@ DocID: CACM-2377
 DocID: CACM-1655
 
 
+DocID: CACM-1308
+
+
 DocID: CACM-2358
 
 
@@ -665,9 +533,6 @@ DocID: CACM-1858
 
 
 DocID: CACM-2186
-
-
-DocID: CACM-0637
 
 
 DocID: CACM-2985
@@ -688,9 +553,6 @@ DocID: CACM-3048
 DocID: CACM-0856
 
 
-DocID: CACM-2746
-
-
 DocID: CACM-1621
 
 
@@ -698,9 +560,6 @@ DocID: CACM-2374
 
 
 DocID: CACM-1902
-
-
-DocID: CACM-3150
 
 
 DocID: CACM-1753
@@ -713,9 +572,6 @@ DocID: CACM-0202
 
 
 DocID: CACM-1749
-
-
-DocID: CACM-0071
 
 
 DocID: CACM-2946
@@ -733,6 +589,9 @@ DocID: CACM-2556
 DocID: CACM-1341
 
 
+DocID: CACM-1463
+
+
 DocID: CACM-2514
 
 
@@ -745,9 +604,6 @@ DocID: CACM-2151
 DocID: CACM-2681
 
 
-DocID: CACM-2380
-
-
 DocID: CACM-0123
 
 
@@ -758,6 +614,9 @@ DocID: CACM-1199
 
 
 DocID: CACM-3006
+
+
+DocID: CACM-3065
 
 
 DocID: CACM-2972
@@ -784,10 +643,7 @@ DocID: CACM-2605
 DocID: CACM-2888
 
 
-DocID: CACM-1099
-
-
-DocID: CACM-2979
+DocID: CACM-2624
 
 
 DocID: CACM-3039
@@ -809,6 +665,9 @@ DocID: CACM-3034
 
 
 DocID: CACM-1135
+
+
+DocID: CACM-1603
 
 
 DocID: CACM-2651
@@ -862,6 +721,9 @@ DocID: CACM-1877
 DocID: CACM-3121
 
 
+DocID: CACM-3023
+
+
 DocID: CACM-3035
 
 
@@ -884,6 +746,9 @@ DocID: CACM-1929
 
 
 DocID: CACM-2059
+
+
+DocID: CACM-1844
 
 
 DocID: CACM-2500
@@ -931,10 +796,16 @@ DocID: CACM-1362
 DocID: CACM-1589
 
 
+DocID: CACM-1385
+
+
 DocID: CACM-2901
 
 
 DocID: CACM-1890
+
+
+DocID: CACM-1409
 
 
 DocID: CACM-3067
@@ -997,9 +868,6 @@ DocID: CACM-2893
 DocID: CACM-2060
 
 
-DocID: CACM-1665
-
-
 DocID: CACM-2499
 
 
@@ -1024,10 +892,16 @@ DocID: CACM-3195
 DocID: CACM-2918
 
 
+DocID: CACM-1884
+
+
 DocID: CACM-2166
 
 
 DocID: CACM-1383
+
+
+DocID: CACM-0637
 
 
 DocID: CACM-1062
@@ -1225,6 +1099,9 @@ DocID: CACM-2630
 DocID: CACM-2053
 
 
+DocID: CACM-1292
+
+
 DocID: CACM-1693
 
 
@@ -1321,6 +1198,9 @@ DocID: CACM-3202
 DocID: CACM-2896
 
 
+DocID: CACM-2979
+
+
 DocID: CACM-1122
 
 
@@ -1399,10 +1279,16 @@ DocID: CACM-2217
 DocID: CACM-1771
 
 
+DocID: CACM-2298
+
+
 DocID: CACM-2846
 
 
 DocID: CACM-2913
+
+
+DocID: CACM-0329
 
 
 DocID: CACM-2823
@@ -1472,6 +1358,9 @@ DocID: CACM-1399
 
 
 DocID: CACM-3124
+
+
+DocID: CACM-1258
 
 
 DocID: CACM-2345
@@ -1951,7 +1840,13 @@ DocID: CACM-2016
 DocID: CACM-2883
 
 
+DocID: CACM-1665
+
+
 DocID: CACM-0796
+
+
+DocID: CACM-1099
 
 
 DocID: CACM-1111
@@ -1964,6 +1859,9 @@ DocID: CACM-2610
 
 
 DocID: CACM-2498
+
+
+DocID: CACM-2169
 
 
 DocID: CACM-2996
@@ -2194,6 +2092,9 @@ DocID: CACM-2935
 DocID: CACM-2982
 
 
+DocID: CACM-2022
+
+
 DocID: CACM-3071
 
 
@@ -2335,6 +2236,9 @@ DocID: CACM-2469
 DocID: CACM-1052
 
 
+DocID: CACM-1553
+
+
 DocID: CACM-0975
 
 
@@ -2416,6 +2320,9 @@ DocID: CACM-2328
 DocID: CACM-1797
 
 
+DocID: CACM-1161
+
+
 DocID: CACM-1722
 
 
@@ -2438,6 +2345,9 @@ DocID: CACM-0949
 
 
 DocID: CACM-3017
+
+
+DocID: CACM-0848
 
 
 DocID: CACM-2407
@@ -2614,6 +2524,9 @@ DocID: CACM-2964
 DocID: CACM-1206
 
 
+DocID: CACM-2017
+
+
 DocID: CACM-1829
 
 
@@ -2627,6 +2540,9 @@ DocID: CACM-2749
 
 
 DocID: CACM-2711
+
+
+DocID: CACM-1154
 
 
 DocID: CACM-2178
@@ -2839,6 +2755,9 @@ DocID: CACM-2471
 DocID: CACM-1165
 
 
+DocID: CACM-2746
+
+
 DocID: CACM-0321
 
 
@@ -2956,6 +2875,9 @@ DocID: CACM-2766
 DocID: CACM-2696
 
 
+DocID: CACM-2716
+
+
 DocID: CACM-2606
 
 
@@ -3023,6 +2945,9 @@ DocID: CACM-1012
 
 
 DocID: CACM-3012
+
+
+DocID: CACM-2938
 
 
 DocID: CACM-0241
@@ -3097,6 +3022,9 @@ DocID: CACM-2390
 DocID: CACM-1066
 
 
+DocID: CACM-1413
+
+
 DocID: CACM-0595
 
 
@@ -3119,6 +3047,9 @@ DocID: CACM-3075
 
 
 DocID: CACM-2999
+
+
+DocID: CACM-1425
 
 
 DocID: CACM-2715
@@ -3161,6 +3092,9 @@ DocID: CACM-2268
 
 
 DocID: CACM-0396
+
+
+DocID: CACM-2817
 
 
 DocID: CACM-3001
@@ -3272,6 +3206,9 @@ DocID: CACM-1121
 
 
 DocID: CACM-1044
+
+
+DocID: CACM-0078
 
 
 DocID: CACM-2276
@@ -3589,6 +3526,9 @@ DocID: CACM-2722
 DocID: CACM-2413
 
 
+DocID: CACM-3150
+
+
 DocID: CACM-2695
 
 
@@ -3632,6 +3572,9 @@ DocID: CACM-1043
 
 
 DocID: CACM-1567
+
+
+DocID: CACM-0071
 
 
 DocID: CACM-0243
@@ -3955,6 +3898,9 @@ DocID: CACM-2874
 DocID: CACM-2697
 
 
+DocID: CACM-2921
+
+
 DocID: CACM-2620
 
 
@@ -4075,6 +4021,9 @@ DocID: CACM-1252
 DocID: CACM-1861
 
 
+DocID: CACM-1767
+
+
 DocID: CACM-2848
 
 
@@ -4085,6 +4034,9 @@ DocID: CACM-1347
 
 
 DocID: CACM-2670
+
+
+DocID: CACM-1852
 
 
 DocID: CACM-2266
@@ -4192,6 +4144,9 @@ DocID: CACM-2855
 DocID: CACM-2389
 
 
+DocID: CACM-3148
+
+
 DocID: CACM-1195
 
 
@@ -4264,6 +4219,9 @@ DocID: CACM-3139
 DocID: CACM-2516
 
 
+DocID: CACM-2527
+
+
 DocID: CACM-2555
 
 
@@ -4297,6 +4255,9 @@ DocID: CACM-2966
 DocID: CACM-2832
 
 
+DocID: CACM-3110
+
+
 DocID: CACM-3199
 
 
@@ -4316,6 +4277,9 @@ DocID: CACM-1485
 
 
 DocID: CACM-3084
+
+
+DocID: CACM-0185
 
 
 DocID: CACM-2300
@@ -5401,6 +5365,9 @@ DocID: CACM-2640
 DocID: CACM-1311
 
 
+DocID: CACM-1310
+
+
 DocID: CACM-2641
 
 
@@ -5503,6 +5470,9 @@ DocID: CACM-0018
 DocID: CACM-0019
 
 
+DocID: CACM-0014
+
+
 DocID: CACM-2677
 
 
@@ -5528,6 +5498,9 @@ DocID: CACM-1342
 
 
 DocID: CACM-2673
+
+
+DocID: CACM-0011
 
 
 DocID: CACM-2672
@@ -6052,6 +6025,9 @@ DocID: CACM-0748
 DocID: CACM-0749
 
 
+DocID: CACM-0799
+
+
 DocID: CACM-0795
 
 
@@ -6437,6 +6413,9 @@ DocID: CACM-3031
 
 
 DocID: CACM-3007
+
+
+DocID: CACM-3073
 
 
 DocID: CACM-0800
@@ -7222,6 +7201,9 @@ DocID: CACM-0714
 DocID: CACM-0710
 
 
+DocID: CACM-0719
+
+
 DocID: CACM-0715
 
 
@@ -7765,6 +7747,9 @@ DocID: CACM-1042
 DocID: CACM-2381
 
 
+DocID: CACM-2380
+
+
 DocID: CACM-1059
 
 
@@ -8165,6 +8150,9 @@ DocID: CACM-0442
 
 
 DocID: CACM-1772
+
+
+DocID: CACM-0414
 
 
 DocID: CACM-0416
@@ -9028,6 +9016,9 @@ DocID: CACM-2118
 DocID: CACM-2117
 
 
+DocID: CACM-2112
+
+
 DocID: CACM-2114
 
 
@@ -9173,6 +9164,9 @@ DocID: CACM-2863
 
 
 DocID: CACM-0203
+
+
+DocID: CACM-2866
 
 
 DocID: CACM-0204
@@ -9643,6 +9637,9 @@ DocID: CACM-2039
 DocID: CACM-2038
 
 
+DocID: CACM-2034
+
+
 DocID: CACM-2037
 
 
@@ -9695,6 +9692,9 @@ DocID: CACM-2089
 
 
 DocID: CACM-2086
+
+
+DocID: CACM-2085
 
 
 DocID: CACM-2088

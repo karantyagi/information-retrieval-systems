@@ -1,9 +1,9 @@
 BM25_NoStopNoStem
 
 Query
-performance elevation and meaning of computer systems
+performance evaulatoin and mdneloilg of computer systems
 
-Top 100 Results (771 millisecs)
+Top 100 Results (725 millisecs)
 
 
 DocID: CACM-2318
@@ -22,15 +22,7 @@ DocID: CACM-2852
 
 
 
-DocID: CACM-1043
-
-
-
 DocID: CACM-1938
-
-
-
-DocID: CACM-2517
 
 
 
@@ -90,10 +82,6 @@ DocID: CACM-3072
 
 
 
-DocID: CACM-1182
-
-
-
 DocID: CACM-1518
 
 
@@ -118,19 +106,11 @@ DocID: CACM-2894
 
 
 
-DocID: CACM-2320
-
-
-
 DocID: CACM-2329
 
 
 
 DocID: CACM-2542
-
-
-
-DocID: CACM-2127
 
 
 
@@ -143,10 +123,6 @@ DocID: CACM-2951
 
 
 DocID: CACM-2634
-
-
-
-DocID: CACM-1925
 
 
 
@@ -171,14 +147,6 @@ DocID: CACM-2017
 
 
 DocID: CACM-2859
-
-
-
-DocID: CACM-1856
-
-
-
-DocID: CACM-2795
 
 
 
@@ -214,10 +182,6 @@ DocID: CACM-2849
 
 
 
-DocID: CACM-1491
-
-
-
 DocID: CACM-2882
 
 
@@ -227,10 +191,6 @@ DocID: CACM-2479
 
 
 DocID: CACM-2069
-
-
-
-DocID: CACM-0949
 
 
 
@@ -259,10 +219,6 @@ DocID: CACM-2262
 
 
 DocID: CACM-3026
-
-
-
-DocID: CACM-3154
 
 
 
@@ -303,10 +259,6 @@ DocID: CACM-2309
 
 
 DocID: CACM-2679
-
-
-
-DocID: CACM-1811
 
 
 
@@ -398,10 +350,6 @@ DocID: CACM-0322
 
 
 
-DocID: CACM-2184
-
-
-
 DocID: CACM-3068
 
 
@@ -409,43 +357,53 @@ DocID: CACM-3068
 DocID: CACM-2862
 
 
+
 DocID: CACM-3017
+
 
 
 DocID: CACM-2583
 
 
+
 DocID: CACM-1410
+
 
 
 DocID: CACM-1526
 
 
+
 DocID: CACM-1808
+
 
 
 DocID: CACM-1754
 
 
+
 DocID: CACM-1032
+
 
 
 DocID: CACM-3059
 
 
+
 DocID: CACM-1066
+
 
 
 DocID: CACM-3187
 
 
+
 DocID: CACM-1978
+
 
 
 DocID: CACM-3011
 
-
-DocID: CACM-3087
 
 
 DocID: CACM-1670
@@ -571,9 +529,6 @@ DocID: CACM-2690
 DocID: CACM-1973
 
 
-DocID: CACM-1456
-
-
 DocID: CACM-1347
 
 
@@ -643,9 +598,6 @@ DocID: CACM-2188
 DocID: CACM-1680
 
 
-DocID: CACM-2800
-
-
 DocID: CACM-1542
 
 
@@ -710,6 +662,9 @@ DocID: CACM-1810
 
 
 DocID: CACM-2111
+
+
+DocID: CACM-2517
 
 
 DocID: CACM-2879
@@ -850,6 +805,9 @@ DocID: CACM-2245
 DocID: CACM-3023
 
 
+DocID: CACM-1043
+
+
 DocID: CACM-1745
 
 
@@ -902,9 +860,6 @@ DocID: CACM-1252
 
 
 DocID: CACM-2541
-
-
-DocID: CACM-2178
 
 
 DocID: CACM-1360
@@ -1019,6 +974,9 @@ DocID: CACM-2405
 
 
 DocID: CACM-1099
+
+
+DocID: CACM-2127
 
 
 DocID: CACM-3012
@@ -1312,6 +1270,9 @@ DocID: CACM-0084
 DocID: CACM-1741
 
 
+DocID: CACM-2320
+
+
 DocID: CACM-3181
 
 
@@ -1385,6 +1346,9 @@ DocID: CACM-2180
 
 
 DocID: CACM-1188
+
+
+DocID: CACM-1856
 
 
 DocID: CACM-2439
@@ -1639,6 +1603,9 @@ DocID: CACM-2453
 DocID: CACM-3098
 
 
+DocID: CACM-1811
+
+
 DocID: CACM-3052
 
 
@@ -1715,9 +1682,6 @@ DocID: CACM-0124
 
 
 DocID: CACM-2300
-
-
-DocID: CACM-2931
 
 
 DocID: CACM-2494
@@ -2593,6 +2557,9 @@ DocID: CACM-2753
 DocID: CACM-1348
 
 
+DocID: CACM-3154
+
+
 DocID: CACM-2971
 
 
@@ -2609,6 +2576,9 @@ DocID: CACM-2856
 
 
 DocID: CACM-1113
+
+
+DocID: CACM-2184
 
 
 DocID: CACM-1516
@@ -2654,6 +2624,9 @@ DocID: CACM-0824
 
 
 DocID: CACM-0851
+
+
+DocID: CACM-3087
 
 
 DocID: CACM-1695
@@ -6520,6 +6493,9 @@ DocID: CACM-2393
 DocID: CACM-1519
 
 
+DocID: CACM-0949
+
+
 DocID: CACM-1293
 
 
@@ -8341,6 +8317,9 @@ DocID: CACM-1271
 DocID: CACM-3104
 
 
+DocID: CACM-1456
+
+
 DocID: CACM-2799
 
 
@@ -8387,6 +8366,9 @@ DocID: CACM-0980
 
 
 DocID: CACM-0677
+
+
+DocID: CACM-2795
 
 
 DocID: CACM-2559
@@ -8752,6 +8734,9 @@ DocID: CACM-2647
 DocID: CACM-2265
 
 
+DocID: CACM-2931
+
+
 DocID: CACM-3055
 
 
@@ -8971,6 +8956,9 @@ DocID: CACM-1692
 DocID: CACM-0441
 
 
+DocID: CACM-1491
+
+
 DocID: CACM-2819
 
 
@@ -9077,6 +9065,9 @@ DocID: CACM-2685
 
 
 DocID: CACM-2649
+
+
+DocID: CACM-2800
 
 
 DocID: CACM-1035
@@ -9571,6 +9562,9 @@ DocID: CACM-2652
 DocID: CACM-1210
 
 
+DocID: CACM-2178
+
+
 DocID: CACM-0380
 
 
@@ -9614,6 +9608,9 @@ DocID: CACM-1029
 
 
 DocID: CACM-2887
+
+
+DocID: CACM-1182
 
 
 DocID: CACM-1395
@@ -9716,4 +9713,7 @@ DocID: CACM-1501
 
 
 DocID: CACM-2291
+
+
+DocID: CACM-1925
 

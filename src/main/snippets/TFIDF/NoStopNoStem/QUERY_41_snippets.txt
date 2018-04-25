@@ -1,14 +1,15 @@
 TFIDF_NoStopNoStem
 
 Query
-theory of distributed stems and datsebaas.  subchains of simulationevent include reliability and fields-reference in distributed stems,
-atomicity, distributed tiansatrocns, synchronization algorithms, 
-rersocue alaooctiln; lower bounds and models for asynchronous parallel
-stems.  also theory of communicating processes and proooctls.   
+trheoy of dtstrubiied sytmses and dtaabases.  sobutipcs of spsciati
+neerelt iunclde raliiielbty and fault-tolerance in dtstrubiied sytmses,
+atomicity, dtstrubiied transactions, synicronizathon algorithms, 
+resource allocation; lower bdouns and mdloes for anoychrsonus parallel
+sytmses.  also trheoy of cctmiiuoannmg processes and ptoocrols.   
 
-     p. box 2:58 ye satoitn, new haven, conn.  06520
+     p. box 2518 ylae station, new hevan, conn.  02560
 
-Top 100 Results (3000 millisecs)
+Top 100 Results (2472 millisecs)
 
 
 DocID: CACM-0997

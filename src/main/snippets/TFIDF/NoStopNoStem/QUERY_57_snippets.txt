@@ -1,17 +1,18 @@
 TFIDF_NoStopNoStem
 
 Query
-abstracts of articles:
-    j. bukacs, "can progamming be liberated from the von neuron style?
-               a functional style and its alberga of paorrgms", cacm 21
-    role millo, r. lotipn, a. perlis, letter to acm forum, cacm 22
-	       (1799), 6
-c-63a09b2
-kus, joyce millo, r.
-lotipn, r.
-perlis, a.
+arasbtcts of articles:
+    j. baukcs, "can progiamnrmg be liberated form the von neumann sylte?
+               a functional sylte and its abgelra of programs", cacm 21
+    re millo, r. liotpn, a. pilres, letetr to acm fourm, cacm 22
+	       (1979), 629-630
 
-Top 100 Results (2789 millisecs)
+baukcs, j.
+de millo, r.
+liotpn, r.
+pilres, a.
+
+Top 100 Results (2540 millisecs)
 
 
 DocID: CACM-0997

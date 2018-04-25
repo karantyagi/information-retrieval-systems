@@ -1,11 +1,12 @@
 TFIDF_NoStopNoStem
 
 Query
-id like papers on design and implementation of eating intricates,
-window-managers, command interpreters, etc.  the essential issues adleman intricate design, with views on improvements to user efficiency,
-effectiveness and sastiaftcion.
+i'd like papers on degisn and imaletenmtpion of eidntig interfaces,
+window-managers, caommnd interpreters, etc.  the essential isesus are
+human interface degisn, with views on ieornvmmepts to uesr efficiency,
+effectiveness and sitcfsatiaon.
 
-Top 100 Results (2631 millisecs)
+Top 100 Results (3537 millisecs)
 
 
 DocID: CACM-0997

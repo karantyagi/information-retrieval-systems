@@ -1,11 +1,12 @@
 QL_NoStopNoStem
 
 Query
-cursor preference evaluation techniques using pattern recognitionand clustering.
+computer pmerofcanre evulataion tneqeiuhcs unsig pattern recongitinnoa
+d clustering.
 
-     la    7:03
+     la    70803
 
-Top 100 Results (213 millisecs)
+Top 100 Results (244 millisecs)
 
 
 DocID: CACM-0997

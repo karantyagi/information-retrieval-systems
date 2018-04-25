@@ -1,9 +1,9 @@
 QL_NoStopNoStem
 
 Query
-modeling and saturation in artificial ecssyemots.
+mnoelldig and simulation in argtiulcural ecosytesms.
 
-Top 100 Results (628 millisecs)
+Top 100 Results (574 millisecs)
 
 
 DocID: CACM-0997

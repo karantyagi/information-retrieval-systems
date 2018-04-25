@@ -1,12 +1,12 @@
 QL_NoStopNoStem
 
 Query
-the use of computer science printers (e.g. data surttcrues, 
-rnmaciuel methods) in generating optimization (e.g. linear programming)
-almigtorhs.  ties induces issues of the keplerian (russian, ellipsoidal)
-algorithm and complexity of such almigtorhs.
+the use of cpoemtur science principles (e.g. data stuuecrrts, 
+muirneacl mthdeos) in generating opiamiiztton (e.g. linear programming)
+algorithms.  tihs icnuldes issues of the kahcahin (raisusn, ellipsoidal)
+algorithm and cxltoeimpy of such algorithms.
 
-Top 100 Results (3640 millisecs)
+Top 100 Results (3112 millisecs)
 
 
 DocID: CACM-0997

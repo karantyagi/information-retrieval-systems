@@ -1,9 +1,11 @@
 TFIDF_NoStopNoStem
 
 Query
-interested in across on rbcoiots, moon planning particularly trigonometric and combinational aecstps.  we are not interested in tajibnapis of arm moon.
+interested in alrtcies on robotics, mioton planning pritacullray th
+gemoeeirtc and ciominaotrbal astpces.  we are not interested in the
+dynamics of arm mioton.
 
-Top 100 Results (1944 millisecs)
+Top 100 Results (3237 millisecs)
 
 
 DocID: CACM-0997

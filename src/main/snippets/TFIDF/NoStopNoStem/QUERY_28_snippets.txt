@@ -1,10 +1,12 @@
 TFIDF_NoStopNoStem
 
 Query
-any invocation on packet ratio networks.  of particular instruct arrangements for packet routing, and for dealing with changes interlock topogrpahy.  i am not instructed in the hardware used in tht
-eerwonk.
+any imnoratfoin on pcaekt radio ntrweoks.  of particular itensret areimagor
+thls for pcaekt routing, and for dealing with changes in
+wnrtoek topahrpgoy.  i am not interseetd in the hardware used in toe
+wetrnhk.
 
-Top 100 Results (2943 millisecs)
+Top 100 Results (2877 millisecs)
 
 
 DocID: CACM-0997

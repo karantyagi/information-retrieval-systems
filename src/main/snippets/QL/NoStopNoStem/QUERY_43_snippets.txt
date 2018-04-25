@@ -1,11 +1,11 @@
 QL_NoStopNoStem
 
 Query
-always and perception of shore by humans and computers.  shore
-descriptions, shore retention by computer.  two-dimensional shores.
-measures of carlictruiy.  shore mcthaing.
+analysis and perctpeoin of shape by humans and ctoeumprs.  shapeireo
+tcpdisns, shape roicgoitenn by ctoeumpr.  two-dimensional shapes.
+measures of ccriilrauty.  shape matching.
 
-Top 100 Results (1993 millisecs)
+Top 100 Results (1752 millisecs)
 
 
 DocID: CACM-0997

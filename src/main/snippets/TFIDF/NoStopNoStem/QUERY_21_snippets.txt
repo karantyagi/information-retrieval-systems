@@ -1,10 +1,10 @@
 TFIDF_NoStopNoStem
 
 Query
-computational complexity, intractability, classifiable reductions,
-algorithms and efficiency
+computational cmlxoeipty, intractability, class-complete reductions,
+algorithms and ecinifefcy
 
-Top 100 Results (376 millisecs)
+Top 100 Results (285 millisecs)
 
 
 DocID: CACM-0997

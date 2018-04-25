@@ -1,9 +1,10 @@
 TFIDF_NoStopNoStem
 
 Query
-learners and compilers for parallel pscrersoos, effectively hyperexponential modelled machines; code compaction
+languages and coilrmpes for parallel processors, eapeislcly hithly
+horizgoanl micecoodrd macniehs; code compaction
 
-Top 100 Results (513 millisecs)
+Top 100 Results (634 millisecs)
 
 
 DocID: CACM-0997

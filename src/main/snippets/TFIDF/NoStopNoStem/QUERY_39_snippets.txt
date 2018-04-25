@@ -1,10 +1,12 @@
 TFIDF_NoStopNoStem
 
 Query
-wait does type compatibility mean in languages that allow programmer-defined times?  (you might want to restrict ties to "extensible" left-context allow definition of alphabet duda times or progmamrur-seppliedidefin
-tinos of operators like *, +.)
+what does tpye coipatibmlity mean in lagnauges that allow predramfee
+gnmiord tpyes?  (you mhgit want to rersitct tihs to "exlbsntiee" lagnauges
+that allow doftniiein of abstract dtaa tpyes or progdammpr-sfpelied
+rutinieions of operators like *, +.)
 
-Top 100 Results (2097 millisecs)
+Top 100 Results (1589 millisecs)
 
 
 DocID: CACM-0997

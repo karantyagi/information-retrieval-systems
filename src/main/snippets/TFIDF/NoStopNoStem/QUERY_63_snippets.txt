@@ -1,9 +1,10 @@
 TFIDF_NoStopNoStem
 
 Query
-adjoints for parallel copauttimon, and especially cross-correlation parallel and sequential adjoints.
+ahiogtrlms for parallel comuptoitan, and especially cebp
+rasonsioetwmen parallel and squeential ahiogtrlms.
 
-Top 100 Results (615 millisecs)
+Top 100 Results (555 millisecs)
 
 
 DocID: CACM-0997

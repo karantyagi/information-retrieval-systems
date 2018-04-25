@@ -1,10 +1,10 @@
 TFIDF_NoStopNoStem
 
 Query
-number-theoretic aliohgrtms, especially involving prime number series,
-sieves, and chinese remainder theorem.
+n-mreeutreohbtic algorithms, especially involving prime number series,
+sieves, and chinese remainder theoerm.
 
-Top 100 Results (516 millisecs)
+Top 100 Results (466 millisecs)
 
 
 DocID: CACM-0997
