@@ -171,10 +171,14 @@ public class Runner {
     }
 
     private void evaluateAndPrintStats(Map<Integer, List<String>> relevantQueryDocMap, Map<SearchQuery,
-            List<RetrievedDocument>> queriesAndDocs, RetrievalModelType bm252, String systemName) {
-        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
-                + File.separator + "evaluation" + File.separator;
-        Evaluator evaluator = new Evaluator(bm252.name(), relevantQueryDocMap, queriesAndDocs);
+            List<RetrievedDocument>> queriesAndDocs, RetrievalModelType retrievalModelType, String systemName) {
+        String relevantDocFilePath =
+                "src" + File.separator + "main" +
+                File.separator + "evaluation" +
+                File.separator + retrievalModelType.name() +
+                File.separator + systemName;
+
+        Evaluator evaluator = new Evaluator(retrievalModelType.name(), relevantQueryDocMap, queriesAndDocs);
         EvaluationStats evaluationStats = evaluator.evaluate();
         evaluationStats.writePrecisionTablesToFolder(relevantDocFilePath);
         System.out.println("--------------------------------------------------");
@@ -278,6 +282,7 @@ public class Runner {
         // ==========================
 
 
+
         Runner testRunLucene = new Runner(RetrievalModelType.LUCENE.name());
         LuceneRetrievalModel runLucene = new LuceneRetrievalModel();
         String luceneIndexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
@@ -292,6 +297,7 @@ public class Runner {
 
         System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds");
+
 
 
 
@@ -315,7 +321,16 @@ public class Runner {
 
         */
 
+        String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "cleanedcorpus";
 
+        Map<String, Set<String>> stemClasses =
+                new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
+
+
+        String stemOutFile = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "stemclasses.json";
+        StemClassGenerator.saveStemClassesToFile(stemOutFile, stemClasses);
         // ==============
         // TASK 3 : RUN
         // ==============
