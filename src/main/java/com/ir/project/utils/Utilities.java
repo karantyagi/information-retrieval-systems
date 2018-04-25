@@ -127,4 +127,6 @@ public class Utilities {
         sc.close();
         return queryRelevantDocList;
     }
+
+
 }

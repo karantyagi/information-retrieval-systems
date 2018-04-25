@@ -6,6 +6,10 @@ import com.ir.project.retrievalmodel.bm25retrieval.BM25;
 import com.ir.project.retrievalmodel.luceneretrieval.LuceneRetrievalModel;
 import com.ir.project.retrievalmodel.querylikelihoodretrieval.QLModel;
 import com.ir.project.retrievalmodel.tfidfretrieval.TFIDF;
+import com.ir.project.evaluation.EvaluationStats;
+import com.ir.project.evaluation.Evaluator;
+import javafx.util.Pair;
+import java.util.*;
 import com.ir.project.stemmer.QueryEnhancer;
 import com.ir.project.stemmer.StemClassGenerator;
 import com.ir.project.utils.SearchQuery;
@@ -19,7 +23,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.*;
 
-import static com.ir.project.utils.Utilities.getQueryTerms;
 
 public class Runner {
 
@@ -39,7 +42,7 @@ public class Runner {
                 }
         }
 
-    public void run(List<SearchQuery> queries) {
+    public void run(List<SearchQuery> queries, Map<Integer, List<String>> relevantQueryDocMap) {
         //TODO:
         long start;
         long elapsed;
@@ -47,60 +50,63 @@ public class Runner {
         String snippetDir = "src" + File.separator + "main" + File.separator + "snippets" + File.separator;
 
         start = System.currentTimeMillis();
-        runTFIDFModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir);
+        runTFIDFModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir, relevantQueryDocMap);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n --------------------------------- TFID Retrieval Run complete ------------------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
         start = System.currentTimeMillis();
-        runBM25Model(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir);
+        runBM25Model(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir, relevantQueryDocMap);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
         start = System.currentTimeMillis();
-        runQueryLikelihoodModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir);
+        runQueryLikelihoodModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir, relevantQueryDocMap);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n ------------------------ Smoothed Query Likelihood Retrieval Run complete ------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
     }
 
-    private void runLucene(List<SearchQuery> queries, String SystemRunName,String outputDir,String snippetDir) {
+    private void runLucene(List<SearchQuery> queries, String systemRunName,String outputDir,String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
         RetrievalModel lucene = new LuceneRetrievalModel();
         ExecutorService executor = Executors.newFixedThreadPool(10);
-        List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
+        List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
         for(SearchQuery q : queries) {
-            RetrievalTask task = new RetrievalTask(lucene, q, outputDir,snippetDir,SystemRunName);
-            Future<List<RetrievedDocument>> f = executor.submit(task);
+            RetrievalTask task = new RetrievalTask(lucene, q, outputDir,snippetDir, systemRunName);
+            Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
             futures.add(f);
         }
 
         executor.shutdown();
-        pollForCompletion(futures);
+        Map<SearchQuery, List<RetrievedDocument>> queriesAndDocs = pollForCompletion(futures);
+        evaluateAndPrintStats(relevantQueryDocMap, queriesAndDocs, RetrievalModelType.LUCENE, systemRunName);
 
     }
 
-    private void runTFIDFModel(List<SearchQuery> queries, String SystemRunName, String outputDir, String snippetDir) {
+    private void runTFIDFModel(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
         try {
             RetrievalModel tfidf = new TFIDF(metadataAndIndex);
             ExecutorService executor = Executors.newFixedThreadPool(10);
-            List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
+            List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
             for(SearchQuery q : queries) {
-                RetrievalTask task = new RetrievalTask(tfidf, q, outputDir,snippetDir,SystemRunName);
-                Future<List<RetrievedDocument>> f = executor.submit(task);
+                RetrievalTask task = new RetrievalTask(tfidf, q, outputDir,snippetDir,systemRunName);
+                Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
                 futures.add(f);
             }
             executor.shutdown();
-            pollForCompletion(futures);
+            Map<SearchQuery, List<RetrievedDocument>> queriesAndDocs = pollForCompletion(futures);
+
+            evaluateAndPrintStats(relevantQueryDocMap, queriesAndDocs, RetrievalModelType.TFIDF, systemRunName);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private void runBM25Model(List<SearchQuery> queries, String SystemRunName, String outputDir, String snippetDir) {
+    private void runBM25Model(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
         double k1 = 1.2;
         double b = 0.75;
         double k2 = 100;
@@ -109,49 +115,72 @@ public class Runner {
         try {
             bm25 = new BM25(this.metadataAndIndex, k1, k2, b);
             ExecutorService executor = Executors.newFixedThreadPool(10);
-            List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
+            List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
             for(SearchQuery q : queries) {
-                RetrievalTask task = new RetrievalTask(bm25, q, outputDir,snippetDir,SystemRunName);
-                Future<List<RetrievedDocument>> f = executor.submit(task);
+                RetrievalTask task = new RetrievalTask(bm25, q, outputDir,snippetDir,systemRunName);
+                Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
                 futures.add(f);
             }
             executor.shutdown();
-            pollForCompletion(futures);
+            Map<SearchQuery, List<RetrievedDocument>> queriesAndDocs = pollForCompletion(futures);
+
+            evaluateAndPrintStats(relevantQueryDocMap, queriesAndDocs, RetrievalModelType.BM25,systemRunName);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private void runQueryLikelihoodModel(List<SearchQuery> queries, String SystemRunName, String outputDir, String snippetDir) {
+    private void runQueryLikelihoodModel(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
 
+        try
+        {
         double smoothingFactor = 0.35;
         RetrievalModel queryLikelihoodModel = new QLModel(metadataAndIndex, smoothingFactor);
         ExecutorService executor = Executors.newFixedThreadPool(10);
-        List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
+        List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
         for(SearchQuery q : queries) {
-            RetrievalTask task = new RetrievalTask(queryLikelihoodModel, q, outputDir,snippetDir, SystemRunName);
-            Future<List<RetrievedDocument>> f = executor.submit(task);
+            RetrievalTask task = new RetrievalTask(queryLikelihoodModel, q, outputDir,snippetDir, systemRunName);
+            Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
             futures.add(f);
         }
         executor.shutdown();
-        pollForCompletion(futures);
+        Map<SearchQuery, List<RetrievedDocument>> queriesAndDocs = pollForCompletion(futures);
+
+        evaluateAndPrintStats(relevantQueryDocMap, queriesAndDocs, RetrievalModelType.QL,systemRunName);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
 
-    private void pollForCompletion(List<Future<List<RetrievedDocument>>> futures) {
-        for (Future<List<RetrievedDocument>> f: futures) {
+    private Map<SearchQuery, List<RetrievedDocument>> pollForCompletion(List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures) {
+        Map<SearchQuery, List<RetrievedDocument>> queryAndRetreivedDocs = new HashMap<>();
+        for (Future<Pair<SearchQuery, List<RetrievedDocument>>> f: futures) {
             try {
-                f.get();
+                Pair<SearchQuery, List<RetrievedDocument>> pair = f.get();
+                queryAndRetreivedDocs.put(pair.getKey(), pair.getValue());
             } catch (InterruptedException e) {
                 e.printStackTrace();
             } catch (ExecutionException e) {
                 e.printStackTrace();
             }
         }
+        return queryAndRetreivedDocs;
     }
 
+    private void evaluateAndPrintStats(Map<Integer, List<String>> relevantQueryDocMap, Map<SearchQuery,
+            List<RetrievedDocument>> queriesAndDocs, RetrievalModelType bm252, String systemName) {
+        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "evaluation" + File.separator;
+        Evaluator evaluator = new Evaluator(bm252.name(), relevantQueryDocMap, queriesAndDocs);
+        EvaluationStats evaluationStats = evaluator.evaluate();
+        evaluationStats.writePrecisionTablesToFolder(relevantDocFilePath);
+        System.out.println("--------------------------------------------------");
+        System.out.println("STATS (" + evaluationStats.getRunModel()+"_"+systemName + ")");
+        System.out.println("MAP: " + evaluationStats.getMap() + "\nMRR: " + evaluationStats.getMrr());
+    }
 
 
     public List<SearchQuery> fetchSearchQueries(@NotNull String queryFilePath) throws IOException {
@@ -218,6 +247,10 @@ public class Runner {
 
         System.out.println();
 
+        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.rel.txt";
+        Map<Integer, List<String>> relevantQueryDocMap = Utilities.fetchQueryRelevantDocList(relevantDocFilePath);
+
 
         Runner testRun = new Runner();
 
@@ -238,7 +271,7 @@ public class Runner {
         // Run 1,2,3: TFIDFNoStopNoStem, BM25NoStopNoStem, QLNoStopNoStem
         // ==============================================================
 
-        testRun.run(queries);
+       //// testRun.run(queries,relevantQueryDocMap);
 
 
 
@@ -255,7 +288,7 @@ public class Runner {
         String snippetDir = "src" + File.separator + "main" + File.separator + "snippets" + File.separator;
 
         long start = System.currentTimeMillis();
-        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile, snippetDir);
+        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir, relevantQueryDocMap);
         runLucene .closeIndex();
         long elapsed = System.currentTimeMillis() - start;
 
