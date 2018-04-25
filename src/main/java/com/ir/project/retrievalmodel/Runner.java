@@ -358,7 +358,9 @@ public class Runner {
         Runner testRunTask3A = new Runner(RetrievalModelRun.WithStopNoStem);
         testRunTask3A .run(queries,RetrievalModelRun.WithStopNoStem,relevantQueryDocMap);
 
+        // Run 4,5,6:
 
+        // Index the stemmed version of	the	corpus (cacm_stem.txt)
 
 
 
