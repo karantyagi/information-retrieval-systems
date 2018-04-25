@@ -32,9 +32,9 @@ public class StemClassGenerator {
             Map<String, Set<String>> stemClasses = s.stemCorpus();
             System.out.println("2. No. of terms for which stem classes are generated: " + stemClasses.keySet().size());
             int i = 0;
-            System.out.println("3. Printing some terms with more than 2 stem classe.\n");
+            System.out.println("3. Printing terms with more than 12 stem classes.");
             for (String word : stemClasses.keySet()) {
-                if(stemClasses.get(word).size()>8){
+                if(stemClasses.get(word).size()>12){
                     System.out.printf(" %-10s : %s\n",word,stemClasses.get(word));
                 }
 
@@ -46,21 +46,25 @@ public class StemClassGenerator {
                 Map<String, Set<String>> subStemClasses  =
                         stemClasses.entrySet()
                                 .stream()
-                                .filter(p -> (p.getValue().size()>8))
+                                .filter(p -> (p.getValue().size()>2))
                                 .collect(Collectors.toMap(p -> p.getKey(), p -> p.getValue()));
-            System.out.println(" Size: "+subStemClasses.size());
+            // System.out.println(" Size: "+subStemClasses.size());
 
+            System.out.println("Start calculating . . . \n");
             Map<String, Set<String>> prunedStemClasses = s.pruneStemClasses(subStemClasses);
+
+
+
             int i1 = 0;
-            System.out.println("4. Printing some terms with pruned stem classe.\n");
+            System.out.println("4. Printing the pruned stem class.");
             for (String word : prunedStemClasses.keySet()) {
-                if(stemClasses.get(word).size()>8){
+                if(stemClasses.get(word).size()>2){
                     System.out.printf(" %-10s : %s\n",word,stemClasses.get(word));
                 }
 
                 i++;
-                if (i == 500)
-                    break;;
+                if (i == 10)
+                    break;
             }
 
         } catch (Exception e) {
@@ -93,7 +97,7 @@ public class StemClassGenerator {
 
         }
         /*
-        // prune stem classes
+         prune stem classes
         if(stemClasses.size()>2){
             return pruneStemClasses(stemClasses);
         }
@@ -142,18 +146,22 @@ public class StemClassGenerator {
                     word1 = Utilities.processedWord(word1);
                     word2 = Utilities.processedWord(word2);
                     // make string pair
+                    //System.out.println("PAIR: "+word1+"\t"+word2);
                     String wordPair = createPair(word1, word2);
                     associationScores.put(wordPair, calculateDiceCoefficient(wordPair, docsAsWords));
                     // print word pair
                     // System.out.println("1: "+word1+" 2: "+word2);
                 }
             }
-                    // get 2 words
 
+
+                   // Print association(dice's co-efficient) scores:
+
+                    //associationScores.forEach((k,v)->System.out.println("Pair : " + k + " Score : " + v));
 
                     // get pair with max co-occurrence measure - dice's co-efficient
                     String maxPair = Collections.max(associationScores.entrySet(), Comparator.comparingDouble(Map.Entry::getValue)).getKey();
-                    System.out.println("pair :"+maxPair);
+                    System.out.println("MAX PAIR :"+ maxPair +"  score: "+associationScores.get(maxPair));
                     // return pair words of max score classes
 
                     //prunedStemClasses.get(termStemCLasses).add(maxPair.split(" ")[0]);
