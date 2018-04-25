@@ -1,6 +1,7 @@
 # `Todo`
 
-- [ ] __@harshmeet__ : fix snippet generation bug
+- [X] fixed snippet generation
+- [ ] __@savan__ threads to write to output and snippet files
 - [ ] __@harshmeet__ : extra credit part 2
 - [x] __@savan__ : folder organization - evaluation like output, diff for BM25 etc, and outside resources 
 - [x] __@savan @karan__ - store stemClasses.json after running stem generation algorithm, then apply it on 1 run for evaluation
