@@ -2,6 +2,7 @@ package com.ir.project.retrievalmodel;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ir.project.indexer.DocMetadataAndIndex;
+import com.ir.project.indexer.StemmedIndexer;
 import com.ir.project.retrievalmodel.bm25retrieval.BM25;
 import com.ir.project.retrievalmodel.luceneretrieval.LuceneRetrievalModel;
 import com.ir.project.retrievalmodel.querylikelihoodretrieval.QLModel;
@@ -30,24 +31,35 @@ public class Runner {
 
     public Runner(String luceneModel){}   // for loading lucene index
 
+
     public Runner(RetrievalModelRun systemRun) {
                 ObjectMapper om = new ObjectMapper();
                 try {
                     String indexPath;
-                    if(systemRun.name().equals("NoStopWithStem") || systemRun.name().equals("NoStopNoStem")){
-                        indexPath = "src" + File.separator + "main"
-                                + File.separator + "resources" + File.separator
-                                + "invertedindex" +  File.separator + "metadata.json";
-                        System.out.println("RUN: "+systemRun.name()+" . . . inverted index loaded!");
-                    }
-                    else{
-                        indexPath = "src" + File.separator + "main"
-                                + File.separator + "resources" + File.separator
-                                + "stoppedindex" +  File.separator + "metadata.json";
-                        System.out.println("RUN: "+systemRun.name()+" . . . stopped inverted index loaded!");
+                    switch (systemRun) {
+                        case NoStopNoStem:
+                            indexPath = "src" + File.separator + "main"
+                                    + File.separator + "resources" + File.separator
+                                    + "invertedindex" +  File.separator + "metadata.json";
+                            System.out.println("RUN: "+systemRun.name()+" . . . inverted index loaded!");
+                            this.metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
+                            break;
+                        case WithStopNoStem:
+                            indexPath = "src" + File.separator + "main"
+                                    + File.separator + "resources" + File.separator
+                                    + "stoppedindex" +  File.separator + "metadata.json";
+                            System.out.println("RUN: "+systemRun.name()+" . . . stopped inverted index loaded!");
+                            this.metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
+                            break;
+                        case NoStopWithStem:
+
+                            String stemmedFilePath = "src" + File.separator + "main"
+                                    + File.separator + "resources" + File.separator
+                                    + "testcollection" + File.separator + "cacm_stem.txt";
+                            this.metadataAndIndex = StemmedIndexer.generateIndex(stemmedFilePath);
+                            break;
                     }
 
-                    this.metadataAndIndex = om.readValue(new File(indexPath), DocMetadataAndIndex.class);
 
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -356,12 +368,14 @@ public class Runner {
         // Stopping with no stemming
 
         Runner testRunTask3A = new Runner(RetrievalModelRun.WithStopNoStem);
-        testRunTask3A .run(queries,RetrievalModelRun.WithStopNoStem,relevantQueryDocMap);
+        testRunTask3A.run(queries,RetrievalModelRun.WithStopNoStem,relevantQueryDocMap);
 
         // Run 4,5,6:
 
         // Index the stemmed version of	the	corpus (cacm_stem.txt)
 
+        Runner testRunTask3B = new Runner(RetrievalModelRun.NoStopWithStem);
+        testRunTask3B.run(queries,RetrievalModelRun.NoStopWithStem,relevantQueryDocMap);
 
 
         //
