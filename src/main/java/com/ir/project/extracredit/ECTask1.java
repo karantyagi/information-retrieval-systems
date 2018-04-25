@@ -10,6 +10,7 @@ import java.io.FileWriter;
 import org.jsoup.Jsoup;
 import com.ir.project.retrievalmodel.Runner;
 import com.ir.project.utils.SearchQuery;
+import com.ir.project.utils.Utilities;
 
 import org.jsoup.nodes.Document;
 public class ECTask1 {
@@ -93,24 +94,24 @@ public class ECTask1 {
 		charArray[position2] = temp;
 		return new String(charArray);
 	}
-	public static void main(String[] args) throws IOException{
+	public static List<SearchQuery> returnSearchQuery() throws IOException{
 		ECTask1 e = new ECTask1();
 		List<String> cleanedQuery=new ArrayList<>();
 		FileWriter fw=new FileWriter("/Users/harshmeet/Desktop/IR/errorModel/errorQuery.txt");
-//		List<ErrorQuery> errorQuery=new ArrayList<ErrorQuery>();
+		List<SearchQuery> noisyQuery=new ArrayList<SearchQuery>();
 		Runner r=new Runner();
 		List<SearchQuery> l11= r.fetchSearchQueries("/Users/harshmeet/Desktop/IR/errorModel/cacm.query.txt");
 		for(SearchQuery s: l11) {
-			cleanedQuery.add(s.getQuery().replaceAll("[()]", "").replaceAll("\n", " ").replaceAll("[;+-/`=~@#$%^&*|]", " "));
+			 s.setQuery(s.getQuery().replaceAll("[()]", "").replaceAll("\n", " ").replaceAll("[;+-/`=~@#$%^&*|]", " ")); 
 		}
 
-		for(int i=0;i<cleanedQuery.size();i++) {
-//			errorQuery.add(i,e.makeBucket(cleanedQuery.get(i)));
-			fw.write((e.makeBucket(cleanedQuery.get(i))));
-			fw.write("\n");
-		}
-		fw.close();
+		for (SearchQuery sQuery : l11) {
+	           String updatedQuery = e.makeBucket(sQuery.getQuery());
+	           sQuery.setQuery(updatedQuery);
+	    }
 
-		//Result:  i am ineseerttd in alitcres wteitrn either by pervie or udo pocoh, here 40% of the words are selected and their letters are shuffled 
+		    return l11;
 	}
+	
+	
 }
