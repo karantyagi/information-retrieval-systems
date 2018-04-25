@@ -80,14 +80,18 @@ public class StemmedIndexer {
         return new DocMetadataAndIndex(index, documentLenghtMap);
     }
 
-
+// Test using Main
+    /*
     public static void main(String args[]) {
-        String stemDocPath = "/Users/local/Downloads/cacm_stem.txt";
+        String stemDocPath= "src" + File.separator + "main" + File.separator +
+                "resources" + File.separator + "testcollection" + File.separator + "cacm_stem.txt";
         try {
             DocMetadataAndIndex docMetadataAndIndex = generateIndex(stemDocPath);
-            System.out.println("Inverted index map for holt: " + docMetadataAndIndex.getIndex().get("holt"));
+            System.out.println("Stemmed Inverted index created!");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
     }
+    */
 }
+
