@@ -1,0 +1,710 @@
+LUCENE_NoStopNoStem
+
+Query
+Algorithms or statistical packages for ANOVA, regression using least
+squares or generalized linear models.  System design, capabilities,
+statistical formula are of interest.  Student's t test, Wilcoxon and
+sign tests, multivariate and univariate components can be included.
+
+Top 100 Results (8 millisecs)
+
+
+DocID: CACM-1474
+
+validi<t>y <of> <t>hese <models>.  i<t> is concluded <t>ha<t> <t>he <models>  
+<are> in general very good.  discrepancies <are>  
+bo<t>h r<are> <<and>> mild.  <t>he <t>es<t> <t>echniques <can> also <be>  
+
+
+DocID: CACM-2634
+
+<<and>> <t>he resul<t>s <are> summarized as <t>o cos<t> <<and>> perf<<or>>mance.  
+<<and>> use, <t>es<t>s were made f<<or>> each <of> <t>hese <sys<t>em>s,  
+<are> osiris, spss, bmd, da<t>a-<t>ex<t>, <<and>> <t>sar.  
+
+
+DocID: CACM-1344
+
+componen<t>s <<and>> calcula<t>ed f s<t>a<t>is<t>ics f<<or>> <t>he model <t>erms is <included>.  
+<<s<t>a<t>is<t>ical>> compu<t>a<t>ions based upon algebraically specified <models>  
+me<t>hod <of> perf<<or>>ming calcula<t>ions f<<or>> <<s<t>a<t>is<t>ical>> <models>  
+
+
+DocID: CACM-3138
+
+an efficien<t> <<and>> numerically s<t>able me<t>hod is presen<t>ed f<<or>> <t>he problem <of>  
+<t>es<t> cases <<and>> some sample compu<t>ing <t>imes <are> presen<t>ed.  
+alg<<or>>i<t>hm <are> men<t>ioned.  a simple means <of> cons<t>ruc<t>ing  
+
+
+DocID: CACM-2849
+
+f<<or>> err<<or>> con<t>rolled communica<t>ion <are> <included> f<<or>> comple<t>eness.  
+<using> packe<t> address recogni<t>ion.  <de<sign>> principles  
+kilome<t>er <of> coaxial cable.  a model f<<or>> es<t>ima<t>ing perf<<or>>mance  
+
+
+DocID: CACM-1709
+
+f<<or>> s<t>epwise mul<t>iple <linear> <regression> requires  
+<of> <t>he conven<t>ional alg<<or>>i<t>hm <<and>> <t>his  
+a modifica<t>ion <of> efroymson's <t>echnique f<<or>> s<t>epwise <regression> analysis  
+
+
+DocID: CACM-1691
+
+<t>o <be> free from <t>his defec<t>.  <t>he applicabili<t>y <of> <t>hese  
+having 36 <<or>> m<<or>>e bi<t>s per w<<or>>d, may no<t> <be> op<t>imum  
+<of> r<<and>>om num<be>r genera<t><<or>>s f<<or>> <t>he ibm 360  
+
+
+DocID: CACM-1695
+
+means f<<or>> specifica<t>ion <<and>> modifica<t>ion <of> a ne<t>w<<or>>k <<and>>  
+<<and>> da<t>a from a library.  <t>he <sys<t>em>, opera<t>ed en<t>irely  
+ne<t>w<<or>>ks <are> buil<t> up from componen<t>s represen<t>ing  
+
+
+DocID: CACM-3166
+
+<are> analyzed.  <t>wo <of> <t>he <alg<<or>>i<t>hms> <are> well-known in <t>he <<s<t>a<t>is<t>ical>>  
+<<and>> compu<t>a<t>ional li<t>era<t>ure; <t>he o<t>her <t>wo <are> new <alg<<or>>i<t>hms>  
+<of> <t>he <alg<<or>>i<t>hms>, one new, one old, <are> subs<t>an<t>ially m<<or>>e accura<t>e  
+
+
+DocID: CACM-1698
+
+<are> needed in cer<t>ain aspec<t>s <of> opera<t>ing <sys<t>em>  
+<sys<t>em> <de<sign>>, inpu<t>-ou<t>pu<t> <de<sign>>  
+vir<t>ual consoles <models> <t>he collec<t>ion <of> ac<t>ual  
+
+
+DocID: CACM-1366
+
+<<and>> <of> some <of> <t>he involved in comparing s<of><t>w<are> <packages>  
+which none <of> <t>he m<<or>>e general-purpose <packages> do <<and>>  
+<of> six simula<t>ion languages <<and>> <packages>: simscrip<t>,  
+
+
+DocID: CACM-2771
+
+<can> <be> moved, scaled, <<or>> ro<t>a<t>ed.  solids may also <be>  
+<of> solid objec<t>s <t>o <be> syn<t>hesized <<and>> s<t><<or>>ed  
+<are> concise, readily composed, <<and>> <are> given in <t>erms  
+
+
+DocID: CACM-1631
+
+<of> <t>he <t>es<t>s <are> presen<t>ed.  <t>hese par<t>icular <t>es<t>s indica<t>e  
+<t>es<t>s.  <t>he <t>es<t>s <are> descri<be>d <<and>> <t>he resul<t>s  
+recommended <t>ha<t> sui<t>able <t>es<t>s <be> applied <t>o all  
+
+
+DocID: CACM-3087
+
+<de<sign>> <<and>> implemen<t>a<t>ion <of> <t>his <sys<t>em> is descri<be>d <<and>>  
+<of> <sys<t>em> componen<t>s <<and>> examples <of> overall <sys<t>em>  
+ellipsis <<and>> pronoun reference problems.  o<t>her <sys<t>em> componen<t>s  
+
+
+DocID: CACM-2604
+
+<t>heir <are>as <are> in specified prop<<or>><t>ions <<and>> <t>ha<t> <t>he  
+<are> <included>.  
+<t>he region <de<sign>> problem <of> par<t>i<t>ioning a region in<t>o  
+
+
+DocID: CACM-1946
+
+<alg<<or>>i<t>hms> f<<or>> compu<t>ing <t>he resul<t>an<t> <of> <t>wo  
+s<t>ep <of> compu<t>a<t>ion in solving <sys<t>em>s <of> polynomial  
+in<t>roduced, <t>he ex<t>en<t> <of> propaga<t>ion <of> err<<or>>s caused by  
+
+
+DocID: CACM-1816
+
+<generalized> <leas<t>> <squ<are>s> fi<t> by <<or>><t>hogonal  
+<leas<t>> <squ<are>s>, curve fi<t><t>ing, <<or>><t>hogonal polynomials,  
+wa<t>son, w. <t>.  
+
+
+DocID: CACM-2993
+
+<linear> programming, cycling, queueing <models>  
+f<<or>> a cer<t>ain class <of> queues has resul<t>ed in  
+ko<t>iah, <t>. c. <t>.  
+
+
+DocID: CACM-1206
+
+<of> <t>he irf.  da<t>a compa<t>ibili<t>y <t>es<t>s wi<t>h any  
+<of> curve fi<t><t>ing <are> no<t>ed.  
+num<be>r <of> differen<t> equa<t>ions <can> <be> made quickly.  
+
+
+DocID: CACM-2670
+
+non<linear> <leas<t>> <squ<are>s> frequen<t>ly arise f<<or>> which  
+<t>he variables <t>o <be> solved f<<or>> <can> <be> separa<t>ed  
+alg<<or>>i<t>hm f<<or>> non<linear> <leas<t>> <squ<are>s> problems  
+
+
+DocID: CACM-2373
+
+<<and>> from ensemble-average  <<s<t>a<t>is<t>ical>>   
+<t>he se<t> <of> dis<t>inc<t> pages among <t>he <t> mos<t> recen<t>ly  
+w<<or>>king-se<t> model, paging, paging <alg<<or>>i<t>hms>,  
+
+
+DocID: CACM-3142
+
+end <t>arge<t>s <of> a compu<t>erized process is assessed.  how many <<and>>  
+<t>hem?  wha<t> <can> <be> learned by <de<sign>>ers <of> large managemen<t> <packages>  
+<<or>>ganiza<t>ions <<and>> <t>heir public.  also <t>he role <of> po<<or>> man  
+
+
+DocID: CACM-1629
+
+<t>he maj<<or>> <de<sign>> cri<t>eria <of> ease <of> use, ease <of> modifica<t>ion,  
+flexibili<t>y <of> inpu<t> <<and>> de<t>ail <of> ou<t>pu<t>  
+a package <of> f<<or>><t>ran <<s<t>a<t>is<t>ical>> programs f<<or>> use  
+
+
+DocID: CACM-2994
+
+plo<t><t>er, <<or>> ma<t>rix prin <t>er <using> only <sign> <t>es<t>ing <<and>>  
+a <linear> alg<<or>>i<t>hm f<<or>> incremen<t>al digi<t>al display <of> circular arcs  
+descri<be>s me<t>hodology f<<or>> producing do<t> <<or>>  
+
+
+DocID: CACM-2062
+
+<<s<t>a<t>is<t>ical>> precision is calcula<t>ed.  also <t>he cos<t> <of> compu<t>er <t>ime  
+<t>he cos<t> <of> compu<t>er <t>ime required <t>o achieve given levels <of>  
+sampling, <models>, experimen<t>al <de<sign>>  
+
+
+DocID: CACM-1252
+
+<of> some <<or>>ganiza<t>ions, <<and>> a symbolic no<t>a<t>ion f<<or>> <t>he  
+<<and>> an approach <t>owards au<t>oma<t>ic <sys<t>em> <de<sign>>  
+<<and>> <t>ime-consuming par<t> <of> <sys<t>em> <de<sign>> <<and>> programming  
+
+
+DocID: CACM-1433
+
+f<<or>>mulas <are> given f<<or>> <t>he momen<t>s <using>  
+as <linear> programming <models> grow bigger <<and>>  
+<t>o <de<sign>> m<<or>>e efficien<t> <alg<<or>>i<t>hms>.  <t>his paper is  
+
+
+DocID: CACM-1398
+
+<are> developed by which some variables <are> kep<t> on f<<or>>  
+<t>ermina<t>ion <of> <t>he searching process <are> derived  
+<of> <t>he <t>ype <of> mul<t>ivaria<t>e problem <t>ha<t> is  
+
+
+DocID: CACM-2188
+
+<are> in <t>urn used <t>o find general display <sys<t>em>  
+graphics <sys<t>em>.  <t>he parame<t>ers <of> <t>he model <are> func<t>ions  
+cos<t>, <<and>> <t>he dis<t>ribu<t>ion <of> da<t>a s<t><<or>>age <<and>>  
+
+
+DocID: CACM-3150
+
+<<and>> objec<t>s wi<t>h which we build.  <t>his paper analyzes some <of> <t>he  
+<alg<<or>>i<t>hms>, <t>owards <t>he descrip<t>ion <of> <t>he proper<t>ies <of> <t>he <packages>  
+<<and>> lays ou<t> some possible direc<t>ions f<<or>> fu<t>ure research.  
+
+
+DocID: CACM-2786
+
+<<and>> <t>o use by people  f<<or>> example, secre<t>aries <<and>>  
+<<and>> reverse half-line mo<t>ions.  <t>he <sys<t>em>  
+<can> <be> learned in an hour <<or>> so, f<<or>> i<t> has few rules  
+
+
+DocID: CACM-1609
+
+<are> encouraging <<and>> indica<t>e <t>ha<t> fur<t>her experimen<t>a<t>ion would <be> w<<or>><t>hwhile.  
+schedule <can> <be> ob<t>ained.  known <alg<<or>>i<t>hms> f<<or>> carrying  
+each course is <included> a<t> <leas<t>> once, <are> selec<t>ed.  
+
+
+DocID: CACM-1978
+
+rou<t>ines which <are> easy <t>o use <<and>> also <t>ake advan<t>age <of> <t>he  
+da<t>a.  in conclusion, <are>a f<<or>> fu<t>ure w<<or>>k in <t>his field <are> discussed.  
+an implemen<t>a<t>ion <of> an on-line <leas<t>> <squ<are>s> da<t>a-fi<t><t>ing  
+
+
+DocID: CACM-1637
+
+<of> <t>he genera<t>ing process, <<and>> es<t>ima<t>ion <of>  
+da<t>a <<and>> independen<t> observa<t>ions <are>  
+descri<be>d.  a way <t>o <t>es<t> <t>he difference <of> <t>he mean  
+
+
+DocID: CACM-2951
+
+<sys<t>em> da<t>a <are> curren<t>ly ob<t>ainable, a<t> <leas<t>> f<<or>>  
+<t>o descri<be> <<and>> predic<t> <t>he response <t>ime f<<or>>  
+measure <of> <sys<t>em> ac<t>ivi<t>y <<or>> load level.  
+
+
+DocID: CACM-1410
+
+<be> ob<t>ained wi<t>h a biphase <<or>> <t>riphase hyperexponen<t>ial dis<t>ribu<t>ion.  
+is assumed <t>o <be> s<t>a<t>ionary, <<and>> <t>o <be> defined by <t>he  
+<t>he op<t>imiza<t>ion <of> <t>ime-sh<are>d <sys<t>em> perf<<or>>mance  
+
+
+DocID: CACM-2665
+
+<t>he aid <of> supplemen<t>al <t>ag bi<t>s <<or>> s<t>acks.  
+<of> primarily <t>he<<or>>e<t>ical <in<t>eres<t>>, shows <t>ha<t> wi<t>hou<t>  
+<t>wo new <alg<<or>>i<t>hms> <are> presen<t>ed f<<or>> lis<t> s<t>ruc<t>ure  
+
+
+DocID: CACM-2145
+
+<t>han logical <de<sign>>.  i<t> <can> <be> used <t>o <de<sign>>  
+componen<t>s such as <t>ransis<t><<or>>s <<and>> resis<t><<or>>s have <be>en  
+connec<t>ion.  i<t> <can> bring <t>he num<be>r <of> successful  
+
+
+DocID: CACM-1264
+
+<<or>> braille.  even <t>hough <t>his <sys<t>em> was wri<t><t>en f<<or>>  
+jobs may <be> ba<t>ched, so <t>ha<t> card h<<and>>ling <<and>> los<t>  
+ba<t>ch ou<t>pu<t>, <<and>> upda<t>e <<or>> duplica<t>e <t>he <sys<t>em> <t>ape  
+
+
+DocID: CACM-2525
+
+<<and>> analy<t>ic err<<or>> es<t>ima<t>es f<<or>> some <of> <t>he  
+<of> <t>es<t>s <of> <t>he accuracy <of> cer<t>ain ari<t>hme<t>ic  
+a <<s<t>a<t>is<t>ical>> s<t>udy <of> <t>he accuracy <of> floa<t>ing poin<t> num<be>r <sys<t>em>s  
+
+
+DocID: CACM-2216
+
+<are> in agreemen<t> wi<t>h previously published resul<t>s f<<or>> <t>he  
+eff<<or>><t>.  <<s<t>a<t>is<t>ical>> <t>es<t>s <of> <t>he values <of> several  
+dis<t>ribu<t>ion <of> branching ra<t>io, <<and>> f<<or>> <t>he second momen<t>  
+
+
+DocID: CACM-2753
+
+f<<or>> selec<t>ivi<t>y in con<t>rolling search <<and>> <t>he  
+represen<t>a<t>ions <of> objec<t>s <t>o crea<t>e feasible <<or>> op<t>imal  
+simple, well defined, <<and>> charac<t>eris<t>ic <of> many <de<sign>>  
+
+
+DocID: CACM-2395
+
+f<<or>> use wi<t>h <t>he magnified diagonal me<t>hod <of>  
+quadra<t>ic programming f<<or>> non<linear> <regression>  
+non<linear> <regression> wi<t>h <linear> cons<t>rain<t>s.  <t>he  
+
+
+DocID: CACM-2310
+
+<are> necessary  e.g. analyzing li<t>era<t>ure <<or>> <t>eaching  
+<are>as <of> <t>he humani<t>ies f<<or>> which rig<<or>> <<and>> precision  
+ as in indices <<and>> conc<<or>>dances  is widespread <<and>> accep<t>ed  
+
+
+DocID: CACM-3049
+
+<sys<t>em>  bagdams  which provides a common means <of> communica<t>ing  
+componen<t>s <of> <t>he <sys<t>em>.  <t>he <de<sign>> <of> sem<be>gs is founded  
+growing needs <of> a large ba<t>ch environmen<t>, <<and>> is even  
+
+
+DocID: CACM-0865
+
+<be> applicable f<<or>> <t>he firs<t> s<t>age <of> a <generalized> s<<or>><t>  
+wri<t>ing <<and>> processing <can> <be> accomplished  
+will average 2n f<<or>> r<<and>>om inpu<t> rec<<or>>ds, <<and>> <t>ha<t> reading,  
+
+
+DocID: CACM-1420
+
+<<and>> <t>he mul<t>iplier is a primi<t>ive roo<t> <of> <t>ha<t>  
+<t>es<t>s <<and>> in addi<t>ion <t>he <leas<t>> <sign>ifi<can><t> bi<t>s  
+prime.  <t>his genera<t><<or>> passes <t>he usual <<s<t>a<t>is<t>ical>>  
+
+
+DocID: CACM-2645
+
+f<<or>> <t>ha<t> program.  <t>he second process<<or>> is a se<t> <of>  
+<of> <t>he <t>wo languages <are> <included>.  <t>he limi<t>a<t>ions <of>  
+procedures f<<or>> algebraic manipula<t>ion which <can> <be>  
+
+
+DocID: CACM-1171
+
+<of> cons<t>rain<t>s <<and>> <t>he num<be>r <of> variables bu<t>  
+a comparison <of> <t>he primal-simplex <<and>> primal-dual  
+<alg<<or>>i<t>hms> f<<or>> <linear> programming  
+
+
+DocID: CACM-1674
+
+means <of> a few in-line ins<t>ruc<t>ions.  <t>he advan<t>ages <are>  
+<are> discussed, <<and>> some sh<<or>><t> f<<or>><t>ran programs which  
+bray, <t>. a.  
+
+
+DocID: CACM-2167
+
+<of> a <de<sign>>er who wan<t>s <t>o cons<t>ruc<t> a useful <<and>>  
+<alg<<or>>i<t>hms> f<<or>> cer<t>ain classes <of> expressions <are> <included>.  
+<t>he spec<t>rum <of> approaches <t>o <t>he <de<sign>> <of> au<t>oma<t>ic simplifica<t>ion  
+
+
+DocID: CACM-2398
+
+a<t> <t>he <sys<t>em> level shows how <s<t>uden<t>s> <can> mix <t>he advan<t>ages  
+fea<t>ures, <<and>> a general capabili<t>y f<<or>> ex<t>ension <t>hrough  
+<t>eacher/s<t>uden<t> au<t>h<<or>>ed cai <using> <t>he newbasic <sys<t>em>  
+
+
+DocID: CACM-1697
+
+<<and>> a discussion <of> <t>he rela<t>ive meri<t>s <of> such a <sys<t>em>  
+<<and>> ou<t>pu<t> <of> chinese charac<t>ers <are> <included>.  
+<<and>> opera<t>ion <of> <t>he curren<t> <sys<t>em> <are> descri<be>d,  
+
+
+DocID: CACM-2470
+
+<<and>> a <t>echnique is presen<t>ed by which <t>hey <can> <be> in<t>roduced  
+func<t>ions <are> shown <t>o <be> definable in <t>he <sys<t>em>.  
+<t>he<<or>>y  <<or>> i<t>s deriva<t>ives  f<<or>> <t>he concise <<and>>  
+
+
+DocID: CACM-0536
+
+values <of> <t>he ai which minimizes <t>he sum <of> <squ<are>s> <of>  
+<of> simul<t>aneous  no<t> necessarily <linear>  equa<t>ions.  
+non<linear> <regression> <<and>> <t>he solu<t>ion <of> simul<t>aneous equa<t>ions  
+
+
+DocID: CACM-2514
+
+<<and>> <t>es<t> array grammars.  <t>he user <can> con<t>rol <t>he rule  
+an array grammar programming <sys<t>em>  
+consis<t>ing <of> simple geome<t>rical pa<t><t>erns, as  
+
+
+DocID: CACM-2986
+
+<of> precedence rela<t>ions f<<or>> a con<t>ex<t>-free grammar, <can> <be>  
+union, <<and>> inverse, <can> <be> compu<t>ed efficien<t>ly.  
+an expression whose oper<<and>>s <are> sparse rela<t>ions <<and>>  
+
+
+DocID: CACM-2820
+
+<of> <t>he mul<t>ilingual <sys<t>em>.  over 500 <s<t>uden<t>s> have used  
+<<and>> a<t> run <t>ime.  err<<or>>s <are> no<t> au<t>oma<t>ically  
+him find <t>he cause <of> his err<<or>>.  mos<t> componen<t>s  
+
+
+DocID: CACM-1454
+
+f<<or>> <t>he nonprogrammer, difficul<t>y in <using>  
+a simple <<and>> direc<t> language will suffice f<<or>> <t>he  
+f<<or>> programming au<t>oma<t>ic <t>es<t> equipmen<t>  
+
+
+DocID: CACM-1169
+
+e1, e2,..., en <of> n compu<t>er componen<t>s, f<<or>> each  
+c<<or>>responding <t>o <t>he <leas<t>> nega<t>ive incremen<t> <of>  
+me<t>hod f<<or>> finding <t>he minimum <of> a real func<t>ion f p ,  
+
+
+DocID: CACM-1665
+
+<of> even<t>s.  <t>his allows <t>he <sys<t>em> <t>o <be> used in a  
+range <of> applica<t>ions ou<t>side <t>he <are>a <of> lexical  
+a<t> m. as par<t> <of> <t>he aed-1 <sys<t>em>.  <t>his <sys<t>em>  
+
+
+DocID: CACM-2343
+
+<of> <t>he de<t>ails <of> <t>he final overlay configura<t>ion may <be> decided af<t>er <t>he fac<t>.  
+size problems f<<or>> large programs by <using> overlays.  
+<t>he programmer in <t>he <de<sign>>.  <t>he con<t>en<t> <of> overlays  
+
+
+DocID: CACM-2135
+
+f<<or>> rapid compu<t>a<t>ion <of> l  q  f<<or>> a wide class <of>  
+<linear> func<t>ionals, divided differences, new<t>on's in<t>erpola<t>ion f<<or>>mula  
+selec<t>ions <of> q which includes <t>he lagrangian <<and>>  
+
+
+DocID: CACM-1270
+
+<t>es<t> <of> <t>he reliabili<t>y <<and>> efficiency <of> an in<t>egra<t>ion  
+proper<t>ies <of> a compu<t>er <sys<t>em>, in <<or>>der <t>ha<t>  
+<t>wo algol grader programs <are> presen<t>ed f<<or>>  
+
+
+DocID: CACM-1066
+
+<of> problem s<t>a<t>emen<t> in <t>erms <of> basic da<t>a <t>o <linear>  
+<of> <t>he componen<t>s <of> such a <sys<t>em> <are>: <t>ransla<t>ion  
+f<<or>> solving <t>he above-men<t>ioned alg<<or>>i<t>hm, <<and>>  
+
+
+DocID: CACM-2722
+
+<of> <t>he search space  as a da<t>a s<t>ruc<t>ure f<<or>> s<t><<or>>age <of>  
+<of> searches , o  n log n .  search <alg<<or>>i<t>hms>  
+n rec<<or>>d file <are>: inser<t>ion, o  log n ; dele<t>ion <of>  
+
+
+DocID: CACM-1768
+
+which <can> <t>hen parse any sen<t>ence in <t>he language  <<or>>  
+<<and>> possible prefixes, <are> given <<and>> may <be>  
+<of> ar<t>ificial grammars <<and>> on a subse<t> <of> algol.  a  
+
+
+DocID: CACM-3099
+
+pure <<and>> mixed in<t>eger programming problems.  some <of>  
+<be> <t>hough<t> <of> as generaliza<t>ions <of> op<t>imali<t>y condi<t>ions  
+<t>he se<t>s <of> sufficien<t> condi<t>ions presen<t>ed <can>  
+
+
+DocID: CACM-2999
+
+given <t>o some <of> <t>he general problems <of> mul<t>idimensional  
+re<t>rieval <<and>> array processing <sys<t>em> .  
+compu<t>er-based <<s<t>a<t>is<t>ical>> <<and>> da<t>a  
+
+
+DocID: CACM-1517
+
+<t>echnique <of> analysis  possibly no<t> any one <of> <t>he above   
+<of> his experimen<t>al objec<t>ive: <t>he f-<t>es<t> <t>es<t>s <t>he homogenei<t>y  
+an alloca<t>ion <of> produc<t>ive inpu<t>s, <<and>> a <t>o<t>al cos<t>.  
+
+
+DocID: CACM-2787
+
+<of> his choice.  prac<t>ical <t>es<t>s <of> <t>he me<t>hod have  
+shown i<t> <t>o <be> a good basis f<<or>> a realis<t>ic <t>ime<t>abling alg<<or>>i<t>hm.  
+program, which <can> readily <be> coded by <t>he reader  
+
+
+DocID: CACM-3131
+
+f<<or>> 8-bi<t> <<and>> 16-bi<t> implemen<t>a<t>ions <of> focus <are> <included>.  
+<alg<<or>>i<t>hms> especially useful f<<or>> microcompu<t>er con<t>rol <<and>> o<t>her  
+<<or>> in<t>eger ari<t>hme<t>ic f<<or>> a mix<t>ure <of> opera<t>ions, comparable in  
+
+
+DocID: CACM-1856
+
+<are> <t>o <be> <t>augh<t> <t>o <t>he program as <t>hey <are> needed.  
+asser<t>ions f<<or>> <t>he mem<<or>>y <<and>> <t>he <capabili<t>ies> f<<or>>  
+<t>hus <t>he addi<t>ion <of> a single fac<t>ual asser<t>ion <<or>>  
+
+
+DocID: CACM-2490
+
+<be> specified dynamically.   if v is <t>he num<be>r <of> ver<t>ices  
+componen<t>s <<and>> simple pa<t>hs.  <t>he alg<<or>>i<t>hm f<<or>> par<t>i<t>ioning  
+<<and>> e is <t>he num<be>r <of> edges, each alg<<or>>i<t>hm  
+
+
+DocID: CACM-1977
+
+in<t>erac<t>ive <sys<t>em> is descri<be>d <<and>> several examples <of> i<t>s use <are> given.  
+mono<t>onici<t>y <<or>> convexi<t>y <of> <t>he approxima<t>ion <can> also <be> imposed. <t>his  
+da<t>a by means <of> a <linear> combina<t>ion <of> func<t>ions  including  
+
+
+DocID: CACM-3136
+
+<be> so over simplified as <t>o <be> meaningless.  mul<t>iple-<regression> <models>  
+measures <of> price/perf<<or>>mance such as "grosch's law" <are> shown <t>o  
+predic<t>ing <sys<t>em> cos<t> as a func<t>ion <of> several hardw<are>  
+
+
+DocID: CACM-1650
+
+<of> levels <of> m<<or>>e <t>han one fac<t><<or>>.  <t>hese <are> perf<<or>>med  
+f<<or>> some levels <of> a fac<t><<or>> <<or>> f<<or>> combina<t>ions  
+<of> variance <of> comple<t>e fac<t><<or>>ial experimen<t>s <<and>> in  
+
+
+DocID: CACM-2828
+
+<t>echniques <are> possible.  firs<t>, <t>he range <of> complexi<t>y  
+<t>ha<t> should <be> presen<t> in primary s<t><<or>>e f<<or>> immedia<t>e  
+hierarchical geome<t>ric <models> f<<or>> visible surface <alg<<or>>i<t>hms>  
+
+
+DocID: CACM-3105
+
+access cons<t>rain<t>s <can> apply bo<t>h <t>o simple objec<t>s, <<and>>  
+con<t>rolled sharing <of> inf<<or>>ma<t>ion is needed <<and>>  
+<t>he cons<t>rain<t>s <are> s<t>a<t>ed declara<t>ively, <<and>> <can>  
+
+
+DocID: CACM-2249
+
+<t>hree me<t>hods f<<or>> genera<t>ing ou<t>comes on mul<t>ivaria<t>e  
+<leas<t>> compu<t>er execu<t>ion <t>ime <<and>> mem<<or>>y space when u<t>ilizing  
+a comparison <of> mul<t>ivaria<t>e n<<or>>mal genera<t><<or>>s  
+
+
+DocID: CACM-1957
+
+a cons<t>ruc<t> which may <be> added <t>o a lis<t> processing <sys<t>em> <<or>> any  
+f<<or>> i<t>s use <are> given.  <t>he lis<t> se<t> genera<t><<or>> is  
+<t>he lis<t> se<t> genera<t><<or>> is defined <<and>> <alg<<or>>i<t>hms>  
+
+
+DocID: CACM-2592
+
+by <t>es<t> problems wi<t>h known solu<t>ions.  <t>he reason f<<or>>  
+<<and>> have a wide range <of> numerical charac<t>eris<t>ics.  
+<of> <t>es<t> problems <t>ha<t> <are> <of> arbi<t>rary size  
+
+
+DocID: CACM-0867
+
+<leas<t>> <squ<are>s> fi<t><t>ing <of> planes <t>o surfaces <using> dynamic programming  
+f<<or>> any <t>ype <of> closed <are>a.  finally, applica<t>ions  
+over cer<t>ain <t>ypes <of> sub<are>as <of> <t>he  x,y -space.  
+
+
+DocID: CACM-0409
+
+<of> dis<t>inc<t> da<t>a descrip<t>ions <<and>> <t>he con<t>en<t> <<and>>  
+<<and>> ins<t>ances <of> large <<and>> complex da<t>a se<t>s,  
+f<<or>> accep<t>ing, s<t><<or>>ing, <<and>> re<t>rieving bo<t>h descrip<t>ions  
+
+
+DocID: CACM-2970
+
+illus<t>ra<t>es <t>he me<t>hod <using> <t>he emp<t>y <<and>> idle s<t>a<t>e  
+me<t>hod due <t>o page [9] <can> <be> used <t>o ob<t>ain a specified  
+proper<t>y <of> queueing <sys<t>em>s in <t>he analysis  
+
+
+DocID: CACM-2534
+
+<can> op<t>ionally <be> considered ei<t>her source <t>es<t> <<or>> commen<t>.  
+<de<sign>> <<and>> implemen<t>a<t>ion <of> a diagnos<t>ic compiler f<<or>> pl/i  
+<<and>> execu<t>ion, <<and>> <t>he <de<sign>> <of> pl/c is domina<t>ed by  
+
+
+DocID: CACM-2402
+
+<<and>> will con<t>inue <t>o <be> a field <of> in<t>ense <in<t>eres<t>>.  
+f<<or>> large s<t>ruc<t>ures.  <t>his is <sign>ifi<can><t>, f<<or>> crys<t>allography  
+f<<or>> s<t>ruc<t>ure de<t>ermina<t>ion <t>ha<t> <can> make effec<t>ive  
+
+
+DocID: CACM-1924
+
+<be> in main mem<<or>>y a<t> one <t>ime.  examina<t>ion <of> addi<t>ion,  
+ma<t>rix <alg<<or>>i<t>hms>, array processing, paging <alg<<or>>i<t>hms>,  
+<of> <t>he num<be>r <of> pages <of> main mem<<or>>y available  
+
+
+DocID: CACM-2217
+
+<of> pp.  a num<be>r <of> experimen<t>s were perf<<or>>med <t>o <t>es<t>  
+<<and>> <t>he proving program, <<and>> f<<or>> analyzing <<and>>  
+f<<or>> use in <t>he au<t>oma<t>ic learning <of> <be><t><t>er  
+
+
+DocID: CACM-2766
+
+opera<t>es in <linear> <t>ime <<and>> does no<t> require <t>ag bi<t>s.  
+copying cyclic lis<t> s<t>ruc<t>ures in <linear> <t>ime <using> bounded w<<or>>kspace  
+<t>o fixed <<or>> variable size nodes.  
+
+
+DocID: CACM-0981
+
+whe<t>her <t>heir sum <can> vary in <sign>, <<and>> whe<t>her  
+whe<t>her <t>he num<be>rs <be>ing accumula<t>ed <can> vary in <sign>,  
+is <t>ha<t> <t>he sum <of> a se<t> <of> num<be>rs, rounded  
+
+
+DocID: CACM-2439
+
+<t>he <sys<t>em> execu<t>ive <<or>> in any <of> <t>he <sys<t>em>'s compilers <<or>> in<t>erpre<t>ers.  
+<be> wri<t><t>en <using> s<t><<and>>ard inpu<t> <<and>> ou<t>pu<t> ins<t>ruc<t>ions  
+<sys<t>em> <can> communica<t>e wi<t>h many remo<t>e  
+
+
+DocID: CACM-1468
+
+<sys<t>em>, has now <be>en rewri<t><t>en f<<or>> a cdc 3600 <sys<t>em>.  
+syn<t>ax-direc<t>ed in<t>erpre<t>a<t>ion <of> classes <of> pic<t>ures  
+a descrip<t>ive scheme f<<or>> classes <of> pic<t>ures based  
+
+
+DocID: CACM-2646
+
+<<or>> drum.  i<t> discusses <t>he an<t>icipa<t><<or>>y inpu<t> <<and>> ou<t>pu<t>  
+<of> blocks <of> da<t>a <t>o buffer <<and>> primary mem<<or>>ies  
+ma<t>rix <<and>> par<t>ial differen<t>ial equa<t>ion me<t>hods <are>  
+
+
+DocID: CACM-1844
+
+<be> run on a dedica<t>ed ba<t>ch <sys<t>em> if compa<t>ible compu<t>ers <are> used.  
+<of> a bank <of> in<t>erchangeable compu<t>ers, each <of> which  
+<<and>> supervises <t>he collec<t>ion <<and>> dis<t>ribu<t>ion <of> messages  
+
+
+DocID: CACM-1411
+
+<of> means, s<t><<and>>ard devia<t>ions <<and>> c<<or>>rela<t>ion  
+mean <be> ob<t>ained from a subse<t> <of> <t>he da<t>a.  
+<of> <t>he curren<t> value <of> <t>he s<t>a<t>is<t>ic.  
+
+
+DocID: CACM-1572
+
+varie<t>y <of> <t>ime-sharing <sys<t>em>s.  i<t> <can> also <be>  
+<alg<<or>>i<t>hms> <<or>> <t>echniques.  f<<or>> <t>he sake  
+used <t>o assis<t> in <t>he <de<sign>> <<and>> developmen<t> <of> new <t>ime-sharing  
+
+
+DocID: CACM-1423
+
+<alg<<or>>i<t>hms> <are> fairly complica<t>ed <<and>> require  
+is non-singular <<and>> <t>he case when m>n <<and>> rank a   
+a simple alg<<or>>i<t>hm f<<or>> compu<t>ing <t>he <generalized> inverse <of> a ma<t>rix  
+
+
+DocID: CACM-3008
+
+<of> graphs <are> used <t>o model <t>he loss <of> proximi<t>y involved  
+only bounded loss <of> average proximi<t>y, bu<t> <can> <be> so  
+loss <of> proximi<t>y is <t>hen considered, <<and>> i<t> is shown  
+
+
+DocID: CACM-2153
+
+<<or>> lesson is divided in<t>o <t>hree modes <of> ins<t>ruc<t>ion  
+accep<t>ance, <<and>> opera<t>ional cos<t> <are> <t>he resul<t> <of> <t>es<t>ing  
+<of> s<t>udy, <<and>> has <be>en used f<<or>> <t>wo semes<t>ers  
+

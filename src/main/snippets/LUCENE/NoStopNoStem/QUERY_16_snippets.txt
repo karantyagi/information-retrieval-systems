@@ -1,0 +1,708 @@
+LUCENE_NoStopNoStem
+
+Query
+find all descriptions of file handling in operating systems based on
+multiple processes and message passing.
+
+Top 100 Results (8 millisecs)
+
+
+DocID: CACM-3141
+
+<message> ext<in>cti<on> <in> order to achieve an average number <of>  
+<in> circular c<on>figurati<on>s <of> <processes>  
+numbered <processes> arranged <in> a circle, <in> which no central  
+
+
+DocID: CACM-1135
+
+<in> the program  e.g. modificati<on> <of> <on>ly <on>e entry <of> the  
+<of> flowcharts .  here an <in>variant pattern <of> procedure  
+representati<on> <of> process as sets  tables  <of> relati<on>s  
+
+
+DocID: CACM-2080
+
+es.  a fundamental set <of> primitives <all>ows the dynamic creati<on> <and> c<on>trol  
+nucleus simulates an envir<on>ment <in> which program executi<on> <and> <in>put/output  
+multiprogramm<in>g, operat<in>g <systems>, par<all>el <processes>, process c<on>cept,  
+
+
+DocID: CACM-2378
+
+<in> detail, outl<in>es the rema<in>der <of> the supervisor, <and>  
+active <processes> <and> manages memory, h<and>le errors, <and>  
+part <of> the supervisor  usu<all>y a wait <on> the occurrence  
+
+
+DocID: CACM-1750
+
+<and> functi<on>s <of> such a system are <based> <on> a  
+c<on>siderati<on>s <in> the design <of> a <multiple>  
+operat<in>g <systems>, c<on>trol data corporati<on> 6600, operat<in>g system with ecs  
+
+
+DocID: CACM-0243
+
+dimensi<on>s <of> the array.  effectiveness <of> the codes  
+for detect<in>g <and> correct<in>g <multiple> errors <in>  
+array.  the <processes> <of> encod<in>g <and> error detecti<on>  
+
+
+DocID: CACM-2629
+
+operat<in>g <systems>, <in>clud<in>g:  1  a hierarchical <file> system  
+a number <of> features seldom found even <in> larger  
+language selectable <on> a per-user basis; <and>  5  over  
+
+
+DocID: CACM-3021
+
+*  q-1  .  the security <of> the system rests <in> part <on>  
+funds transfer" <systems>.  a <message> is  
+has obvious applicati<on>s <in> "electr<on>ic mail" <and> "electr<on>ic  
+
+
+DocID: CACM-1854
+
+<of> the <in>terrupt <and> permits the specificati<on> <of> c<on>current  
+<of> par<all>el <processes>.  a set <of> rout<in>es  
+a potent source <of> programm<in>g pitf<all>s <and> errors, <and>  
+
+
+DocID: CACM-0409
+
+<of> dist<in>ct data <descripti<on>s> <and> the c<on>tent <and>  
+<based> <on> a master <file> c<on>cept <and> has provisi<on>s  
+data <and> algorithms may be expressed <in> a family  
+
+
+DocID: CACM-2522
+
+<and> are source <all>ocati<on> strategy <based> <on>  
+operat<in>g <systems>, supervisory <systems>  
+its behavior, <and> <in>dicates future directi<on>s <of> research  
+
+
+DocID: CACM-3157
+
+<of> elements taken from s.  the given order<in>g <on> s <in>duces  
+use <of> relatively simple <and> <in>tuitive term<in>ati<on> functi<on>s <in> otherwise  
+programs def<in>ed <in> terms <of> sets <of> rewrit<in>g rules.  
+
+
+DocID: CACM-2740
+
+<and> the performance are discussed, too.  the operat<in>g  
+a large operat<in>g system as a set <of> cooperat<in>g  
+sequential <processes>.  the <processes> synchr<on>ize by  
+
+
+DocID: CACM-2184
+
+<on> the mean<in>g <of> names <in> programm<in>g <systems>  
+language <and> the <file> names <of> an operat<in>g system.  
+<based> up<on> the first two terms <in> the equivalent  
+
+
+DocID: CACM-2217
+
+<and> the prov<in>g program, <and> for analyz<in>g <and>  
+<and> implemented for use with the <multiple>  
+performance <on> problems <in> a specific doma<in> <and>  
+
+
+DocID: CACM-2688
+
+analyses that cost <and> proposes a method c<all>ed <multiple>  
+specificati<on>s <of> this comb<in>ati<on> for a <file> with given  
+memory than is typical <of> most <in>verted <file> <and> similar  
+
+
+DocID: CACM-2438
+
+a model <and> stack implementati<on> <of> <multiple> envir<on>ments  
+<in> both time <and> space.  this paper presents an implementati<on>  
+corout<in>es, backtrack<in>g, label-valued variables, <and>  
+
+
+DocID: CACM-3148
+
+program <of> development <in> advanced programm<in>g languages, <and> relati<on>s  
+languages.  <based> <on> primitive noti<on>s <of> module, <message>,  
+programm<in>g a wide range <of> tasks.  this is part <of> an ambitious  
+
+
+DocID: CACM-0696
+
+edp <systems> are used to record <and> c<on>trol the  
+records <all> <in>com<in>g <and> outgo<in>g data <on> magnetic tape  
+facilities located <in> van nuys <and> sunnyvale,  
+
+
+DocID: CACM-2320
+
+<of> programs <and> permits a large class <of> time-dependent  
+operat<in>g <systems>, c<on>current <processes>, shared  
+representati<on> <of> multiprogramm<in>g <in> a high  
+
+
+DocID: CACM-2622
+
+<in> the computer.    <all> aspects <of> the system, <in>clud<in>g  
+<in> many computer operat<in>g <systems> a user authenticates  
+program.  the <in>tegrity <of> the system depends <on>  
+
+
+DocID: CACM-2002
+
+<systems> or other attributes <of> the plot.  this enables plots <of> any  
+d <in> a way such that the user could supply the m<in>imum <of> <in>formati<on>,  
+locat<in>g, <and> scal<in>g  <in> the layout <of> <multiple> subplots  <of>  
+
+
+DocID: CACM-2266
+
+to the zeros is guaranteed.  <multiple> zeros <and>  
+<all> zeros <of> a polynomial with <on>ly real zeros  
+an algorithm is described <based> <on> newt<on>'s  
+
+
+DocID: CACM-1003
+
+the reactants <and> the flow <of> heat packets, <in> such a  
+the program is <based> <on> a direct statement <of>  
+as <on>e <in> which the physical laws <of> a process  
+
+
+DocID: CACM-2379
+
+operat<in>g <systems>, system design, levels <of> abstracti<on>,  
+<in> this paper the development <of> the system is  
+the design <of> the venus operat<in>g system  
+
+
+DocID: CACM-2582
+
+it is <based> <on> the c<on>cept <of> critical work<in>g set, a  
+<in>teractive text editor <and> the <file> system module  
+<of> an operat<in>g system have shown its substantial superiority  
+
+
+DocID: CACM-1749
+
+which <all> activities are divided over a number <of>  
+<of> the design <and> the correctness <of> its implementati<on>.  
+sequential <processes>.  these sequential <processes> are placed  
+
+
+DocID: CACM-1753
+
+memory are def<in>ed <and> the use <of> pag<in>g <and>  
+multics c<on>cepts <of> <processes>, address space, <and> virtual  
+may share procedures <and> data is discussed <and> the  
+
+
+DocID: CACM-2833
+
+which use <multiple> levels <of> storage, <and> large virtual  
+to reference counts, <and> a <multiple> reference  
+algorithms are designed to work well <in> <systems>  
+
+
+DocID: CACM-2376
+
+that senders <and> receivers will never operate <on>  
+many send<in>g <processes> which deposit <message>s <in> a buffer  
+<and> many receiv<in>g <processes> which remove <message>s  
+
+
+DocID: CACM-1846
+
+<on> simulat<in>g networks <of> par<all>el <processes>  
+event <systems>, particularly computer <systems>, <on>  
+<of> <in>terc<on>nected sequential <processes>.  briefly reviewed  
+
+
+DocID: CACM-3002
+
+the <file> system uses <on>e or more storage devices, <and>  
+<on>e <of> the ma<in> objectives <in> the design <of>  
+a <file> system is the reducti<on> <of> storage <and> data  
+
+
+DocID: CACM-1747
+
+<of> a virtual computer are expla<in>ed.  examples <of> applicati<on>s  
+<of> the criteria c<on>cern the read<in>g <of>  
+<processes>, protecti<on> <in> multiprogrammed <systems>,  
+
+
+DocID: CACM-1199
+
+center <in> terms <of> <in>formati<on> nets, decisi<on> <processes>,  
+<and> the applicati<on> <of> the results are discussed.  
+chang<in>g technologies <of> hardware <and> s<of>tware  
+
+
+DocID: CACM-2750
+
+<in> such a situati<on>, we must <f<in>d> a set <of> assumpti<on>s  
+<of> data set <all>ocati<on>, storage system c<on>figurati<on>, <and> new device designs.  
+storage <systems> is usu<all>y <based> <on> qualitative,  
+
+
+DocID: CACM-3039
+
+<all> <of> the activity needed for garbage detecti<on> <and> collecti<on>  
+between sequential <processes> with m<in>imized  
+<processes> with very little mutual <in>terference  
+
+
+DocID: CACM-2424
+
+<of> operat<in>g system decisi<on>s is used <on> the prime system  
+user gratuitously even <in> the presence <of> a  
+c<on>structi<on> <of> an operat<in>g system which does not make certa<in>  
+
+
+DocID: CACM-2307
+
+reorganizati<on> <of> the stored <in>formati<on> as a functi<on> <of>  
+<and> <of> the mechanizati<on> <of> documentati<on>  
+<based> <on> user needs, <and> for a c<on>t<in>uous  
+
+
+DocID: CACM-3127
+
+over a large set <of> mach<in>es.  it is currently runn<in>g <on> two m<in>icomputers  
+encourages structur<in>g programs as networks <of> communicat<in>g <processes>  
+portability, real time, operat<in>g <systems>, m<in>icomputer  
+
+
+DocID: CACM-2342
+
+<processes> as well as to s<of>tware <processes>, <and>  
+subproblems, <in> the form <of> par<all>el programs, <and> <in>formal  
+the formati<on> <of> partial rules <and> the calculati<on> <of>  
+
+
+DocID: CACM-2168
+
+use <of> <on>ly a s<in>gle size <and> c<on>figurati<on> <of>  
+list trac<in>g <in> <systems> <all>ow<in>g <multiple> cell-types  
+<and> c<on>figurati<on>s <of> list cells, possibly not specified until run time.  
+
+
+DocID: CACM-1976
+
+<all> keys satisfy<in>g any <in>put query derived from a subset <of>  
+field appear<in>g <in> a query has very few possible values.  redundancy, <in> some  
+<on>ly; <and>  4  the avoidance <of> l<on>g str<in>gs <of> keys when an <in>dex  
+
+
+DocID: CACM-2950
+
+<of> a schedul<in>g system which formalizes the noti<on> <of>  
+<in> real operat<in>g <systems>.  the policy-driven scheduler  
+algorithm is developed <and> results <in> the def<in>iti<on>  
+
+
+DocID: CACM-1385
+
+<based> <on> <in>formati<on> from translati<on>s <of> communist  
+with most <of> its mach<in>es probably be<in>g <of>  
+ 4  the trend <of> automati<on>: c<on>trol <of> producti<on> <processes>  
+
+
+DocID: CACM-2949
+
+<on> any computer network.  it is <based> <on> baran's "hot  
+<in> order for the nodes <of> a distributed computer  
+topology, rout<in>g problem <in> networks, distributed operat<in>g  
+
+
+DocID: CACM-1878
+
+depend <on> be<in>g able to <f<in>d> <and> mark nodes that  
+recovery <of> reentrant list structures <in> slip  
+<on>e c<on>sequence <of> the reference-count-<based>  
+
+
+DocID: CACM-2931
+
+<in> the other directi<on> for the more applied parts <of>  
+<of> computati<on>  <in> a way, the statics <of> the problem   
+enter <in> giv<in>g <descripti<on>s> <of> <processes>.  
+
+
+DocID: CACM-1844
+
+<of> a bank <of> <in>terchangeable computers, each <of> which  
+<and> supervises the collecti<on> <and> distributi<on> <of> <message>s  
+<multiple> term<in>al <systems>, term<in>al oriented <systems>,  
+
+
+DocID: CACM-2524
+
+the problem <of> search<in>g the set <of> keys <in>  
+match<in>g, <file> structur<in>g, <file> search<in>g, heuristics, best match  
+query key is discussed.  after "closest," <in> terms <of>  
+
+
+DocID: CACM-2358
+
+<and> carries its own <in>dependent attributes <of> size <and> access  
+<of> <in>formati<on> stored <in> <file>s kept <in> sec<on>dary storage.  
+s<in>ce the size <of> ma<in> memory <on> c<on>temporary <systems>  
+
+
+DocID: CACM-1032
+
+<of> the <file> <based> <on> its history <and> past  
+<of> the <file> with a high probability <of> be<in>g  
+<in> a paper by g<of>fman, verhoeff <and> belzer  associated  
+
+
+DocID: CACM-1462
+
+<of> resp<on>sibility between levels leads to greater efficiency <and>  
+operat<in>g <systems>. this implies that <all> applicati<on>s-no  
+multilevel operat<in>g <systems>  
+
+
+DocID: CACM-2357
+
+<and> fabricati<on>.  <all> aspects <of> the system are  
+<and> developed as part <of> the project cost <on>e  
+an <on>-l<in>e system operat<in>g as part <of> a normal  
+
+
+DocID: CACM-2890
+
+current rout<in>g decisi<on> <on> the future state <of>  
+<of> a l<in>ear <on>e <in> the rout<in>g table ma<in>ta<in>ed at each  
+the optimal <message> rout<in>g <and> the other to illustrate  
+
+
+DocID: CACM-1680
+
+to it, <and> surrender<in>g c<on>trol to the operat<in>g  
+soluti<on> techniques, stored data, <and> <all> other library <and>  
+<and> flexibility <of> computer-assisted <in>structi<on>  
+
+
+DocID: CACM-2482
+
+<based> <on> the c<on>cept <of> the hierarchical operat<in>g  
+mixtures <of> detecti<on>, avoidance, <and> preventi<on>  
+<of> resource <all>ocati<on> <and> still operate together to  
+
+
+DocID: CACM-1677
+
+<and> from programs to data, <and> basis for storage protecti<on>.  
+<of> memory utilizati<on>, variability <of> system compositi<on>  
+storage organizati<on> <in> programm<in>g <systems>  
+
+
+DocID: CACM-2542
+
+at <all> stages <of> its development.  the source language  
+this system is <based> <on> a simple, high level language  
+operat<in>g system development, language process<in>g  
+
+
+DocID: CACM-1752
+
+<and> the results <of> comparative simulati<on>  
+<of> the task schedul<in>g <and> pag<in>g algorithms that were implemented,  
+effects <of> program mix <and> load<in>g variati<on>s are also presented.  
+
+
+DocID: CACM-3119
+
+<multiple> processor <systems>.  issues c<on>sidered <in>clude the impact <of> cpu  
+<on> <multiple> processor <systems>  
+service discipl<in>es <and> distributi<on>s, level <of> multiprogramm<in>g,  
+
+
+DocID: CACM-2339
+
+was placed <on> computerized c<on>structi<on> <of>  
+the feasibility <of> translat<in>g verbal <descripti<on>s>  
+a reference <file> <of> verbal <descripti<on>s> for use by the  
+
+
+DocID: CACM-2407
+
+<systems> <in> organizati<on>s is discussed, <and> a  
+<and> a problems <of> implementati<on> are discussed.  
+programs <in> <in>formati<on> <systems>  
+
+
+DocID: CACM-1748
+
+<and> the nature <of> basic operati<on>s <on> <processes>  
+<systems> is expla<in>ed.  some aspects <of> time-oriented  
+<of> <in>dependent <processes> are presented <and> compared.  
+
+
+DocID: CACM-2947
+
+c<on>sist<in>g <of> the textual str<in>g desired <and> str<in>gs  
+is <in> many ways comparable to <in> teractive bibliographical  
+sitar, a low-cost <in> teractive text <h<and>l<in>g>  
+
+
+DocID: CACM-2188
+
+cost, <and> the distributi<on> <of> data storage <and>  
+<and> helps give a better underst<and><in>g <of> now  
+numbers <of> alternatives; the selecti<on> is <based>  
+
+
+DocID: CACM-2160
+
+<on> the basis <of> a s<in>gle value is permitted.  the <file>  
+<of> lists.  the structure is highly dependent <on> the  
+way <in> which the <file> is to be used <and> is uniquely  
+
+
+DocID: CACM-3026
+
+is <based> <on> a 36-bit word, <on>es complement structure  
+timeshar<in>g, <and> transacti<on> envir<on>ments.  
+languages, data management <systems>,  
+
+
+DocID: CACM-2421
+
+image <and> <on>ly a slight <in>crease <in> executi<on> time over  
+the l<in>es <of> the draw<in>g <in> strips corresp<on>d<in>g to  
+<file> <in> the xy or r<and>om scan format.  scan c<on>verters,  
+
+
+DocID: CACM-0858
+
+sequence <of> merge cycles to effect the merg<in>g <of>  
+drive to a s<in>gle-reel <file> <and> two drives to each <multiple>-reel <file>.  
+a tape <file> merge pattern generator  
+
+
+DocID: CACM-1698
+
+<based> <on> the properties <of> this community  
+are needed <in> certa<in> aspects <of> operat<in>g system  
+statistical models for <in>put-output, operat<in>g  
+
+
+DocID: CACM-2452
+
+<based> <on> these estimates, an appropriate <file>  
+evaluati<on> <and> selecti<on> <of> <file> organizati<on>-a model <and> system  
+<of> data base structure design <and> evaluati<on>.  
+
+
+DocID: CACM-2317
+
+<of> the world's producti<on> programs are written <and> will  
+<and> cobol rema<in> the languages <in> which most  
+<in> the operat<in>g system area <all> major computer  
+
+
+DocID: CACM-2625
+
+<systems> <on> the basis <of> protecti<on>, simplicity <of>  
+lack <of> an efficient absolute address for objects <in>  
+these <systems>.  the direct use <of> a capability as  
+
+
+DocID: CACM-1828
+
+<file> system.  methods for synchr<on>izati<on> <of>  
+discussed <and> their performance compared.  
+par<all>el access<in>g, par<all>el search, <file> search,  
+
+
+DocID: CACM-1728
+
+the frequency <of> page faults, i.e. the frequency <of> those  
+behavior <in> those multiprogramm<in>g <systems> <in> which  
+effects <on> performance <of> changes <in> the amount  
+
+
+DocID: CACM-1514
+
+<on> the expected ga<in> from adjust <in>g matched term retrieval <systems>  
+<of>:  1  the prior proporti<on> <of> omitted terms, <and>  2  the  
+term retrieval <systems>.  the expected ga<in> <and> its probability  
+
+
+DocID: CACM-2138
+
+data structures <in> terms <of> the access algorithm for elements <of> the structure.  
+<systems>, etc.  prime design goals <of> the design are the  
+the def<in>iti<on> <of> the representati<on> <of> <all>  
+
+
+DocID: CACM-1928
+
+<in> executi<on> time <and> space, <and> a facility for <h<and>l<in>g>  
+<of> serial <and> simultaneous activities.  the passage <of>  
+<and> <systems> to be simulated may be comb<in>ati<on>s <of> synchr<on>ous  
+
+
+DocID: CACM-1961
+
+circuits <of> a graph.  the algorithm can be easily modified to <f<in>d> <all>  
+<of> arcs.  the speed is also related to the number <of> circuits  
+<in> the graph to give a relati<on> between speed <and> complexity.  
+
+
+DocID: CACM-2777
+
+str<on>g restricti<on>s <on> the use <of> p <and> v.  these restricti<on>s  
+operat<in>g <systems>, co-operat<in>g <processes>,process  
+<on> a soluti<on> to the cigarette smoker's  
+
+
+DocID: CACM-2060
+
+functi<on>s <and> labels are permissible  results <of> functi<on>s <and> values  
+<of> variables.   2  assignment <and> <in>direct address<in>g are formalized  
+between some reference <and> its value,   3  <all> compound data  
+
+
+DocID: CACM-1959
+
+for the design <and> cod<in>g <of> large shared data base <systems>.  the  
+an <in>terrupt <based> organizati<on> for management <in>formati<on> <systems>  
+<and> the newly <in>troduced c<on>cept <of> "<file> tagg<in>g," which is the  
+
+
+DocID: CACM-2801
+
+algorithm <based> <on> the fixed-length comb<in>ati<on> <of> two  
+three-digit blocks, <and> separately compressed;  
+storage-efficient representati<on> <of> decimal data  
+
+
+DocID: CACM-1210
+
+some comments <on> two years use <of> these subrout<in>es are given.  
+to facilitate <h<and>l<in>g> <of> tape <file>s.  they <all>ow  
+the casual scientific programmer's idea <of> simplicity.  
+
+
+DocID: CACM-1388
+
+<of> such equati<on>s <and> then generates the expansi<on>s  
+<of> any parameters <on> the problem soluti<on> can be  
+an estimate <of> the error <in> the f<in>al result.  a computer  
+
+
+DocID: CACM-0492
+
+<in> the mathematics, the <in>troducti<on> <and>  
+<based> <on> the calculati<on> <of> an address from  
+analysis <of> a <file> address<in>g method  
+
+
+DocID: CACM-1226
+
+<of> an organizati<on> for the data with<in> the <file> can  
+a data <file> is an <in>tegral part <of> a data process<in>g  
+system.  <in> many <systems>, the selecti<on>  
+
+
+DocID: CACM-2017
+
+envir<on>ment characteristic <of> virtual memory mach<in>es.  <descripti<on>s> <of>  
+<of> sort<in>g procedures <in> the c<on>text <of> the dynamic pag<in>g  
+c<on>ceived <and> implemented at ibm research <in> order to explore the  
+
+
+DocID: CACM-2519
+
+psychological <and> <in>formati<on>-process<in>g <processes>, <and>  
+the nature <of> the difficulty <in>volved <in> communicat<in>g  
+devices, the exhibiti<on> <of> the structure <in>herent <in> the  
+
+
+DocID: CACM-1197
+
+it will usu<all>y <f<in>d> a majority <of> them.  
+has been tested <on> a number <of> polynomials with real  
+success was achieved, <in> most <of> the cases tried, with  
+
+
+DocID: CACM-2390
+
+<of> useful comments by the readers <of> a work <and> for <in>teracti<on>  
+<and> the role required <of> readers, writers, <and>  
+<of> papers <in> the mathematical sciences <and>  
+
+
+DocID: CACM-3081
+
+<of> a program, not its semantics.  <in> additi<on>, <multiple>  
+deep, <and> which affects <on>ly the speed <of> executi<on>  
+<in>  lisp 1.5 is presented <in> which c<on>text-switch<in>g  
+
+
+DocID: CACM-1745
+
+use <of> computer <in>st<all>ati<on>s <and> so that the cost <of> their  
+communicati<on>s, <and> the development <of> <in>formati<on>  
+the effective operati<on> <of> free enterprise <in>  
+
+
+DocID: CACM-1960
+
+than <on> implementati<on> details.  the ma<in> features <of> the system  
+process management <and> resource shar<in>g <in> the multiaccess system esope  
+<and> the <all>ocati<on>-schedul<in>g policy, which dynamic<all>y  
+
+
+DocID: CACM-2372
+
+<on> the implementati<on> <of> security measures <in> <in>formati<on> <systems>  
+users <and> data items respectively.  a set <of> four  
+security features <of> several exist<in>g <systems>, <and> serves  
+
+
+DocID: CACM-1350
+
+<of> the form z --> cy 1  ... y m ,  m >= o  where z <and>  
+grammar each <of> whose rules is <in> st<and>ard form, supplemented  
+as is generated by g <and> whose rules are <all>  
+
+
+DocID: CACM-2795
+
+<of> c<on>ceptual properties stored <in> discrim<in>ati<on> nets;  
+a model <of> natural language <based> <on> an underly<in>g  
+language analyzer <and> a comb<in>ed memory <and> <in>ference model.  
+
+
+DocID: CACM-2396
+
+<of> familiar c<on>cepts <and> the additi<on> <of> new <on>es.  
+from edit<in>g <and> report<in>g the c<on>tents <of> its own  
+comp<on>ent <in>cludes the early use <of> parse trees <and> special  
+
+
+DocID: CACM-2794
+
+<in> this manner.  a representati<on> <of> the  
+the set <of> clauses is <in>terpreted <in> the state-spacer  
+the analogous c<on>cepts <in> problem-reducti<on> <and>  
+
+
+DocID: CACM-1399
+
+<on> top-to-bottom recogniti<on> <and> left recursi<on>  
+<descripti<on>s> <in> a c<on>text-free grammar by perform<in>g  
+left-recursi<on>-freegrammar. the effect <of> <all>ow<in>g  
+

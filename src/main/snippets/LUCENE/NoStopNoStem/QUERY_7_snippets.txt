@@ -1,0 +1,710 @@
+LUCENE_NoStopNoStem
+
+Query
+I am interested in distributed algorithms - concurrent programs in
+which processes communicate and synchronize by using message passing.
+Areas of particular interest include fault-tolerance and techniques
+for understanding the correctness of these algorithms.
+
+Top 100 Results (372 millisecs)
+
+
+DocID: CACM-3043
+
+<the> paper g<i>ves several ex<am>ples <<of>> d<i>str<i>buted <processes>  
+<processes> commun<i>cate <<and>> synchron<i>ze <by> means <<of>> procedure  
+<concurrent> progr<am>m<i>ng, d<i>str<i>buted <processes>,  
+
+
+DocID: CACM-2912
+
+<by> one process <<and>> read <by> o<the>r <processes>.  
+two techn<i>ques <for> transm<i>tt<i>ng <message>s between <processes>.  
+to <the> general problem <i>n wh<i>ch a read <i>s repeated <i>f  
+
+
+DocID: CACM-2342
+
+<the> <correctness> <<of>>   or d<i>scred<i>t  prove <the>  
+<the> <for>mat<i>on <<of>> part<i>al rules <<and>> <the> calculat<i>on <<of>>  
+<the>se solut<i>ons.  <i>n th<i>s paper a system <<of>> parallel  
+
+
+DocID: CACM-2111
+
+<<and>> symbol tables, <<and>> <the> cons<i>derat<i>on <<of>> a l<i>m<i>ted class <<of>> spell<i>ng  
+to comp<i>lers <<and>> operat<i>ng systems.  <the>se <i>nclude <the> use <<of>> syntax  
+<<and>> semant<i>cs <i>n<for>mat<i>on, <the> organ<i>zat<i>on <<of>> restr<i>cted keyword  
+
+
+DocID: CACM-2865
+
+<the>se propert<i>es are presented <<and>> <i>llustrated <by>  
+<i>s <i>n some sense complete <for> part<i>al <correctness>.  
+<<and>> progr<am> term<i>nat<i>on.  techn<i>ques <for> ver<i>fy<i>ng  
+
+
+DocID: CACM-3128
+
+ex<am>ples <<of>> <i>ts use are g<i>ven.  <the> relat<i>onsh<i>p <<of>> <the> mechan<i>sm  
+<correctness> arguments <<and>> also s<i>mpl<i>f<i>es <i>mplementat<i>on <i>n d<i>str<i>buted  
+<<of>> <i>n<for>mat<i>on matters.  an <i>mplementat<i>on <<of>> eventcount  
+
+
+DocID: CACM-1623
+
+<<and>> <the> way <i>n wh<i>ch <i>t was solved us<i>ng <for>mac  
+<i>n a general  ma<the>mat<i>cal  sense <<and>> could be  
+comm<<and>>.  <i>n part<i>cular, <i>t made extens<i>ve use <<of>> <the>  
+
+
+DocID: CACM-3141
+
+algor<i>thm <for> f<i>nd<i>ng <the> largest  or smallest  <<of>> a set <<of>> un<i>quely  
+<message> ext<i>nct<i>on <i>n order to ach<i>eve an average number <<of>>  
+<i>n c<i>rcular conf<i>gurat<i>ons <<of>> <processes>  
+
+
+DocID: CACM-2903
+
+<by> us<i>ng recurs<i>on <i>n troduct<i>on, algor<i>thms  
+how <the> fast l<i>near pattern match<i>ng algor<i>thm <<of>> knuth,  
+morr<i>s, <<and>> pratt can be der<i>ved <i>n a few steps  
+
+
+DocID: CACM-3148
+
+<<of>> part<i>cular languages <<and>> mach<i>nes.  <i>t appears to be useful <for>  
+progr<am> <<of>> development <i>n advanced progr<am>m<i>ng languages, <<and>> relat<i>ons  
+progr<am>m<i>ng a w<i>de range <<of>> tasks.  th<i>s <i>s part <<of>> an <am>b<i>t<i>ous  
+
+
+DocID: CACM-2317
+
+<i>nclude <the> <i>ncreased <i>nterest <i>n <the> development <<of>>  
+<<of>> <the> world's product<i>on progr<am>s are wr<i>tten <<and>> w<i>ll  
+<<and>> cobol rema<i>n <the> languages <i>n wh<i>ch most  
+
+
+DocID: CACM-2949
+
+<i>n order <for> <the> nodes <<of>> a d<i>str<i>buted computer  
+d<i>str<i>buted computer network, <correctness> pro<<of>>s,  
+a <correctness> pro<<of>> <<of>> a topology <i>n<for>mat<i>on  
+
+
+DocID: CACM-2376
+
+runn<i>ng <processes> <<of>> a system commun<i>cate correctly.  
+<<and>> many rece<i>v<i>ng <processes> wh<i>ch remove <message>s  
+th<i>s <i>s demonstrated <for> a system cons<i>st<i>ng <<of>>  
+
+
+DocID: CACM-2890
+
+<the> network.  <the> <for>m <<of>> <the> opt<i>mal<i>ty cond<i>t<i>ons suggests  
+<by> an adapt<i>ve rout<i>ng algor<i>thm.  <the>se models show that  
+d<i>str<i>buted network, computer network, <message> sw<i>tch<i>ng  
+
+
+DocID: CACM-2871
+
+<the> f<i>rst part <<of>> <the> paper <i>s devoted to techn<i>ques  
+<for> <the> automat<i>c generat<i>on <<of>> <i>nvar<i>ants.  <the>  
+<the> <i>mpl<i>cat<i>ons <<of>> <the> approach <for> <the> automat<i>c  
+
+
+DocID: CACM-0046
+
+techn<i>ques are descr<i>bed wh<i>ch place <the> burden <<of>> <the>  
+progr<am> <<and>> comp<i>ler  ra<the>r than on problem progr<am>s.  
+<the> tendency towards <i>ncreased parallel<i>sm <i>n  
+
+
+DocID: CACM-1397
+
+str<i>ngs, <i>n <the><i>r appl<i>cat<i>ons, <<and>> <i>n algor<i>thms <for>  
+<the> acm sympos<i>um on symbol<i>c <<and>> algebra<i>c  
+<for> man<i>pulat<i>on <<of>> algebra<i>c <for>mulas <<and>> symbol  
+
+
+DocID: CACM-2657
+
+<the> pro<<of>> <i>s completed.  th<i>s <i>s ach<i>eved <by> us<i>ng  
+lee <i>n 1969 <i>s g<i>ven.  <i>n <the> old algor<i>thm, <the> progr<am>-syn<the>s<i>z<i>ng  
+<i>n 1969.  <the> <correctness> <<of>> <the> <i>mproved algor<i>thm  
+
+
+DocID: CACM-2208
+
+wh<i>ch <i>s <the> fast store, <i>s d<i>v<i>ded <i>nto a number <<of>>  
+storage <areas>.  when an entry <i>s to be f<i>led <i>n  
+<the> ent<i>re h<i>erarchy, an express<i>on <i>s der<i>ved <for> <the>  
+
+
+DocID: CACM-2905
+
+set <i> <the> smallest table <i>n wh<i>ch <the> elements <<of>> <i>  
+<by> us<i>ng a perfect hash<i>ng funct<i>on constructed <by> th<i>s  
+every k<i>nd <<of>> set.  <the> two techn<i>ques are appl<i>cable  
+
+
+DocID: CACM-1381
+
+<<of>> ma<the>mat<i>cal concepts as well as <the> <i>deas <<of>> progr<am>m<i>ng  
+<i>n sc<i>ence <<and>> technology <i>s extremely s<i>gn<i>f<i>cant <for>  
+<<and>> clar<i>f<i>cat<i>ons wh<i>ch are poss<i>ble because <<of>>  
+
+
+DocID: CACM-2402
+
+<<and>> w<i>ll cont<i>nue to be a f<i>eld <<of>> <i>ntense <i>nterest.  
+<the> correct structure cannot be computed because <<of>>  
+<for> large structures.  th<i>s <i>s s<i>gn<i>f<i>cant, <for> crystallography  
+
+
+DocID: CACM-0616
+
+<<and>> can be addressed to any <<of>> <the> members <<of>>  
+<the> systems analyst's use.  <the>y trust that <the> <i>deas  
+language, at <the> systems level <<of>> data process<i>ng.  <the>  
+
+
+DocID: CACM-2740
+
+<<and>> <the> per<for>mance are d<i>scussed, too.  <the> operat<i>ng  
+<the> paper descr<i>bes <the> <i>nternal structure <<of>>  
+are expla<i>ned.  <the> system <i>s proved to be free <<of>> "deadly  
+
+
+DocID: CACM-2424
+
+<the> techn<i>que <<of>> dyn<am><i>c ver<i>f<i>cat<i>on allows <the>  
+<<of>> operat<i>ng system dec<i>s<i>ons <i>s used on <the> pr<i>me system  
+wh<i>ch <i>s to have <the> propert<i>es <<of>> cont<i>nuous  
+
+
+DocID: CACM-2033
+
+ space , <the> t<i>me requ<i>red to <i>dent<i>fy a <message> as a nonmember <<of>> <the>  
+errors <<of>> comm<i>ss<i>on may be tolerable <i>n some appl<i>cat<i>ons, <i>n part<i>cular,  
+<the> computat<i>onal factors cons<i>dered are <the> s<i>ze <<of>> <the> hash area  
+
+
+DocID: CACM-1854
+
+<<and>> test on <the> <i>bm system/360.  two progr<am>s us<i>ng <the>se  
+<<of>> <the> <i>nterrupt <<and>> perm<i>ts <the> spec<i>f<i>cat<i>on <<of>> <concurrent>  
+wh<i>ch are pr<i>me ex<am>ples <<of>> progr<am>s w<i>th <concurrent>  
+
+
+DocID: CACM-3014
+
+on <the> o<the>r h<<and>>, <i>t <i>s shown that a pro<<of>> <<of>> <correctness>  
+techn<i>ques can be rephrased d<i>rectly as a pro<<of>> us<i>ng  
+<<and>> <the> <correctness> <<of>> cont<i>nuously operat<i>ng progr<am>s.  
+
+
+DocID: CACM-3006
+
+propert<i>es, <the> <i>nclus<i>on property <<and>> <the>  
+two pag<i>ng algor<i>thms, are ex<am><i>ned <i>n terms <<of>> <the><i>r  
+<<and>> pag<i>ng algor<i>thms, an <i>ncrease <i>n mean memory allocat<i>on  
+
+
+DocID: CACM-1601
+
+wh<i>ch use <the> techn<i>que <<of>> <the> procedures <i>n  
+<<of>> <the>se stat<i>st<i>cs are reported.  <the>se  
+env<i>ronment.  <i>n such an env<i>ronment <the> procedures  
+
+
+DocID: CACM-2344
+
+<the> opt<i>mum round-rob<i>n cycle t<i>me.  <i>t appears that <the>se  
+<i>n <the> measure <<of>> system per<for>mance can be obta<i>ned <by>  
+<the> s<i>ze <<of>> <the> store, <<and>> <the> speed <<of>> <the> cpu.  a compar<i>son  
+
+
+DocID: CACM-2320
+
+<<of>> progr<am>s <<and>> perm<i>ts a large class <<of>> t<i>me-dependent  
+compet<i>ng <processes> to any degree des<i>red.  <the>se  
+cr<i>t<i>cal reg<i>ons <<and>> event var<i>ables enables <the>  
+
+
+DocID: CACM-1924
+
+be <i>n ma<i>n memory at one t<i>me.  ex<am><i>nat<i>on <<of>> add<i>t<i>on,  
+<the> number <<of>> page-pulls requ<i>red <by> <the>se matr<i>x  
+<for> <the> purpose <<of>> m<i>n<i>m<i>z<i>ng <the> page fault<i>ng  
+
+
+DocID: CACM-1135
+
+<i>n <the> progr<am>  e.g. mod<i>f<i>cat<i>on <<of>> only one entry <<of>> <the>  
+<<of>> flowcharts .  here an <i>nvar<i>ant pattern <<of>> procedure  
+<i>n terms <<of>> tables <<of>> control express<i>ons wh<i>ch  
+
+
+DocID: CACM-3021
+
+<the> rema<i>nder when <the> result <i>s d<i>v<i>ded <by> <the> publ<i>cly  
+<the> d<i>ff<i>culty <<of>> factor<i>ng <the> publ<i>shed d<i>v<i>sor,  
+*  q-1  .  <the> secur<i>ty <<of>> <the> system rests <i>n part on  
+
+
+DocID: CACM-1886
+
+<<of>> t<i>me.  an ass<i>gnment algor<i>thm <i>s <the>n executed <i>n  
+<the> factors.  <i>n order to make <the>se techn<i>ques  
+<the> express<i>ons, <i>.e. f<i>nd<i>ng a set <<of>> subexpress<i>ons  
+
+
+DocID: CACM-1749
+
+wh<i>ch all act<i>v<i>t<i>es are d<i>v<i>ded over a number <<of>>  
+<<of>> <the> des<i>gn <<and>> <the> <correctness> <<of>> <i>ts <i>mplementat<i>on.  
+sequent<i>al <processes>.  <the>se sequent<i>al <processes> are placed  
+
+
+DocID: CACM-2902
+
+terms <<of>> process<i>ng t<i>me, memory usage, <<and>> external memory  
+to serv<i>ce s<i>mulat<i>on progr<am>s as represented <by> 18  
+algor<i>thms.  s<i>mple algor<i>thms operat<i>ng on memory ordered  
+
+
+DocID: CACM-1698
+
+<the> ab<i>l<i>ty <<of>> a computer system to commun<i>cate  
+how many <processes> are suspended wa<i>t<i>ng <for> console  
+<i>nput?  what <i>s <the> max<i>mum rate at wh<i>ch a process can  
+
+
+DocID: CACM-2519
+
+dev<i>ces, <the> exh<i>b<i>t<i>on <<of>> <the> structure <i>nherent <i>n <the>  
+<the> nature <<of>> <the> d<i>ff<i>culty <i>nvolved <i>n commun<i>cat<i>ng  
+<i>s ex<am><i>ned.  <the> problem <i>s analyzed <i>n terms <<of>>  
+
+
+DocID: CACM-1771
+
+progr<am>s <i>n computer sc<i>ence -- a report <<of>> <the>  
+are presented <for> <the> development <<of>> master's degree progr<am>s.  
+g<i>ven <for> undergraduate progr<am>s.  graduate progr<am>s <i>n computer  
+
+
+DocID: CACM-1553
+
+argued that <the> adequacy <<of>> <the> level <<of>> underst<<and>><i>ng  
+on <the> purpose <<of>> that conversat<i>on, <<and>> that absolute  
+underst<<and>><i>ng on <the> part <<of>> e<i><the>r humans or  
+
+
+DocID: CACM-1665
+
+<<of>> <the> nature <<of>> <the> <i>tems be<i>ng evaluated.  <i>f <the>  
+<<of>> events.  th<i>s allows <the> system to be used <i>n a  
+part<i>cular character read.  <the> system has been <i>n operat<i>on  
+
+
+DocID: CACM-2541
+
+one <<of>> <the>se doma<i>ns to ano<the>r has had on <the>  
+<<and>> <the> system's address<i>ng structure, <<and>> central<i>zed <the>  
+<<of>> <the> schedul<i>ng from <the> ma<i>ntenance funct<i>ons <i>n resource  
+
+
+DocID: CACM-3059
+
+<<and>> appl<i>ed to <the> analys<i>s <<of>> <the>se problems.  
+are <i>n approx<i>mate cpu:<i>/o ut<i>l<i>zat<i>on balance <<and>> <for>  
+models <for> parallel process<i>ng w<i>th<i>n progr<am>s:  
+
+
+DocID: CACM-1145
+
+<i>n <the> com<i>t language <<and>> successfully tested on <the> <i>bm 7090.  
+<i>n <areas> such as g<am>e-play<i>ng <<and>> <the>orem-prov<i>ng, where  
+pract<i>cal algor<i>thms are unknown  <for> <the> <i>nterest<i>ng  
+
+
+DocID: CACM-1728
+
+<the> frequency <<of>> page faults, <i>.e. <the> frequency <<of>> those  
+<<of>> page replacement algor<i>thms <<and>> <for> assess<i>ng <the>  
+<the> data collected from <the> <i>nterpret<i>ve execut<i>on <<of>>  
+
+
+DocID: CACM-2016
+
+an array <<of>> measur<i>ng tools dev<i>sed to a<i>d <i>n <the> <i>mplementat<i>on <<of>> a prototype  
+part<i>cular measurements <<of>> <i>nterest <i>n a system wh<i>ch comb<i>nes dem<<and>>  
+<the> <i>nstrumentat<i>on <<of>> mult<i>cs  
+
+
+DocID: CACM-2581
+
+wh<i>ch conta<i>ns <am>b<i>gu<i>ty <<and>> error. <the> system  
+recogn<i>zed anywhere <i>n an <i>nput utterance.  <the>se local  
+words wh<i>ch m<i>ght complete <the> utterance.  
+
+
+DocID: CACM-1458
+
+out progr<am>s.  <i>n <the> ma<i>n, <i>t <i>t not <the>  
+changes <i>n <the> work<i>ng cond<i>t<i>ons noted.  <the>se changes  
+changes <i>n <the> <processes> related to produc<i>ng <<and>> check<i>ng  
+
+
+DocID: CACM-2289
+
+<i>n <the> effect<i>ve use <<of>> cellular arrays <for> <the>  
+<the>se algor<i>thms exh<i>b<i>t a computat<i>on t<i>me that <i>n  
+solut<i>on <<of>> graph problems <i>s <the> determ<i>nat<i>on <<of>> algor<i>thms  
+
+
+DocID: CACM-2439
+
+<the> system execut<i>ve or <i>n any <<of>> <the> system's comp<i>lers or <i>nterpreters.  
+<i>n any language ava<i>lable on <the> system.  th<i>s  
+between <the>se term<i>nals.  such progr<am>s can  
+
+
+DocID: CACM-2913
+
+<the> observed defects <i>n terms <<of>> <the> al<i>as<i>ng phenomenon  
+<the> resolut<i>on or defocus<i>ng <the> d<i>splay can  
+<i>nherent <i>n s<am>pled s<i>gnals <<and>> d<i>scusses pref<i>lter<i>ng  
+
+
+DocID: CACM-3078
+
+<processes>, <the> potent<i>al range <<of>> appl<i>cat<i>on <<of>> <the>se techn<i>ques  
+<<of>> obta<i>n<i>ng analyt<i>cal solut<i>ons to markov <processes>  
+<<of>> a computer system constructed <<of>> unrel<i>able  
+
+
+DocID: CACM-1609
+
+us<i>ng <the>se techn<i>ques are g<i>ven.  <the>se  
+<by> remov<i>ng mult<i>ple occurrences <<of>> courses <<and>> <the>n schedul<i>ng  
+<the> s<am>e per<i>od are grouped toge<the>r <i>n all poss<i>ble  
+
+
+DocID: CACM-2896
+
+method developed <by> ow<i>ck<i>.  <the> f<i>ne degree <<of>> <i>n terleav<i>ng  
+an exerc<i>se <i>n prov<i>ng parallel progr<am>s correct  
+<correctness> <for> mult<i>process<i>ng tasks  
+
+
+DocID: CACM-2379
+
+on complex<i>ty <<of>> s<<of>>tware.  <the> system <i>s def<i>ned <by>  
+s<i>x <concurrent> users on a small computer.  <the> system was  
+descr<i>bed, w<i>th part<i>cular emphas<i>s on <the> pr<i>nc<i>ples wh<i>ch gu<i>ded <the> des<i>gn.  
+
+
+DocID: CACM-3104
+
+<<and>> ted<i>ous, whereas test<i>ng, though useful <i>n  
+<i>n add<i>t<i>on to s<i>mpl<i>fy<i>ng <the> process <<of>> prov<i>ng  
+<correctness>, th<i>s method s<i>mpl<i>f<i>es <the> process <<of>> prov<i>d<i>ng  
+
+
+DocID: CACM-2895
+
+<the> spec<i>f<i>cat<i>ons are constra<i>n ts on <the> order <i>n wh<i>ch  
+events <<of>> a computat<i>on can occur.  <the> language  
+problem <<and>> <the> wr<i>ter pr<i>or<i>ty <<of>> <the> second  
+
+
+DocID: CACM-1440
+
+several <for> <the> range [1/16, 1], wh<i>ch <i>s <the> <i>nterval  
+<i>n a <for>m to fac<i>l<i>tate <the><i>r use <i>n <i>bm system/360 square  
+<<of>> pr<i>mary <i>nterest on <i>bm system/360.  
+
+
+DocID: CACM-2950
+
+<<of>> a schedul<i>ng system wh<i>ch <for>mal<i>zes <the> not<i>on <<of>>  
+<<of>> <the> commonly <i>mplemented ones.  <for> t<i>me-<i>nvar<i>ant  
+<i>n real operat<i>ng systems.  <the> pol<i>cy-dr<i>ven scheduler  
+
+
+DocID: CACM-2716
+
+<<of>> e. f. codd's relat<i>onal algebra are presented, <<and>>  
+<the> bas<i>c <i>dea <i>s to employ automat<i>c progr<am>m<i>ng techn<i>ques  
+ref<i>nes <the> h<i>gh level query spec<i>f<i>cat<i>on suppl<i>ed <by>  
+
+
+DocID: CACM-2972
+
+<the> method can be appl<i>ed to large progr<am>s, such as operat<i>ng systems.  
+pro<<of>> techn<i>ques <for> h<i>erarch<i>cally structured progr<am>s  
+<<of>> wh<i>ch can be descr<i>bed <by> a self-conta<i>ned nonprocedural  
+
+
+DocID: CACM-2216
+
+<the> moments computed from <the> generat<i>ng funct<i>on.  <the>  
+are <i>n agreement w<i>th prev<i>ously publ<i>shed results <for> <the>  
+<i>n <the> case <<of>> un<i><for>m d<i>str<i>but<i>on <<of>> branch<i>ng  
+
+
+DocID: CACM-2979
+
+<<and>> learn<i>ng <processes> on <the> one h<<and>>, <<and>> mach<i>ne  
+<<and>> normat<i>ve <the>or<i>es <<of>> behav<i>or. an <i>n teract<i>ve  
+also been <i>n terest <i>n how humans make deduct<i>ve <<and>> <i>nduct<i>ve  
+
+
+DocID: CACM-2646
+
+<<of>> progr<am>s w<i>th pred<i>ctable behav<i>or.  wh<i>le <the> methods  
+<<of>> blocks <<of>> data to buffer <<and>> pr<i>mary memor<i>es  
+<for> mask<i>ng <the> rotat<i>onal latency <<of>> a d<i>sk  
+
+
+DocID: CACM-1948
+
+<<and>> results wh<i>ch have been obta<i>ned us<i>ng  
+groups <<of>> f<i>n<i>te groups, character tables, <<and>> commutator  
+more <i>mportant algor<i>thms <i>n use are descr<i>bed <<and>> contrasted,  
+
+
+DocID: CACM-2094
+
+d <by> propert<i>es wh<i>ch perm<i>t <the> appl<i>cat<i>on <<of>> spec<i>al algor<i>thms,  
+ma<i>nly based on <the> exchange algor<i>thms <<of>> remes  1934, 1935 , <for>  
+type <<of>> a general nonl<i>near algor<i>thm due to osborne <<and>> watson  
+
+
+DocID: CACM-2795
+
+<the> progr<am> employs both <the> <i>n<for>mat<i>on retr<i>eval <<and>>  
+deduct<i>on capab<i>l<i>t<i>es <<of>> <the> memory model.  <the>  
+<<of>> conceptual propert<i>es stored <i>n d<i>scr<i>m<i>nat<i>on nets;  
+
+
+DocID: CACM-1626
+
+<<of>> th<i>s slow storage dev<i>ce.  <the> techn<i>ques <i>nclude  
+<<of>> v<i>rtual memory to allow address ar<i>thmet<i>c <for> type  
+determ<i>nat<i>on, <<and>> a spec<i>al algor<i>thm <for> bu<i>ld<i>ng  
+
+
+DocID: CACM-2732
+
+determ<i>ned <by> <the> <i>n<i>t<i>al state.  <for> <the>  
+<correctness> pro<<of>>, der<i>vat<i>on <<of>> progr<am>s,  
+guarded comm<<and>>s, nondeterm<i>nacy <<and>> <for>mal der<i>vat<i>on <<of>> progr<am>s  
+
+
+DocID: CACM-2674
+
+<<and>> <the> o<the>r to <i>nteract<i>ve appl<i>cat<i>ons.  <the> algor<i>thms  
+<i>n execut<i>on t<i>me over that <<of>> a convent<i>onal  
+wh<i>ch extends <the> capab<i>l<i>t<i>es <<of>> th<i>s organ<i>zat<i>on  
+
+
+DocID: CACM-2438
+
+<i>n <the> s<i>mple case,<i>t runs <i>dent<i>cally to <the>  
+<<of>> that storage <for> durat<i>ons not necessar<i>ly t<i>ed  
+a model <<and>> stack <i>mplementat<i>on <<of>> mult<i>ple env<i>ronments  
+
+
+DocID: CACM-2378
+
+<i>n deta<i>l, outl<i>nes <the> rema<i>nder <<of>> <the> superv<i>sor, <<and>>  
+<<of>> a compound event <i>n <the> system  <by> comb<i>n<i>ng  
+<the> part <<of>> <the> superv<i>sor wh<i>ch executes <the>se  
+
+
+DocID: CACM-1551
+
+<for> a h<i>tac-5020 computer hav<i>ng n accumulators.  <the>  
+<the> frequency <<of>> stor<i>ng <<and>> recover<i>ng <the> part<i>al results  
+algor<i>thms generate an object code wh<i>ch m<i>n<i>m<i>zes  
+
+
+DocID: CACM-2981
+
+use <<of>> an <i>nvar<i>ant.  <the> relat<i>on between subgoal  
+recurs<i>ve progr<am>s, <i>terat<i>ve progr<am>s  
+<<of>> a pro<<of>> <by> subgoal <i>nduct<i>on to be val<i>d.  
+
+
+DocID: CACM-2535
+
+nature <<of>> <the> arr<i>val process from a user to <the> computer  
+per<for>mance <<of>> <the> computer  model , <i>n <the> sense  
+analyt<i>cal results <i>nclude a general descr<i>pt<i>on <<of>> <the>  
+
+
+DocID: CACM-2828
+
+p<i>ctures <by> computer.  <by> us<i>ng an extens<i>on <<of>>  
+techn<i>ques are poss<i>ble.  f<i>rst, <the> range <<of>> complex<i>ty  
+mot<i>on <<and>> placement, but also to ass<i>st <i>n  
+
+
+DocID: CACM-2276
+
+<<and>> speed, w<i>th some new algor<i>thms.  a number <<of>> procedures  
+<<and>> normally d<i>str<i>buted quant<i>t<i>es.  <the> most eff<i>c<i>ent  
+<i>nto s<am>pl<i>ng steps, an approach wh<i>ch may be used <for>  
+
+
+DocID: CACM-1427
+
+<the> structure <<of>> th<i>s progr<am> can be useful <i>n  
+<the> scan <i>s a two-d<i>mens<i>onal pattern made up <<of>> dots.  
+storage <<and>> cathode ray tube d<i>splay.  past <<and>> present  
+
+
+DocID: CACM-2860
+
+rules <<of>> thumb wh<i>ch have been suggested <for> <the>  
+bucket s<i>zes, <<and>> load<i>ng order <<and>> cons<i>dered.  part<i>cular  
+des<i>gn <<of>> record address<i>ng algor<i>thms, <<and>> d<i>scusses  
+
+
+DocID: CACM-1160
+
+<<and>> f<i>nally <the> output pass wh<i>ch generates <the>  
+<the> fap progr<am>, a comprehens<i>ve analys<i>s <<of>> <the> assembled  
+cons<i>sts <<of>> three d<i>st<i>nct phases: an assembly <<of>>  
+
+
+DocID: CACM-1099
+
+<<and>> a<i>ds wh<i>ch were des<i>gned <by> <the> staff <<of>> <the> med<i>cal  
+<<and>> progr<am>mer.  th<i>s paper descr<i>bes <the> techn<i>ques  
+memory, <the> bl<i>nd br<i>ngs to <the> work <<of>> progr<am>m<i>ng sk<i>lls  
+
+
+DocID: CACM-3143
+
+<<of>> <the>se <i>deas <i>s <i>llustrated <by> <i>n<for>mal descr<i>pt<i>ons <<of>>  
+<for> array values, <<and>> concatenat<i>on.  <the> effect<i>veness  
+a var<i>ety <<of>> concepts, laws, <<and>> notat<i>ons are presented wh<i>ch fac<i>l<i>tate  
+
+
+DocID: CACM-2962
+
+<the> calendar year 1975-76.  data <i>nclude pr<<of>><i>les <<of>> graduate  
+<<and>> employment <<of>> ph.'s <i>n computer sc<i>ence <for>  
+product<i>on <<and>> employment <<of>> ph.'s <i>n computer sc<i>ence-1976  
+
+
+DocID: CACM-2829
+
+<<and>> <the>n added to <the> <i>ntens<i>ty obta<i>ned from <the> texture  
+<<of>> reg<i>ons <<of>> <the> pattern def<i>n<i>t<i>on funct<i>on. <the> shape  
+us<i>ng d<i>g<i>tal s<i>gnal process<i>ng <the>ory.  <the> patch render<i>ng  
+
+
+DocID: CACM-3137
+
+system from <the> perspect<i>ve <<of>> <the> end-user.  <the> mak<i>ng ev<i>dent <the> effect <<of>>  
+<the> techn<i>que <i>s <i>llustrated <by> appl<i>cat<i>on to <the> des<i>gn  
+d<i>str<i>buted process<i>ng, system des<i>gn, cost m<i>n<i>m<i>zat<i>on, d<i>str<i>buted  
+
+
+DocID: CACM-2692
+
+l<i>e outs<i>de <the> volume.  <i>n two d<i>mens<i>ons <the> algor<i>thms  
+volume.  <the> two add<i>t<i>onal planes parallel to <the> project<i>on  
+collect<i>on <<of>> edges as was heret<<of>>ore <the> common  
+
+
+DocID: CACM-2110
+
+n^3  where n <i>s <the> length <<of>> <the> str<i>ng be<i>ng parsed  <i>n general; <i>t has a  
+to be super<i>or to <the> top-down <<and>> bottom-up algor<i>thms stud<i>ed <by> gr<i>ff<i>ths  
+class <<of>> gr<am>mars, wh<i>ch seems to <i>nclude most pract<i>cal context-free  
+
+
+DocID: CACM-2802
+
+algebra <<of>> funct<i>ons.  <the>se solut<i>ons can be g<i>ven <i>n  
+<<of>> certa<i>n elementary equat<i>ons def<i>ned <i>n <the>  
+<<of>> funct<i>ons. <the> algebra<i>c propert<i>es <<of>> <the>se funct<i>on  
+
+
+DocID: CACM-2843
+
+graders, comp<i>lers, <<and>> mon<i>tor.  <the>se allow <the> <i>nstructor  
+very useful <i>n course at m<i>t over <the> past seven years.  
+<the> tools <i>nclude progr<am>s such as s<i>mulators,  
+
+
+DocID: CACM-3075
+
+<<and>> t<i>me.  a real<i>st<i>c model <i>s used model <i>s used <i>n wh<i>ch  
+n  us<i>ng n 1 + 1/k processors, <for> k an arb<i>trary  
+<i>nteger.  <the> model <<of>> computat<i>on <for> th<i>s procedure  
+
+
+DocID: CACM-1706
+
+been <i>mplemented <i>n <the> algol comp<i>ler <for> <the> burroughs b5500.  
+arrays <<of>> str<i>ngs are processed us<i>ng quant<i>f<i>ers.  
+<i>n <the> notat<i>on.  <the> language fac<i>l<i>t<i>es have  
+
+
+DocID: CACM-2454
+
+order <<of>> evaluat<i>on are ex<am><i>ned <i>n some deta<i>l.  
+d<i>str<i>but<i>on <<of>> customers <i>n closed queue<i>ng  
+<the> computat<i>onal algor<i>thms are based on two-d<i>mens<i>onal  
+
+
+DocID: CACM-1870
+
+"numbers" <i>n wh<i>ch <the> probab<i>l<i>ty that each b<i>t <i>n <the>  
+some techn<i>ques <for> us<i>ng pseudor<<and>>om numbers <i>n computer s<i>mulat<i>on  
+value.  techn<i>ques <for> mak<i>ng use <<of>> such "numbers"  
+
+
+DocID: CACM-2579
+
+algor<i>thms that el<i>m<i>nate redundant computat<i>ons, <<and>>  
+<for> reg<i>ster allocat<i>on.  <the> paper compares reg<i>ster  
+wh<i>ch shows that <the> usage count techn<i>que  
+
+
+DocID: CACM-2314
+
+<the> author feels are <i>mportant to <i>mprove <the> product<i>v<i>ty  
+<i>nput <<and>> output <<of>> data would fac<i>l<i>tate use <<of>>  
+<by> pattern <<and>> <by> mon<i>tor<i>ng cond<i>t<i>on.  <the>  need  
+
+
+DocID: CACM-2866
+
+<the>se two techn<i>ques are def<i>ned, d<i>scussed, <<and>> appl<i>ed  
+<<of>> mon<i>tors can be proved <by> us<i>ng state var<i>ables  
+wh<i>ch record <the> mon<i>tor's h<i>story <<and>> <by> def<i>n<i>ng extended  
+
+
+DocID: CACM-2862
+
+<<and>> <the> pff replacement algor<i>thm <i>s represented <by> a sem<i>-markov  
+as <the> <i>nter-page-fault <i>nterval d<i>str<i>but<i>on, <the>  
+<the> requ<i>red computat<i>on t<i>me <i>n est<i>mat<i>ng  
+
+
+DocID: CACM-0409
+
+<<of>> d<i>st<i>nct data descr<i>pt<i>ons <<and>> <the> content <<and>>  
+<<of>> comm<<and>> <<and>> descr<i>pt<i>ve languages.  <the> concept  
+problems <<and>> to prov<i>de <i>ntercommun<i>cat<i>on between progr<am>s  
+

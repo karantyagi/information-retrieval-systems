@@ -1,0 +1,708 @@
+LUCENE_NoStopNoStem
+
+Query
+Analysis and perception of shape by humans and computers.  Shape
+descriptions, shape recognition by computer.  Two-dimensional shapes.
+Measures of circularity.  Shape matching.
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-2771
+
+<<of>> operations suffice to build up complex solids bounded <<by>> many faces.  
+<<of>> solid objects to be synthesized <<and>> stored  
+the synthesis <<of>> solids bounded <<by>> many faces  
+
+
+DocID: CACM-2569
+
+<computer> generation <<of>> gamma r<<and>>om variates  
+generate such r<<and>>om variables <<by>> use <<of>> the  
+<<of>> accuracy <<and>> efficiency:  1  when a is less than  
+
+
+DocID: CACM-3052
+
+as a function <<of>> capacity <<and>> measurement  
+curve indicates a property <<of>> behavior <<of>> programs that  
+operation <<of>> a program is periodically interrupted  
+
+
+DocID: CACM-2847
+
+experimentation <<by>> robinson <<and>> lewis indicates  
+methods recently suggested <<by>> dieter <<and>>  
+this paper describes a method <<of>> generating  
+
+
+DocID: CACM-3098
+
+<computer> generation <<of>> gamma r<<and>>om variables  
+other methods recently given <<by>> wallace <<and>> fishman.  
+method is much simpler than ahrens <<and>> dieter's method <<and>> is faster for a < 8.  
+
+
+DocID: CACM-3046
+
+values <<of>> a <<and>> are superior to times obtained <<by>>  
+<<by>> fishman, wallace, <<and>> tadikamalla <<and>> is faster  
+ahrens <<and>> dieter's method for all values <<of>> a.  the  
+
+
+DocID: CACM-3107
+
+"difficult" combinations <<of>> parameter values.  
+generating beta variates with nonintegrel <<<<shape>>>> parameters  
+previously published methods both theoretically <<and>> through  
+
+
+DocID: CACM-2754
+
+measurement <<of>> peak amplitude, duration, <<and>> <<<<shape>>>>.  the  
+algorithm is <<of>> sufficient speed to allow on-line  
+<<and>> tabular parsing techniques.  several parameters serve  
+
+
+DocID: CACM-2455
+
+<<of>> retrieval time.  it is shown that, <<by>> permitting  
+<<of>> an earlier paper, <<and>> are duly compared  
+trees on the basis <<of>> mean retrieval time, <<of>> amount  
+
+
+DocID: CACM-3125
+
+moved outward loop <<by>> loop.  we propose to do both at once <<and>>  
+the elimination <<of>> redundant computations <<and>> the moving <<of>> invariant  
+linear with the size <<of>> the program, <<and>> that it leads  
+
+
+DocID: CACM-2341
+
+aggregate <<of>> characters in the form <<of>> a right parallelepiped,  
+little in the way <<of>> specialized syntax <<and>> could readily  
+in any <<of>> three dimensions, <<and>> merged on the basis  
+
+
+DocID: CACM-1528
+
+<<of>> letters.  letter <<<<shape>>>>s are entirely described  
+signs, <<and>> upper <<and>> lower case greek letters.  design  
+three fonts <<of>> <computer> drawn letters  
+
+
+DocID: CACM-2883
+
+<<of>> an edge are embedded in a figure <<of>> merit <<and>> the edge  
+<<of>> contours from noisy picture <<and>> the separation  
+an application <<of>> heuristic search methods to edge <<and>> contour detection  
+
+
+DocID: CACM-2829
+
+<<of>> regions <<of>> the pattern definition function. the <<<<shape>>>>  
+texture <<and>> reflection in <computer> generated images  
+the areas <<of>> texture simulation <<and>> lighting models.  
+
+
+DocID: CACM-1553
+
+argued that the adequacy <<of>> the level <<of>> underst<<and>>ing  
+on the purpose <<of>> that conversation, <<and>> that absolute  
+a further development <<of>> a <computer> program  
+
+
+DocID: CACM-2113
+
+<<and>> the state <<of>> single bits determines the operational flow <<of>> the  
+<<of>> examples taken from the fully operational implementation <<of>> the  
+<<of>> which processing times for large-scale <matching> procedures  
+
+
+DocID: CACM-3149
+
+the cyclic order property <<of>> vertices as an aid in scene <analysis>  
+, picture processing, <computer> graphics, pattern <recognition>.  
+to given <two-dimensional> line-structure data.  
+
+
+DocID: CACM-1399
+
+<descriptions> in a context-free grammar <<by>> performing  
+on top-to-bottom <recognition> <<and>> left recursion  
+left-recursion-freegrammar. the effect <<of>> allowing  
+
+
+DocID: CACM-2402
+
+<<and>> will continue to be a field <<of>> intense interest.  
+<recognition> techniques make possible a number <<of>> approaches  
+digital <<computer>s> encourages the development <<of>> algorithms  
+
+
+DocID: CACM-1272
+
+the economy <<of>> editing as a function <<of>> the amount <<of>> condensation  
+<<of>> a large volume <<of>> incoming mail or telegrams,  
+<<and>> improvement <<of>> <computer> output, is exemplified  
+
+
+DocID: CACM-3100
+
+<<of>> interference <matching> are discussed, <<and>> directions  
+<<of>> the training examples <<and>> the adequacy  
+<matching>, interference, graph <matching>, learning,  
+
+
+DocID: CACM-2556
+
+<<and>> strategy improvement <<by>> feedback from the <matching> process.  
+statement <analysis>, syntax <analysis>  
+adaptive, linguistic pattern <matching>, automatic  
+
+
+DocID: CACM-3135
+
+to a set <<of>> peaks in the electron-density distribution <<of>>  
+several applications <<of>> this technique in the field <<of>> chemistry  
+-structure <analysis>, drug <analysis> <<and>> design  
+
+
+DocID: CACM-2841
+
+controlling the <<<<shape>>>>s <<of>> the surfaces,  2  all <<of>> the  
+<<and>> they are designed with the aid <<of>> a three-dimensional  
+knowledge <<of>> them <<by>> the user <<of>> the system.  also  
+
+
+DocID: CACM-0462
+
+good deal <<of>> visual inspection <<by>> trained people  
+the use <<of>> programmed digital <<computer>s> as general  
+<computer> pattern <recognition> techniques: electrocardiographic diagnosis  
+
+
+DocID: CACM-2232
+
+the width concept in pattern <recognition> <<and>> the  
+it to the pattern boundary radius vector, <<and>> <descriptions>  
+linear pattern <measures>, width functions  
+
+
+DocID: CACM-2924
+
+<<by>> cardinal splines.  among the features <<of>>  
+modification <<of>> the b-spline representation <<of>> the  
+<<of>> a number <<of>> <<<<shape>>>>s that have been separately  
+
+
+DocID: CACM-2054
+
+considered.  details <<of>> a specific word <recognition> program are given.  this  
+vocabulary set, "known" speakers, <<and>> a "moment <<of>> silence"  
+speech <recognition>, word <recognition>, pattern-<matching>, pattern  
+
+
+DocID: CACM-2746
+
+the lengths <<of>> the keywords.  the number <<of>> state transitions  
+<matching> machine from the keywords <<and>> then using the  
+keywords <<and>> phrases, string pattern <matching>, bibliographic  
+
+
+DocID: CACM-1260
+
+least-squares <analysis> <<of>> resonance spectra on small <<computer>s>  
+small <computer>.  the <analysis> has been carried out  
+cut step procedure for convergence <<and>> <<by>> imposing physical  
+
+
+DocID: CACM-2828
+
+pictures <<by>> <computer>.  <<by>> using an extension <<of>>  
+<<of>> the <<<<shape>>>>s <<of>> three-dimensional objects  
+<<of>> an environment is greatly increased while  
+
+
+DocID: CACM-2751
+
+<perception> <<and>> the fundamental laws <<of>> optics are  
+the quality <<of>> <computer> generated images <<of>>  
+various methods <<of>> object modeling, shading, <<and>> hidden  
+
+
+DocID: CACM-2703
+
+with the syntax <<of>> the language.  the <circularity>  
+version <<of>> knuth's <circularity> testing algorithm  
+the intrinsically exponential complexity <<of>>  
+
+
+DocID: CACM-2494
+
+<<by>> four methods <<of>> factor <analysis> <<and>> two methods <<of>> cluster <analysis>.  
+<<of>> the elements <<of>> a data matrix <<of>> similarities or dissimilarities  
+<<by>> <computer> printed symbols  <<of>> character  
+
+
+DocID: CACM-2289
+
+<<and>> the <analysis> <<of>> many types <<of>> networks.  
+solution <<of>> graph problems is the determination <<of>> algorithms  
+memory <<and>> a small amount <<of>> combinational logic,  
+
+
+DocID: CACM-2153
+
+acceptance, <<and>> operational cost are the result <<of>> testing  
+<<by>> students in lieu <<of>> conventional classroom instruction.  
+<<of>> study, <<and>> has been used for two semesters  
+
+
+DocID: CACM-3197
+
+structures <<of>> st<<and>>ards-processing organizations in the <computer> area  
+describe st<<and>>ardization activities pertinent to <<computer>s> <<and>> information  
+the following organizational <descriptions> have been provided in order to  
+
+
+DocID: CACM-2903
+
+improving programs <<by>> the introduction <<of>> recursion  
+how the fast linear pattern <matching> algorithm <<of>> knuth,  
+recursion elimination, pattern <matching> algorithms,  
+
+
+DocID: CACM-2287
+
+the problem <<of>> detection <<and>> <recognition> <<of>> contour  
+based on minimizing <computer> memory space <<and>>  
+the problem <<of>> automatic digitizing <<of>> contour  
+
+
+DocID: CACM-1726
+
+the segmentation <<of>> printed text, the possibility <<of>>  
+on human demarcation <<of>> the various regions <<of>>  
+a rapid prescan <<by>> a rudimentary form <<of>> frequency  
+
+
+DocID: CACM-1855
+
+<<and>> an outline account is given <<of>> the <analysis> procedure.  
+<<of>> english words <<and>> that it pursues all <analysis> paths  
+<analysis>, parsing, <analysis> procedure, <recognition>  
+
+
+DocID: CACM-1891
+
+can be viewed <<by>> a large group <<of>> people at the  
+three-dimensional <computer> display  
+<computer> graphics, three-dimensional display, swept  
+
+
+DocID: CACM-2308
+
+<<and>> that we may look forward to an expansion <<of>> such usage.  
+<<of>> future system designers, programmers, analysts, <<and>>  
+this brief survey <<of>> the use <<of>> <<computer>s> in  
+
+
+DocID: CACM-2811
+
+wave is <<of>> medical importance because <<of>> variation  
+structural pattern <recognition>, parsing, waveform <analysis>, pulse waves  
+in its structure induced <<by>> arterial aging <<and>> cardiovascular  
+
+
+DocID: CACM-2030
+
+each context-sensitive <analysis> once <<and>> only once.  the amount <<of>> memory  
+grammars <<and>> general rewriting systems, <<and>> the difference between  
+the space-time trade-<<of>>f <<and>> the degree <<of>> context dependence involved.  
+
+
+DocID: CACM-1771
+
+<<by>> the acm curriculum committee on <computer> science.  
+<computer> science undergraduate programs, <computer>  
+programs in <computer> science -- a report <<of>> the  
+
+
+DocID: CACM-2547
+
+representation <<of>> contours ad regions for efficient <computer> search  
+intersection <<of>> two closed boundaries; <<and>> determine  
+patterns, <computer> graphics, graphic display  
+
+
+DocID: CACM-2215
+
+some <computer> simulated experiments in character <recognition>  
+to sequential pattern <recognition>  
+<<and>> the "alpha-beta procedure," respectively.  
+
+
+DocID: CACM-3049
+
+components <<of>> the system.  the design <<of>> sembegs is founded  
+growing needs <<of>> a large batch environment, <<and>> is even  
+provided <<by>>, <<and>> received <<by>> application programs,  
+
+
+DocID: CACM-0320
+
+<<and>> so eliminate the need for flow charting <<and>> h<<and>> coding.  
+writing <<and>> using logic tables is explained <<by>>  
+operations, systems <<and>> circuits.  a set <<of>> rules for  
+
+
+DocID: CACM-0531
+
+counts <<of>> individuals under care <<and>> longitudinal  
+errors because <<of>> name misspellings, changes <<of>>  
+<<by>> use <<of>> a digital <computer>  honeywell 800 .  here  
+
+
+DocID: CACM-1427
+
+storage <<and>> cathode ray tube display.  past <<and>> present  
+simulation <<of>> radioisotope scans <<by>> <computer>  
+the scan is a <two-dimensional> pattern made up <<of>> dots.  
+
+
+DocID: CACM-1325
+
+matched filters, the development <<of>> three dimensional pattern <analysis>,  
+diagnostic interaction, <<and>> a study <<of>> the possibility  
+<computer> diagnosis <<of>> clinical electrocardiograms.  
+
+
+DocID: CACM-0633
+
+ iii. <analysis> <<and>> pattern <recognition>   
+simulation <<and>> <analysis> <<of>> biochemical systems  
+
+
+DocID: CACM-2367
+
+<<computer>s> <<and>> society: a proposed course for <computer> scientists  
+<<and>> moral; the main part <<of>> the paper defines  
+on society <<and>> the responsibilities <<of>> <computer> scientists  
+
+
+DocID: CACM-2560
+
+<<by>> multiprogramming in the presence <<of>> this type <<of>> storage system.  
+a probabilistic model <<of>> a multiprogrammed <computer>  
+the results are presented <<of>> an <analysis> <<of>>  
+
+
+DocID: CACM-1265
+
+comparison <<of>> the <recognition> <<of>> more realistic  
+a number <<of>> diverse <recognition> procedures  
+made <<by>> means <<of>> a program which simulates the  
+
+
+DocID: CACM-2692
+
+angles <<and>> depth <<of>> field in spite <<of>> simple fixed clipping  
+sequence <<of>> vertices without repetition <<of>> first  
+<computer> graphics, hidden-surface, clipping  
+
+
+DocID: CACM-1518
+
+s<<of>>tware, <<and>> its environment.  the <measures> <<of>> system performance  
+the problem <<of>> predicting the performance <<of>>  
+produced <<by>> the model consist <<of>> statistics  
+
+
+DocID: CACM-1808
+
+to the unique characteristics <<of>> <computer> files  
+<<by>> <<computer>s> are dealt with.  special emphasis is paid  
+advanced cryptographic techniques for <<computer>s>  
+
+
+DocID: CACM-2959
+
+describe <<and>> execute their applications on a <computer>.  
+<<of>> information in <two-dimensional> pictures <<of>> tables,  
+is a subset <<of>> the sba programming language.  
+
+
+DocID: CACM-2910
+
+equivalence <<of>> hough curve detection to template <matching>  
+picture processing, pattern <recognition>, curve  
+detection, hough transformation, template <matching>  
+
+
+DocID: CACM-3047
+
+from registration <<of>> the image with a model <<of>>  
+with the effects <<of>> varying sun angle <<and>>  
+model <<and>> known positions <<of>> the light sources.  the  
+
+
+DocID: CACM-2339
+
+a reference file <<of>> verbal <descriptions> for use <<by>> the  
+the feasibility <<of>> translating verbal <descriptions>  
+was placed on <computer>ized construction <<of>>  
+
+
+DocID: CACM-3143
+
+<<of>> these ideas is illustrated <<by>> informal <descriptions> <<of>>  
+a variety <<of>> concepts, laws, <<and>> notations are presented which facilitate  
+algorithms for binary search <<and>> merging, <<and>> <<by>> a short formal pro<<of>>.  
+
+
+DocID: CACM-0825
+
+for the <analysis> <<of>> spark-chamber data*  
+<<and>> performs the preliminary interpretation  
+an operating <computer> program that processes  
+
+
+DocID: CACM-3165
+
+the approximation <<of>> polygonal thematic maps <<by>> cellular  
+approximation <<of>> polygonal maps <<by>> cellular maps  
+the new organization is further illustrated <<by>> the outline <<of>> algorithms  
+
+
+DocID: CACM-2966
+
+<<by>> the proper choice <<and>> location <<of>> multiple reference poin ts.  
+the results <<of>> <computer> simulations are presented which  
+<<of>> best-match file searching have previously been  
+
+
+DocID: CACM-1590
+
+sampled <<by>> a microphone <<and>> an analog-to-digital  
+periods <<by>> the <recognition> <<of>> the peak structure  
+normal noise level <<of>> the <computer> room but were not  
+
+
+DocID: CACM-2880
+
+as well as some performance <measures>.  
+mathematical foundations <<of>> the algorithm are presented  
+a fast algorithm for division <<by>> constant divisors  
+
+
+DocID: CACM-1381
+
+<<of>> mathematical concepts as well as the ideas <<of>> programming  
+<<and>> clarifications which are possible because <<of>>  
+into many fields <<by>> the use <<of>> <<computer>s>.  the present  
+
+
+DocID: CACM-2988
+
+<<and>> job swap time, <<and>> performance <measures> such as response  
+<<of>> finite memory size <<and>> workload memory requirements  
+<<of>> in teractive <computer> systems which use nonpaged memories.  
+
+
+DocID: CACM-3170
+
+program, <<and>> the derivation <<and>> pro<<of>> <<of>> correctness <<of>> the program are  
+on the pro<<of>> <<of>> correctness <<of>> a calendar program  
+manifest to <humans>.  
+
+
+DocID: CACM-2310
+
+areas <<of>> the humanities for which rigor <<and>> precision  
+ as in indices <<and>> concordances  is widespread <<and>> accepted  
+language <analysis>, humanities, science <<of>> the humanities,  
+
+
+DocID: CACM-1350
+
+<<of>> the form z --> cy 1  ... y m ,  m >= o  where z <<and>>  
+as is generated <<by>> g <<and>> whose rules are all  
+<<and>> processing time.  
+
+
+DocID: CACM-2370
+
+analog input <<and>> output facilities, <<and>> a variety <<of>>  
+<<and>> programming support are described <<and>> typical applications  
+digital <computer>, dot-mode <<and>> vector displays,  
+
+
+DocID: CACM-0409
+
+<<of>> distinct data <descriptions> <<and>> the content <<and>>  
+<<and>> instances <<of>> large <<and>> complex data sets,  
+for accepting, storing, <<and>> retrieving both <descriptions>  
+
+
+DocID: CACM-1902
+
+programs, <<and>> no special <recognition> <<of>> exercises <<by>> the operators is necessary.  
+a discussion is given <<of>> alterations that were  
+to record the results <<of>> programming exercises in three  
+
+
+DocID: CACM-2321
+
+<<by>> means <<of>> which <<computer>s> <<and>> digital  
+on the interface between <<computer>s> <<and>> data communications systems  
+coordination <<of>> input/output  
+
+
+DocID: CACM-2812
+
+<analysis> consists <<of>> a set <<of>> procedures <<and>> <computer>  
+<analysis> for the design <<and>> development <<of>> an  
+<<and>> performance evaluator. the statement <<of>> requirements  
+
+
+DocID: CACM-3011
+
+nature <<of>> these systems, management use <<of>> computing is  
+<<computer>s>, county government <<computer>s>, <computer> impacts, management computing  
+<<of>> computing <<and>> tends to control computing decisions  
+
+
+DocID: CACM-1706
+
+<<and>> a variant <<of>> snobol's pattern <matching> make up  
+structure <matching>, recursive programming, quantifiers  
+arrays <<of>> strings are processed using quantifiers.  
+
+
+DocID: CACM-1404
+
+between the <analysis> <<of>> covariance <<and>> the <analysis>  
+<<of>> variance <<and>> <<by>> introducing a new operator.  the  
+<analysis> <<of>> covariance, in which the basic computations  
+
+
+DocID: CACM-3057
+
+objects <<of>> different sized one <<by>> one into k2 linearly ordered  
+picture <<and>> that <<of>> a reference picture is minimized.  
+optimal his togram <matching> <<by>> monotone gray level transformation  
+
+
+DocID: CACM-1844
+
+<<and>> therefore more reliable approach to time-sharing <<computer>s>  
+<<of>> a bank <<of>> interchangeable <<computer>s>, each <<of>> which  
+<<and>> supervises the collection <<and>> distribution <<of>> messages  
+
+
+DocID: CACM-2947
+
+consisting <<of>> the textual string desired <<and>> strings  
+<<and>> text <analysis> system for nontechnical users,  
+retrieval, literary <analysis>, linguistic <analysis>, comm<<and>> languages  
+
+
+DocID: CACM-2407
+
+<<and>> a problems <<of>> implementation are discussed.  
+information systems, information <analysis>,  
+system design, systems <analysis>  
+
+
+DocID: CACM-0464
+
+subroutine consists <<of>> a string to be analyzed <<and>> a  
+syntactic <analysis> <<by>> digital <computer>  
+versions <<of>> the subroutine <<and>> some associated  
+
+
+DocID: CACM-1769
+
+<<by>> this measure.  education <<and>> increased underst<<and>>ing  
+<<and>> displays are judged <<by>> how effectively they remove these  
+the onward sweep <<of>> automatic processing <<of>>  
+
+
+DocID: CACM-2801
+
+<<and>> three digits into 10 bits, <<by>> a very simple  
+bcd code <<by>> simple removal <<of>> redundant  
+three-digit blocks, <<and>> separately compressed;  
+
+
+DocID: CACM-2980
+
+the editing  <<of>> picture segmentations using local <analysis> <<of>> graphs  
+elimination <<of>> the large number <<of>> spurious regions  
+basis <<of>> size <<and>> contrast.  a scheme is presented  
+
+
+DocID: CACM-1366
+
+which none <<of>> the more general-purpose packages do <<and>>  
+implications <<of>> this <analysis> for designers <<of>> languages,  
+that <analysis> <<of>> strengths <<and>> weaknesses <<of>> each  
+
+
+DocID: CACM-1223
+
+important part <<of>> common subexpression <recognition>.  
+high speed compilation <<of>> efficient object code  
+to remove locally constant expressions <<and>> recursively  
+
+
+DocID: CACM-1308
+
+<<of>> gravity, can be computed <<by>> subprograms <<and>> used in  
+<<and>> designers, will describe the part <<and>> specify the  
+model consists <<of>> a group <<of>> surface-defining quadric  
+
+
+DocID: CACM-1045
+
+programming <analysis> <<of>> variance <<by>> sequences  
+<<of>> operators <<and>> isomorphic mappings  
+a special operator calculus developed <<by>> hartley  
+
+
+DocID: CACM-3055
+
+<<of>> swaps which is 2/3n + 0 1  <<and>> that  
+<<by>> 1/4 <<of>> a swap.  the algorithm <<of>> meyer  
+these values differ at most <<by>> 1/3 <<of>> a swap <<and>> asymptotically  
+
+
+DocID: CACM-0252
+
+<<of>> integration, both <<computer>s> do similar processing  
+intermediate <<and>> final results.  
+programming a duplex <computer> system  
+
+
+DocID: CACM-3078
+
+<analysis> <<of>> the availability <<of>> <computer>  
+<<of>> a <computer> system constructed <<of>> unreliable  
+systems can be modeled <<by>> markov <<and>> semi-markov  
+
+
+DocID: CACM-2682
+
+<<of>> the real workload with that <<of>> the drive  
+to the case <<of>> two variables, cpu seconds <<and>> number  
+<<of>> i/o activities; <<and>> synthetic workload with 88  
+
+
+DocID: CACM-2387
+
+<<computer>s>, <computer> management, economies <<of>> scale  
+a simple <analysis> <<of>> some <computer>-economic factors  
+centralization, decentralization, economics <<of>>  
+

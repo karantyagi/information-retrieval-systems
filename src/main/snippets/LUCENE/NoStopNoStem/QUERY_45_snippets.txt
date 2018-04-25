@@ -1,0 +1,709 @@
+LUCENE_NoStopNoStem
+
+Query
+The use of operations research models to optimize information system
+performance.  This includes fine tuning decisions such as secondary index
+selection, file reorganization, and distributed databases.
+
+Top 100 Results (74 millisecs)
+
+
+DocID: CACM-2452
+
+<the> <system> is a convenient <to>ol <to> study <file>  
+evaluation <and> <selection> <of> <file> organization-a model <and> <system>  
+structures <and> <to> facilitate <as> much <as> possible <the> process  
+
+
+DocID: CACM-1976
+
+only; <and>  4  <the> avoidance <of> long strings <of> keys when an <index>  
+<of> false drops;  3  <the> elimination <of> computer time <to> perform intersection  
+<of> <secondary> <index> values in "buckets," it is possible <to> retrieve  
+
+
+DocID: CACM-2765
+
+<to> estimate average access time  read only  <and>  
+<to> be <use>d in conjunction with any <index> <selection>  
+criteria <to> determine <the> optimum set <of> <index> keys.  
+
+
+DocID: CACM-2969
+
+one computer <to> ano<the>r can also be gained from <the>  
+<and> a possible application <of> <the> model.  
+is presented.  <this> algorithm takes in<to> account <the>  
+
+
+DocID: CACM-2816
+
+<to> reorganize a datab<as>e.  a disk <file> organization  
+<to> physical disorganization is de<fine>d, <and> <this> function  
+<the> datab<as>e will incre<as>e due <to> structural  
+
+
+DocID: CACM-2114
+
+<and> from which some <of> <the> frequently <use>d <file> structures <such>  
+description, <file> search, direc<to>ry search, serial processing <of>  
+by which <the> concepts <of> keyword, <index>, record, <file>, direc<to>ry,  
+
+
+DocID: CACM-2318
+
+<the> role <of> computer <system> <models> in <performance> evaluation  
+<models> constitute a <use>ful means <of> investigating  
+examines <the> interrelationships between <models> <and> o<the>r  
+
+
+DocID: CACM-2988
+
+<and> job swap time, <and> <performance> me<as>ures <such> <as> response  
+<of> in teractive computer <system>s which <use> nonpaged memories.  
+proposed <as> being broadly applicable <to> <the> analysis  
+
+
+DocID: CACM-2359
+
+<the> time <to> locate a record is dependent not on <the> <to>tal  
+size; <and> significant <use> <of> <the> <file> in <the> <index> <as> opposed  
+<to> <the> conventional isam method <of> chaining <the>  
+
+
+DocID: CACM-2631
+
+<this> method treats text <as> a string <of> characters ra<the>r  
+one <of> <the> problems <of>ten <as>sociated with <information>  
+<of> <this> subset are <the>n <use>d <as> <index> keys for retrieval.  
+
+
+DocID: CACM-1194
+
+<the> main catalog is <use>d <to> describe <the> documents,  
+<and> inverted lists are provided by <the> reposi<to>ry  
+<the> main features <of> <the> <information> <system> are direct  
+
+
+DocID: CACM-2991
+
+<to> remove <the> effect <of> sequential properties in <the>  
+<to> locate a record.  <the> combined effects <of> <the>se techniques  
+lead <to> improved <file> <performance> for <secondary>  
+
+
+DocID: CACM-2957
+
+<as> collections <of> aggregates are structured <as>  
+update <operations> on <such> datab<as>es must  
+<decisions> concerning aggregate structure  
+
+
+DocID: CACM-3002
+
+<the> <file> <system> <use>s one or more s<to>rage devices, <and>  
+<this> model h<as> already been <use>d in <the> optimization <of>  
+<this> paper, both <as> a nonlinear programming model <and>  
+
+
+DocID: CACM-2860
+
+<of> common heuristics for determining primary or <secondary>  
+rules <of> thumb which have been suggested for <the>  
+<this> paper consolidates a number <of> popular  
+
+
+DocID: CACM-2926
+
+<of> each length are uniformly <distributed> within <the>  
+<file>, <and> if a wide distribution <of> record lengths  
+with that <of> ano<the>r strategy, <and> analyzed.  
+
+
+DocID: CACM-2437
+
+a <file> are <as>sumed <to> have been selected from <the>  
+<this> paper presents a new approach <to> <the> analysis  
+all <this> can be done analytically.  <the> approach  
+
+
+DocID: CACM-1412
+
+<to> development within some banks <of> <the> central <file>  
+<system>.  <the> banking <information> <system> now serves <the>  
+<of> data b<as>e approach <to>ward a banking <information>  
+
+
+DocID: CACM-1534
+
+<of> <the> <system>.  <the> techniques found <use>ful in <the> development  
+<the> <use> <of> <the> drums, <the> buffering <of> input <and> output  
+made <of> <the> validity <of> various design <decisions>.  <performance>  
+
+
+DocID: CACM-3181
+
+<to> stimulate meaningful public participation in <decisions> on  
+<research> h<as> revealed <the> existence <of> widespread  
+business <and> government <as> well <as> consumers.  <as> a result, any effort  
+
+
+DocID: CACM-3128
+
+examples <of> its <use> are given.  <the> relationship <of> <the> mechanism  
+ordering <of> events.  direct control <of> ordering seems <to> simplify  
+<of> <information> matters.  an implementation <of> eventcount  
+
+
+DocID: CACM-1680
+
+<system> <to> perform o<the>r jobs.  it exp<and>s <the> power  
+<to> it, <and> surrendering control <to> <the> operating  
+computer <operations> <such> <as> simulation, programming, <and>  
+
+
+DocID: CACM-2375
+
+<the> variance <of> waiting time is introduced <as>  
+criteria <of> expected seek time  <system> oriented <and> expected  
+<the>n <the> choice <of> a utility function <to> me<as>ure <to>tal  
+
+
+DocID: CACM-1519
+
+<the> schedulers.  both online <use>rs <and> <of>f line jobs <use>  
+i. 1900, <and> can h<and>le a large number <of> online console  
+processing <system>  <such> <as> <the> atl<as> supervisor, ibsys,  
+
+
+DocID: CACM-1652
+
+rate <of> <the> <information> channel linking <the> <system> <and>  
+<to> problems in area <such> <as> <information> retrieval, document  
+<the> numeric alphabetic, special symbol <and> control  
+
+
+DocID: CACM-3136
+
+econometric <models> <of> <the> u. computer market have been developed <to> study  
+me<as>ures <of> price/<performance> <such> <as> "grosch's law" are shown <to>  
+<the> relationships between <system> price <and> hardware <performance>.  single  
+
+
+DocID: CACM-2812
+
+w<as> translated <to> <the> form necessary for <use> by <the>  
+<of> applications s<of>tware design, computer <selection>  
+<this> paper describes <the> <use> <of> computer-aided  
+
+
+DocID: CACM-2949
+
+<information> pro<to>col that w<as> implemented on <the>  
+<to> update <this> <information>.  one <of> <the> major constrain ts  
+in order for <the> nodes <of> a <distributed> computer  
+
+
+DocID: CACM-3070
+
+<the> result <and> computational costs <of> <the> hybrid model <of>  
+<system> processors.  <the> accuracy <and> efficiency <of> <the>  
+<to> model <the> arrival <and> activation <of> jobs, <and> a  
+
+
+DocID: CACM-2669
+
+a model <of> <the> patterns by which programs refer <to> <the>  
+<to> manipulate, <and> is applicable <to> <such> diverse  
+model combines <the> effect <of> <the> <information>  
+
+
+DocID: CACM-2978
+
+<the> <index> structure.  formul<as> for <the> retrieval  
+<as> a wieghted sum <of> <the> cost <of> a b<as>ic key  
+which compare <the> retrieval costs <of> <the> alternatives.  
+
+
+DocID: CACM-1456
+
+<and> active or p<as>sive actions are <use>d <as> definitional  
+<the> contexts in which it h<as> been <use>d <to> de<fine> o<the>r words.  
+examples <of> methods <of> inputting <information>  
+
+
+DocID: CACM-2493
+
+however, <the> high cost <of> a <reorganization> prohibits  
+<the> data b<as>e <the> cost per access may be reduced.  
+data b<as>e, <reorganization>, <file>s, <information> retrieval  
+
+
+DocID: CACM-2862
+
+<as> <the> inter-page-fault interval distribution, <the>  
+<of> <the> <performance> <of> <the> replacement algorithm  
+<the> <performance> <of> <the> pff algorithm.  
+
+
+DocID: CACM-3028
+
+context <and> <the>n describes <the> architecture <and> <system>  
+<the> contemporary <performance> <of> <the> mark i <and> atl<as> is evaluated.  
+in <the>se <and> o<the>r are<as> is discussed, <and>  
+
+
+DocID: CACM-1908
+
+<this> study is <the> first known attempt <to> evaluate  
+two <such> <system>s for what may well be <the> predominant <use>r  
+who, <as> nonprogrammers, are using <the> computer <as> an  
+
+
+DocID: CACM-2526
+
+implications <of> memory hierarchies in which <the>  
+<and> <to> <the> read time <of> conventional backing s<to>rage  
+times.  <this> situation may not continue, <as> several  
+
+
+DocID: CACM-1226
+
+<of> <file> organizations he must consider for his <system>.  
+<this> paper provides <the> <system>s designer with an <information>  
+<of> an organization for <the> data within <the> <file> can  
+
+
+DocID: CACM-3012
+
+<and> retrieval <system>.  a moni<to>r built in<to> <the> computer  
+implementation, <system> <use>, <information> s<to>rage <and> retrieval <system>  
+<the> <use> <of> <this> <system>.  <the> implications  
+
+
+DocID: CACM-2140
+
+<of> <file> <index>ing named combined indices.  <this> technique  
+<of> incre<as>ed s<to>rage space.  <this> paper examines combined  
+curves are developed <to> show minimal cost <of> <file>  
+
+
+DocID: CACM-0696
+
+<of> data on <the> disk <file>s, <the> <system> au<to>matically  
+<to> be <use>d <as> input <to> <the> company's conventional  
+<to> s<to>re <information> required <to> provide up-<to>-date  
+
+
+DocID: CACM-1271
+
+<secondary> key retrieval using an ibm 7090-1301 <system>  
+<the> preparation <of> <secondary> s<to>rage lists from  
+a complete set <of> addresses <of> primary records relevant  
+
+
+DocID: CACM-3103
+
+proved <to> be very helpful in constructing <and>  
+<the> <use> <of> several levels <of> abstraction h<as>  
+data types <such> <as> sets <and> lists, programmer  
+
+
+DocID: CACM-3137
+
+<system> from <the> perspective <of> <the> end-<use>r.  <the> making evident <the> effect <of>  
+<the> technique is illustrated by application <to> <the> design  
+<distributed> processing, <system> design, cost minimization, <distributed>  
+
+
+DocID: CACM-2319
+
+<and> design <the> <performance> <as>pects <of> an operating <system>  
+<of> an operating <system>, an overall model <of> <the> <to>tal  
+<system> must be developed <to> be able <to> analyze  
+
+
+DocID: CACM-3134
+
+<the> appropriateness <of> <the> above approach <to> a given <information> <system>  
+<this> paper describes a method for <the> organization <and> retrieval <of> attribute  
+all <of> which possess a particular set <of> attributes  <and> possibly  
+
+
+DocID: CACM-2984
+
+indicate <the> extent <to> which <the> <to>tal <system>  
+<system> <performance> in terms <of> a cost/utilization  
+technique for <the> visual representation <of> <system>  
+
+
+DocID: CACM-2680
+
+<the> <as>signment <of> <file>s <to> disk packs, <and> packs <to> ei<the>r  
+<decisions> must be made <as> <to> which <file>s are <to> be permanently  
+will affect <the> number <of> mount requests issued <to> <the>  
+
+
+DocID: CACM-1267
+
+involving <information> rate can best be expressed <as> <the>  
+<of> determination <of> transfer rate <of> <information>  
+<information> thruput <as> a characteristic <of>  
+
+
+DocID: CACM-0409
+
+<of> distinct data descriptions <and> <the> content <and>  
+<of> comm<and> <and> descriptive languages.  <the> concept  
+realized on <the> ibm 709/7090 computer.  <the> <system> is  
+
+
+DocID: CACM-0397
+
+<and> identification field  columns 68-80 .  <the> format  
+<this> card format is sufficient <to> identify <the> material  
+is suitable <as> a st<and>ard for card reference <file>s in <information> processing.  
+
+
+DocID: CACM-2951
+
+<research> is a first step <to>ward <as>sisting <the> <use>r in participating  
+be fully investigated <to> achieve <this> goal.  <this>  
+well <as> <the> technical component <of> networking must  
+
+
+DocID: CACM-2358
+
+<and> carries its own independent attributes <of> size <and> access  
+<of> <information> s<to>red in <file>s kept in <secondary> s<to>rage.  
+<of> its physical s<to>rage location.  <information> is s<to>red  
+
+
+DocID: CACM-3090
+
+<this> impact is a joint product <of> both <the> technical  
+<to> enhance <the> administrative  attractiveness <of> <the>  
+<the> political economies <of> <the> groups that <use> <the>m.  
+
+
+DocID: CACM-2451
+
+<of> <such> a model <this> paper considers <the> design <of>  
+<the> optimal tree cannot be implemented by means <of> practical  
+<such> trees <to> serve a well-specified application. <the>  
+
+
+DocID: CACM-2253
+
+ra<the>r than <the> machine code.  <the> goal is <to> au<to>matically  
+manipulation <of> <index> expressions which arise <as>  
+in <the> matrix calculi described by <the> authors  
+
+
+DocID: CACM-2859
+
+that <the> results are valid for a much larger cl<as>s <of> <models>,  
+<as> <the> <system> size incre<as>es.  <the> model  
+<of> <the> limiting behavior <of> <the> <system> yields approximate  
+
+
+DocID: CACM-3089
+
+<information> processing.  <the> model is <use>d <to> derive <the>  
+<the> <system> is <as>sumed <to> operate with a checkpointing  
+<and> rollback/recovery method <to> ensure reliable  
+
+
+DocID: CACM-1066
+
+<system>.  emph<as>is in <this> paper is devoted <to> <the> underlying  
+<of> problem statement in terms <of> b<as>ic data <to> linear  
+by <the> new dem<and>s that applications within <the>  
+
+
+DocID: CACM-2406
+
+<as> in advanced data management <system>s <and> <distributed>  
+<and> physical <as>pects <of> data.  applications <of> <the>se  
+apparent.  <such> languages will be a key <system>s, <as> well  
+
+
+DocID: CACM-2484
+
+element from <the> given set <of> objects.  <the> <use> <of>  
+<and> formulating algorithms under a given set <of> constraints.  
+in <this> general construction method; namely, a set <of>  
+
+
+DocID: CACM-2876
+
+supplied <to> him by <the> datab<as>e.  <the> ability <to> condition  
+<use> is called here "intentional resolution" <of> privacy  
+it appears <to> be necessary for <the> datab<as>e <to>  
+
+
+DocID: CACM-2033
+
+ space , <the> time required <to> identify a message <as> a nonmember <of> <the>  
+are intended <to> reduce <the> amount <of> space required <to> contain <the> h<as>h-coded  
+<the> computational fac<to>rs considered are <the> size <of> <the> h<as>h area  
+
+
+DocID: CACM-2593
+
+data management <system>, xdms, is described <and> certain  
+<the> advantages <of> <such> a configuration are discussed.  an  
+<such> <as> <the> cod<as>yl data b<as>e t<as>k group,  
+
+
+DocID: CACM-1695
+
+examinations <of> <the> gross characteristics <of> <the> data <to>  
+<and> data from a library.  <the> <system>, operated entirely  
+by <the> network, <and> <to> s<to>re <and> retrieve networks  
+
+
+DocID: CACM-1765
+
+<the> sampling survey is described <and> <the> estimates  
+<to> determine <the> funding <and> characterize <the> utilization  
+<of> digital computers for <research> <and> instruction  
+
+
+DocID: CACM-3129
+
+<file> runs out <of> space, <the> <system> must be reorganized.  <this> paper considers  
+a computer <system> <use>s several serial <file>s.  <the> <file>s reside on a  
+designates <the> space required in each <file> for record addition. whenever one  
+
+
+DocID: CACM-2542
+
+analysis <and> simulation routines.  using <the> <performance>  
+<information> obtained from <the>se routines <as>  
+<the> re<as>ons for <this> failure are explored, <and> a new methodology  
+
+
+DocID: CACM-2849
+
+kilometer <of> coaxial cable.  a model for estimating <performance>  
+<use>d <to> build <system>s which can be viewed <as> ei<the>r local  
+on <the> e<the>r is <distributed> among <the> receiving stations  
+
+
+DocID: CACM-3011
+
+<of> computing <and> tends <to> control computing <decisions>  
+nature <of> <the>se <system>s, management <use> <of> computing is  
+traditional concepts <of> management <information>  
+
+
+DocID: CACM-2059
+
+a language for <the> representation <of> graph is described, <and> <the> formulation <of>  
+by means <of> a syntax-driven compiler.  application are<as> for <this> language are  
+<as> an extension <to> algol 60, <and> it is translated in<to> algol  
+
+
+DocID: CACM-2064
+
+st<and>ard features <of> most compilers <to>day.  <the> elements <of> <such> structures are  
+<operations> on generalized arrays with <the> genie compiler  
+<the> elements <of> multidimensional arrays <to> <the>mselves be multidimensional  
+
+
+DocID: CACM-3059
+
+<system> are developed in <this> paper.  <the> solution technique  
+<models> are formulated in terms <of> cpu:i/o <and> i/o:i/o overlap  
+<and> applied <to> <the> analysis <of> <the>se problems.  
+
+
+DocID: CACM-2928
+
+level <of> multiprogramming in <the> <system> <and> <to> bill  
+<this> estimate <to> be computed consists <of> a program accessible  
+memory requirements <of> a process in multics <to> be approximated.  
+
+
+DocID: CACM-2846
+
+<of> one key, is <of> <the> order logm n  <and> <the> s<to>rage  
+requirement <of> <the> order n* m+log2 n  bits.  <this>  
+a parameter <of> <the> trie, but where<as> <the> fields <of> <the>  
+
+
+DocID: CACM-2356
+
+is <to> include in <the> specification no more <information>  
+is illustrated by means <of> a variety <of> examples from a tu<to>rial <system>.  
+<this> paper presents an approach <to> writing  
+
+
+DocID: CACM-2896
+
+<to> underst<and>, <and> complicates <the> pro<of> greatly.  difficulties  
+method developed by owicki.  <the> <fine> degree <of> in terleaving  
+with proving <such> parallel programs correct  
+
+
+DocID: CACM-2977
+
+<of> budget growth <and> a separation between <models> <of> budgeting  
+model <of> computer development in an organization.  <research>  
+<the> results do not invalidate <the> concept <of> a stage  
+
+
+DocID: CACM-2634
+
+<and> <the> results are summarized <as> <to> cost <and> <performance>.  
+<and> <use>, tests were made for each <of> <the>se <system>s,  
+in order <to> provide <use>rs with a b<as>is for <selection>  
+
+
+DocID: CACM-2716
+
+<of> e. f. codd's relational algebra are presented, <and>  
+<to> support a relational view <of> data is proposed.  
+<the> b<as>ic idea is <to> employ au<to>matic programming techniques  
+
+
+DocID: CACM-2892
+
+<of> each level are summarized.  <the>n <the> line efficiency  
+proposed network pro<to>col <and> compared with those for <the> current <system>.  
+<the> form, extent, <and> effect <of> <the> communication line  
+
+
+DocID: CACM-3152
+
+<the> number <of> page fetches required, it is <of>ten more efficient <to>  
+<the> technique <of> str<as>sen <to> <the> reorganized data.  <the> <reorganization>/block  
+ra<the>r than <to> <use> <the> best known algorithms which leave <the>  
+
+
+DocID: CACM-2046
+
+<of> changes in query, update, <and> report traffic <and> natural growth in <the>  
+future <use>rs <of> large data banks must be protected from having <to> know how <the>  
+<models> <of> <the> data.  in section 1, inadequacies <of> <the>se <models> are discussed.  
+
+
+DocID: CACM-1236
+
+<of> analysis procedures can in general be relied upon <to>  
+<and> search requests.  <this> feature is <use>d in <the> retrieval  
+operating on <the> ibm 7094 is described.  <the> <system>  
+
+
+DocID: CACM-1515
+
+with <the> <use> <of> computers <as> <as>sistants in <the>  
+for <this> purpose.  <the> relational data <file> is briefly  
+a <system> called relational data <file> w<as> developed  
+
+
+DocID: CACM-2722
+
+<of> <the> search space  <as> a data structure for s<to>rage <of>  
+n record <file> are: insertion, o  log n ; deletion <of>  
+<the> root, o  n^ k-1 /k ; deletion <of> a r<and>om node,  
+
+
+DocID: CACM-1032
+
+<of> relevancy is developed which rewards <the> <system>  
+<the> nonrelevant, <and> penalizes <the> <system> for <the>  
+<to> circumvent <the> scanning <of> nonrelevant material, <and>  
+
+
+DocID: CACM-2946
+
+<of> <this> primitive in terms <of> p <and>  
+writers problem <and> <the> problem <of> <information>  
+in <the> moni<to>r concept, <as> proposed by brinch  
+
+
+DocID: CACM-1700
+
+<the> "peekaboo" idea from punched card <information>  
+time, <the> logical product  using <the> <and> operation   
+words.  <the> present s<to>re is made up <of> over 600,000  
+
+
+DocID: CACM-3087
+
+<of> <system> components <and> examples <of> overall <system>  
+design <and> implementation <of> <this> <system> is described <and>  
+<and> <the> relationship <of> <this> <system> <to> o<the>rs.  
+
+
+DocID: CACM-2310
+
+<as> <to> language analysis in <the> humanities will be <the>  
+ <as> in indices <and> concordances  is widespread <and> accepted  
+<as> desirable.  <the> implications <of> <the> computer  
+
+
+DocID: CACM-2307
+
+<reorganization> <of> <the> s<to>red <information> <as> a function <of>  
+<and> <of> <the> mechanization <of> documentation  
+for <information> retrieval <and> for <the> control  
+
+
+DocID: CACM-1699
+
+<of> <such> a <system> include e<as>e <of> <use>, learning time, <and>  
+<of> <the> <research> is that an <information> retrieval <system>  
+<of> <the> <to>ols which would be available <to> him were  
+
+
+DocID: CACM-3058
+
+where <the> optimum jump size is <the> square root <of> <the>  
+number <of> records.  multiple level <and> variable  
+are discussed <and> <performance> is evaluated.  
+
+
+DocID: CACM-1828
+
+<file> <system>.  methods for synchronization <of>  
+can be represented <as> a graph.  an example <of> <such>  
+discussed <and> <the>ir <performance> compared.  
+
+
+DocID: CACM-1960
+
+<the> main design principles <of> <the> multiaccess <system> esope are described.  
+process management <and> resource sharing in <the> multiaccess <system> esope  
+include <the> ability given <to> any <use>r <to> schedule his own parallel  
+
+
+DocID: CACM-0944
+
+s<to>rage <and> search properties <of> a tree-organized memory <system>  
+<the> purpose <of> <this> paper is <to> examine  
+large quantities <of> data or <to> problems where <the> quantity,  
+
+
+DocID: CACM-2900
+
+which <to> locate copies <of> a <file>-is known <to> be, in general,  
+<the> <file> allocation problem-i.e. <the> problem  
+<of> finding <the> optimal set <of> network sites at  
+
+
+DocID: CACM-2750
+
+in <such> a situation, we must find a set <of> <as>sumptions  
+<as> <such>, it can aid in quantifying <the> problems  
+<of> data set allocation, s<to>rage <system> configuration, <and> new device designs.  
+
+
+DocID: CACM-3082
+
+a <system> <of> logical clocks which can be <use>d <to> <to>tally  
+time, clocks, <and> <the> ordering <of> events in a <distributed> <system>  
+order <the> events.  <the> <use> <of> <the> <to>tal ordering  
+

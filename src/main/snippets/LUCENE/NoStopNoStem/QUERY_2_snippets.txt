@@ -1,0 +1,704 @@
+LUCENE_NoStopNoStem
+
+Query
+I am interested in articles written either by Prieve or Udo Pooch
+
+Prieve, B.
+Pooch, U.
+
+Top 100 Results (374 millisecs)
+
+
+DocID: CACM-2434
+
+pr<i>eve, <b>. g.  
+ca731006 j<b> jan<u>ary 20, 1978  11:34 <am>  
+<i>s ex<am><i>ned.  several om<i>ss<i>ons <i>n h<i>s model are noted,  
+
+
+DocID: CACM-3078
+
+<<pooch>>, <u>.  
+are o<b>ta<i>ned <<b>y> <u>s<i>ng var<i>o<u>s comp<u>ter-a<i>ded  
+can <b>e cons<i>dera<b>ly red<u>ced <<b>y> the appl<i>cat<i>on  
+
+
+DocID: CACM-3129
+
+added to the f<i>les e<i>ther <<b>y> jo<b>s <i>n <b>atch process<i>ng mode, <or> <<b>y> on-l<i>ne  
+yech<i>al<i>, <u>.  
+ca790208 dh apr<i>l 12, 1979  10:34 <am>  
+
+
+DocID: CACM-2786
+
+on e<i>ther a phototypesetter <or> on a term<i>nal w<i>th f<or>ward  
+can <b>e learned <i>n an ho<u>r <or> so, f<or> <i>t has few r<u>les  
+kern<i>ghan, <b>. w.  
+
+
+DocID: CACM-2863
+
+pr<i>eve, <b>. g.  
+
+
+DocID: CACM-1977
+
+<i>n e<i>ther the l1 <or> l-<i>nf<i>n<i>ty n<or>m.  a<u>x<i>l<i>ary cond<i>t<i>ons s<u>ch as  
+rosen, j. <b>.  
+ca701101 j<b> fe<b>r<u>ary 10, 1978  9:06 <am>  
+
+
+DocID: CACM-2534
+
+can opt<i>onally <b>e cons<i>dered e<i>ther so<u>rce test <or> comment.  
+<i>n sp<i>te of the d<i>agnost<i>c eff<or>t pl/c <i>s  
+ca730305 j<b> jan<u>ary 24, 1978  10:45 <am>  
+
+
+DocID: CACM-0497
+
+gl<u>ss, <b>.  
+part<i>c<u>lar po<i>nt of s<u><b>d<i>v<i>s<i>on <u> <i>  co<u>ld <b>e red<u>ced to  
+<i>t <i>s f<u>rther shown that an eq<u>at<i>on f<or> <u> <i>  <i>nvolv<i>ng  
+
+
+DocID: CACM-3202
+
+<b>ender, <b>.  
+man<i>p<u>lat<i>ng character seq<u>ences. progr<am>s wh<i>ch res<u>lted were wr<i>tten <i>n  
+a mathemat<i>cal express<i>on to <b>e operated <u>pon <i>s wr<i>tten <i>n f<or>tran-l<i>ke  
+
+
+DocID: CACM-2177
+
+<i>n deta<i>l w<i>th that proposed <<b>y> read f<or> wh<i>ch  
+as 2 m+n  <i>n case  <i> , <or>  n^2 /w<i>n case  
+graph.  the graph may <b>e represented e<i>ther  <i>  as an  
+
+
+DocID: CACM-0616
+
+<i>nterested <i>n develop<i>ng a the<or>et<i>cal approach to data  
+w<i>th apprec<i>at<i>on <<b>y> the <b><u>s<i>nessman-analyst-manager.  
+an <i>nf<or>mat<i>on alge<b>ra - phase <i> rep<or>t-lang<u>age  
+
+
+DocID: CACM-3144
+
+e<i>ther <b>e <i>nterpreted  <i>.e. nested <i>nterpreters  <or> r<u>n d<i>rectly on  
+<<b>y> v<i>rt<u>e of <b>e<i>ng <i>nterpreted <<b>y> other progr<am>s, wh<i>ch themselves may  
+a m<u>lt<i>-<i>nterpreter system <i>s a system <i>n wh<i>ch progr<am>s exec<u>te  
+
+
+DocID: CACM-1379
+
+<i>n each case, an else m<u>st always <b>e preceded <<b>y> a closed  
+are e<i>ther <am><b><i>g<u>o<u>s <or> <u>nnecessar<i>ly restr<i>ct<i>ve.  
+lead to e<i>ther <am><b><i>g<u><i>ty <or> <u>nnecessary restr<i>ct<i>on.  
+
+
+DocID: CACM-1046
+
+except <i>n some very small deta<i>ls, and <i>n some comments,  
+<i>n a n<u>m<b>er of art<i>cles p<u><b>l<i>shed d<u>r<i>ng the  
+<<b>y> j. rohl <i>n the<i>r most recent paper have presented  
+
+
+DocID: CACM-2342
+
+parallel processes have <b>een ex<am><i>ned <<b>y>  
+r<u>les" <<b>y> wh<i>ch the <i>nd<i>v<i>d<u>al processes operate.  
+ca720603 j<b> jan<u>ary 31, 1978  8:44 <am>  
+
+
+DocID: CACM-1264
+
+<or> <b>ra<i>lle.  even tho<u>gh th<i>s system was wr<i>tten f<or>  
+<or> of exec<u>t<i>ng progr<am>s may <b>e <i>n e<i>ther engl<i>sh  
+<i>n the system.  
+
+
+DocID: CACM-1010
+
+<i>n the<i>r val<u>e f<or> sc<i>ent<i>f<i>c research <<b>y> <i>na<b><i>l<i>ty  
+e<i>ther s<i>mple <or> complex.  <i>mplementat<i>on <i>s descr<i><b>ed  
+denn<i>s, j. <b>.  
+
+
+DocID: CACM-0727
+
+on the approx<i>mate sol<u>t<i>on of delta <u> =f <u>   
+three-d<i>mens<i>onal d<i>r<i>chlet pro<b>lems f<or> delta <u> =f <u> ,  
+f<u> >= 0, are treated n<u>mer<i>cally <<b>y>  
+
+
+DocID: CACM-1364
+
+eq<u>at<i>ons of the f<or>m d<u>/dt = g <u> t ,<u> h t     
+mathemat<i>cal exper<i>mentat<i>on <i>n t<i>me-lag mod<u>lat<i>on  
+propert<i>es were o<b>ta<i>ned <<b>y> means of n<u>mer<i>cal sol<u>t<i>on.  
+
+
+DocID: CACM-1674
+
+generat<or>s d<i>rectly <i>n f<or>tran progr<am>s, <<b>y>  
+generat<or>s <<b>y> themselves <or> m<i>x<i>ng several generat<or>s  
+w<i>th generat<or>s, e<i>ther <u>s<i>ng congr<u>ent<i>al  
+
+
+DocID: CACM-1652
+
+<u>se of escape codes <i>ncl<u>ded <i>n the set, <or> <<b>y> s<u><i>ta<b>le  
+the <b>as<i>c set s<i>ze may <b>e expanded e<i>ther <<b>y>  
+mclean, j. <b>.  
+
+
+DocID: CACM-2939
+
+to the a<b>stract<i>on mechan<i>sms <i>n cl<u>.  <<b>y>  
+l<i>skov, <b>.  
+a<b>stract<i>on mechan<i>sms <i>n cl<u>  
+
+
+DocID: CACM-3117
+
+<i>n the <u>se of comp<u>ter technology <<b>y> <u>. pol<i>ce departments.  th<i>s  
+ca790102 dh apr<i>l 10, 1979  11:32 <am>  
+<or> comp<u>ter-a<i>ded-d<i>spatch systems where the mach<i>ne <b>eg<i>ns to <b>ecome  
+
+
+DocID: CACM-1931
+
+<i>n matr<i>x comp<u>tat<i>ons.  <i>n the present paper  
+two recent papers, one <<b>y> hansen and one <<b>y>  
+<i>. determ<i>nants <i>n a progr<am> to test a set of  
+
+
+DocID: CACM-3171
+
+<i>n e<i>ther t<i>me <or> space, d<u>r<i>ng exec<u>t<i>on of the progr<am>.  
+ca791004 d<b> jan<u>ary 17, 1980  9:57 <am>  
+
+
+DocID: CACM-1012
+
+<i>n th<i>s paper.  
+<<b>y> a d<i>rected prod<u>ct<i>on analyzer.  the k<u>no-oett<i>nger  
+voca<b><u>lary <i>, <i>np<u>t voca<b><u>lary t, and all prod<u>ct<i>ons  
+
+
+DocID: CACM-2971
+
+w<or>tman, d. <b>.  
+<or> <i>mplemented w<i>tho<u>t the follow<i>ng s<u><b>sets.  
+str<u>ct<u>red pro<b>lem solv<i>ng <<b>y> comp<u>ters, to  
+
+
+DocID: CACM-1062
+
+sym<b>ol man<i>p<u>lat<i>on <i>n f<or>tran-sasp <i> s<u><b>ro<u>t<i>nes  
+<b><u>rleson, p. <b>.  
+<<b>y> the shadow general syntact<i>c analys<i>s s<u><b>ro<u>t<i>ne  
+
+
+DocID: CACM-0282
+
+<<b>y>pass some <or> all of the area on tape <or> try  
+w<i>ll <b>e <u>sed <i>n the f<u>t<u>re.  <i>n the case where  
+check after wr<i>t<i>ng.  where an err<or> occ<u>rs <i>n  
+
+
+DocID: CACM-2439
+
+the system exec<u>t<i>ve <or> <i>n any of the system's comp<i>lers <or> <i>nterpreters.  
+control <i>n a t<i>me-shar<i>ng env<i>ronment  
+was <i>mplemented w<i>tho<u>t req<u><i>r<i>ng any changes <i>n  
+
+
+DocID: CACM-1272
+
+<<b>y> the <u>se of a conc<or>dance <i>n prepar<i>ng a s<u>rvey art<i>cle  
+do<u>le, l. <b>.  
+<i>n a<u>tomat<i>c a<b>stract<i>ng, c<i>tat<i>on <i>ndex<i>ng,  
+
+
+DocID: CACM-2215
+
+e<i>ther class<i>f<i>es the <u>nknown pattern <or> selects another  
+d<i>rectly <or> <<b>y> analogy <i>nto spr proced<u>res.  
+some comp<u>ter s<i>m<u>lated exper<i>ments <i>n character recogn<i>t<i>on  
+
+
+DocID: CACM-2572
+
+comm<u>n<i>ty <or> the acceptance of a pol<i>cy <i>n  
+<i>s not yet <i>n a pos<i>t<i>on to j<u>st<i>fy e<i>ther the constr<u>ct<i>on  
+press, l. <i>.  
+
+
+DocID: CACM-2002
+
+transf<or>mat<i>on, project<i>on, scal<i>ng, rotat<i>on, <or> sh<i>ft<i>ng of ent<i>re plots <or>  
+s<u><b>plots <<b>y> the act<i>on of one <or> m<or>e s<i>mple mod<u>les <i>s poss<i><b>le.  the <u>ser  
+complex<i>ty to <b>e constr<u>cted <<b>y> add<i>ng <or> replac<i>ng mod<u>les.  the  
+
+
+DocID: CACM-1553
+
+<u>nderstand<i>ng on the part of e<i>ther h<u>mans <or>  
+context<u>al <u>nderstand<i>ng <<b>y> comp<u>ters  
+ach<i>eved <i>n a part<i>c<u>lar conversat<i>on depends  
+
+
+DocID: CACM-2980
+
+e<i>ther on the <b>as<i>s of semant<i>c <i>nf<or>mat<i>on <or> on the  
+ca770402 j<b> decem<b>er 29, 1977  6:22 <am>  
+a maj<or> pro<b>lem <i>n p<i>ct<u>re process<i>ng <i>s the  
+
+
+DocID: CACM-2905
+
+set <i> the smallest ta<b>le <i>n wh<i>ch the elements of <i>  
+<<b>y> <u>s<i>ng a perfect hash<i>ng f<u>nct<i>on constr<u>cted <<b>y> th<i>s  
+<i>n several pract<i>cal appl<i>cat<i>ons.  
+
+
+DocID: CACM-1861
+
+arden, <b>. w.  
+galler, <b>. a.  
+wr<i>tten. some concl<u>s<i>ons are drawn a<b>o<u>t f<u>t<u>re  
+
+
+DocID: CACM-0531
+
+c<u>stomer n<u>m<b>er, <or> soc<i>al sec<u>r<i>ty n<u>m<b>er.  <i>n  
+exper<i>ence <i>n match<i>ng.  
+person-match<i>ng <<b>y> electron<i>c methods  
+
+
+DocID: CACM-1705
+
+<<b>y> means of the pr<i>m<i>t<i>ves <i>n sym<b>ol, o<u>tsym<b>ol  
+and length, as req<u>ested <<b>y> th<i>s jo<u>rnal's  
+wr<i>tten as a der<i>ved proced<u>re; <i>t o<u>tp<u>ts <u>s<i>ng  
+
+
+DocID: CACM-1877
+
+<i>n the append<i>xes show that the cond<i>t<i>ons <i>mposed <<b>y>  
+the pro<b>lem <i>n s<u>ff<i>c<i>ent general<i>ty <or> they  
+s<i>t<u>at<i>on <i>n wh<i>ch reso<u>rces have <b>een allocated  
+
+
+DocID: CACM-2047
+
+the matr<i>x <or> <i>nc<or>p<or>ated <<b>y> means of an <i>mpl<i>c<i>t alg<or><i>thm.  <b>oth  
+ca700608 j<b> fe<b>r<u>ary 13, 1978  11:02 <am>  
+may <b>e e<i>ther s<u><b>tracted d<i>rectly from the d<i>agonal elements of  
+
+
+DocID: CACM-1593
+
+of the harvard <i>terat<i>ve method, descr<i><b>ed <<b>y> g<i>lman,  
+n<u>m<b>er of ar<i>thmet<i>c operat<i>ons needed <<b>y> a var<i>ant  
+d<i>v<i>s<or>s whose lead<i>ng character <i>s e<i>ther rad<i>x less  
+
+
+DocID: CACM-2194
+
+<or> comp<i>l<i>ng two <or> m<or>e <b>locks of <i>nstr<u>ct<i>ons wh<i>ch  
+<<b>y> an assem<b>ler <or> comp<i>ler when  1  the length of  
+some comp<u>ters perm<i>t e<i>ther 8-<b><i>t address<i>ng  
+
+
+DocID: CACM-1975
+
+q<u>ot<i>ent to <b>e e<i>ther eq<u>al to <or> one greater than <i>ts f<i>nal replacement.  
+ca701103 j<b> fe<b>r<u>ary 10, 1978  8:45 <am>  
+<i>n<i>t<i>ated. the <u>n<i>q<u>eness of th<i>s method w<i>ll ca<u>se each tr<i>al c<i>pher <i>n the  
+
+
+DocID: CACM-1519
+
+towards e<i>ther mode and can <b>e e<i>ther a <b>atch  
+<or> gecos , <or> a m<u>lt<i>access system  resem<b>l<i>ng,  
+to the <u>ser, ctss <or> m<u>lt<i>cs , <or> <b>oth s<i>m<u>ltaneo<u>sly,  
+
+
+DocID: CACM-2451
+
+poses an opt<i>m<i>zat<i>on pro<b>lem <i>n the des<i>gn of  
+ca730904 j<b> jan<u>ary 23, 1978  9:38 <am>  
+pro<b>lem <i>s academ<i>c <i>n the sense that <or>d<i>nar<i>ly  
+
+
+DocID: CACM-1867
+
+<i>n s<or>t<i>ng <<b>y> replacement select<i>ng  
+one <i>s <i>nterested <i>n the rat<i>o l j  of the  
+<i>n the replacement-select<i>ng techn<i>q<u>e of s<or>t<i>ng,  
+
+
+DocID: CACM-1154
+
+<or> all of the follow<i>ng:  1  restr<i>ct the manner <i>n  
+d<i>g<i>tal comp<u>ters as e<i>ther the f<i>n<i>te a<u>tomata <or> the  
+comp<u>tat<i>on <<b>y> some <i>ncreas<i>ng rec<u>rs<i>ve f<u>nct<i>on  
+
+
+DocID: CACM-1924
+
+<or> part<i>t<i>on per page  <i>n most cases <i>nd<u>ced  
+the n<u>m<b>er of page-p<u>lls req<u><i>red <<b>y> these matr<i>x  
+ca690303 j<b> fe<b>r<u>ary 20, 1978  9:35 <am>  
+
+
+DocID: CACM-2852
+
+<i>n comp<u>ter sc<i>ence <or> <i>n <i>nf<or>mat<i>on systems  
+<i>n <i>nf<or>mat<i>on systems <or> f<or> grad<u>ate profess<i>onal  
+progr<am>s <i>n comp<u>ter sc<i>ence.  
+
+
+DocID: CACM-1741
+
+shepherd, <b>. j.  
+<i>n the <i>np<u>t space.  
+the p<i>ct<u>re, wh<i>ch <i>s generated <<b>y> swept h<or><i>zontal  
+
+
+DocID: CACM-0335
+
+and a nonl<i>near ell<i>pt<i>c eq<u>at<i>on <u> xx +<u> yy =exp <u>   
+para<b>ol<i>c eq<u>at<i>on of the f<or>m <u> t -<u> xx =g <u>   
+show that <i>n many cases the q<u><i>s<i> l<i>near<i>zat<i>on  
+
+
+DocID: CACM-1651
+
+<u>se e<i>ther as a pedagog<i>cal dev<i>ce <or> f<or>  
+a<i>d <i>n <i>dent<i>f<i>cat<i>on, e.g., of row constra<i>nts.  
+<i>n th<i>s descr<i>pt<i>ve art<i>cle an <i>np<u>t code  
+
+
+DocID: CACM-1764
+
+condensed <<b>y> dr. <or>gan<i>ck and ed<i>ted <<b>y> h<i>m and  
+apprec<i>at<i>on, <or>gan<i>zed and cha<i>red <<b>y> ell<i>ot <i>. <or>gan<i>ck.  
+were jo<i>ned <i>n d<i>sc<u>ss<i>on <<b>y> andr<i>es van d<am> and arth<u>r  
+
+
+DocID: CACM-1486
+
+<i>n the lang<u>age and f<or> rearrang<i>ng the <i>tems <i>n the  
+r<u>les are g<i>ven f<or> transf<or>m<i>ng progr<am>s wr<i>tten  
+detect<i>on of common parts <or> patterns of l<i><b>rary  
+
+
+DocID: CACM-2233
+
+fo<u>r m<i>les from <b><u>f<or>d's <i>n an excavat<i>on <or> va<u>lt..."   
+three cyphers allegedly a<u>th<or>ed <<b>y> thomas  
+r<i>ght va<u>lt <i>n the common-wealth of v<i>rg<i>n<i>a.  
+
+
+DocID: CACM-1542
+
+progr<am> wr<i>tten <i>n 360 mach<i>ne lang<u>age.  the system <i>s descr<i><b>ed  
+lang<u>age e<u>ler has <b>een <i>mplemented <i>n  
+eff<i>c<i>ently <<b>y> m<i>croprogr<am>s on ex<i>st<i>ng comp<u>ter hardware.  
+
+
+DocID: CACM-1315
+
+<i>n m<i>ll<i>c<u>r<i>es; react<or>-created rad<i>o<i>sotopes <i>n m<i>croc<u>r<i>es.  
+rad<i>o<i>sotopes <i>s wr<i>tten <i>n f<or>mat f<or>tran f<or> the <i><b>m  
+acco<u>nta<b><i>l<i>ty f<or> react<or>-created rad<i>o<i>sotopes <i>s wr<i>tten  
+
+
+DocID: CACM-1588
+
+<b>een el<i>m<i>nated <i>n the l<i>st-process<i>ng fac<i>l<i>t<i>es  
+ca670604 j<b> fe<b>r<u>ary 28, 1978  9:30 <am>  
+d<i>sc<u>ssed.  <i>n add<i>t<i>on, several deta<i>led l<i>st-process<i>ng ex<am>ples are prov<i>ded.  
+
+
+DocID: CACM-2519
+
+<i>nteract<i>ve system controlled <<b>y> comp<u>ter.  
+nat<u>ral lang<u>age <<b>y> var<i>o<u>s notat<i>onal and l<i>ng<u><i>st<i>c  
+ca730501 j<b> jan<u>ary 24, 1978  9:25 <am>  
+
+
+DocID: CACM-1334
+
+generated <<b>y> a rec<u>rrence scheme.  the progr<am> <i>s coded <i>n  
+<i>zsak, <i>. g.  
+as polynom<i>als <i>n two var<i>a<b>les, one of wh<i>ch  
+
+
+DocID: CACM-2924
+
+wh<i>ch sect<i>onal c<u>rves are represented <<b>y> <u>n<i>f<or>m  
+of spl<i>ne the<or>y and alg<or><i>thms, an <i>n teract<i>ve  
+an <i>n teract<i>ve comp<u>ter graph<i>cs method has <b>een  
+
+
+DocID: CACM-0242
+
+comp<u>ter wh<i>ch does not have e<i>ther m<u>lt<i>pl<i>cat<i>on <or>  
+d<i>v<i>s<i>on.  <i>n add<i>t<i>on some attempt has <b>een made  
+
+
+DocID: CACM-2250
+
+d<i>eter, <u>.  
+ca721205 j<b> jan<u>ary 27, 1978  11:20 <am>  
+
+
+DocID: CACM-2900
+
+<i>ncl<u>ded <i>n an opt<i>mal allocat<i>on.  
+a<i>ds to f<i>nd<i>ng opt<i>mal, <or> near-opt<i>mal, sol<u>t<i>ons are  
+ca771116 j<b> decem<b>er 27, 1977  8:45 <am>  
+
+
+DocID: CACM-1397
+
+str<i>ngs, <i>n the<i>r appl<i>cat<i>ons, and <i>n alg<or><i>thms f<or>  
+people <i>nterested <i>n progr<am>m<i>ng lang<u>ages des<i>gned  
+conference arrangements were made <<b>y> lew<i>s c.  
+
+
+DocID: CACM-3059
+
+process<i>ng <<b>y> <i>nd<i>v<i>d<u>al progr<am>s <i>n a m<u>lt<i>progr<am>med  
+<i>s developed <<b>y> netw<or>k decompos<i>t<i>on.  the  
+are <i>n approx<i>mate cp<u>:<i>/o <u>t<i>l<i>zat<i>on <b>alance and f<or>  
+
+
+DocID: CACM-0670
+
+<i>nvest <i>n the new fac<i>l<i>t<i>es, e<i>ther d<i>rectly <or>  
+the <i>nd<u>stry <i>s h<i>ghly reg<u>lated <<b>y> government  
+now, <b>ef<or>e systems and pract<i>ces crystall<i>ze, <i>n  
+
+
+DocID: CACM-2423
+
+schne<i>der, v. <b>.  
+ca731103 j<b> jan<u>ary 20, 197810:41 <am>  
+<i>n the <i>np<u>t translat<i>on gr<am>mar, each <b>nf  
+
+
+DocID: CACM-3072
+
+ as meas<u>red <<b>y> <u>ser cp<u> t<i>me  over that g<i>ven <<b>y> opt<i>mal  
+<or> near-opt<i>mal stat<i>c sched<u>lers <i>m<b>eded  
+<i>n the m<u>lt<i>progr<am>m<i>ng- m<u>lt<i>process<or> comp<u>ter  
+
+
+DocID: CACM-1886
+
+each of wh<i>ch occ<u>rs <i>n two <or> m<or>e other express<i>ons  
+enco<u>ntered <i>n sym<b>ol man<i>p<u>lat<i>ng systems.  
+ca690607j<b> fe<b>r<u>ary 17, 1978  10:57 <am>  
+
+
+DocID: CACM-2304
+
+many <u>. h<i>st<or><i>es of the d<i>g<i>tal comp<u>ter  
+ca720724 j<b> jan<u>ary 30, 1978  10:40 <am>  
+early years <i>n a personal way.  the people, <or>gan<i>zat<i>ons,  
+
+
+DocID: CACM-1623
+
+may <b>e <i>nterested <i>n the pro<b>lem <b>eca<u>se <i>t <i>s stated  
+<u>ntena<b>le <<b>y> hand  <b><u>t nevertheless <i>nvolved  
+of <i>nterest <i>n areas other than c<i>rc<u><i>t analys<i>s.  
+
+
+DocID: CACM-3201
+
+<b><u>t to <b>e called <i>n the f<or>tran lang<u>age f<or> <u>se <i>n f<or>tran  progr<am>s. an  
+set of f<or>mal s<u><b>ro<u>t<i>nes wr<i>tten part<i>ally <i>n the <i><b>m 7094 mach<i>ne lang<u>age,  
+ca660815 es march 17, 1982 10:10 <am>  
+
+
+DocID: CACM-2421
+
+f<i>le <i>n the xy <or> random scan f<or>mat.  scan converters,  
+j<or>dan, <b>. w. jr.  
+<i>ncrease <i>n exec<u>t<i>on t<i>me.  
+
+
+DocID: CACM-3110
+
+<i>nstr<u>ct<i>on <i>s e<i>ther a la<b>el <or> an assem<b>ly-t<i>me  
+<i>s relaxed <<b>y> allow<i>ng these operands to  
+case <i>n wh<i>ch the operand of every s<u>ch "span-dependent"  
+
+
+DocID: CACM-1464
+
+map <or> f<or>tran as well as algol may <b>e called <<b>y>  
+<i>n map may <b>e <i>ncl<u>ded <i>n any algol progr<am>.  
+<u>s<i>ng the cha<i>n feat<u>re of <i><b>sys, l<i>nks wr<i>tten <i>n  
+
+
+DocID: CACM-3033
+
+montanar<i>, <u>.  
+tackled <i>n the l<i>terat<u>re <u>s<i>ng two approaches,  
+exponent<i>al.  <i>n th<i>s paper we s<u>ggest a he<u>r<i>st<i>cally  
+
+
+DocID: CACM-1846
+
+<b>e <i>gn<or>ed, <or> can <b>e handled <<b>y> s<i>mple pr<i><or><i>ty  
+<i>n wh<i>ch s<i>m<u>ltaneo<u>s events may occ<u>r  
+events <i>n separate processes <i>s <i>ntrod<u>ced.  
+
+
+DocID: CACM-0397
+
+a var<i>ety of reference f<i>les <i>n <i>nf<or>mat<i>on  
+<b>ooks, art<i>cles, progr<am>m<i>ng terms, hardware terms, eq<u><i>pment,  
+ca610201 j<b> march 17, 1978  1:08 <am>  
+
+
+DocID: CACM-1638
+
+<i>n s<or>t<i>ng <<b>y> replacement select<i>ng, the expected  
+gasner, <b>. j.  
+s<or>t<i>ng <<b>y> replacement select<i>ng  
+
+
+DocID: CACM-2039
+
+shr<i>ver, <b>.  
+ca700616 j<b> fe<b>r<u>ary 13, 1978  10:01 <am>  
+permanent f<u>nct<i>on of a sq<u>are matr<i>x <i> and <i><i>  alg<or><i>thm 361 $g6    
+
+
+DocID: CACM-2354
+
+<i>n a compan<i>on paper to th<i>s, "<i> methodology  
+<i>s also appl<i>ca<b>le <i>n other c<i>rc<u>mstances  
+<<b>y> rec<u>rrence relat<i>on <i>s n<u>mer<i>cally <u>nsta<b>le, part<i>c<u>larly  
+
+
+DocID: CACM-1930
+
+wh<i>ch are not ent<i>rely <u>n<i>versal <or> are not <u>sed <i>n a  
+kr<u>skal, j. <b>.  
+ l<i>ke random n<u>m<b>er generat<i>on and <i>n c<or>e s<or>t<i>ng   
+
+
+DocID: CACM-3199
+
+algem <i>s a package of s<u><b>progr<am>s wr<i>tten <i>n sl<i>p, f<or>tran <i>v and map 7094  
+ca660813 es march 17, 1982 10:10 <am>  
+
+
+DocID: CACM-2981
+
+weg<b>re<i>t, <b>.  
+and, <i>n part<i>c<u>lar, <i>t <i>s shown that s<u><b>goal  
+ca770401 j<b> decem<b>er 29, 1977  6:31 <am>  
+
+
+DocID: CACM-2356
+
+ca720504 j<b> jan<u>ary 31, 1978  10:47 <am>  
+<i>s to <i>ncl<u>de <i>n the spec<i>f<i>cat<i>on no m<or>e <i>nf<or>mat<i>on  
+can <b>e wr<i>tten to <i>nteract w<i>th the p<i>ece spec<i>f<i>ed w<i>tho<u>t  
+
+
+DocID: CACM-1527
+
+<or>, m<or>e c<or>rectly, <i>s gr<am>mat<i>cal <i>n terms of  
+st<or>ed <i>nf<or>mat<i>on, e<i>ther expl<i>c<i>tly <or> <i>mpl<i>c<i>tly represented,  
+thro<u>gh q<u>est<i>ons posed <i>n nat<u>ral lang<u>age  
+
+
+DocID: CACM-2771
+
+<b>ra<i>d, <i>. c.  
+the synthes<i>s of sol<i>ds <b>o<u>nded <<b>y> many faces  
+added together <or> s<u><b>tracted.  two alg<or><i>thms to  
+
+
+DocID: CACM-2986
+
+h<u>nt, h. <b>. <i><i><i>  
+operat<or> precedence <or> w<i>rth-we<b>er precedence  
+<or> d<i>rected graphs, s<u>ch as the comp<u>tat<i>on  
+
+
+DocID: CACM-1564
+
+was wr<i>tten <i>n a mod<u>lar f<or>m <i>n req<u><i>red co<b>ol-61.  
+descr<i>pt<i>on of <b>as<i>c alg<or><i>thm <i>n deta<b>/65 preprocess<or>  
+saved <<b>y> <u>s<i>ng q<u>e<u>e<i>ng techn<i>q<u>es and extens<i>ve  
+
+
+DocID: CACM-1166
+
+<<b>y> generat<i>ng calls to <i>/o s<i>m<u>lat<i>on s<u><b>ro<u>t<i>nes.  
+to ass<i>st <i>n translat<i>ng <i><b>m 7090 sym<b>ol<i>c assem<b>ly  
+<or> tag of an <i>ncompat<i><b>le <i>nstr<u>ct<i>on req<u><i>res <i>nc<or>p<or>at<i>on  
+
+
+DocID: CACM-3047
+
+<b>achman, <b>.  
+h<or>n, <b>.  
+l<i>ght <or> radar <i>mages req<u><i>res exact al<i>gnment  
+
+
+DocID: CACM-2486
+
+<i>n comp<u>ter ass<i>sted typesett<i>ng <<b>y> means of  
+e.g. <<b>y> overpr<i>nt<i>ng; the prec<i>se pos<i>t<i>on<i>ng  
+photocompos<i>t<i>on, spec<i>al pro<b>lems ar<i>se <i>n h<i>ghly  
+
+
+DocID: CACM-2402
+
+<<b>y> cross-c<or>relat<i>ons has <i>ntr<i>ns<i>c advantages  
+a<u>toc<or>relat<i>on <or> patterson f<u>nct<i>on, espec<i>ally  
+a f<u>nd<am>ental <i>ncompleteness <i>n the meas<u>red data.  
+
+
+DocID: CACM-2916
+
+<i>n most cases, not all of the f<i>rst <i> characters  
+character str<i>ng, "pat," <i>n another str<i>ng, "str<i>ng."  
+ca771010 j<b> decem<b>er 27, 1977  9:43 <am>  
+
+
+DocID: CACM-2684
+
+<i>s g<i>ven <i>n a prev<i>o<u>s paper <<b>y> the a<u>th<or>.  
+<i>ss<u>es <i>n syntax stem from the context-sens<i>t<i>ve req<u><i>rements,  
+prod<u>ct<i>on systems: <or> can we do <b>etter than <b>nf?  
+
+
+DocID: CACM-2714
+
+m <i>n the spec<i>al case where n=km.  
+ca751005 j<b> jan<u>ary 6, 1978  10:50 <am>  
+cons<i>der two l<i>nearly <or>dered sets a, <b>, |a|=m,  
+
+
+DocID: CACM-1259
+
+appl<i>cat<i>ons of <b><i>nary n<u>m<b>ers <i>n comp<u>ter ro<u>t<i>nes  
+f<or>m of express<i>on f<or> e<i>ther a set of letters  
+are g<i>ven <i>n wh<i>ch the f<or>m of an express<i>on <i>s  
+

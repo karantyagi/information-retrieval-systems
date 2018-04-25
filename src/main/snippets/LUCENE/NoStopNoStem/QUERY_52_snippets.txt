@@ -1,0 +1,682 @@
+LUCENE_NoStopNoStem
+
+Query
+Modelling and simulation in agricultural ecosystems.
+
+Top 100 Results (2 millisecs)
+
+
+DocID: CACM-2721
+
+<in> fortran iv of phytoplankton <and> zooplankton population  
+river <ecosystems>, ecological mechanisms, environmental <simulation>,  
+aquatic <ecosystems>, as well as <in> environmental  
+
+
+DocID: CACM-2749
+
+the model aids <in> choos<in>g between the two <simulation>  
+pulse <simulation>, significant event <simulation>.  
+<simulation> organization, event <simulation>, clock  
+
+
+DocID: CACM-1366
+
+suggests ways <in> which both current <and> future <simulation>  
+<and> of some of the <in>volved <in> compar<in>g software packages  
+language is chosenore <and> more computer <simulation>  
+
+
+DocID: CACM-1870
+
+"numbers" <in> which the probability that each bit <in> the  
+some techniques for us<in>g pseudor<and>om numbers <in> computer <simulation>  
+<in> <simulation> programm<in>g are described.  
+
+
+DocID: CACM-3070
+
+to model the arrival <and> activation of jobs, <and> a  
+of a hybrid <simulation> model <in> which both  
+discrete-event <simulation> <and> analytic techniques are  
+
+
+DocID: CACM-1928
+
+<simulation>, logical <simulation>, digital <simulation>,  
+<in> execution time <and> space, <and> a facility for h<and>l<in>g  
+are a clear <and> useful separation of structural <and> behavioral  
+
+
+DocID: CACM-2902
+
+<simulation> memory management, <simulation> techniques,  
+dynamic memory allocation <in> computer <simulation>  
+memory management, programm<in>g techniques, <simulation>,  
+
+
+DocID: CACM-2767
+
+<in> use with current <simulation> languages.  the most  
+<simulation>, time flow mechanisms, event  
+rout<in>e, discrete system <simulation>, sort<in>g  
+
+
+DocID: CACM-2218
+
+rotational delay m<in>imization, <simulation>,  
+the design characteristics <and> operational capabilities  
+swap volume m<in>imization, system <simulation>, time-shar<in>g  
+
+
+DocID: CACM-1912
+
+<simulation> of outpatient appo<in>tment systems  
+of appo<in>tment systems-<in>dividual <and> block-can  
+<simulation>, schedul<in>g, appo<in>tment system, outpatient  
+
+
+DocID: CACM-1890
+
+<simulation> scheme has its excellent po<in>t <in> that  
+<simulation> of traffic flows <in> a network  
+cars <in> the block, <and> this speed-versus-density  
+
+
+DocID: CACM-3064
+
+<simulation>, discrete systems <simulation>, discrete  
+counts is practical <and> economical; <and> that a  
+event <simulation>, time-flow mechanisms  
+
+
+DocID: CACM-3048
+
+<in> the system are the memory unit <and> the fixed  
+determ<in>istic <simulation> model of a system.  <in> the model  
+<in> the ibm 360/195.  
+
+
+DocID: CACM-2798
+
+conflict buffer, <simulation>, monte carolo <simulation>  
+separately group<in>g <in>struction <and> data requests  
+modules <in> operation dur<in>g a memory cycle.  
+
+
+DocID: CACM-1752
+
+<and> the results of comparative <simulation>  
+task schedul<in>g, pag<in>g, system <simulation>,  
+task schedul<in>g <and> resource balanc<in>g for  
+
+
+DocID: CACM-1637
+
+problems <in> the statistical analysis of <simulation>  
+of <simulation> experiments conta<in><in>g autocorrelated  
+data <and> <in>dependent observations are  
+
+
+DocID: CACM-1805
+
+of itself <and> its co-residents <and> <simulation> has  
+programs are concurrently <in> processor memory <and> proceed<in>g,  
+productivity, prediction, multiprogramm<in>g, <simulation>,  
+
+
+DocID: CACM-2261
+
+theoretical distributions <and> empirical distributions  
+<simulation>, monte carlo, probability, statistics,  
+be useful to <simulation> practitioners.  
+
+
+DocID: CACM-2936
+
+<simulation>, time flow mechanisms, event  
+for general purpose discrete event <simulation> systems.  
+<and> second, its worst-case complexity is o   
+
+
+DocID: CACM-3051
+
+a comparison of heaps <and> the tl structure for the <simulation> event set  
+
+
+DocID: CACM-0605
+
+<and> actual speed, <in> proportions simulat<in>g field data.  
+computer <simulation> of city traffic  
+<in> simulat<in>g traffic flow on city streets,  
+
+
+DocID: CACM-2970
+
+of <simulation> output.  <in> particular, it describes a  
+mak<in>g a costly error <in> a prelim<in>ary <simulation> run.  
+achiev<in>g specific accuracy <in> <simulation> output analysis  
+
+
+DocID: CACM-1288
+
+of <in>troduc<in>g <simulation> <and> other list-process<in>g  
+presented <in> this paper are the highlights of  
+at cornell university <and> was constructed to serve as a means  
+
+
+DocID: CACM-1572
+
+used to assist <in> the design <and> development of new time-shar<in>g  
+the <simulation> of time shar<in>g systems  
+development of a comprehensive <simulation> model  
+
+
+DocID: CACM-1728
+
+behavior <in> those multiprogramm<in>g systems <in> which  
+operat<in>g systems, supervisor <simulation>, mach<in>e  
+of programs <in> a pag<in>g environment  
+
+
+DocID: CACM-1680
+
+solution techniques, stored data, <and> all other library <and>  
+<and> compilers, <simulation> models, mathematical  
+computer operations such as <simulation>, programm<in>g, <and>  
+
+
+DocID: CACM-2318
+
+systems <and> establishes circumstances under  
+exam<in>es the <in>terrelationships between models <and> other  
+the role of computer system models <in> performance evaluation  
+
+
+DocID: CACM-3107
+
+method has advantages <in> both speed <and> programm<in>g  
+beta variates, r<and>om numbers, <simulation>  
+previously published methods both theoretically <and> through  
+
+
+DocID: CACM-2262
+
+methods by discussion <and> by <simulation>.  
+memory systems, <and> compares them with traditional  
+<in> list process<in>g there is typically a grow<in>g  
+
+
+DocID: CACM-2911
+
+<and> <in> both directions from the predictions of  
+fifty-percent rule, first-fit, <simulation>  
+rule <in> dynamic memory allocation  
+
+
+DocID: CACM-1427
+
+storage <and> cathode ray tube display.  past <and> present  
+<in>creas<in>g importance <in> medical diagnosis,  
+<simulation> of radioisotope scans by computer  
+
+
+DocID: CACM-1199
+
+a computer center <simulation> project  
+chang<in>g technologies of hardware <and> software  
+<and> control functions.  experiments performed  
+
+
+DocID: CACM-0104
+
+storage capacities <and> process<in>g rates.  <in> the other,  
+digital <simulation> of discrete flow systems*  
+techniques not common <in> other approaches to physical  
+
+
+DocID: CACM-1329
+
+<simulation> of boolean functions <in> a decimal computer  
+
+
+DocID: CACM-2344
+
+time-shar<in>g, <simulation> studies, optimization,  
+affect system performance <in> a predictable  
+of performance; <in> particular, supervisor overheads,  
+
+
+DocID: CACM-0238
+
+<simulation> <and> analysis of biochemical systems  
+
+
+DocID: CACM-0643
+
+<simulation> <and> analysis of biochemcial systems  
+
+
+DocID: CACM-2918
+
+advantages <in> terms of <in> terference <and> reliability for  
+trace-driven <simulation>, queue<in>g theory, shared  
+memory <in> terference, <in>terleav<in>g, multiprocess<in>g,  
+
+
+DocID: CACM-2955
+
+for <in> ternal, external, <and> total fragmentation.  
+comparative <simulation> results are also presented  
+buddy system, <and> the weighted buddy system are given.  
+
+
+DocID: CACM-1653
+
+of performance; overhead <and> cpu speed are placed <in>  
+evaluation is reviewed <and> evaluation goals <and>  
+when us<in>g them.  analysis, <simulation>, <and> synthesis are  
+
+
+DocID: CACM-1253
+
+simscript <and> programmed entirely <in> an algebraic  
+implementation, <and> major differences between  
+quikscript is a <simulation> language based on  
+
+
+DocID: CACM-1030
+
+techniques for the <simulation> of computer logic  
+the <simulation> of a digital computer is an  
+are def<in>ed.  toward greatly <in>creased efficiency of a <simulation>  
+
+
+DocID: CACM-2734
+
+<and> for exponential distributions distorted <in> various  
+first-fit <and> best-fit <and> a better underst<and><in>g  
+time-memory-product efficiencies of first-fit <and>  
+
+
+DocID: CACM-2882
+
+database organizations <in> data retrieval systems.  <in> particular,  
+simulation  
+database architecture, database performance <and>  
+
+
+DocID: CACM-1165
+
+70/45 without necessitat<in>g changes <in> the  
+better than traditional <simulation>.  the emulator  
+use of both hardware micro-program rout<in>es <and>  
+
+
+DocID: CACM-1484
+
+<and> automatic design of the system described, <in>  
+these descriptions can be used for <simulation>  
+systems are discussed, <and> a dialect of algol which  
+
+
+DocID: CACM-2829
+
+texture <and> reflection <in> computer generated images  
+the areas of texture <simulation> <and> light<in>g models.  
+permitt<in>g the <simulation> of the mirror reflections.  
+
+
+DocID: CACM-2967
+
+<and> creates, modifies, deletes, stores, <and> retrieves  
+<and> cost effectiveness, are also addressed.  
+memories <in> the context of computer graphics  
+
+
+DocID: CACM-0633
+
+<simulation> <and> analysis of biochemical systems  
+ iii. analysis <and> pattern recognition   
+
+
+DocID: CACM-1234
+
+<and> side effects of procedures.  block structure <and>  
+<and> array identifiers with particular efficiency.  
+which m<in>imizes stores, fetches <and> stack-po<in>ter motion  
+
+
+DocID: CACM-1674
+
+one-l<in>e r<and>om number generators <and> their use <in> comb<in>ations  
+generators directly <in> fortran programs, by  
+r<and>om number generation, monte carlo, <simulation>  
+
+
+DocID: CACM-2742
+
+discrete event <simulation>, <simulation>, event scann<in>g mechanisms  
+<simulation> models of large, complex "real-world"  
+future event lists <in> discrete event <simulation>s.  
+
+
+DocID: CACM-2276
+
+<simulation>, numerical analysis  
+the exponential <and> normal distributions  
+shorter algorithms <and> faster but space consum<in>g  
+
+
+DocID: CACM-2057
+
+distribution, frequency distribution, <simulation>, monte carlo  
+r<and>om vectors uniform <in> solid angle  algorithm 381 $g5    
+
+
+DocID: CACM-2542
+
+analysis <and> <simulation> rout<in>es.  us<in>g the performance  
+model<in>g, system <in>tegration, <simulation>  
+a software design <and> evaluation system  
+
+
+DocID: CACM-2951
+
+on a network. analytical, <simulation>, <and> statistical performance  
+<in> the vast store of resources available  
+network, anlytic model<in>g, <simulation>, benchmark jobs, system measurement  
+
+
+DocID: CACM-1811
+
+parallel-processor comput<in>g system, <and> execution  
+storage <in>terference, electrical network, <simulation>,  
+<simulation> runs demonstrate the efficient solution  
+
+
+DocID: CACM-2914
+
+for <simulation> of pag<in>g behavior  
+between page faults, computer system <simulation>  
+model: headway between page fault distributions, <and>  
+
+
+DocID: CACM-0678
+
+optimiz<in>g bit-time computer <simulation>  
+digital circuits, <and> generates correspond<in>g  
+a major component of a bit-time computer <simulation>  
+
+
+DocID: CACM-1856
+
+<in>crement <in> tlc's effective knowledge of the world <and>  
+<simulation>, human memory <simulation>, computer  
+a <simulation> program <and> theory of language  
+
+
+DocID: CACM-1845
+
+more efficient <and> cost-effective utilization of  
+with a large overlaid trajectory <simulation> program;  
+a short history <and> description of this program  
+
+
+DocID: CACM-1380
+
+simula-an algol-based <simulation> language  
+60 <in> which the most important new concepts  
+system description also serves as a source language <simulation>  
+
+
+DocID: CACM-1711
+
+certa<in> operations, <and> <in> comply<in>g with  
+copyright <and> patent revision bills.  
+are discussed, <and> legal complications are  
+
+
+DocID: CACM-1518
+
+the model is mechanized <in> simscript <and> consists of  
+software utilization, <and> queue<in>g processes.  
+technique which can ease this problem is macroscopic <simulation>.  
+
+
+DocID: CACM-1695
+
+means for specification <and> modification of a network <and>  
+by the network, <and> to store <and> retrieve networks  
+with the user <and> permits easy <and> rapid transitions  
+
+
+DocID: CACM-1591
+
+teach<in>g, <and> then recovered control <in> order to resume  
+<in> <simulation> <and> gam<in>g could also be provided.  the  
+compilers, library <and> user's programs   
+
+
+DocID: CACM-2862
+
+model, <simulation> of replacement algorithm  
+the required computation time <in> estimat<in>g  
+replacement algorithm.  <in> this model, program behavior  
+
+
+DocID: CACM-3042
+
+<and> the class of trees  considered is restricted  
+an extensive set of <simulation> runs, is close to that  
+of avl trees.  <in> particular, the family of ipo  
+
+
+DocID: CACM-1933
+
+function, <simulation>, prime factorization, primitive roots  
+an algorithm <and> cod<in>g technique is presented  
+extendible to limited problems <in> modular arithmetic.  
+
+
+DocID: CACM-2859
+
+<in>terleaved memory, trace driven <simulation>  
+of program behavior <and> <simulation>s of systems  
+<in>terference <in> multiprocessor computer systems with <in>terleaved memory  
+
+
+DocID: CACM-2233
+
+signature <simulation> <and> certa<in> cryptographic codes  
+magna carta, pseudotext, signature, <simulation>  
+<and> gr<and>iose hoax perpetrated ages ago  
+
+
+DocID: CACM-2535
+
+performance.  analytical <and> <simulation> results are  
+<and>, consequently, affects the performance  
+no change <in> the computer-communications system  
+
+
+DocID: CACM-0675
+
+automated <in>formation system <in> the laboratory.  
+chemistry, <and> hematology test results for automatic  
+developed to accept <and> store ur<in> analysis, blood  
+
+
+DocID: CACM-2188
+
+cost, <and> the distribution of data storage <and>  
+difficult task of select<in>g major subsystems <in>  
+<and> helps give a better underst<and><in>g of now  
+
+
+DocID: CACM-2890
+
+network node.  <simulation> results are presented  
+to overuse the direct path <and> underuse alternate  
+will result <in> optimality.  the modification requires  
+
+
+DocID: CACM-2106
+
+education, <simulation>, mach<in>e language,  
+computer education <in> a graduate school of management  
+design <and> evaluation of management <in>formation systems requires  
+
+
+DocID: CACM-2931
+
+<and> proofs, which are clean <and> without undue dependence  
+logic has been long <in> terested <in> whether answers  
+logic <and> programm<in>g languages  
+
+
+DocID: CACM-2077
+
+arrow's paradox, cyclical majority, <simulation>,  
+the problem of the cyclical majority is presented <and> some new, simulated  
+
+
+DocID: CACM-1879
+
+loss <in> storage utilization caused by the <in>ability  
+a note on storage fragmentation <and> program segmentation  
+coexist<in>g <in> storage, causes more loss of storage  
+
+
+DocID: CACM-2628
+
+m<in>imal-total-process<in>g time drum <and> disk schedul<in>g discipl<in>es  
+discipl<in>e.  the results of the <simulation> studies  
+mov<in>g-head drum <and> mov<in>g-head disk storage units are  
+
+
+DocID: CACM-1541
+
+to facilitate both the model<in>g <and> experimental  
+a language for model<in>g <and> simulat<in>g dynamic systems  
+aspects of <simulation> studies.  the ability to represent  
+
+
+DocID: CACM-2272
+
+<simulation> results are presented, <and> various  
+implications <and> further applications are discussed.  
+space <and> thus yield longer sorted str<in>gs.  extensive  
+
+
+DocID: CACM-1261
+
+<and> sequential digital networks <and> a systematic  
+model<in>g <and> <simulation> of digital networks  
+the <simulation> of digital networks on a digital  
+
+
+DocID: CACM-1435
+
+sequential sampl<in>g <and> spectral analysis.  
+of computer <simulation> experiments for <in>dustrial  
+problems <and> several techniques for solv<in>g them.  
+
+
+DocID: CACM-2682
+
+<simulation>, probability distribution, representative  
+synthetic program <in> which the characteristics can  
+of i/o activities; <and> synthetic workload with 88  
+
+
+DocID: CACM-0557
+
+<simulation> of computer tim<in>g device  
+
+
+DocID: CACM-1426
+
+a <simulation> of hospital admission policy  
+constant, <and> fixed authorizations <in>dependent of  
+stabilization of admission <and> census rates while  
+
+
+DocID: CACM-2452
+
+evaluation <and> selection of file organization-a model <and> system  
+query characterization <and> device-related specifications.  
+<simulation>, data base, access time, storage  
+
+
+DocID: CACM-1846
+
+picture process<in>g, computer system <simulation>  
+<simulation>, parallel processes, simultaneous events,  
+<in> which simultaneous events may occur  
+
+
+DocID: CACM-1207
+
+remarks on <simulation> of boolean functions  
+
+
+DocID: CACM-0757
+
+<simulation> of a traffic network  
+
+
+DocID: CACM-1208
+
+<simulation> of computer logic by fortran arithmetic  
+
+
+DocID: CACM-2375
+
+both analytical <and> <simulation> results are obta<in>ed.  
+schedul<in>g policies, seek time, <simulation>, storage  
+performance <in>clud<in>g system oriented <and> <in>dividual  
+
+
+DocID: CACM-2091
+
+problem oriented or digital <simulation> language,  
+equation language, pdel, is outl<in>ed, <and> the highlights  
+differential equations are very time-consum<in>g <and> cumbersome.  a  
+
+
+DocID: CACM-2652
+
+paper describes the use of <simulation> techniques  
+expressed <in> that language: when features not actually  
+to predict the sav<in>gs <in> compilation cost achievable  
+
+
+DocID: CACM-2105
+
+<simulation> program, graphical <in>put-output sampled data systems  
+provides an environment to perform this iterative process efficiently <and>  
+sampled-data system <and> specifies description is transmitted to a large  
+
+
+DocID: CACM-1166
+
+by generat<in>g calls to i/o <simulation> subrout<in>es.  
+to assist <in> translat<in>g ibm 7090 symbolic assembly  
+a use of macros <in> translation of symbolic  
+
+
+DocID: CACM-3061
+
+search<in>g, dynamic reorder<in>g, <simulation>  
+
+
+DocID: CACM-2725
+
+a comparison of <simulation> event list algorithms  corrigendum   
+
+
+DocID: CACM-1812
+
+r<and>om number generation, monte carlo, <simulation>  
+

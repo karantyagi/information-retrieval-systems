@@ -1,0 +1,707 @@
+LUCENE_NoStopNoStem
+
+Query
+Information retrieval articles by Gerard Salton or others about clustering,
+bibliographic coupling, use of citations or co-citations, the vector
+space model, Boolean search methods using inverted files, feedback, etc.
+
+Salton, G.
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-2711
+
+ <search> requests , it appears that <the> best indexin<g>  
+<the> <use>fulness <of> <the> <model>.  
+as a function <of> <the> density <of> <the> object <space>;  
+
+
+DocID: CACM-2307
+
+re<<or>><g>anization <of> <the> st<<or>>ed <inf<<or>>mation> as a function <of>  
+f<<or>> <inf<<or>>mation> <retrieval> and f<<or>> <the> control  
+<files> are <search>ed and <inf<<or>>mation> is retrieved followin<g>  
+
+
+DocID: CACM-2451
+
+<of> such a <model> this paper considers <the> desi<g>n <of>  
+<the> optimal tree cannot be implemented <by> means <of> practical  
+<of> data and shows that essentially <the>  
+
+
+DocID: CACM-0634
+
+manipulation <of> trees in <inf<<or>>mation> <retrieval>*  
+<<salton>>, <g>.  
+
+
+DocID: CACM-1236
+
+and <search> requests.  this feature is <use>d in <the> <retrieval>  
+retrieve <the> wanted <inf<<or>>mation>.  a typical <search>  
+process <by> leavin<g> <the> exact sequence <of>  
+
+
+DocID: CACM-2140
+
+permitted decreased <retrieval> time at <the> cost  
+<files>, <inf<<or>>mation> <retrieval>, query, multi-attribute  
+<of> increased st<<or>>a<g>e <space>.  this paper examines combined  
+
+
+DocID: CACM-1457
+
+<the> manipulation <of> a variety <of> different  
+and tree <<or>> list structures.  <the> main data  
+outlined in <the> li<g>ht <of> <the> procedures requirin<g>  
+
+
+DocID: CACM-3129
+
+added to <the> <files> ei<the>r <by> jobs in batch processin<g> mode, <<or>> <by> on-line  
+transactions. each transaction  <<or>> job  <g>enerates a demand vect<<or>> which  
+several criteria f<<or>> best allocatin<g> st<<or>>a<g>e <space> to <the> <files>.  
+
+
+DocID: CACM-1976
+
+<of> multiple accesses in many cases;  2  <the> elimination  
+<of> false drops, combinin<g> indexes, query, multi-attribute <retrieval>  
+cases, is <the> same as <the> secondary indexin<g> method. in <the> <g>eneral case,  
+
+
+DocID: CACM-2631
+
+<of> this subset are <the>n <use>d as index keys f<<or>> <retrieval>.  
+<usin<g>> direct access computer <files> <of> <biblio<g>raphic>  
+<retrieval>, namely, <the> maintenance and <use> <of> lar<g>e  
+
+
+DocID: CACM-3134
+
+<the> n<<or>>mal multiplication table method yields far m<<or>>e rapid <retrieval>  
+<the> appropriateness <of> <the> above approach to a <g>iven <inf<<or>>mation> system  
+<inf<<or>>mation> <retrieval>, <inverted> <files>, multiattribute <retrieval>,  
+
+
+DocID: CACM-1927
+
+curriculum in <the> <g>eneral area <of> <inf<<or>>mation>  
+data <retrieval>, lan<g>ua<g>e analysis, <inf<<or>>mation>  
+science, <inf<<or>>mation> <<or>><g>anization, <inf<<or>>mation> <retrieval>,  
+
+
+DocID: CACM-2991
+
+<by> addin<g> shadow buckets to an open chainin<g> file.  <the>  
+<clusterin<g>> in <the> key set is decreased <by>  
+improvin<g> <the> access time f<<or>> random access <files>  
+
+
+DocID: CACM-2746
+
+<the> len<g>ths <of> <the> keyw<<or>>ds.  <the> number <of> state transitions  
+number <of> keyw<<or>>ds in a strin<g> <of> text.  <the> al<g><<or>>ithm  
+processin<g> <the> text strin<g> is independent <of> <the> number  
+
+
+DocID: CACM-2114
+
+as <inverted> <files>, index-sequential <files>, and multilist <files> are  
+description, file <search>, direct<<or>>y <search>, serial processin<g> <of>  
+<by> which <the> concepts <of> keyw<<or>>d, index, rec<<or>>d, file, direct<<or>>y,  
+
+
+DocID: CACM-2561
+
+<of> a similarity structure which is imposed on <the>  
+from available <inf<<or>>mation>.  <the> procedures make <use>  
+<the> system can infer <the> c<<or>>rect response under  
+
+
+DocID: CACM-2990
+
+<of> query term accuracy is in troduced as <the> probability  
+to <the> frequency <of> occurrence <of> <the> term in <the>  
+<of> occurrence <of> a query term in <the> documents  
+
+
+DocID: CACM-3072
+
+<of> input-output activity.  attention is <g>iven to <the>  
+ as measured <by> <use>r cpu time  over that <g>iven <by> optimal  
+processin<g> <of> <the> i/o activity  buffer <space> assi<g>nment .  
+
+
+DocID: CACM-1935
+
+a ma<the>matical <model> is developed f<<or>> <the> mean  
+<retrieval>, ma<the>matical <model>, partitionin<g>,  
+and variance <of> <the> number <of> trials to recover  
+
+
+DocID: CACM-1700
+
+w<<or>>ds <usin<g>> <the> inclusive <<or>> operation.  if, at <search>  
+<the> "peekaboo" idea from punched card <inf<<or>>mation>  
+<retrieval> <methods> has been mated with <the>  
+
+
+DocID: CACM-1287
+
+vect<<or>> <couplin<g>> <<or>> clebsch-<g><<or>>dan coefficients  al<g><<or>>ithm 252 [z]   
+
+
+DocID: CACM-2437
+
+<methods>.  <usin<g>> this analysis, <methods> with <the> same overall  
+<the>se <files> will be <use>d as <the> potential <of> <the>se  
+transf<<or>>mation <methods>.  in this approach <the> keys in  
+
+
+DocID: CACM-2882
+
+<by> <usin<g>> <the> <model> to study <the> effect <of>  
+<retrieval> systems.  <the>se data <retrieval> systems can  
+discusses a simulation <model> <of> a data <retrieval>  
+
+
+DocID: CACM-2547
+
+<the> nei<g>hb<<or>>in<g> boundaries to a point and <the>  
+representation <of> contours ad re<g>ions f<<or>> efficient computer <search>  
+<g>enerate <the> closed boundary representin<g> <the> union <<or>>  
+
+
+DocID: CACM-0239
+
+inefficiency <of> <the> <use> <of> <boolean> functions  
+f<<or>> <inf<<or>>mation> <retrieval> systems  
+
+
+DocID: CACM-3087
+
+<methods> are discussed f<<or>> handlin<g> va<g>ue <<or>>  
+data <usin<g>> a system called planes.  <the>  
+and <the> relationship <of> this system to <o<the>rs>.  
+
+
+DocID: CACM-2916
+
+<the> location, "i," <of> <the> first occurrence <of> a  
+<of> strin<g> are inspected.  <the> number <of> characters actually  
+at <the> end <of> <the> pattern <of>ten allows <the> al<g><<or>>ithm  
+
+
+DocID: CACM-2722
+
+<of> <the> <search> <space>  as a data structure f<<or>> st<<or>>a<g>e <of>  
+<of> <search>es , o  n lo<g> n .  <search> al<g><<or>>ithms  
+<search> tree  <<or>> k-d tree, where k is <the> dimensionality  
+
+
+DocID: CACM-1194
+
+<the> main catalo<g> is <use>d to describe <the> documents,  
+<the> hist<<or>>y <of> <the> establishment <of> <the> acm reposit<<or>>y  
+and <inverted> lists are provided <by> <the> reposit<<or>>y  
+
+
+DocID: CACM-2484
+
+element from <the> <g>iven set <of> objects.  <the> <use> <of>  
+<etc>.  thus <the> problem <of> <inf<<or>>mation> <<or>><g>anization and  
+base as that <of> constructin<g> a tree <<or>> a <g>raph.  
+
+
+DocID: CACM-2494
+
+<of> <the> elements <of> a data matrix <of> similarities <<or>> dissimilarities  
+<the> plots, applied to a data matrix bef<<or>>e <clusterin<g>>  
+<by> four <methods> <of> fact<<or>> analysis and two <methods> <of> cluster analysis.  
+
+
+DocID: CACM-1725
+
+<the> individual di<g>it columns <of> <the> mem<<or>>y.  thus <the>  
+value, <<or>> contain no di<g>its at all  i.e. that <the>  
+<of> his method, unlike those <of> o<the>r <methods>, is independent  
+
+
+DocID: CACM-2160
+
+<of> lists.  <the> structure is hi<g>hly dependent on <the>  
+<of> a <boolean> al<g>ebra <g>enerated <by> <the> queries.  <the> desirable  
+on <the> basis <of> a sin<g>le value is permitted.  <the> file  
+
+
+DocID: CACM-1916
+
+<by> a combined <model>.  a transf<<or>>mation <of> <the> combined  
+<inf<<or>>mation> is also contained.  analysis <of> <the>se <model>s  
+<model> yields a new <model> in which additional timin<g>  
+
+
+DocID: CACM-2646
+
+<of> pro<g>rams with predictable behavi<<or>>.  while <the> <methods>  
+mem<<or>>y.  <the> <methods> discussed are independent <of>  
+beca<use> <of> <the> anticipat<<or>>y nature <of> <the> i/o schedulin<g>,  
+
+
+DocID: CACM-2969
+
+<model>.  a <search> procedure f<<or>> <the> file location  
+<of> pro<g>ram and data <files> in a computer netw<<or>>k  
+and a possible application <of> <the> <model>.  
+
+
+DocID: CACM-1641
+
+with 32k <of> c<<or>>e mem<<or>>y and disks.  <g>ains in mem<<or>>y <space>  
+<the> pa<g>e in c<<or>>e havin<g> <the> lon<g>est period <of> inactivity  
+on <the> number <of> pa<g>es available in <the> fast st<<or>>e.  
+
+
+DocID: CACM-2033
+
+ <space> , <the> time required to identify a messa<g>e as a nonmember <of> <the>  
+<space> is accomplished <by> exploitin<g> <the> possibility that a small fraction <of>  
+<the> computational fact<<or>>s considered are <the> size <of> <the> hash area  
+
+
+DocID: CACM-1699
+
+<of> <the> re<search> is that an <inf<<or>>mation> <retrieval> system  
+<of> such a system include ease <of> <use>, learnin<g> time, and  
+<inf<<or>>mation> <retrieval> testin<g>,  <inf<<or>>mation> system  
+
+
+DocID: CACM-2374
+
+a study <of> st<<or>>a<g>e partitionin<g> <usin<g>> a ma<the>matical <model> <of> locality  
+justifyin<g> this <model> are described.  <by> means <of> this  
+systems.  <the> st<<or>>a<g>e requirement <of> pro<g>rams is <model>ed  
+
+
+DocID: CACM-0397
+
+f<<or>> <the> reference material is flexible, while <the>  
+matrix <of> descript<<or>>s, an entry number, and <the> kind,  
+f<<or>>mat f<<or>> <the> identification is ri<g>id.  <the> reference  
+
+
+DocID: CACM-2680
+
+will affect <the> number <of> mount requests issued to <the>  
+when <the> amount <of> <space> required f<<or>> file st<<or>>a<g>e  
+<the> assi<g>nment <of> <files> to disk packs, and packs to ei<the>r  
+
+
+DocID: CACM-2978
+
+<the> index structure.  f<<or>>mulas f<<or>> <the> <retrieval>  
+whe<the>r <<or>> not keys are compressed.  <the> avera<g>e  
+<files>, <retrieval>, main tenance, <search> strate<g>y,  
+
+
+DocID: CACM-1705
+
+<of> derived procedures  ioi, i<<or>>, iob, ioa .  <the>  
+<of> <the> subset oti, otr, otb, ota.  <the> berkeley style  
+<of> providin<g> <inf<<or>>mation> on <the> f<<or>>m <of> output  
+
+
+DocID: CACM-2109
+
+<of> <the> property <of> quadratic residues, is limited to one half <of>  
+<the> st<<or>>a<g>e table.  it is shown that f<<or>> some classes <of> prime numbers  
+occur and linear <search> <methods> are <use>d.  <the> <search> size, beca<use>  
+
+
+DocID: CACM-1046
+
+<of> <the>ir system. it expands on some points that <the> <<or>>i<g>inal  
+have developed f<<or>> <the> ferranti atlas computer.  <the>  
+in a number <of> <articles> published durin<g> <the>  
+
+
+DocID: CACM-2968
+
+compiler-independent.  <the> quality <of> <the> resultin<g>  
+<use> <of> <the> <methods>.  if insertion and subsequent  
+queries are <the> only operations <of> in terest, <the>n "pure"  
+
+
+DocID: CACM-2486
+
+i.e. w<<or>>ds <<or>> f<<or>>mulas placed partly at <the> end <of>  
+<<or>> on <the> photocomposer; <the> <g>eneration <of> such symbols,  
+<of> physics.  <the>y include: <the> representation  
+
+
+DocID: CACM-1808
+
+to <the> unique characteristics <of> computer <files>  
+maintain <the> confidentiality <of> <inf<<or>>mation> processed  
+that make many crypto<g>raphic <methods> <of> little <use>.  
+
+
+DocID: CACM-2753
+
+<methods> <use>d to achieve it: task-specific <inf<<or>>mation>,  
+representations <of> objects to create feasible <<or>> optimal  
+to accurately describe <the> objects and <the>  
+
+
+DocID: CACM-2688
+
+inversion technique <by> a fact<<or>> <of> 2 <<or>> 3.  
+<the> hi<g>h cost <of> pa<g>e accessin<g> implies a need  
+mem<<or>>y than is typical <of> most <inverted> file and similar  
+
+
+DocID: CACM-2947
+
+delimitin<g> <the> context in which <the> hit is to be  
+<the> combined powers <of> simple commands, strin<g>  
+<search> and <retrieval> systems, but has several  
+
+
+DocID: CACM-3033
+
+<the> <search>, but is cluttered up <by> an en<<or>>mous <search>  
+<space> requirements are independent <of> how "easy" <the>  
+<space>, since <the> number <of> solutions increases  
+
+
+DocID: CACM-2046
+
+<of> chan<g>es in query, update, and rep<<or>>t traffic and natural <g>rowth in <the>  
+future <use>rs <of> lar<g>e data banks must be protected from havin<g> to know how <the>  
+<of> data is chan<g>ed and even when some aspects <of> <the> external representation  
+
+
+DocID: CACM-0944
+
+lar<g>e quantities <of> data <<or>> to problems where <the> quantity,  
+<the> st<<or>>a<g>e and <search> properties <of> a tree-<<or>><g>anized  
+is not known a pri<<or>>i, <<or>> chan<g>es rapidly durin<g> <the> processin<g>.  
+
+
+DocID: CACM-2203
+
+<of> accesses required to <g>et to a rec<<or>>d and <the> number  
+<search>, collisions, clusters, <inf<<or>>mation> <retrieval>  
+<the> results <of> a study <of> ei<g>ht different  
+
+
+DocID: CACM-2998
+
+<inf<<or>>mation> content <of> a car-cdr pair in <the> pro<g>rams  
+near<by> in mem<<or>>y.  <the> <use> <of> such re<g>ularities in <the>  
+static measurements <of> <the> list structure <of>  
+
+
+DocID: CACM-2777
+
+<by> patil, who has claimed that <the> ci<g>arette  
+solution to <the> problem.  it also discusses <the> need  
+<by> dijkstra and <o<the>rs> since <the> first introduction  
+
+
+DocID: CACM-2517
+
+similar to <the> rule-mask technique.  <the> applicability  
+<of> <the>se <methods> under various possible conventions  
+and <the> sin<g>le-rule  <<or>> action set  convention in decision tale usa<g>e.  
+
+
+DocID: CACM-2107
+
+secondary <clusterin<g>> as a ca<use> <of> hash code inefficiency is discussed, and a  
+code eliminatin<g> secondary <clusterin<g>>  
+<the> quadratic quotient method: a hash  
+
+
+DocID: CACM-2883
+
+<of> an ed<g>e are embedded in a fi<g>ure <of> merit and <the> ed<g>e  
+<of> contours from noisy picture and <the> separation  
+<the> relations between this representation <of>  
+
+
+DocID: CACM-2765
+
+index <<or>><g>anization, <inf<<or>>mation> st<<or>>a<g>e and <retrieval>, query answerin<g>  
+criteria to determine <the> optimum set <of> index keys.  
+st<<or>>a<g>e requirements, f<<or>>malizin<g> <the> interaction <of> data  
+
+
+DocID: CACM-1886
+
+<the> expressions, i.e. findin<g> a set <of> subexpressions  
+compiled, <methods> are presented f<<or>> increasin<g> <the>  
+efficiency <of> <the> object code produced <by> first fact<<or>>in<g>  
+
+
+DocID: CACM-2251
+
+in particular, <the> new method applies to tables <of>  
+linear <search>, wei<g>hted increment <search>, scatter  
+<search> len<g>th  
+
+
+DocID: CACM-2846
+
+<of> one key, is <of> <the> <<or>>der lo<g>m n  and <the> st<<or>>a<g>e  
+a parameter <of> <the> trie, but whereas <the> fields <of> <the>  
+<inf<<or>>mation> <retrieval> systems.  it has <the> same underlyin<g>  
+
+
+DocID: CACM-1486
+
+in <the> lan<g>ua<g>e and f<<or>> rearran<g>in<g> <the> items in <the>  
+<the> relationships between <the> behavi<<or>> <of> <the>  
+detection <of> common parts <<or>> patterns <of> library  
+
+
+DocID: CACM-1674
+
+means <of> a few in-line instructions.  <the> advanta<g>es are  
+<g>enerat<<or>>s <by> <the>mselves <<or>> mixin<g> several <g>enerat<<or>>s  
+marsa<g>lia, <g>.  
+
+
+DocID: CACM-1359
+
+manipulation <of> data strin<g>s is <the> most complex  
+processin<g> environment controlled <by> <the> <use> <of> procedural  
+data filterin<g> applied to <inf<<or>>mation> st<<or>>a<g>e and <retrieval> applications  
+
+
+DocID: CACM-2288
+
+<retrieval> system with a minimal <search> time  
+<retrieval> system based on <the> consecutive  
+set.  its existence enables <the> desi<g>n <of> an <inf<<or>>mation>  
+
+
+DocID: CACM-1456
+
+examples <of> <methods> <of> inputtin<g> <inf<<or>>mation>  
+st<<or>>a<g>e and <retrieval> <of> aspects <of> meanin<g> in directed <g>raph structures  
+associates with each en<g>lish w<<or>>d <the> syntactic <inf<<or>>mation>,  
+
+
+DocID: CACM-2258
+
+file <search>, scatter st<<or>>a<g>e, <inf<<or>>mation> <retrieval>  
+lar<g>e existin<g> f<<or>>matted <files>  
+hashin<g>, hashin<g> techniques, hashin<g> <methods>, hash  
+
+
+DocID: CACM-2862
+
+analysis <of> <the> pff replacement al<g><<or>>ithm via a semi-markov <model>  
+and <the> pff replacement al<g><<or>>ithm is represented <by> a semi-markov  
+is represented <by> <the> lru stack distance <model>  
+
+
+DocID: CACM-3137
+
+system from <the> perspective <of> <the> end-<use>r.  <the> makin<g> evident <the> effect <of>  
+a macro <model> <of> a distributed <inf<<or>>mation> system in presented.  <the> <model>  
+<the> technique is illustrated <by> application to <the> desi<g>n  
+
+
+DocID: CACM-2516
+
+data access times <usin<g>> sequential <files>, random access <files>,  
+on <inf<<or>>mation> <retrieval> operations.  <the> data st<<or>>a<g>e  
+<the> effect <of> hierarchical st<<or>>a<g>e <<or>><g>anizations  
+
+
+DocID: CACM-1135
+
+in <the> pro<g>ram  e.<g>. modification <of> only one entry <of> <the>  
+<of> flowcharts .  here an invariant pattern <of> procedure  
+representation <of> process as sets  tables  <of> relations  
+
+
+DocID: CACM-2902
+
+free <space> lists f<<or>> each size <of> mem<<or>>y block <use>d  
+this paper investi<g>ates <the> perf<<or>>mance <of>  
+<space> allocation, st<<or>>a<g>e allocation  
+
+
+DocID: CACM-2402
+
+<the> c<<or>>rect structure cannot be computed beca<use> <of>  
+molecular <model> buildin<g>, i.e. <the> <use> <of> chemical <inf<<or>>mation>  
+<use> <of> an interactive <g>raphics system. <model> buildin<g>  
+
+
+DocID: CACM-0615
+
+<the> means <of> perf<<or>>min<g> <the> transf<<or>>mation <of> a set  
+to <the> location  address  <of> <the> element in its st<<or>>a<g>e  
+a <use>ful method <of> representin<g> a function <of>  
+
+
+DocID: CACM-0867
+
+<by> stone, <by> bellman and <by> <g>luss to determine <the>  
+interval under <the> constraint that <the> number <of>  
+least squares fittin<g> <of> planes to surfaces <usin<g>> dynamic pro<g>rammin<g>  
+
+
+DocID: CACM-2388
+
+<the> avera<g>e <retrieval> time <by> restructurin<g> <the> tree to  
+<of> items in <the> tree.  <the> binary trees <g>rown  
+an al<g><<or>>ithm to do this is presented.  <the> <use> <of> this  
+
+
+DocID: CACM-1413
+
+<<or>> inventions.  <the> unknown is whe<the>r <the> potential  
+aspects <of> technolo<g>y, chan<g>es possible in <the> next <g>eneration  
+questions <about> <the> modes <of> social response and  
+
+
+DocID: CACM-2986
+
+<<or>> directed <g>raphs, such as <the> computation  
+a <g>rammer.  <the> heart <of> <the> al<g><<or>>ithms is a <g>eneral  
+functions in o n  steps, where n is <the> size <of>  
+
+
+DocID: CACM-2196
+
+<the> human so that <the> human can solve <the> problem easily.  
+abilities.  <the> computer is not asked to solve <the>  
+<<or>> f<<or>> problems with a moderate number <of> points can  
+
+
+DocID: CACM-1235
+
+<of> <the> most probable f<<or>>m classes to occur within <the> already  
+throu<g>h <the> <use> <of> a small dictionary <of> function  
+su<g><g>ested <by> an analysis <of> <the> results.  
+
+
+DocID: CACM-1527
+
+<<or>>, m<<or>>e c<<or>>rectly, is <g>rammatical in terms <of>  
+<the> automatic <retrieval> <of> certain se<g>ments <of>  
+<g>enerated <by> a <g>rammar.  based upon <the> rules <of> this <g>rammar,  
+
+
+DocID: CACM-0695
+
+<the> paper be<g>ins <by> briefly describin<g> <the>  
+<the> reliability, economics, utility and weaknesses <<or>>  
+f<<or>> <the> st<<or>>a<g>e <of> systems pro<g>rams and <the>  
+
+
+DocID: CACM-2695
+
+<of> comparisons, <the> number <of> assi<g>nments, and <the> number  
+<the> al<g><<or>>ithm <g>ives <the> explicit tridia<g>onal f<<or>>m.  
+in numerical linear al<g>ebra. consider <the> class <of> sparse  
+
+
+DocID: CACM-1455
+
+<the> ability <of> trac to accept and st<<or>>e definitions <of>  
+<of> a s<of>tware packa<g>e f<<or>> <the> reactive typewriter.  
+is <g>iven.  <the> trac lan<g>ua<g>e was developed as <the> basis  
+
+
+DocID: CACM-2018
+
+<of> <the> <clusterin<g>> experienced with a linear <search> method.  <the> simple  
+that when <the> len<g>th <of> <the> table is a prime <of> <the> f<<or>>m 4n+3, where n  
+<of> <the> quadratic <search>, and yet accesses all <the> table in one sweep.  
+
+
+DocID: CACM-1677
+
+<<or>> pro<g>rammin<g> systems: simplicity <of> pro<g>rammed addressin<g>,  
+<of> mem<<or>>y utilization, variability <of> system composition  
+<the> application <of> labeled blocks may be  
+
+
+DocID: CACM-1651
+
+<of> <the> lp problem  limited only <by> a keypunch's  
+<use> ei<the>r as a peda<g>o<g>ical device <<or>> f<<or>>  
+<the> article includes examples <of> input, output from a  
+
+
+DocID: CACM-3135
+
+several applications <of> this technique in <the> field <of> chemistry  
+to a set <of> peaks in <the> electron-density distribution <of>  
+presented <use>s <the> <g>eometric structure <of> <the> pattern to define  
+
+
+DocID: CACM-2524
+
+<usin<g>> certain inequalities satisfied <by> metrics and <by>  
+<the> problem <of> <search>in<g> <the> set <of> keys in  
+<the> desired result. <the>se <methods> are derived  
+
+
+DocID: CACM-2523
+
+<by> <the>se  usually broken  ed<g>es are "col<<or>>ed in" <usin<g>>  
+<by> comparin<g> <the> re<g>ion col<<or>>s with <the> textures <of>  
+<by> mer<g>in<g> some re<g>ions with <o<the>rs> acc<<or>>din<g> to criteria  
+
+
+DocID: CACM-1402
+
+<of> additional <inf<<or>>mation> as in interpolation <methods>.  
+f<<or>> <use> with <the> adams <<or>> adams-bashf<<or>>th method  
+<of> inte<g>ration <of> differential equations.  this method  
+
+
+DocID: CACM-2141
+
+<the> best <of> a dozen different <methods> f<<or>>  
+are <g>enerated <by> encodin<g> data strin<g>s-sequence <of> like  
+to avoid comparin<g> all <of> <the>m.  <the> technique  
+
+
+DocID: CACM-1861
+
+into <the> mad lan<g>ua<g>e, so that <the>ir <use> appears  
+<the> motivation behind <the> f<<or>>m in which definitions are  
+one <of> <the> first definition facilities f<<or>>  
+
+
+DocID: CACM-2828
+
+pictures <by> computer.  <by> <usin<g>> an extension <of>  
+lo<g>arithmic <search> f<<or>> <the> resolvable parts <of> <the> environment  
+<the> <g>eometric structure inherent in <the> definition  
+
+
+DocID: CACM-1334
+
+<g>enerated <by> a recurrence scheme.  <the> pro<g>ram is coded in  
+mechanization <of> tedious al<g>ebra: <the>  
+<of> planetary <the><<or>>y.  <the> newcomb operat<<or>>s are expressed  
+
+
+DocID: CACM-3012
+
+and <retrieval> system.  a monit<<or>> built into <the> computer  
+<the> <use> <of> this system.  <the> implications  
+<the> <use> <of> an interactive <inf<<or>>mation> st<<or>>a<g>e  
+

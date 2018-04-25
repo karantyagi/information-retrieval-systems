@@ -1,0 +1,699 @@
+LUCENE_NoStopNoStem
+
+Query
+Memory management aspects of operating systems
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-2297
+
+<of> page-frames, and the average execution interval <of> the  
+<of> the number <of> page-frames allocated  
+<memory> <management>  
+
+
+DocID: CACM-2069
+
+<operating> <systems>, <memory> <management>  
+
+
+DocID: CACM-1752
+
+resource <management> for a medium scale time-sharing <operating> system  
+time-sharing, <operating> <systems>, resource <management>,  
+<memory> <management>, virtual memories  
+
+
+DocID: CACM-2902
+
+terms <of> processing time, <memory> usage, and external <memory>  
+algorithms.  simple algorithms <operating> on <memory> ordered  
+<memory> <management>, programming techniques, simulation,  
+
+
+DocID: CACM-2358
+
+<operating> system, multics, virtual <memory>, segmentation,  
+since the size <of> main <memory> on contemporary <systems>  
+many contemporary <systems> permit some degree <of>  
+
+
+DocID: CACM-3006
+
+occur in paged virtual <memory> <operating> <systems>  
+anomaly, <memory> <management>, program behavior, stack  
+algorithms, virtual <memory>, working set, page  
+
+
+DocID: CACM-2374
+
+a study <of> storage partitioning using a mathematical model <of> locality  
+<systems>.  the storage requirement <of> programs is modeled  
+storage partitioning, <memory> <management>, dynamic  
+
+
+DocID: CACM-2319
+
+<of> an <operating> system, an overall model <of> the total  
+and design the performance <aspects> <of> an <operating> system  
+<operating> system performance  
+
+
+DocID: CACM-1751
+
+<of> a general treatment <of> resource allocation  
+multiprogramming, <operating> <systems>, program  
+knowledge vital to the dynamic <management> <of>  
+
+
+DocID: CACM-3000
+
+and some <of> their implications for the design <of> virtual  
+<of> the construction and behavior <of> real programs,  
+the characteristics <of> the virtual <memory> requirements  
+
+
+DocID: CACM-2740
+
+<of> <operating> <systems>.  the project <management>  
+a large <operating> system as a set <of> co<operating>  
+<operating> system structure, asynchronous  
+
+
+DocID: CACM-2988
+
+<of> finite <memory> size and workload <memory> requirements  
+<of> in teractive computer <systems> which use nonpaged memories.  
+in queueing network models <of> computer <systems>.  
+
+
+DocID: CACM-2406
+
+and physical <aspects> <of> data.  applications <of> these  
+data translation, data base <management> <systems>,  
+and physical <aspects> <of> data is increasingly  
+
+
+DocID: CACM-1892
+
+a "burst" <of> page demands at the beginning <of> any job  
+degree <of> multiprogramming in page-on-demand <systems>  
+between the number <of> programs permitted to share <memory>  
+
+
+DocID: CACM-1753
+
+<memory> are defined and the use <of> paging and  
+<of> the multics <operating> system are introduced.  
+paging, multiprogramming, storage <management>,  
+
+
+DocID: CACM-2372
+
+on the implementation <of> security measures in information <systems>  
+<management> information <systems>  
+<operating> <systems>, access <management>, data banks,  
+
+
+DocID: CACM-1728
+
+a page <of> data or instructions not in main  core  <memory>.  
+the frequency <of> page faults, i.e. the frequency <of> those  
+directed at the measurement <of> program <operating>  
+
+
+DocID: CACM-1750
+
+<operating> <systems>, control data corporation 6600, <operating> system with ecs  
+<of> the faster <memory>.  
+the use <of> large quantities <of> addressable  
+
+
+DocID: CACM-3067
+
+for the entire class <of> demand-fetching <memory>  
+database referencing, <memory> <management>, optimal  
+showing swapping load as a function <of> <memory>  
+
+
+DocID: CACM-2669
+
+<systems>, virtual <memory>, associative <memory>, <memory> usage accounting, multics  
+reference pattern with the effect <of> the automatic <management>  
+size <of> the paging <memory>.  the resulting model is easy  
+
+
+DocID: CACM-2867
+
+<systems>. it is shown that the concepts <of> module and  
+used in the construction <of> a family <of> <operating>  
+<of> the implementation <of> run-time modules at the  
+
+
+DocID: CACM-2379
+
+<operating> <systems>, system design, levels <of> abstraction,  
+the design <of> the venus <operating> system  
+data sharing, resource <management>, deadlock  
+
+
+DocID: CACM-1901
+
+in computer <systems> is presented.  concepts <of> value and  
+investigation <of> the problems <of> space-sharing and  
+storage <management>, <memory> <management>, program  
+
+
+DocID: CACM-3011
+
+<systems> currently in use by top <management> in most us local  
+nature <of> these <systems>, <management> use <of> computing is  
+<management> practices where top <management> is supportive  
+
+
+DocID: CACM-3050
+
+one <of> the problems facing managers <of> computer  
+a set <of> detailed reports on the cost <of> his choices  
+and a simulated run <of> the center <operating> under  
+
+
+DocID: CACM-2582
+
+is particularly suited to those <systems> where primary <memory>  
+<of> an <operating> system have shown its substantial superiority  
+improvement, <memory> hierarchies, virtual  
+
+
+DocID: CACM-2314
+
+input and output <of> data would facilitate use <of>  
+a wide range <of> applications.  three <aspects> <of> programming  
+to the design <of> advanced programming <systems> for  
+
+
+DocID: CACM-2017
+
+environment characteristic <of> virtual <memory> machines.  descriptions <of>  
+<of> sorting procedures in the context <of> the dynamic paging  
+performance evaluation, <memory> <management>  
+
+
+DocID: CACM-1747
+
+<of> a virtual computer are explained.  examples <of> applications  
+<of> the criteria concern the reading <of>  
+the scope <of> the criteria, the notion <of> an abstract  
+
+
+DocID: CACM-2864
+
+modeling <of> program behavior and <memory> <management> in virtual <memory> <systems>.  
+for the existence <of> a hierarchy <of> localities  
+program behavior, <memory> <management>, locality  
+
+
+DocID: CACM-3068
+
+here in terms <of> a general model for <operating> <systems>.  
+many <of> those properties <of> an <operating> system which  
+a model for verification <of> data security in <operating> <systems>  
+
+
+DocID: CACM-3026
+
+languages, data <management> <systems>,  
+large-scale main frame computer <systems>.  beginning  
+the evolution <of> the sperry univac 1100  
+
+
+DocID: CACM-2798
+
+<of> <memory> modules in operation during a <memory>  
+interleaved <memory> <systems>, modular <memory> <systems>,  
+by determining the distribution <of> the number <of> <memory>  
+
+
+DocID: CACM-2311
+
+<systems>, s<of>tware <systems>, <systems> development  
+process, functional <systems>, <management> <systems>  
+computing milieu, <management> data processing, hardware  
+
+
+DocID: CACM-2502
+
+a comment on the practical <aspects> <of> computer science education  
+sciences curriculum, <systems> design  
+
+
+DocID: CACM-3028
+
+storage, extra codes, compilers, <operating> <systems>,  
+<management> have evolved in the progression from  
+two <systems> stand out: the mark i  developed  
+
+
+DocID: CACM-2481
+
+<of> a program which maximizes the useful fraction <of>  
+buffer  cache  <memory> between primary <memory> and  
+distribution <of> a program between the buffer  
+
+
+DocID: CACM-2479
+
+<systems> administration, information <systems>  
+<management>, computer <management>  
+education, <management> information <systems>, information  
+
+
+DocID: CACM-2624
+
+<operating> system, third generation architecture,  
+model, pro<of>, virtual machine, virtual <memory>,  
+virtual machine <systems> have been implemented  
+
+
+DocID: CACM-2622
+
+in many computer <operating> <systems> a user authenticates  
+in the computer.    all <aspects> <of> the system, including  
+<operating> system security, security, authentication,  
+
+
+DocID: CACM-0084
+
+survey <of> progress and trend <of> development  
+and <management> control <systems> <of> the federal government,  
+and use <of> automatic data processing in business  
+
+
+DocID: CACM-0059
+
+survey <of> progress and trend <of> development  
+and <management> control <systems> <of> the federal  
+government, as <of> december 1957-iii  
+
+
+DocID: CACM-2625
+
+<systems> on the basis <of> protection, simplicity <of>  
+these <systems>.  the direct use <of> a capability as  
+modification <of> the representation <of> capabilities is  
+
+
+DocID: CACM-2859
+
+<of> program behavior and simulations <of> <systems>  
+<of> the limiting behavior <of> the system yields approximate  
+interference in multiprocessor computer <systems> with interleaved <memory>  
+
+
+DocID: CACM-2378
+
+an <operating> system based on the concept <of> a supervisory computer  
+discusses some <of> the advantages <of> this approach.  
+<operating> <systems>, supervisors, multiprogramming,  
+
+
+DocID: CACM-2262
+
+garbage collection for virtual <memory> computer <systems>  
+<memory> <systems>, and compares them with traditional  
+garbage collection, virtual <memory>, list  
+
+
+DocID: CACM-1725
+
+<aspects> <of> the structure <of> sets <of> binary  
+<memory> is empty .  the use <of> these circuits, which  
+<of> his method, unlike those <of> other methods, is independent  
+
+
+DocID: CACM-2095
+
+<of> the measurements is the large number <of> small segments-about 60  
+distributions <of> segment sizes measured under routine <operating> con  
+should be relevant to the design <of> new computer <systems>,  
+
+
+DocID: CACM-2852
+
+the technology <of> computer center <management>: a  
+<of> computer center <management>," which has been <of>fered  
+center <management>, computer system performance  
+
+
+DocID: CACM-1810
+
+will probably become a normal part <of> most computing <systems>.  
+automatic folding, storage hierarchies, <memory>  
+<of> prefolding, which is required when  
+
+
+DocID: CACM-2681
+
+dynamic <memory> repacking, <memory> compaction,storage  
+under which the dynamic repacking <of> main <memory> is beneficial.  
+dynamic <memory> repacking  
+
+
+DocID: CACM-1959
+
+for the design and coding <of> large shared data base <systems>.  the  
+<management> information <systems>, integrated data processing,  
+an interrupt based organization for <management> information <systems>  
+
+
+DocID: CACM-1541
+
+<aspects> <of> simulation studies.  the ability to represent  
+<systems> containing highly interactive processes  
+by means <of> an extended example.  
+
+
+DocID: CACM-2111
+
+to compilers and <operating> <systems>.  these include the use <of> syntax  
+and symbol tables, and the consideration <of> a limited class <of> spelling  
+<operating> <systems>, diagnostics, error detection,  
+
+
+DocID: CACM-1657
+
+<of> part <of> a program with its own <memory>  
+<operating> system, <memory> protection, time-sharing,  
+implementation <of> the sharer2 time-sharing system  
+
+
+DocID: CACM-1912
+
+simulation <of> outpatient appointment <systems>  
+department, medicine, health, <management>  
+which simulates appointment <systems> employed  
+
+
+DocID: CACM-2407
+
+education, undergraduate curricula, <management> <systems>,  
+information <systems>, information analysis,  
+programs in information <systems>  
+
+
+DocID: CACM-3112
+
+virtual <memory>, file or database <management>,  
+classical implementations <of> list processing <systems>  
+arrays <of> different sizes, a program stack, and  
+
+
+DocID: CACM-2357
+
+an on-line system <operating> as part <of> a normal  
+and fabrication.  all <aspects> <of> the system are  
+multiplexer, implementation effort, <operating> overhead,  
+
+
+DocID: CACM-1924
+
+<of> the number <of> pages <of> main <memory> available  
+be in main <memory> at one time.  examination <of> addition,  
+paged <memory> <systems>, virtual <memory> <systems>,  
+
+
+DocID: CACM-2967
+
+<of> the hardware associative <memory> in three areas:  
+<memory>, graphics, information retrieval,  
+parallel processing, database <management>  
+
+
+DocID: CACM-2365
+
+paged <memory>, virtual <memory>, array processing  
+the efficiency <of> conventional fortran programs  
+under an <operating> system which uses paging.  
+
+
+DocID: CACM-1461
+
+discussion summary on <operating> <systems>  
+
+
+DocID: CACM-2868
+
+features <of> the design were the use <of> capabilities  
+<operating> system, protection, capabilities,  
+layering domains, <memory> hierarchy, faults  
+
+
+DocID: CACM-1708
+
+the problem <of> the use <of> two levels <of> storage  
+efficiency <of> paged computation  
+storage <management>, list processor implementation,  
+
+
+DocID: CACM-0086
+
+and <management> control <systems> <of> the federal government, as <of> december 1957  
+controller general <of> the united states to the congress <of> the united states  
+survey <of> progress and trend <of> development  
+
+
+DocID: CACM-2668
+
+based on <memory> states, control states, and <memory>  
+probability in a virtual <memory> system <operating>  
+virtual <memory>, demand paging, replacement rule,  
+
+
+DocID: CACM-2597
+
+a monitor as a method <of> structuring an <operating>  
+monitors, <operating> <systems>, scheduling, mutual  
+<of> readers and writers.  
+
+
+DocID: CACM-2198
+
+problem <of> catering to a high volume <of> transactions  
+<systems>.  after some discussion <of> the problems  
+<of> generalized data base <management> <systems>.  this introduction  
+
+
+DocID: CACM-1462
+
+multilevel <operating> <systems>  
+<operating> <systems>. this implies that all applications-no  
+the <operating> <systems>, but at a different level.  
+
+
+DocID: CACM-2080
+
+<of> a hierarchy <of> processes as well as the communication among them.  
+that can be extended with a hierarchy <of> <operating> <systems> to suit diverse  
+multiprogramming, <operating> <systems>, parallel processes, process concept,  
+
+
+DocID: CACM-1456
+
+<memory> as a continuous extension <of> core <memory>.  
+examples <of> methods <of> inputting information  
+storage and retrieval <of> <aspects> <of> meaning in directed graph structures  
+
+
+DocID: CACM-1781
+
+the writing <of> translators <of> programming languages  
+ semantic  <aspects> <of> translator writing  
+translator writing <systems>  
+
+
+DocID: CACM-0417
+
+<of> computer <systems> involved in legal situations.  
+legal implications <of> computer use  
+<systems> used in business and industry can  
+
+
+DocID: CACM-2482
+
+based on the concept <of> the hierarchical <operating>  
+deadlocks, resource allocation, <operating> <systems>,  
+multiprogramming, hierarchical <systems>  
+
+
+DocID: CACM-1748
+
+<systems> is explained.  some <aspects> <of> time-oriented  
+design and analysis <of> multiprocessing <systems>.  
+systems  
+
+
+DocID: CACM-2577
+
+site data <management>, retrieval <systems>  
+an on-site data <management> system application in field archaeology  
+
+
+DocID: CACM-1247
+
+<of> storage for contiguous blocks <of> arbitrary  
+computer programming <systems>  
+an <operating> environment for dynamic-recursive  
+
+
+DocID: CACM-3177
+
+<of> robust key <management> schemes for cryptographic <systems>  
+cryptography, key <management>, interpolation  
+half the pieces and security breaches expose all but one <of> the  
+
+
+DocID: CACM-2163
+
+on "curriculum development in <management> information  
+<systems> education in colleges and universities"  
+<systems>, and appropriate college curricula and courses  
+
+
+DocID: CACM-1754
+
+problems <of> storage allocation.  a method <of> characterizing  
+dynamic storage allocation <systems>  
+allocation, storage <management>, virtual memories,  
+
+
+DocID: CACM-1845
+
+<of> the third generation computer <systems>: cdc-6000,  
+utilization, <memory> occupation, tree structure,  
+linkage, linkage editor, standardization, <memory>  
+
+
+DocID: CACM-3148
+
+programming a wide range <of> tasks.  this is part <of> an ambitious  
+with other <aspects> <of> the project are also discussed.  
+programming for distributed and other loosely coupled <systems>  
+
+
+DocID: CACM-3092
+
+cycle cost <of> a system.  rough estimates <of> the total  
+much <of> the total resources <of> <systems> and programming  
+ 3  in maintenance and enhancement, problems <of> a <management>  
+
+
+DocID: CACM-2435
+
+a class <of> dynamic <memory> allocation algorithms  
+which includes both <of> these <systems> as special cases.  
+anew dynamic <memory> allocation algorithm, the  
+
+
+DocID: CACM-2632
+
+<of> highly secure <systems>.  
+hydra: the kernel <of> a multiprocessor <operating> system  
+hydra-the kernel <of> an <operating> system for c.mmp,  
+
+
+DocID: CACM-2689
+
+report generation, automated <systems> design, data processing, <management>  
+
+
+DocID: CACM-1083
+
+study <of> problem solving and self-teaching <systems>.  
+a version <of> a s<of>tware-hardware system for  
+the purpose <of> facilitating the programming and  
+
+
+DocID: CACM-1826
+
+<of> the algorithm is more the compaction <of> active  
+garbage-collector, virtual <memory>, list-processing, storage-allocation  
+for list-processing <systems> which operate within  
+
+
+DocID: CACM-2985
+
+<systems> is asserted to be a category <of> organizational  
+the relationship <of> in ternal pricing <systems>  
+<of> the four stages <of> edp growth [15].  the results also  
+
+
+DocID: CACM-2181
+
+<systems>.  an analysis <of> the minutes <of> the meetings  
+university programs, <management> education, curriculum  
+and the administrators <of> their institutions  
+
+
+DocID: CACM-3090
+
+<of> computing, <management> information <systems>,  
+features <of> the computer-based system and <of> the organizational  
+sociology <of> computing, information <systems> and  
+
+
+DocID: CACM-2541
+
+<of> new scheduling algorithms  decision <of> what to do  without  
+design <of> the language, <operating> system,  
+new concept for <operating> <systems>: separation  
+
+
+DocID: CACM-3142
+
+<management> <systems> may be adequate, results <of> the survey raise  
+errors, <systems> errors, billing errors, <management> <systems>, consumers  
+concerns about the timeliness and the number <of> designs <of> very  
+
+
+DocID: CACM-3025
+
+<of> implementations to presently include <systems> covering  
+evolution <of> the hardware, <operating> system, and languages  
+minicomputer/microcomputer <systems>.  
+
+
+DocID: CACM-2106
+
+solution <of> interesting problems;  3  be capable <of> exposing all  
+<management> information <systems>, interpreters  
+design and evaluation <of> <management> information <systems> requires  
+
+
+DocID: CACM-1960
+
+process <management> and resource sharing in the multiaccess system esope  
+the main design principles <of> the multiaccess system esope are described.  
+than on implementation details.  the main features <of> the system  
+
+
+DocID: CACM-1267
+
+<of> determination <of> transfer rate <of> information  
+bits  trib , <of> residual errors, and <of> standard measurement  
+includes the pertinent <aspects> <of> information transfer,  
+
+
+DocID: CACM-2863
+
+<memory> <systems>, virtual <memory>, working set,  
+the results <of> simulating vmin, denning's working set,  
+on five virtual <memory> programs are presented to demonstrate  
+
+
+DocID: CACM-1680
+
+programs  <of> the <operating> system.  language processors  
+retrieval <operating> <systems>, graphics, displays, man-machine  
+computer-assisted instruction, tutorial <systems>,  
+

@@ -1,0 +1,701 @@
+LUCENE_NoStopNoStem
+
+Query
+Find all discussions of horizontal microcode optimization with special
+emphasis on optimization of loops and global optimization.
+
+Top 100 Results (7 millisecs)
+
+
+DocID: CACM-3125
+
+the eliminati<on> <<of>> redundant computati<on>s <and> the moving <<of>> invariant  
+computati<on>s out <<of>> <loops> are <<of>>ten d<on>e separately, <with> invariants  
+linear <with> the size <<of>> the program, <and> that it leads  
+
+
+DocID: CACM-3069
+
+programs <and> to deal <with> the sharing <<of>> variables  
+<on> the procedure, <and> <all> <<of>> its subc<all>s.  the  
+data flow analysis, <global> flow analysis, <optimizati<on>>,  
+
+
+DocID: CACM-2877
+
+<<of>> the program <and> <all> the definiti<on>s that are  
+<and> h<and>les reducible <and> irreducible graphs indistinguishably.  
+"live" <on> each edge <<of>> the graph.  the procedure uses  
+
+
+DocID: CACM-3054
+
+quicksort, analysis <<of>> algorithms, code <optimizati<on>>, sorting  
+are summarized.  a variety <<of>> <special> situati<on>s are c<on>sidered  
+results describing the performance <<of>> the programs  
+
+
+DocID: CACM-2944
+
+requires <global> flow analysis to be performed <on> the  
+deutsch <and> bobrow, the necessary features <<of>> which are  
+<optimizati<on>>, reference counts, storage  
+
+
+DocID: CACM-2929
+
+<with> little increase in the size <<of>> compiled code <and> a  
+<<of>> the procedure body.  the general problem <<of>>  
+in programs <with> a low degree <<of>> recursi<on>, over 90  
+
+
+DocID: CACM-1807
+
+<and> the branching <and> do loop structure <<of>> the program.  
+a method <<of>> optimizing the computati<on> <<of>>  
+analysis <<of>> the definiti<on> points <<of>> the variables  
+
+
+DocID: CACM-2701
+
+<global> flow analysis, data flow, code <optimizati<on>>,  
+a fast <and> usu<all>y linear algorithm for <global>  
+number <<of>> exits from program <loops>.  c<on>sequently  
+
+
+DocID: CACM-2835
+
+set <<of>> values.  the most comm<on> are parameters <<of>> variables  
+are discussed, <and> a modificati<on> <<of>> the  
+<<of>> recursive use <<of>> procedures is presented for  
+
+
+DocID: CACM-2344
+
+<with> a finite n<on>c<on>tiguous store <and> an infinite  
+manner <and> would not benefit from <optimizati<on>>.  features  
+<on> the <optimizati<on>> <<of>> performance <<of>> time-sharing systems by simulati<on>  
+
+
+DocID: CACM-1947
+
+<and> loop identificati<on>.  implementati<on> <<of>> these <and> other  
+methods <<of>> analyzing the c<on>trol flow <and> data  
+object code <optimizati<on>>  
+
+
+DocID: CACM-2897
+
+advantage <<of>> any <special> cases is d<on>e by the <optimizati<on>>s.  
+<optimizati<on>>, <optimizati<on>> techniques, data flow analysis  
+lower level code <and> then performs <optimizati<on>>s  
+
+
+DocID: CACM-2616
+
+<on> the c<on>versi<on> <<of>> programs to decisi<on> tables: method <and> objectives  
+c<on>versi<on>s are mainly program debugging <and> <optimizati<on>>  
+<and> computability are suggested.  
+
+
+DocID: CACM-2195
+
+<<of>> stages is equal to the length n <<of>> the curves  or  
+<global> approach, greater flexibility <and> adequacy  
+between the structure <<of>> the figure <<of>> merit <and>  
+
+
+DocID: CACM-2923
+
+deals <with> programs essenti<all>y at source level <and>  
+advanced methods <<of>> program certificati<on> <and> <optimizati<on>>.  
+<and> derives new <global> informati<on> helpful in solving  
+
+
+DocID: CACM-2388
+
+algorithm is discussed, <and> it is compared <with>  
+<and> local <optimizati<on>>, sorting, recursi<on>  
+<with> a form <<of>> the algorithm quicksort in an  
+
+
+DocID: CACM-1231
+
+peephole <optimizati<on>>  
+optimizing technique c<all>ed peephole <optimizati<on>>.  
+the method is described <and> examplesare given.  
+
+
+DocID: CACM-1223
+
+<optimizati<on>> such as the effective use <<of>> index  
+calculable expressi<on>s from <loops> <and> to do the  
+important part <<of>> comm<on> subexpressi<on> recogniti<on>.  
+
+
+DocID: CACM-2188
+
+cost, <and> the distributi<on> <<of>> data storage <and>  
+<and> helps give a better underst<and>ing <<of>> now  
+<and> <<of>> the computati<on>al requirements <<of>> the graphics applicati<on>.  
+
+
+DocID: CACM-2537
+
+which grows linearly <with> the number <<of>> characters  
+described.  the method relies <on> h<and> selecti<on> <<of>> a  
+minimum space, text storage, <optimizati<on>>,  
+
+
+DocID: CACM-1886
+
+orders the factors <and> expressi<on>s such that <all>  
+<<of>> operati<on>s, detecti<on> <<of>> comm<on> subexpressi<on>s,  
+applied, <and> hence <global> optimal results are not  
+
+
+DocID: CACM-2953
+
+<<of>> recursi<on> removal involves the use <<of>> <on>e  
+<on> the basis <<of>> their running time.  
+<with> tree traversal <and> sorting algorithms.  each method  
+
+
+DocID: CACM-1795
+
+code <optimizati<on>>, sequencing <<of>> operati<on>s,  
+detecti<on> <<of>> comm<on> subexpressi<on>s  
+optimal code for serial <and> par<all>el computati<on>  
+
+
+DocID: CACM-3080
+
+<<of>> memory in terms <<of>> program <and> stack sizes.  
+<and> pinpointing <<of>> a wide class <<of>> errors in the low  
+that <optimizati<on>> <<of>> the genre <<of>> this paper can result  
+
+
+DocID: CACM-2716
+
+<<of>> e. f. codd's relati<on>al algebra are presented, <and>  
+<global> query <optimizati<on>>,  2  exploiting disjoint  
+relati<on>al database, database <optimizati<on>>, inverted  
+
+
+DocID: CACM-2680
+
+the assignment <<of>> files to disk packs, <and> packs to either  
+facility, <and> reducing the number <<of>> mounts thus decreases  
+disk analysis, disk <optimizati<on>>, disk files,file  
+
+
+DocID: CACM-2142
+
+<and> medicine  e.g. in electr<on> microscopy <and>  
+<and> the problem is to <find> the "most representative"  
+<and> varied number <<of>> fields.  the most important  
+
+
+DocID: CACM-2253
+
+a by-product <<of>> the symbolic manipulati<on> <<of>> expressi<on>s  
+languages, program <optimizati<on>>, range operati<on>s, symbolic  
+manipulati<on> <<of>> index expressi<on>s which arise as  
+
+
+DocID: CACM-1658
+
+<<of>> solving problems <with> over 100 variables <with>  
+this paper is c<on>cerned <with> a review <and> examinati<on>  
+requirements <<of>> several <<of>> the algorithms are compared  
+
+
+DocID: CACM-2836
+
+<optimizati<on>>.  
+structural ambiguity, combinatorial <optimizati<on>>  
+<with> weighting functi<on>s over the vocabulary  
+
+
+DocID: CACM-1676
+
+<and> do-loop <and> machine-dependent <optimizati<on>> in  
+comm<on> subsegments, tree representati<on>, <optimizati<on>>  
+machine-independent <optimizati<on>> occurs in pass ii  
+
+
+DocID: CACM-1564
+
+since the preprocessor <and> this language associated <with>  
+descripti<on> <<of>> basic algorithm in detab/65 preprocessor  
+generator analyzes a decisi<on> table <and> produces  
+
+
+DocID: CACM-2904
+
+integrated package <<of>> local <optimizati<on>> algorithms.  
+compilers, <optimizati<on>> <<of>> compiled code, program analysis,  
+an algorithm for reducti<on> <<of>> operator strength  
+
+
+DocID: CACM-2964
+
+<optimizati<on>>, resident, overflow storage  
+an approach to optimal design <<of>> storage parameters in databases  
+
+
+DocID: CACM-2969
+
+<and> a possible applicati<on> <<of>> the model.  
+<<of>> program <and> data files in a computer network  
+an <optimizati<on>> procedure for the <all>ocati<on>  
+
+
+DocID: CACM-2134
+
+operati<on>s research, <optimizati<on>> theory, assignment  
+the assignment problem, together <with> munkres  
+soluti<on> time <and> problem size is given.  
+
+
+DocID: CACM-2464
+
+<optimizati<on>>, c<on>strained <optimizati<on>>, box's algorithm  
+the complex method for c<on>strained <optimizati<on>> [e4]  algorithm a454   
+
+
+DocID: CACM-2812
+
+<and> performance evaluator. the statement <<of>> requirements  
+analysis c<on>sists <<of>> a set <<of>> procedures <and> computer  
+<<of>> program modules <and> logical database structures.  
+
+
+DocID: CACM-3018
+
+to the problem <<of>> covering the edges <<of>> a graph  
+by complete subgraphs <with> the objective <<of>> minimizing  
+keyword c<on>flicts <and> intersecti<on> graphs  
+
+
+DocID: CACM-2579
+
+<optimizati<on>>, redundant computati<on>s, comm<on> subexpressi<on>s,  
+algorithms that eliminate redundant computati<on>s, <and>  
+used register <all>ocati<on> techniques, <and> presents evidence  
+
+
+DocID: CACM-2321
+
+<on> the interface between computers <and> data communicati<on>s systems  
+by means <<of>> which computers <and> digital  
+subsystem designs.  a focus <on> some <<of>> the problems is  
+
+
+DocID: CACM-3020
+
+<and> to obtain measurements <<of>> the cost <<of>> procedure  
+example <and> the final result <<of>> the process is  
+by str<on>g <and> walker is amplified <and> applied to  
+
+
+DocID: CACM-1195
+
+<and> test for both validity <and> accuracy <<of>>  
+the output for <optimizati<on>> <<of>> processing <on> the  
+aer<on>autics <and> space administrati<on>.  
+
+
+DocID: CACM-2433
+
+as part <<of>> an effort to design <and> implement  
+<<of>> the illiac <and> singles out unc<on>venti<on>al features  
+provides a means <<of>> expressing data <and> c<on>trol  
+
+
+DocID: CACM-2827
+
+<<of>> quadric surfaces, is described.  the <emphasis> <<of>>  
+<<of>> parameterizati<on> for each type <<of>> osic are discussed,  
+<<of>> solid objects composed <<of>> quadric surfaces  
+
+
+DocID: CACM-0104
+
+is <<of>> an extensive package-h<and>ling plant, <with> the  
+objective being <optimizati<on>> <<of>> parameters such as  
+digital simulati<on> <<of>> discrete flow systems*  
+
+
+DocID: CACM-1548
+
+tables <with> regard to <horiz<on>tal> <and> vertical  
+c<on>sidered in this paper are <on> the parsing <<of>> decisi<on>  
+parsing <<of>> decisi<on> tables  
+
+
+DocID: CACM-2903
+
+program transformati<on>, <optimizati<on>> <<of>> programs,  
+a new technique <<of>> program transformati<on>,  
+transformati<on>, a method <<of>> recursi<on> eliminati<on>  
+
+
+DocID: CACM-1750
+
+<and> functi<on>s <<of>> such a system are based <on> a  
+<with> the traditi<on>al c<on>figurati<on> <<of>> separate <and> independent  
+generalizati<on> <<of>> such a design, <special> <emphasis> is  
+
+
+DocID: CACM-2000
+
+<and> applied to give a significant variati<on> <<of>> the goodman-lance  
+optimal c<on>trol, <optimizati<on>>, ordinary differential equati<on>s,  
+soluti<on> <<of>> n<on>linear equati<on>s is improved,  
+
+
+DocID: CACM-1410
+
+the <optimizati<on>> <<of>> time-shared system performance  
+requires the descripti<on> <<of>> the stochastic  
+<<of>> the user input process in the sdc-arpa general-purpose  
+
+
+DocID: CACM-2411
+
+inductive asserti<on>, least fix points, <optimizati<on>>  
+semantics <<of>> programming languages, structured programming.  
+programming language design, pro<<of>> <<of>> programs,  
+
+
+DocID: CACM-2423
+
+words <<of>> 60-bit core memory <<of>> which 140 words are parsing  
+automata, translati<on> grammars, translator <optimizati<on>>, compressi<on> algorithm  
+program <and> its tables currently occupy 288  
+
+
+DocID: CACM-2495
+
+<on> present-day computers  
+object-code <optimizati<on>>, register assignment,  
+
+
+DocID: CACM-2940
+
+<on> abstract entities <with>out explicit dependence <on> the  
+<and> specifying iterati<on> <and> generators  
+<and> the c<on>trol structure <<of>> the language itself.  a  
+
+
+DocID: CACM-3053
+
+<with> c<on>venti<on>al methods, the new techniques  
+ exhaustive  <optimizati<on>>, although packing costs  
+unsuccessful searches, <and> auxiliary cost functi<on>s.  compared  
+
+
+DocID: CACM-1961
+
+circuits <<of>> a graph.  the algorithm can be easily modified to <find> <all>  
+<<of>> arcs.  the speed is also related to the number <<of>> circuits  
+the speed <<of>> the algorithm to the number <<of>> vertices <and> the number  
+
+
+DocID: CACM-2314
+
+input <and> output <<of>> data would facilitate use <<of>>  
+efficient, <and> run <on> data.  because <<of>> this general  
+a wide range <<of>> applicati<on>s.  three aspects <<of>> programming  
+
+
+DocID: CACM-1808
+
+by computers are dealt <with>.  <special> <emphasis> is paid  
+relative security, costs, <and> preferred methods  
+maintain the c<on>fidentiality <<of>> informati<on> processed  
+
+
+DocID: CACM-2883
+
+<<of>> an edge are embedded in a figure <<of>> merit <and> the edge  
+<<of>> c<on>tours from noisy picture <and> the separati<on>  
+an applicati<on> <<of>> heuristic search methods to edge <and> c<on>tour detecti<on>  
+
+
+DocID: CACM-2699
+
+<<of>> very high level whose repertoire <<of>> semantic  
+above <and> below, <and> the single-valuedness <<of>>  
+are based up<on>, <and> extend, known techniques <<of>>  
+
+
+DocID: CACM-1197
+
+has been tested <on> a number <<of>> polynomials <with> real  
+success was achieved, in most <<of>> the cases tried, <with>  
+it will usu<all>y <find> a majority <<of>> them.  
+
+
+DocID: CACM-2851
+
+<<of>> an infinite set <<of>> c<on>trol states by <all>owing  
+enumerati<on> <<of>> the set <<of>> <all> possible c<on>trol states.  
+<and> permits shared <global> variables.  correctness  
+
+
+DocID: CACM-0693
+
+kinds <<of>> calculati<on>s.  
+problems involving unimodal functi<on>s <<of>> several variables.  
+c<on>cepts has been developed to solve <optimizati<on>>  
+
+
+DocID: CACM-3002
+
+<on>e <<of>> the main objectives in the design <<of>>  
+that are stored <on> different devices.  <on>e <<of>> the subrecords  
+<and> the distributi<on> <<of>> each data-item's length are assumed  
+
+
+DocID: CACM-2451
+
+<<of>> such a model this paper c<on>siders the design <<of>>  
+poses an <optimizati<on>> problem in the design <<of>>  
+<<of>> data <and> shows that essenti<all>y the  
+
+
+DocID: CACM-2722
+
+<<of>> the search space  as a data structure for storage <<of>>  
+<and> examples <<of>> potential uses are given.  
+o  log n ; <and> <optimizati<on>>  guarantees logarithmic performance  
+
+
+DocID: CACM-1719
+
+<and> industry <<of>> the criteria for <and> methods <<of>>  
+<and> optimizing is outlined; <and> the method is  
+number <<of>> types, <and> cost <<of>> data processing systems  
+
+
+DocID: CACM-1974
+
+through compilati<on> <and> trial runs.  a number <<of>> opti<on>s are  
+logical analysis <<of>> pl/i source, reformatting <<of>> pl/i  
+neater2 accepts a pl/i source program <and> operates <on> it to produce  
+
+
+DocID: CACM-1951
+
+estimates <<of>> distributi<on>s <<of>> r<and>om variables  
+be robust; that is each <<of>> the variables <<of>> the model has the  
+same distributi<on> independent <<of>> which <<of>> the four systems is being examined.  
+
+
+DocID: CACM-2858
+
+program structure <and> a choice <<of>> <optimizati<on>>  
+<<of>> instructi<on> addresses <and> formats under the  
+as a functi<on> <<of>> the distance <<of>> the instructi<on>  
+
+
+DocID: CACM-2570
+
+which c<on>sists <<of>> a set <<of>> parti<all>y ordered tasks  
+<<of>> c<<of>>fman <and> graham is near-optimal.  a dynamic programming  
+list scheduling, <optimizati<on>>, dynamic programming  
+
+
+DocID: CACM-2611
+
+the complex method for c<on>strained <optimizati<on>>  algorithm r454   
+
+
+DocID: CACM-2174
+
+the original work <<of>> gale <and> shapley <on> an assignment  
+<all> the c<on>diti<on>s <<of>> the problem.  algorithm 411  
+has been extended to <find> <all> the stable marriage assignments.  
+
+
+DocID: CACM-2181
+
+<<of>> the pedagogic <and> substantive c<on>cerns raised; <and>  
+<with> background informati<on> for the <on>going task <<of>> course  
+the committee <with> material for its study <<of>>  
+
+
+DocID: CACM-3166
+
+expository, <with> <emphasis> <on> reaching a suitable definiti<on> <<of>>  
+<<of>> the st<and>ard deviati<on> <<of>>  unweighted  sampled data  
+<on> difficult problems than are the other two.  
+
+
+DocID: CACM-0695
+
+disk <and> core storage <with> minimum delaying <and>  
+interrupti<on> <<of>> the arithmetic unit.  dumps <on> disk are  
+use <<of>> the disk file <on> stretch  
+
+
+DocID: CACM-3157
+
+<<of>> elements taken from s.  the given ordering <on> s induces  
+are difficult to <find> <and> are <<of>> a complexity out  
+use <<of>> relatively simple <and> intuitive terminati<on> functi<on>s in otherwise  
+
+
+DocID: CACM-2715
+
+query.  the <optimizati<on>> algorithms designed  
+implementati<on> <<of>> a structured english query language  
+memory system, <and> the sequel language have  
+
+
+DocID: CACM-2943
+
+<with> the help <<of>> a few axioms <and> rules <<of>> inference  
+statements <and> <loops>.  
+can be written <and> pro<<of>>s <<of>> programs carried out.  
+
+
+DocID: CACM-2304
+
+<emphasis> <on> eastern universities <and> commercial developments.  
+technologies, <and> computers <<of>> the 1945-55  
+a western view <<of>> computer history  
+
+
+DocID: CACM-2146
+
+algorithm based <on> minimizing the total number <<of>> unit  
+close estimate <<of>> the total number <<of>> unit strings before the dispersi<on> begins.  
+new dispersi<on> algorithms <with> more straightforward  
+
+
+DocID: CACM-2396
+
+<<of>> familiar c<on>cepts <and> the additi<on> <<of>> new <on>es.  
+used during interpretati<on> <<of>> input is compatible <with> muse's  
+from editing <and> reporting the c<on>tents <<of>> its own  
+
+
+DocID: CACM-2003
+
+<<of>> the s<<of>>tware system; its design criteria provide the user <with>  
+comm<and>s which are both simple <and> efficient in order to perform <all>  
+an interface between designer <and> computer during various steps <<of>>  
+
+
+DocID: CACM-2065
+
+system is given <with> <special> <emphasis> <on> the  man-machine interacti<on>. this  
+a preliminary descripti<on> <<of>> the s<<of>>tware for a computer-display  
+maintenance, picture structuring, <and> display management.  picture structuring  
+
+
+DocID: CACM-2081
+
+<and> utilized for efficient computing by saving memory space <and>  
+<<of>> matrices  are c<on>sidered, <and> matrix operators areext  
+superfluous operati<on>s.  sequences <<of>> matrices  <and> sequences <<of>> sequences  
+
+
+DocID: CACM-3005
+
+efficient <with> respect to both space <and> time.  
+93 percent <<of>> <all> executable statements, <special>  
+based <on> an empirical study <<of>> more than 10,000  
+
+
+DocID: CACM-1710
+
+the appendix.  <emphasis> is <on> the philosophy <<of>> the system  
+data items <and> an arbitrary number <<of>> the relati<on>ships  
+<<of>> a series <<of>> macro c<all>s, which are outlined in  
+
+
+DocID: CACM-0972
+
+paper is <on> the technique <<of>> using the definiti<on> <<of>> a  
+system comp<on>ents. the major <emphasis> <<of>> the  
+five comp<on>ents <with> different processing priorities.  
+
+
+DocID: CACM-2133
+
+operati<on>s research, <optimizati<on>> theory,  
+
+
+DocID: CACM-2210
+
+recursive <and> iterative programs operating <on> natural  
+the inducti<on> rule used <and> the form <<of>> the program  
+that in order to c<on>struct a program <with> <loops> or <with>  
+
+
+DocID: CACM-2541
+
+<on>e <<of>> these domains to another has had <on> the  
+<and> the system's addressing structure, <and> centralized the  
+<<of>> new scheduling algorithms  decisi<on> <<of>> what to do  <with>out  
+
+
+DocID: CACM-2800
+
+<on> parameters, <with> particular <emphasis> <on> the numerical  
+classes <<of>> formulas <with> p=k=3,4,<and>/or 5,  
+<<of>> families <<of>> linear k-step formulas depending  
+
+
+DocID: CACM-2457
+
+<on> the difference between the theoretical <and>  
+<and> structural inducti<on>, including examples <<of>> their applicati<on>s.  
+about computati<on> <<of>> recursive programs, <with> <emphasis>  
+
+
+DocID: CACM-2685
+
+<<of>> different iterati<on>s <<of>> a do loop.  both  
+the par<all>el executi<on> <<of>> do <loops>  
+array computers, vector computers, <loops>  
+
+
+DocID: CACM-1626
+
+<and> interpreted programs <with> no <special> declarati<on>s.  
+determinati<on>, <and> a <special> algorithm for building  
+careful segmentati<on> <<of>> system programs, <all>ocati<on>  
+
+
+DocID: CACM-1752
+
+<and> the results <<of>> comparative simulati<on>  
+<<of>> the task scheduling <and> paging algorithms that were implemented,  
+the discussi<on> particular <emphasis> is placed <on> balancing  
+
+
+DocID: CACM-0243
+
+in this paper <with> parity evaluati<on>s al<on>g the <horiz<on>tal>,  
+dimensi<on>s <<of>> the array.  effectiveness <<of>> the codes  
+<and> ashenhurst <on> a similar multidimensi<on>al single-bit  
+
+
+DocID: CACM-2187
+
+other fields, <and> a local view which focuses <on>  
+characteristics <<of>> the field <and> its relati<on>ships to  
+in terms <<of>> the kinds <<of>> knowledge, problems,  
+
+
+DocID: CACM-3087
+
+design <and> implementati<on> <<of>> this system is described <and>  
+<<of>> system comp<on>ents <and> examples <<of>> over<all> system  
+each <<of>> which matches phrases <with> a specific  
+

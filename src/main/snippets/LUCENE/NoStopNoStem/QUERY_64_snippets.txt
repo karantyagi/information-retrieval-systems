@@ -1,0 +1,707 @@
+LUCENE_NoStopNoStem
+
+Query
+List all articles on EL1 and ECL (EL1 may be given as EL/1; I don't
+remember how they did it.
+
+Top 100 Results (5 millisecs)
+
+
+DocID: CACM-2651
+
+<and> eff<i>c<i>ent <i>mplementat<i><on>.  the <<el1>> language c<on>ta<i>ns  
+cacm <may>, 1974  
+the treatment of data types <i>n <<el1>>  
+
+
+DocID: CACM-1878
+
+depend <on> <be><i>ng able to f<i>nd <and> mark nodes that  
+<l<i>st> of sl<i>p <may> <be> amended to mark those <l<i>st>s  
+descendants from program var<i>ables <may> then <be>  
+
+
+DocID: CACM-1051
+
+<and> <i>n the execut<i><on> t<i>me requ<i>red to perform a <g<i>ven>  
+words <as> elements of a <l<i>st>.  th<i>s report descr<i><be>s the  
+ways, <and> <i>nd<i>cate <how> <they> relate to the  
+
+
+DocID: CACM-0595
+
+<and>, at <be>st, d<i>ff<i>cult to me<as>ure.  <how> then  
+<and> programm<i>ng c<on>cepts.  <i>t <i>s gener<all>y  
+greene, <i>.  
+
+
+DocID: CACM-2513
+
+<i>n the <l<i>st>.  the or<i>g<i>nal <l<i>st> structure <i>s destroyed <as> <i>t <i>s moved.  
+nodes <i>nto wh<i>ch the <l<i>st> <i>s to <be> moved, <and> no  
+<l<i>st> mov<i>ng, <l<i>st> copy<i>ng, <l<i>st> traversal, garbage collect<i><on> l<i>sp  
+
+
+DocID: CACM-0497
+
+<i>t <i>s further s<how>n that an equat<i><on> for u <i>  <i>nvolv<i>ng  
+<i>t <i>s s<how>n <how> <be>llman's method <may> <be> appl<i>ed to the  
+n po<i>nts of subd<i>v<i>s<i><on> of a <g<i>ven> <i>nterval  a,b  <and>  
+
+
+DocID: CACM-1957
+
+the <l<i>st> set generator <i>s def<i>ned <and> algor<i>thms  
+a c<on>struct wh<i>ch <may> <be> added to a <l<i>st> process<i>ng system or any  
+eff<i>c<i>ency der<i>ves from evaluat<i>ng the express<i><on> <as> a whole <and>  
+
+
+DocID: CACM-2060
+
+funct<i><on>s <and> la<be>ls are perm<i>ss<i>ble  results of funct<i><on>s <and> values  
+<be>tween some reference <and> <i>ts value,   3  <all> compound data  
+<may> <be> <i>mpl<i>c<i>t; <i>.e. <i>t <may> <be> spec<i>f<i>ed by g<i>v<i>ng an arb<i>trary  
+
+
+DocID: CACM-2232
+
+<i>t to the pattern boundary rad<i>us vector, <and> descr<i>pt<i><on>s  
+<may> <be> obta<i>ned; the focus <i>s <on> the theoret<i>cal  
+<i>s to clar<i>fy <how> the word descr<i>pt<i><on> can <be> made  
+
+
+DocID: CACM-1456
+
+<and> act<i>ve or p<as>s<i>ve act<i><on>s are used <as> def<i>n<i>t<i><on>al  
+<and> answer<i>ng s<i>mple engl<i>sh quest<i><on>s are <g<i>ven>.  an  
+def<i>n<i>t<i><on>al mater<i>al, <and> references to  
+
+
+DocID: CACM-2177
+
+<on> n nodes <i>ncre<as>es <as> n^g where g depends <on> the type  
+ordered <l<i>st> of edges or  <i><i>  <as> a packed adjacency  
+graph.  the graph <may> <be> represented e<i>ther  <i>  <as> an  
+
+
+DocID: CACM-1847
+
+of speed <i>t <i>s s<i>m<i>lar to that of welch <and> super<i>or  
+pushdown <l<i>st> <and> exam<i>ne <i>t, <i>.e. <i>nspect <all> those  
+algor<i>thm to <be> remarkably eff<i>c<i>ent  g=2  <on> r<and>om graphs.  
+
+
+DocID: CACM-2002
+
+elements <may> <be> comb<i>ned <i>nto a system b<as>ed <on> s<i>mple modules <i>s dem<on>strated.  
+comm<on> to <all> types of data plots are outl<i>ned <and> the way <i>n wh<i>ch these  
+b<as><i>c syntax of amesplot <i>s outl<i>ned, <and> a br<i>ef descr<i>pt<i><on> <i>s <g<i>ven>  
+
+
+DocID: CACM-1307
+
+a programm<i>ng language, <i>t <i>s essent<i>al that he <be> a<i>ded  
+makes these restr<i>ct<i><on>s seem qu<i>te natural <and> unc<on>stra<i>n<i>ng.  
+or remem<be>r the grammar.  the program restr<i>cts  
+
+
+DocID: CACM-2622
+
+<all> relevant code <and> data b<as>es, <may> <be> known  
+the user.  the <i>ntruder <may> know <all> about h <and>  
+would <be> exceed<i>ngly d<i>ff<i>cult, <and> <i>t <i>s then  
+
+
+DocID: CACM-2484
+
+des<i>gners <as> useful des<i>gn c<on>cepts, <and> <may> serve <as>  
+can <be> represented by a tree or graph, <i>t <i>s qu<i>te  
+<and> formulat<i>ng algor<i>thms under a <g<i>ven> set of c<on>stra<i>nts.  
+
+
+DocID: CACM-1046
+
+of the<i>r system. <i>t exp<and>s <on> some po<i>nts that the or<i>g<i>nal  
+authors cover br<i>efly, <and> treats <on>ly very  
+a very <i>nterest<i>ng programm<i>ng system that <they>  
+
+
+DocID: CACM-2184
+
+<i>t <i>s found that a c<on>text can <be> v<i>ewed <as> an abstract<i><on>  
+the express<i><on> lambda name <l<i>st>  express<i><on>  value <l<i>st> ,  
+express<i><on> mu name <l<i>st>  value <l<i>st>  express<i><on> .  
+
+
+DocID: CACM-1853
+
+<l<i>st> representat<i><on>, <l<i>st>, compact <l<i>st>, garbage  
+<and> rearranges <all> of <l<i>st> storage us<i>ng temporary storage.  
+attempts to make <all> <l<i>st>s compact; <i>t relocates  
+
+
+DocID: CACM-2358
+
+<and> carr<i>es <i>ts own <i>ndependent attr<i>butes of s<i>ze <and> access  
+<i>s rather l<i>m<i>ted, <i>t <i>s then s<how>n <how> the mult<i>cs  
+cacm <may>, 1972  
+
+
+DocID: CACM-3142
+
+what type of errors occur?  <how> e<as><i>ly are <they> corrected?  what  
+to correct errors often turned out to <be> d<i>ff<i>cult <and> not always  
+end targets of a computer<i>zed process <i>s <as>sessed.  <how> many <and>  
+
+
+DocID: CACM-2723
+
+<l<i>st> cells wh<i>le another processor <may> <be>  
+attent<i><on> <i>s <g<i>ven> to the problems of mark<i>ng <and> relocat<i>ng  
+collect<i><on> <and> for st<and>ard <l<i>st> process<i>ng pr<i>m<i>t<i>ves  
+
+
+DocID: CACM-1614
+
+def<i>n<i>t<i><on>s <may> occur <i>n any block head<i>ng <and> term<i>nate  
+are <g<i>ven> for real <and> complex matr<i>ces,  
+complex num<be>rs, f<i>le process<i>ng, <and> <l<i>st> man<i>pulat<i><on>.  
+
+
+DocID: CACM-2390
+
+<and> the role requ<i>red of readers, wr<i>ters, <and>  
+th<i>s paper descr<i><be>s <how> the system can <be> organ<i>zed  
+that a tree of <all> mathemat<i>cal results <and>  
+
+
+DocID: CACM-2470
+
+<and> a techn<i>que <i>s presented by wh<i>ch <they> can <be> <i>ntroduced  
+<i>t <i>s descr<i><be>d <how> the local env<i>r<on>ment can <be> modeled  
+<as> a data <i>tem <and> <how> <i>mperat<i>ve statements  
+
+
+DocID: CACM-1861
+
+<as> <i>f <they> were predef<i>ned.  <i>nformat<i><on> <i>s <g<i>ven> <on>  
+<how> <on>e wr<i>tes def<i>n<i>t<i><on>s, <as> well <as> <on> much of  
+
+
+DocID: CACM-1588
+
+operate <on> s<i>mple <and> complex data <l<i>st> organ<i>zat<i><on>s.  
+of pl/<i>.  the b<as><i>c c<on>cepts of <l<i>st> process<i>ng <and>  
+pl/<i> <l<i>st> process<i>ng  
+
+
+DocID: CACM-2766
+
+<g<i>ven> here <i>s that the copy must <be> placed <i>nto a c<on>t<i>guous  
+<l<i>st> structures <i>s <g<i>ven>.  th<i>s algor<i>thm  
+cacm <may>, 1975  
+
+
+DocID: CACM-0616
+
+des<i>gners <and> <i>mplementors, <and> <all> those  
+by profess<i><on>al programmers <and> systems analysts; <and>  c   
+s<i>m<i>lar l<i>nes.  quest<i><on>s <and> comments w<i>ll <be> welcomed,  
+
+
+DocID: CACM-3106
+
+<i>n l<i>near t<i>me.  <i>t <i>s s<how>n to <be> s<i>gn<i>f<i>cantly f<as>ter  
+cacm <may>, 1978  
+a f<as>t algor<i>thm for copy<i>ng <l<i>st> structures  
+
+
+DocID: CACM-3054
+
+<be>st var<i>ants <on> real computers, <i>nclud<i>ng <how> to apply  
+of <how> to <i>mplement <i>t <i>n <as>sembly language.  analyt<i>c  
+qu<i>cksort's w<i>de appl<i>cab<i>l<i>ty <as> an <i>nternal sort<i>ng  
+
+
+DocID: CACM-1608
+
+that depend <on> f<i>tt<i>ng a polynom<i>al, usu<all>y w<i>ll <be>  
+formul<as> are <g<i>ven> that are e<as>y to use <on> an  
+automat<i>c computer.  <i>t <i>s s<how>n that <they> can <be> used  
+
+
+DocID: CACM-3031
+
+<i>s <g<i>ven> wh<i>ch s<how>s <how> to employ algebra<i>c ax<i>oms at  
+thrust of the paper <i>s twofold.  f<i>rst, <i>t <i>s s<how>n <how>  
+abstract data types <and> software val<i>dat<i><on>  
+
+
+DocID: CACM-0321
+
+to <be> wr<i>tten, <as> we w<i>ll see later, <and> here<i>n  
+algol <and> to wr<i>te algor<i>thms <i>n <i>t.  the language  
+to wr<i>te <as>s<i>gnment <and> go to <and> for statements,  
+
+
+DocID: CACM-2931
+
+<and> proofs, wh<i>ch are clean <and> w<i>thout undue dependence  
+<and> <how> <they> are to <be> transformed  the dynam<i>cs .  
+to <be> d<on>e <i>n s<how><i>ng <how> abstract c<on>ceptual<i>zat<i><on>s  
+
+
+DocID: CACM-2845
+
+s<i>ze <i> =s<i>ze <i>-1 +s<i>ze <i>-k <i>   where k <may> <be>  
+w<i>th phys<i>cal storage blocks, such <as> tracks <and> cyl<i>nders.  
+any mean<i>ngful <i>ntegral-valued funct<i><on>.  th<i>s makes <i>t  
+
+
+DocID: CACM-2865
+
+cacm <may>, 1976  
+propert<i>es <as> mutual exclus<i><on>, freedom from deadlock,  
+<and> program term<i>nat<i><on>.  techn<i>ques for ver<i>fy<i>ng  
+
+
+DocID: CACM-2354
+
+quadrature scheme w<as> descr<i><be>d <and> <how> each quadrature  
+transform <and> <all> three problems overcome.  the mod<i>f<i>cat<i><on>  
+cacm <may>, 1972  
+
+
+DocID: CACM-3052
+
+<as> a funct<i><on> of capac<i>ty <and> me<as>urement  
+by t<as>k sw<i>tches.  <i>t <i>s s<how>n <how> to obta<i>n, under s<i>mple  
+from cold-start m<i>ss rat<i>o values <and> <how> to obta<i>n  
+
+
+DocID: CACM-0677
+
+<and> descend<i>ng str<i>ngs alternately  tend to <be>  
+<on>ly three-fourths <as> l<on>g <as> those <i>n a method wh<i>ch produces  
+deta<i>led stat<i>st<i>cs are <g<i>ven> <on> the length  
+
+
+DocID: CACM-2927
+
+<i>nvolv<i>ng space-t<i>me <and> add<i>t<i>ve-mult<i>pl<i>cat<i>ve  
+num<be>r theory, l<i>nked <l<i>st>, preprocess<i>ng,  
+complex<i>ty of f<i>nd<i>ng <all> the pr<i>mes less than  
+
+
+DocID: CACM-1890
+
+<i>t makes <i>t poss<i>ble to trace the dynam<i>c <be>hav<i>or  
+several ten-meter lengths <and> <i>s represented by  
+cars <i>n the block, <and> th<i>s speed-versus-dens<i>ty  
+
+
+DocID: CACM-2036
+
+w<i>ll <be> <i>nvoked <as> <i>f <they> had <be>en typed at a c<on>sole keyboard.  <i>t <i>s  
+<and> necessary <i>nformat<i><on> pert<i>nent to <i>mplementat<i><on> of the fac<i>l<i>ty <on>  
+ex<i>st<i>ng t<i>me-shar<i>ng systems <i>s <g<i>ven>.  
+
+
+DocID: CACM-1976
+
+<be> used for many comb<i>nat<i><on>s of values <and> a comb<i>nat<i><on> of  
+buckets <may> <be> requ<i>red for a <g<i>ven> query.  the method wh<i>ch, <i>n <i>ts  
+through the use of redundancy <and> stor<i>ng  
+
+
+DocID: CACM-3144
+
+e<i>ther <be> <i>nterpreted  <i>.e. nested <i>nterpreters  or run d<i>rectly <on>  
+<and> <how> these d<i>ffer from procedures, <and> exh<i>b<i>ts l<i>nks  
+cacm <may>, 1979  
+
+
+DocID: CACM-2179
+
+<and> s<i>mple precedence grammars <as> proper subsets.  
+knuth; <they> have <be>en <i>mplemented <and> by d<i>rect  
+compar<i>s<on> proved to <be> super<i>or to precedence techn<i>ques,  
+
+
+DocID: CACM-3112
+
+<l<i>st> process<i>ng <i>n real t<i>me <on> a ser<i>al computer  
+real-t<i>me, compact<i>ng,garbage collect<i><on>, <l<i>st> process<i>ng,  
+cl<as>s<i>cal proport<i><on>s by compact <l<i>st> representat<i><on>.  
+
+
+DocID: CACM-2456
+
+<on> the capab<i>l<i>t<i>es of wh<i>le, repeat, <and> ex<i>t statements  
+<i>t <i>s also s<how>n that <i>f,wh<i>le, <and> repeat statements  
+<and> <on>ly <i>f <i>t can <be> wr<i>tten w<i>th <i>f, repeat,  
+
+
+DocID: CACM-2838
+
+power <as> regular garbage collectors, <i>f <they> are  
+garbage collect<i><on>, storage r<ecl>amat<i><on>, <l<i>st>  
+processor <i>n par<all>el w<i>th <l<i>st> process<i>ng operat<i><on>s,  
+
+
+DocID: CACM-3202
+
+notat<i><on> <and> stored <i>n the computer <as> a str<i>ng of bcd characters w<i>th <all>  
+<and> obta<i>n<i>ng analyt<i>c der<i>vat<i>ves w<as> translated <i>nto that of <i>dent<i>fy<i>ng <and>  
+blanks removed. <i>t <may> <be> <as> compl<i>cated <as> des<i>red  parentheses nested w<i>thout  
+
+
+DocID: CACM-2905
+
+set <i> the sm<all>est table <i>n wh<i>ch the elements of <i>  
+can <be> stored <and> from wh<i>ch <they> can <be> retr<i>eved  
+<i>s c<on>s<i>dered.  <g<i>ven> a set <i> of <i>dent<i>f<i>ers, two methods  
+
+
+DocID: CACM-2855
+
+or<i>g<i>nal <l<i>st> <i>s destroyed <as> <i>t <i>s moved.  no mark  
+<l<i>st> mov<i>ng, <l<i>st> copy<i>ng, l<i>sp, space complex<i>ty, c<on>stant workspace  
+to hold the or<i>g<i>nal <l<i>st> <and> the copy.  the  
+
+
+DocID: CACM-2712
+
+also s<how>n <how> mean queue s<i>ze <and> throughput an <be> obta<i>ned  
+of horner's rule for polynom<i>als.  <i>t <i>s  
+algor<i>thm <i>s <g<i>ven> wh<i>ch does not s<how> a comb<i>nator<i>al  
+
+
+DocID: CACM-2786
+
+<and> to use by people  for example, secretar<i>es <and>  
+can <be> learned <i>n an hour or so, for <i>t h<as> few rules  
+the s<i>ze <and> f<on>t changes, pos<i>t<i><on><i>ng, l<i>ne draw<i>ng, <and>  
+
+
+DocID: CACM-1911
+
+<i>t <i>s proposed that certa<i>n mach<i>nery <be>  
+of subtrees <on> wh<i>ch <they> are to <be> performed.  a solut<i><on>  
+<on> coord<i>nat<i><on> reduct<i><on> <and> sentence analys<i>s  
+
+
+DocID: CACM-3069
+
+<i>t h<as> <be>en <i>mplemented <and> <i>s pract<i>cal  
+<on> the procedure, <and> <all> of <i>ts subc<all>s.  the  
+<i>s un<i>que <i>n that <i>t can compute <all> of th<i>s  
+
+
+DocID: CACM-0973
+
+<be> v<i>ewed <as> a n<on>l<i>near mult<i>po<i>nt boundary  
+<g<i>ven>.  
+<and> h<i>gh-speed d<i>g<i>tal computers, <i>s  
+
+
+DocID: CACM-1665
+
+analyze the language <and> detect errors, <and>  
+these processors <may> <be> descr<i><be>d <as> general<i>zed dec<i>s<i><on>-mak<i>ng  
+<as> f<as>t <as> h<and>-coded processors, wh<i>ch would  
+
+
+DocID: CACM-1931
+
+hansen <and> r. r. sm<i>th, have s<how>n <how> <i>nterval  
+<and> runn<i>ng t<i>mes that can <be> expected when us<i>ng  
+ar<i>thmet<i>c  <i>.  can <be> used effect<i>vely to bound errors  
+
+
+DocID: CACM-2178
+
+<i>s placed both <on> gr<as>pe <i>tself <and> <on> <i>ts method of  
+these structures.  gr<as>pe <may> <be> most e<as><i>ly <i>mplemented  
+an <i>mplementat<i><on> of gr<as>pe em<be>dded <i>n l<i>sp <i>s <g<i>ven> <as>  
+
+
+DocID: CACM-1135
+
+<i>t rel<i>es exclus<i>vely <on> n<on>procedural  
+a structure, b<as>ed <on> <i>dent<i>fy<i>ng <and> <i>ncorporat<i>ng  
+language des<i>gn ph<i>losoph<i>es.  <i>t stresses  
+
+
+DocID: CACM-2194
+
+<as> many of the addresses short <as> poss<i>ble.  th<i>s  
+th<i>s type can <be> formulated <as> cover<i>ng problems  
+cacm <may>, 1971  
+
+
+DocID: CACM-0527
+
+the descr<i>pt<i><on> <l<i>st> of c<on>cepts  
+w<i>th the descr<i>pt<i><on> <l<i>st> structure d<i>scussed  
+whose mem<be>rs can <be> d<i>st<i>ngu<i>shed by process<i>ng  
+
+
+DocID: CACM-2106
+
+<be> comm<i>tted to the equ<i>pment prov<i>ded by any manufacturer;  6  <be> able to  
+such <as> pag<i>ng <and> pr<i>or<i>ty <i>nterrupt systems can <be>st <be> expla<i>ned at the  
+should fulf<i>ll several cr<i>ter<i>a.  <i>t should:  1  ra<i>se <as> few  
+
+
+DocID: CACM-2970
+
+cacm <may>, 1977  
+<as> the regenerat<i>ve state reduces the chance of  
+the regenerat<i>ve property <all>ows results to <be> obta<i>ned  
+
+
+DocID: CACM-1264
+
+jobs <may> <be> batched, so that card h<and>l<i>ng <and> lost  
+or of execut<i>ng programs <may> <be> <i>n e<i>ther engl<i>sh  
+cacm <may>, 1965  
+
+
+DocID: CACM-2542
+
+a software des<i>gn <and> evaluat<i><on> system  
+w<i>th des<i>gn <and> <i>mplementat<i><on> <i>s descr<i><be>d.  
+<i>nformat<i><on> obta<i>ned from these rout<i>nes <as>  
+
+
+DocID: CACM-1265
+
+a <g<i>ven> c<on>text-free grammar have <be>en c<on>s<i>dered, <and>  
+programm<i>ng languages such <as> l<i>sp <and> algol h<as> <be>en  
+cacm <may>, 1965  
+
+
+DocID: CACM-2666
+
+<i>s <g<i>ven>, for wh<i>ch the n<on>d<i>screte solut<i><on> can <be>  
+seft<on>, <i>. m.  
+problem. although the d<i>screte problem <may>  
+
+
+DocID: CACM-1350
+
+<as> <i>s generated by g <and> whose rules are <all>  
+<i>t h<as> <be>en proven by gre<i>bach that for a <g<i>ven>  
+y <i>  are <i>ntermed<i>ate symbols <and> c a term<i>nal  
+
+
+DocID: CACM-2986
+
+un<i><on>, <and> <i>nverse, can <be> computed eff<i>c<i>ently.  
+<i>s s<how>n, <as> well <as> <how> to compute l<i>near precedence  
+relat<i><on>s <i>n o n^2  steps <i>s s<how>n, <as> well <as> <how> to  
+
+
+DocID: CACM-0731
+
+a <l<i>st> process<i>ng system <i>n wh<i>ch each <l<i>st>  
+<as> well <as> a datum <i>s descr<i><be>d.  th<i>s system <i>s <i>ntended  
+symmetr<i>c <l<i>st> processor  
+
+
+DocID: CACM-1824
+
+the var<i>ous p<i>eces  at <all> levels  of the parse.  <i>t  
+of parse-requests <as> a subrout<i>ne, <and> parse-t<i>me  
+<i>n spec<i>al purpose languages such <as> snobol4 <and>  
+
+
+DocID: CACM-1470
+
+a "name", <and>  3  by referr<i>ng to <i>t <i>mpl<i>c<i>tly by means  
+to ach<i>eve the des<i>red effect.  subrout<i>nes <may> <be> entered  
+programs, organ<i>z<i>ng systems, <and> referenc<i>ng  
+
+
+DocID: CACM-1072
+
+cacm <may>, 1964  
+of equ<i>valence, d<i>mens<i><on> <and> comm<on> d<ecl>arat<i><on>s  
+an algor<i>thm for <as>s<i>gn<i>ng storage <on> the b<as><i>s  
+
+
+DocID: CACM-2406
+
+<as> <i>n advanced data management systems <and> d<i>str<i>buted  
+apparent.  such languages w<i>ll <be> a key systems, <as> well  
+a data def<i>n<i>t<i><on> <and> mapp<i>ng language  
+
+
+DocID: CACM-3057
+
+t <i>  such that <i>f <i> > j, then t <i>  > t j .  the object<i>ve  
+of a <g<i>ven> gray level <i> to another gray level  
+transformat<i><on>, wh<i>ch always <as>s<i>gns <all> p<i>cture po<i>nts  
+
+
+DocID: CACM-2756
+
+<and> comput<i>ng, med<i>c<i>ne <and> health care  
+cacm <may>, 1975  
+w<as>serman, a. <i>.  
+
+
+DocID: CACM-2342
+
+processes <as> well <as> to software processes, <and>  
+d<i>jkstra, knuth, <and> others.  solut<i><on>s have <be>en <g<i>ven>  
+<and> the <as>soc<i>ated subproblems are formulated  
+
+
+DocID: CACM-2700
+
+can <be> relaxed <and> st<i>ll preserve propert<i>es such <as>  
+<g<i>ven> property <i>t <i>s often c<on>ven<i>ent to <as>sume  
+system can often <be> greatly s<i>mpl<i>f<i>ed.  
+
+
+DocID: CACM-2499
+
+<and> account<i>ng are appl<i>ed to th<i>s quest<i><on>, <and> some  
+appl<i>cat<i><on>s of th<i>s pr<i>nc<i>ple are <g<i>ven>, <and> <i>t  
+resources.  s<i>nce we<i>ght<i>ngs <may> depend <on> <all>ocat<i><on>  
+
+
+DocID: CACM-2305
+
+<i>s of h<i>stor<i>cal <i>nterest; also, <i>t <may> prov<i>de  
+to rec<on>struct <i>t from the publ<i>shed l<i>terature.  
+here <be>cause <i>t c<on>ta<i>ns features that are st<and>ard  
+
+
+DocID: CACM-2841
+
+<and> <they> are des<i>gned w<i>th the a<i>d of a three-d<i>mens<i><on>al  
+l<i>ne draw<i>ngs <on> a head-mounted d<i>splay,  
+<as> parametr<i>c b<as><i>s spl<i>nes. the pr<i>nc<i>pal features  
+
+
+DocID: CACM-0865
+
+wr<i>t<i>ng <and> process<i>ng can <be> accompl<i>shed  
+<i>nternal sort .  <i>t <i>s s<how>n that <g<i>ven> n records  
+cacm <may>, 1963  
+
+
+DocID: CACM-3188
+
+<i> have b<as>ed my paper <on> sem<i>ot<i>cs <and> <i>ts three d<i>mens<i><on>. <i> should <i>nsert  
+at th<i>s po<i>nt that language h<as> many <as>pects <and> that pragmat<i>cs, semant<i>cs <and>  
+<as>pects <i>nto the three sem<i>ot<i>c d<i>mens<i><on> <and> there seems to <be> a str<on>g  
+
+
+DocID: CACM-1459
+
+<and> the env<i>r<on>ment <i>n wh<i>ch <they> <may> <be> comp<i>led.  <i>t  
+<may> not <be> the language extens<i><on>s that ult<i>mately  
+advance developments <i>n the f<i>eld.  progress <may> <be> made  
+
+
+DocID: CACM-1035
+
+<on> the complex<i>ty of the <l<i>st> of quant<i>t<i>es  
+of <i>nput/output equ<i>pment; <and>  4  <i>t removes the restr<i>ct<i><on>s  
+<i>t makes <i>t poss<i>ble to address a greater num<be>r  
+
+
+DocID: CACM-1874
+
+<and> relat<i><on>sh<i>ps establ<i>shed am<on>g them.  <i>t <i>s s<how>n  
+<may> <be> produced more s<i>mply <and> ec<on>om<i>c<all>y than w<i>th  
+are <g<i>ven> <and> related to prev<i>ously establ<i>shed  
+
+
+DocID: CACM-2646
+
+algor<i>thm <and> several var<i>at<i><on>s are <g<i>ven>.  
+or drum.  <i>t d<i>scusses the ant<i>c<i>patory <i>nput <and> output  
+latency <may> <be> m<as>ked us<i>ng a sm<all> amount of buffer  
+
+
+DocID: CACM-1465
+
+<and> rel<i>ab<i>l<i>ty; empty opt<i><on>s <and> default c<on>vent<i><on>s  
+of a comp<i>ler <be> <i>ncre<as>ed by <all> means  
+<be> b<as>ed <on> f<i>xed c<on>vent<i><on>s to preserve eff<i>c<i>ency  
+
+
+DocID: CACM-2051
+
+<as> well <as> the l<i>m<i>tat<i><on>s, of the programs, <and> <i>llustrates <i>ts  
+<and> uses <l<i>st> process<i>ng techn<i>ques to sort <and> count them.  
+<i>n that pa<i>r of words.  the output <i>s a <l<i>st> of <all> corresp<on>dence  
+
+
+DocID: CACM-2919
+
+funct<i><on> w<i>ll <be> d<on>e <on> the same mach<i>ne <on> wh<i>ch the  
+an approach <may> prove <be>nef<i>c<i>al, <and> descr<i><be>  
+<on> almost <all> software development projects the  
+
+
+DocID: CACM-2145
+
+<i>cs <i>n dual-<i>n-l<i>ne packages <as> well <as> d<i>screte  
+comp<on>ents such <as> trans<i>stors <and> res<i>stors have <be>en  
+than log<i>cal des<i>gn.  <i>t can <be> used to des<i>gn  
+
+
+DocID: CACM-2968
+
+<and> extens<i><on>s , we<i>ght-balance  <i>.e. bb <and> wb ,  
+trees <and> the overhead spent <on> bu<i>ld<i>ng them are  
+analyzed, <and> some gu<i>del<i>nes are <g<i>ven> for an eff<i>c<i>ent  
+
+
+DocID: CACM-2229
+
+ser<i>es, such <as> po<i>ss<on> ser<i>es or chebyshev ser<i>es.  <i>t  
+<all> rat<i><on>al  pos<i>t<i>ve <and> negat<i>ve  powers  
+<and> <i>t <i>s s<how>n <how> the c<on>vergence propert<i>es of  
+
+
+DocID: CACM-1154
+
+can <be> created by adjo<i>n<i>ng <on> <i>nf<i>n<i>te-state memory  
+from <all> three cl<as>ses <and> the<i>r propert<i>es are d<i>scussed.  
+mult<i>-tape <and> <i>nf<i>n<i>te-state automata -- a survey  
+
+
+DocID: CACM-2501
+
+<all> k<i>nds of text, such <as> computer programs,  
+remote job entry <and> retr<i>eval <as> well <as> fac<i>l<i>t<i>es  
+<as> well <as> <i>ts <i>nternal structure.  a short descr<i>pt<i><on>  
+
+
+DocID: CACM-3105
+
+cacm <may>, 1978  
+paper s<how>s <how> to extend programm<i>ng languages  
+express<i><on> of access c<on>stra<i>nts <on> shared data.  
+
+
+DocID: CACM-2378
+
+act<i>ve processes <and> manages memory, h<and>le errors, <and>  
+programs <may> <be> v<i>ewed <as> a software <i>mplemented "superv<i>sory  
+dev<i>ces-the f<i>le <and> d<i>rectory system-schedules  
+
+
+DocID: CACM-2314
+
+system v<i>ew <i>t taken, rather than focus<i>ng just <on> language  
+<l<i>st> process<i>ng systems should <be> des<i>gned to  
+eff<i>c<i>ent, <and> run <on> data.  <be>cause of th<i>s general  
+

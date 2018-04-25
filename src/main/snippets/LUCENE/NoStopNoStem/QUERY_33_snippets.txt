@@ -1,0 +1,717 @@
+LUCENE_NoStopNoStem
+
+Query
+Articles about the sensitivity of the eigenvalue decomposition of real
+matrices, in particular, zero-one matrices.  I'm especially interested in
+the separation of eigenspaces corresponding to distinct eigenvalues.
+Articles on the subject:
+C. Davis and W. Kahn, "The rotation of eigenvectors by a permutation:,
+SIAM J. Numerical Analysis, vol. 7, no. 1 (1970); G. Stewart, "Error
+bounds for approximate invariant subspaces of closed linear operators",
+SIAM J. Numerical Analysis., Vol. 8, no. 4 (1971).
+
+Davis, C.
+Kahn, W.
+Stewart, G.
+
+Top 100 Results (18 millisecs)
+
+
+DocID: CACM-2284
+
+l<<in>>e<a>r <a>l<<g>>ebr<a>, <<m<a>tri<<c>>es>>, l<<in>>e<a>r equ<a>ti<on>s  
+ste<<w>><a>rt, <<g>>. <<w>>.  
+soluti<on> <<<<<of>>>>> <<<<<the>>>>> m<a>trix equ<a>ti<on> <a>x+xb=<<c>> [f<4>]  <a>l<<g>>orithm <a><4>32   
+
+
+DocID: CACM-2695
+
+<<<<<of>>>>> <<c>>omp<a>ris<on>s, <<<<<the>>>>> number <<<<<of>>>>> <a>ssi<<g>>nments, <<a>nd> <<<<<the>>>>> number  
+<<in>> numeri<<c>><a>l l<<in>>e<a>r <a>l<<g>>ebr<a>. <<c>><on>sider <<<<<the>>>>> <<c>>l<a>ss <<<<<of>>>>> sp<a>rse  
+<on>ly ro<<w>> <<a>nd> <<c>>orresp<on>d<<in>><<g>> <<c>>olumn permut<a>ti<on>s.  <<<<<the>>>>>  
+
+
+DocID: CACM-2047
+
+<ei<<g>>env<a>lue>s, <<w>>hile <<<<<the>>>>> <im>pli<<c>>it method <<c>><a>n effe<<c>>tively loose <<<<<the>>>>> shift <<a>nd>  
+be <a><<c>><<c>>eler<a>ted <by> <<in>><<c>>orpor<a>t<<in>><<g>> <a> sequen<<c>>e <<<<<of>>>>> ori<<g>><<in>> shifts.  <<<<<the>>>>> ori<<g>><<in>> shift  
+<<<<<the>>>>> qr iter<a>ti<on> <for> <<<<<the>>>>> <ei<<g>>env<a>lue>s <<<<<of>>>>> <a> symmetri<<c>> tridi<a><<g>><on><a>l m<a>trix <<c>><a>n  
+
+
+DocID: CACM-2697
+
+<a> f<a>st method <for> solv<<in>><<g>> <a> <<c>>l<a>ss <<<<<of>>>>> tridi<a><<g>><on><a>l l<<in>>e<a>r systems  
+<a>re <1>, <<<<<the>>>>>n <on>ly <4>n+2k-3 oper<a>ti<on>s <a>re needed.  <<<<<the>>>>>  
+<re<a>l> <a>rithmeti<<c>>.  this f<a><<c>>t is exploited <to> redu<<c>>e  
+
+
+DocID: CACM-3016
+
+<to> yield <<<<<the>>>>> <<c>>orre<<c>>t results.  f<<in>><a>lly, <a> me<a>ns <<<<<of>>>>> est<im><a>t<<in>><<g>>  
+ve<<c>><to>rs <<<<<of>>>>> m<a>rkovi<a>n models.  <a>n ex<a>mple <<<<<of>>>>> <a> ne<a>rly  
+<<<<<the>>>>> <error> <<in>>herent <<in>> <<<<<the>>>>> <de<<c>>ompositi<on>>  
+
+
+DocID: CACM-1954
+
+<ei<<g>>env<a>lue>s <<a>nd> ei<<g>>enve<<c>><to>rs <<<<<of>>>>> <a> <re<a>l>  
+<re<a>l> symmetri<<c>> m<a>trix, <ei<<g>>env<a>lue>s, ei<<g>>enve<<c>><to>rs, qr <a>l<<g>>orithm  
+ste<<w>><a>rt, <<g>>. <<w>>.  
+
+
+DocID: CACM-2043
+
+<ei<<g>>env<a>lue>s <<a>nd> ei<<g>>enve<<c>><to>rs <<<<<of>>>>> <a> <re<a>l>  
+<re<a>l> symmetri<<c>> m<a>trix, <ei<<g>>env<a>lue>s, ei<<g>>enve<<c>><to>rs, qr <a>l<<g>>orithm  
+ste<<w>><a>rt, <<g>>. <<w>>.  
+
+
+DocID: CACM-1423
+
+<<<<<of>>>>> <<<<<the>>>>> <<c>><on><<c>>ept <<<<<of>>>>> <a>n <<in>>verse <<w>>hi<<c>>h <a>pplies <to> <a>ll <<m<a>tri<<c>>es>>.  
+<a> s<im>ple <a>l<<g>>orithm <for> <<c>>omput<<in>><<g>> <<<<<the>>>>> <<g>>ener<a>lized <<in>>verse <<<<<of>>>>> <a> m<a>trix  
+<a>n<a>lysis, but it is <<no>>t <<w>>idely used be<<c>><a>use <<<<<the>>>>> exist<<in>><<g>>  
+
+
+DocID: CACM-2554
+
+<<<<<of>>>>> <<c>> is <<<<<of>>>>> <<<<<the>>>>> s<a>me order <a>s <<<<<the>>>>> sum <<<<<of>>>>> <<<<<the>>>>> <error>s <a>t  
+<<m<a>tri<<c>>es>> <<w>>ith b positive def<<in>>ite.  if n is <<<<<the>>>>>  
+<a> <<a>nd> b <a>re p<a>rtiti<on>ed <<in>><to> m-<by>-m blo<<c>>ks; <<a>nd>  
+
+
+DocID: CACM-1809
+
+<to> m<a><<<<<the>>>>>m<a>ti<<c>><a>l problems.  mu<<c>>h <<<<<of>>>>> <<<<<the>>>>> emph<a>sis is <on> s<<c>>ientifi<<c>>  
+<<in>> su<<c>>h <a> bro<a>d <a>re<a> <<c>>enter <a>round <<<<<the>>>>> questi<on> <<<<<of>>>>> b<a><<c>>k<<g>>round  
+numeri<<c>><a>l <a>n<a>lysis is <<<<<the>>>>> study <<<<<of>>>>> methods <<a>nd>  
+
+
+DocID: CACM-1692
+
+<<<<<the>>>>> numeri<<c>><a>l soluti<on> <<<<<of>>>>> <a> system <<<<<of>>>>> l<<in>>e<a>r  
+is <a>n<a>lyzed <<a>nd> sho<<w>>n <to> be <<c>><a>used <by> <on>e <<<<<of>>>>> <<<<<the>>>>> bound<a>ry  
+<<c>><on>diti<on>s. <<<<<the>>>>> diffi<<c>>ulty m<a>y be removed <by>  
+
+
+DocID: CACM-2226
+
+summ<a>rized <by> <<g>>ue et <a>l, <<w>>ith t<<w>>o <a>l<<g>>orithms <for> <<<<<the>>>>>  
+<zero-<on>e> l<<in>>e<a>r pro<<g>>r<a>mm<<in>><<g>> problem.  <a>n <error> <<in>>  
+<<<<<the>>>>> purpose <<<<<of>>>>> this <<no>>te is <to> report <<c>>omput<a>ti<on><a>l  
+
+
+DocID: CACM-1147
+
+<<<<<of>>>>> <a>pply<<in>><<g>> <<<<<the>>>>> method <to> <a> spe<<c>>ifi<<c>> problem.  <<in>>  
+<a> numeri<<c>><a>l method is presented <for> <<<<<the>>>>> soluti<on>  
+<<<<<of>>>>> bound<a>ry v<a>lue problems <<in>><<vol>>v<<in>><<g>> l<<in>>e<a>r  
+
+
+DocID: CACM-2887
+
+<a> study <<<<<of>>>>> <error>s, <error>-pr<on>eness, <<a>nd> <error> di<a><<g>><<no>>sis <<in>> <<c>>obol  
+<<c>>l<a>ssified <<in>> <1>,<4>000 runs <<<<<of>>>>> <7>3 <<c>>obol students.  <error>  
+<<in>> <<<<<the>>>>> four <error> <<c>><a>te<<g>>ories <<<<<of>>>>> previous  
+
+
+DocID: CACM-0441
+
+is dis<<c>>ussed <<in>> terms <<<<<of>>>>> <<<<<the>>>>> <7>090.  <a> pert net<<w>>ork <<<<<of>>>>>  
+<<a>nd> <a>nti<<c>>ip<a>ted needs <a>re <<c>>ompletely served <by> <<<<<the>>>>>  
+<a>n ex<a>mple <<<<<of>>>>> <on>e su<<c>>h problem is pert.  <<<<<the>>>>> present  
+
+
+DocID: CACM-2807
+
+<a>re unfounded, <<a>nd> <<in>> <<g>>ener<a>l <<<<<the>>>>> <a>bsolute <error> <<in>> <<<<<the>>>>> soluti<on>  
+<for> <error> <<in>> soluti<on>, bound <for> residu<a>l  
+<<<<<the>>>>> residu<a>l <<c>>orresp<on>d<<in>><<g>> <to> <<<<<the>>>>> <<g>><a>uss-<<j>>ord<a>n soluti<on>  
+
+
+DocID: CACM-2806
+
+l<<in>>e<a>r systems  is k<<no>><<w>>n; <<<<<the>>>>> o<<<<<the>>>>>r  <for> ei<<g>>en systems  seems <to> be ne<<w>>.  
+<a> dis<<c>>ussi<on> is <<g>>iven <<<<<of>>>>> t<<w>>o fun<<c>>ti<on>s <<<<<of>>>>> <<<<<the>>>>> entries  
+<to> <<no>>rm-bound "<<c>><on>diti<on> numbers."  <on>e  <for>  
+
+
+DocID: CACM-2805
+
+<<no>>t <<in>> terms <<<<<of>>>>> <<<<<the>>>>> ei<<g>>en system.  <<<<<the>>>>> <bounds> <<w>>hi<<c>>h  
+<<<<<the>>>>> problem <<c>><on>sidered is <to> <<g>>ive <bounds> <for> f<<in>>ite  
+<<<<<of>>>>> n<on><<no>>rm<a>l <<m<a>tri<<c>>es>>, <<w>>here <<<<<the>>>>>se <bounds> <a>re <<in>> terms  
+
+
+DocID: CACM-1143
+
+d<a>t<a> <<<<<of>>>>> <<<<<the>>>>> de<<c>><a>y type <by> <for>ms <<in>><<vol>>v<<in>><<g>> <<<<<the>>>>> sums <<<<<of>>>>>  
+<a> <<c>>omp<a>r<a>tive study h<a>s been m<a>de <<<<<of>>>>> <a> v<a>riety  
+<<<<<the>>>>> exper<im>ents <<a>nd> <for> <a>n<a>lyz<<in>><<g>> <<<<<the>>>>> d<a>t<a>, <<a>nd> <<<<<the>>>>>n  
+
+
+DocID: CACM-2261
+
+<a> uni<for>m <zero-<on>e> r<<a>nd>om number sour<<c>>e, is b<a>sed <on>  
+<<<<<of>>>>> turkey.  s<<in>><<c>>e it <a>pprox<im><a>tes m<a>ny <<<<<of>>>>> <<<<<the>>>>> <<c>><on>t<<in>>uous  
+<a> method <for> <<g>>ener<a>t<<in>><<g>> v<a>lues <<<<<of>>>>> <<c>><on>t<<in>>uous  
+
+
+DocID: CACM-2281
+
+<<<<<the>>>>> ei<<g>>en problem <<<<<of>>>>> blo<<c>>k tridi<a><<g>><on><a>l <<m<a>tri<<c>>es>>  
+l<<in>>e<a>r <a>l<<g>>ebr<a>, <ei<<g>>env<a>lue>s <<a>nd> ei<<g>>enve<<c>><to>rs,  
+
+
+DocID: CACM-0537
+
+<<<<<the>>>>> pro<<g>>r<a>m <<<<<of>>>>> <a> pro<<<<<of>>>>> pro<<c>>edure is dis<<c>>ussed <<in>>  
+<a> m<a><<c>>h<<in>>e pro<<g>>r<a>m <for> <<<<<the>>>>>orem-prov<<in>><<g>>  
+<d<a>vis>, m.  
+
+
+DocID: CACM-0492
+
+b<a>sis <<<<<of>>>>> <a> m<a>rkov <<c>>h<a><<in>> model.  <for> <<<<<the>>>>> re<a>der <<no>>t <<in>>terested  
+required <to> <a>ddress <a> re<<c>>ord, is <<c>>omputed <on> <<<<<the>>>>>  
+<<in>> <<<<<the>>>>> m<a><<<<<the>>>>>m<a>ti<<c>>s, <<<<<the>>>>> <<in>>trodu<<c>>ti<on> <<a>nd>  
+
+
+DocID: CACM-3153
+
+<<<<<of>>>>> pro<<c>>essor t<im>e devoted <to> e<a><<c>>h <<c>>l<a>ss.  <a>pply<<in>><<g>> <a> <de<<c>>ompositi<on>>  
+<<<<<the>>>>> possibility <<<<<of>>>>> <<g>>iv<<in>><<g>> different qu<a>lity <<<<<of>>>>> servi<<c>>e <to> <<j>>obs <<<<<of>>>>> different  
+numeri<<c>><a>l soluti<on>s <<a>nd> e<<c>><on>omi<<c>><a>l lo<<w>>er <bounds> <for> <<<<<the>>>>>  
+
+
+DocID: CACM-1135
+
+<<in>> <<<<<the>>>>> pro<<g>>r<a>m  e.<<g>>. modifi<<c>><a>ti<on> <<<<<of>>>>> <on>ly <on>e entry <<<<<of>>>>> <<<<<the>>>>>  
+<a> pro<<c>>ess  e.<<g>>. <<c>>h<a>n<<g>>es <a>ffe<<c>>t<<in>><<g>> <on>ly <on>e <<<<<of>>>>> <<<<<the>>>>> output  
+<<<<<of>>>>> flo<<w>><<c>>h<a>rts .  here <a>n <<in>>v<a>ri<a>nt p<a>ttern <<<<<of>>>>> pro<<c>>edure  
+
+
+DocID: CACM-2081
+
+<<a>nd> utilized <for> effi<<c>>ient <<c>>omput<<in>><<g>> <by> s<a>v<<in>><<g>> memory sp<a><<c>>e <<a>nd>  
+<<<<<of>>>>> <<m<a>tri<<c>>es>>  <a>re <<c>><on>sidered, <<a>nd> m<a>trix oper<a><to>rs <a>reext  
+<a> m<a>trix <<c>><a>l<<c>>ulus is <<in>>trodu<<c>>ed <<w>>ith <<<<<the>>>>> <<in>>tenti<on> <<<<<of>>>>> develop<<in>><<g>> d<a>t<a> stru<<c>>tures  
+
+
+DocID: CACM-1782
+
+<<a>nd> e<a>se <<<<<of>>>>> us<a><<g>>e.  <a> <<c>>omplete set <<<<<of>>>>> <for>mul<a>s  
+<a> numeri<<c>><a>l <<in>>te<<g>>r<a>ti<on> <for>mul<a> useful <<in>> fourier <a>n<a>lysis  
+<a>re equ<a>lly sp<a><<c>>ed <on> <a> lo<<g>> s<<c>><a>le.  su<<c>>h <a> <for>mul<a>ti<on>  
+
+
+DocID: CACM-0070
+
+<<in>> <<<<<the>>>>> determ<<in>><a>ti<on> <<<<<of>>>>> <<<<<the>>>>> <a><<c>><<c>>ur<a><<c>>y <<<<<of>>>>> rout<<in>>es <for>  
+<<c>><on>stru<<c>>ti<on> <<<<<of>>>>> <a> set <<<<<of>>>>> test <<m<a>tri<<c>>es>>  
+f<<in>>d<<in>><<g>> <<<<<the>>>>> <<in>>verse, determ<<in>><a>nt <<a>nd>/or <ei<<g>>env<a>lue>s  
+
+
+DocID: CACM-2000
+
+<<<<<the>>>>> result<<in>><<g>> method <a>pplies <<in>> <p<a>rti<<c>>ul<a>r> <to> <<<<<the>>>>> numeri<<c>><a>l soluti<on>  
+<<a>nd> <a>pplied <to> <<g>>ive <a> si<<g>>nifi<<c>><a>nt v<a>ri<a>ti<on> <<<<<of>>>>> <<<<<the>>>>> <<g>>oodm<a>n-l<a>n<<c>>e  
+<a> v<a>ri<a>ti<on> <<<<<of>>>>> <<<<<the>>>>> <<g>>oodm<a>n-l<a>n<<c>>e method <for>  
+
+
+DocID: CACM-1347
+
+<<<<<the>>>>> need <for> <<in>>dividu<a>lized pro<<g>>r<a>ms, <<a>nd> pres<a><<g>><<in>><<g>> <<<<<the>>>>>  
+<a> ne<<w>> pro<<g>>r<a>m, throu<<g>>h utiliz<a>ti<on> <<<<<of>>>>> <<<<<the>>>>> <<w>>en<<g>>ert differenti<a>ti<on>  
+p<a>rti<a>l deriv<a>tive <<m<a>tri<<c>>es>>.  this requirement h<a>s led <to>  
+
+
+DocID: CACM-2544
+
+<<<<<of>>>>> ne<<w>><to>n iter<a>tes <for> <a>n <a>n<a>lyti<<c>> fun<<c>>ti<on> <<in>>  
+<re<a>l> <<in>>terv<a>ls, <<c>>omplex <<in>>terv<a>ls, <re<a>l> <<in>>terv<a>l  
+<a>u<to>m<a>ti<<c>> <error> <bounds> <for> s<im>ple zeros <<<<<of>>>>> <a>n<a>lyti<<c>> fun<<c>>ti<on>s  
+
+
+DocID: CACM-1577
+
+<ei<<g>>env<a>lue>s <<a>nd> ei<<g>>enve<<c>><to>rs <<<<<of>>>>> <a> <re<a>l> symmetri<<c>>  
+m<a>trix <by> <<<<<the>>>>> qr method  <a>l<<g>>orithm 25<4> [f2]   
+<<w>>els<<c>>h, <<j>>. h.  
+
+
+DocID: CACM-2186
+
+<<<<<the>>>>> first <<c>><on><<c>>ern <<<<<of>>>>> <<<<<the>>>>> p<a>per is <to> des<<c>>ribe <<<<<the>>>>>  
+<<<<<of>>>>> <<<<<the>>>>> ne<<w>> te<<c>>hniques <<w>>ith <<<<<the>>>>> st<<a>nd><a>rd pro<<c>>edure <<<<<of>>>>>  
+<<<<<the>>>>> speed <<<<<of>>>>> soluti<on> <<a>nd> <<<<<the>>>>> s<to>r<a><<g>>e requirements <to>  
+
+
+DocID: CACM-2355
+
+<<c>>ost <<<<<of>>>>> this h<a>s been prohibitive.  this p<a>per is <<in>>  
+<<<<<of>>>>> <a> <<c>>os<<in>>e tr<a>ns<for>m<a>ti<on> <<a>nd> <<<<<the>>>>> <a>rithmeti<<c>>  
+t<<w>>o p<a>rts; <a> <<c>>omp<a>ni<on> p<a>per, "ii <<c>>omput<<in>><<g>> <<<<<the>>>>>  
+
+
+DocID: CACM-2929
+
+<<<<<of>>>>> <<<<<the>>>>> pro<<c>>edure body.  <<<<<the>>>>> <<g>>ener<a>l problem <<<<<of>>>>>  
+pro<<g>>r<a>m <to> be opt<im>ized.  prel<im><<in>><a>ry results <for> <<<<<the>>>>>  
+<sub<<j>>e<<c>>t> <to> size <<c>><on>str<a><<in>> ts is <for>mul<a>ted, <<a>nd> <a>n  
+
+
+DocID: CACM-3059
+
+<a>re <<in>> <a>pprox<im><a>te <<c>>pu:i/o utiliz<a>ti<on> b<a>l<a>n<<c>>e <<a>nd> <for>  
+<<a>nd> <a>pplied <to> <<<<<the>>>>> <a>n<a>lysis <<<<<of>>>>> <<<<<the>>>>>se problems.  
+pro<<c>>ess<<in>><<g>> <by> <<in>>dividu<a>l pro<<g>>r<a>ms <<in>> <a> multipro<<g>>r<a>mmed  
+
+
+DocID: CACM-2809
+
+<<<<<of>>>>> order unit <<no>>rms, l-<<no>>rms <<a>nd> m-<<no>>rms.  <a>n ex<a>mple  
+follo<<w>><<in>><<g>> some l<<in>>es <<<<<of>>>>> <<j>>o<<in>>t <<w>>ork <<w>>ith <a>.  
+s. householder, <<<<<the>>>>> <<c>>h<a>r<a><<c>>ter <<a>nd> use <<<<<of>>>>> <a>l<<g>>ebr<a>i<<c>>  
+
+
+DocID: CACM-1404
+
+<<<<<of>>>>> v<a>ri<a>n<<c>>e <<a>nd> <by> <<in>>trodu<<c>><<in>><<g>> <a> ne<<w>> oper<a><to>r.  <<<<<the>>>>>  
+bet<<w>>een <<<<<the>>>>> <a>n<a>lysis <<<<<of>>>>> <<c>>ov<a>ri<a>n<<c>>e <<a>nd> <<<<<the>>>>> <a>n<a>lysis  
+<<<<<the>>>>> <<c>>omput<a>ti<on><a>l pro<<c>>edure <for> <<<<<the>>>>> <a>n<a>lysis  
+
+
+DocID: CACM-1441
+
+<a>dv<a>nt<a><<g>>e over <<<<<the>>>>> o<<<<<the>>>>>rs <<in>> <<<<<the>>>>> <a>ppli<<c>><a>ti<on> <to> this <p<a>rti<<c>>ul<a>r> problem.  
+<<c>>omput<a>ti<on> t<im>e <for> <a> <<g>>iven <a>mount <<<<<of>>>>> trun<<c>><a>ti<on> <error>  
+<<a>nd> <a>d<a>ms methods.  some <<<<<of>>>>> <<<<<the>>>>> ne<<w>>er <on>e-step  
+
+
+DocID: CACM-1334
+
+<<g>>ener<a>ted <by> <a> re<<c>>urren<<c>>e s<<c>>heme.  <<<<<the>>>>> pro<<g>>r<a>m is <<c>>oded <<in>>  
+<to> per<for>m <<<<<the>>>>> <a>l<<g>>ebr<a>i<<c>> oper<a>ti<on>s.  <for>mul<a>s <for> over  
+<a> <<c>>omputer pro<<g>>r<a>m h<a>s been <<w>>ritten <to> <<g>>ener<a>te  
+
+
+DocID: CACM-1116
+
+boole<a>n <<m<a>tri<<c>>es>>, is des<<c>>ribed.  <<in>> l<im>ited tests <<<<<the>>>>>  
+<a> previously proposed <<c>>omputer method <for> <<c>><on>stru<<c>>t<<in>><<g>>  
+<<a>nd> <on>es, <<a>nd> <to> <<<<<the>>>>>orems <on> bip<a>rtite <<g>>r<a>phs.  some  
+
+
+DocID: CACM-1501
+
+ei<<g>>enve<<c>><to>rs <<<<<of>>>>> <<<<<the>>>>> 2n x 2n m<a>trix <by> use <<<<<of>>>>>  
+<<<<<the>>>>> ei<<g>>enve<<c>><to>rs <<<<<of>>>>> <<<<<the>>>>> sm<a>ller <<m<a>tri<<c>>es>>.  
+it h<a>s been k<<no>><<w>>n th<a>t <<<<<the>>>>> <ei<<g>>env<a>lue>s <<<<<of>>>>> <a>  
+
+
+DocID: CACM-2177
+
+<on> n <<no>>des <<in>><<c>>re<a>ses <a>s n^<<g>> <<w>>here <<g>> depends <on> <<<<<the>>>>> type  
+<<<<<of>>>>> <<g>>r<a>ph, <1> <= <<g>> <= 2, <<a>nd> both <bounds> <a>re <a>tt<a><<in>>ed.  
+<<in>> det<a>il <<w>>ith th<a>t proposed <by> re<a>d <for> <<w>>hi<<c>>h  
+
+
+DocID: CACM-1614
+
+<<<<<of>>>>> <<<<<the>>>>> pro<<g>>r<a>m <<a>nd> <a>re <<no>>t fixed <<in>> <<<<<the>>>>> l<a>n<<g>>u<a><<g>>e.  even  
+<a> propos<a>l <for> def<<in>>iti<on>s <<in>> <a>l<<g>>ol  
+iter<a>ti<on>s <<a>nd> tempor<a>ry s<to>r<a><<g>>e.  ex<a>mples <<<<<of>>>>> def<<in>>iti<on> sets  
+
+
+DocID: CACM-1998
+
+bound <for> <<c>>omplex <<in>>versi<on> is <<a>bout> <on>e-ei<<g>>hth th<a>t <<<<<of>>>>> <re<a>l>,  
+round<<in>><<g>> <error> bound, <error> <bounds>, <<c>>omplex round<<in>><<g>> <error> <bounds>  
+<a> <<c>>omp<a>ris<on> <<<<<of>>>>> <<c>>omplex m<a>trix <<w>>ith <re<a>l> m<a>trix <<in>>versi<on>  
+
+
+DocID: CACM-1647
+
+up <to> <1>00 st<a>tements per se<<c>><on>d.  s<<in>><<c>>e <<<<<the>>>>> <<c>>ompiler  
+<<a>nd> <<<<<the>>>>> exe<<c>>uti<on> ph<a>ses <<<<<of>>>>> <a> pro<<g>>r<a>m run.  
+extensive <error> di<a><<g>><<no>>sti<<c>>s, dur<<in>><<g>> both <<<<<the>>>>> <<c>>ompil<a>ti<on>  
+
+
+DocID: CACM-1045
+
+<<c>><a>l<<c>>ulus <<a>nd> <<<<<the>>>>> m<a>pp<<in>><<g>> s<<c>>heme <a>re des<<c>>ribed <<in>> det<a>il.  
+<a> spe<<c>>i<a>l oper<a><to>r <<c>><a>l<<c>>ulus developed <by> h<a>rtley  
+<<<<<of>>>>> v<a>ri<a>n<<c>>e <for> multif<a><<c>><to>r exper<im>ents. <<<<<the>>>>> oper<a><to>r  
+
+
+DocID: CACM-1363
+
+<<a>nd> m<on>i<to>r<<in>><<g>> <<<<<the>>>>> step size <to> be used <by>  
+<to> solve <a>n <<in>>iti<a>l v<a>lue problem.  <<<<<the>>>>> pro<<c>>edure  
+uses <a>n est<im><a>te <<<<<of>>>>> <<<<<the>>>>> trun<<c>><a>ti<on> <error> <to> <<c>><a>l<<c>>ul<a>te <<<<<the>>>>> step size.  
+
+
+DocID: CACM-1325
+
+<to> <a> s<a>tisf<a><<c>><to>ry soluti<on> <to> <<<<<the>>>>> problem <<<<<of>>>>> <<<<<the>>>>>  
+presented <<in>> this p<a>per is <a> brief report <on>  
+<<<<<the>>>>> h<a>rd<<w>><a>re, s<<<<<of>>>>>t<<w>><a>re, system <<c>><on>fi<<g>>ur<a>ti<on> <<a>nd>  
+
+
+DocID: CACM-1046
+
+<<<<<of>>>>> <<<<<the>>>>>ir system. it exp<<a>nd>s <on> some po<<in>>ts th<a>t <<<<<the>>>>> ori<<g>><<in>><a>l  
+<<in>> <a> number <<<<<of>>>>> <<<a>rti<<c>>les>> published dur<<in>><<g>> <<<<<the>>>>>  
+<a> <<c>>ompiler-build<<in>><<g>> system developed <by> brooker <<a>nd> morris  
+
+
+DocID: CACM-3094
+
+ll <1>  p<a>rser, <<a>nd> <a> bot<to>m-up slr <1>  p<a>rser.  <<<<<the>>>>>  
+<to> <a> spe<<c>>ifi<<c>> m<a><<c>>h<<in>>e, <<<<<the>>>>> pdp-<1>0, <a>re presented <<a>nd>  
+<<<<<the>>>>> <a>l<<g>>orithm <on>e <<w>>ishes <to> <a>n<a>lyze.  <<<<<the>>>>>  
+
+
+DocID: CACM-1902
+
+<to> re<<c>>ord <<<<<the>>>>> results <<<<<of>>>>> pro<<g>>r<a>mm<<in>><<g>> exer<<c>>ises <<in>> three  
+pro<<g>>r<a>ms, <<a>nd> <<no>> spe<<c>>i<a>l re<<c>>o<<g>>niti<on> <<<<<of>>>>> exer<<c>>ises <by> <<<<<the>>>>> oper<a><to>rs is ne<<c>>ess<a>ry.  
+<a> dis<<c>>ussi<on> is <<g>>iven <<<<<of>>>>> <a>lter<a>ti<on>s th<a>t <<w>>ere  
+
+
+DocID: CACM-1524
+
+<for> <a><<c>><<c>>ept<<in>><<g>> <a> <<c>>omplex number <a>s <a> zero <<<<<of>>>>> <a> <re<a>l>  
+<<a>nd> h<a>s been found <to> serve <a>s <a> s<a>tisf<a><<c>><to>ry me<a>ns  
+<a><<c>><<c>>ept <a> number <a>s <a>n <a>dequ<a>te <a>pprox<im><a>ti<on> <to> <<<<<the>>>>> root.  
+
+
+DocID: CACM-0848
+
+<a> <<no>>te <on> r<a>n<<g>>e tr<a>ns<for>m<a>ti<on>s <for> squ<a>re root <<a>nd> lo<<g>><a>rithm  
+desir<a>ble <to> tr<a>ns<for>m <<<<<the>>>>> <a>r<<g>>ument <to> <a> short  
+r<a>n<<g>>e symmetri<<c>> <<a>bout> <1>0.<1> <<w>>ill <<g>>ive ex<a>mples <<<<<of>>>>> this  
+
+
+DocID: CACM-1014
+
+<<<<<of>>>>> <<g>>ett<<in>><<g>> <error> terms.  it is n<a>tur<a>l <<<<<the>>>>>re<for>e <to> look  
+<a> m<a><<j>>or problem <<in>> us<<in>><<g>> <<<<<the>>>>> <a>n<a>lysis <<<<<of>>>>> v<a>ri<a>n<<c>>e,  
+<to> <<<<<the>>>>> <<c>>omputer <to> h<<a>nd>le <<<<<the>>>>> bulk <<<<<of>>>>> <<w>>ork <<in>><<vol>>ved  
+
+
+DocID: CACM-1047
+
+<<m<a>tri<<c>>es>> from <<c>><a>n<on>i<<c>><a>l <for>ms.  <<<<<the>>>>> <<m<a>tri<<c>>es>> <<g>>ener<a>ted  
+<a> method <for> obt<a><<in>><<in>><<g>> test <<m<a>tri<<c>>es>> <<w>>ith  
+<a> pres<<c>>ribed distributi<on> <<<<<of>>>>> <<c>>h<a>r<a><<c>>teristi<<c>> roots  
+
+
+DocID: CACM-1946
+
+<<in>>trodu<<c>>ed, <<<<<the>>>>> extent <<<<<of>>>>> prop<a><<g>><a>ti<on> <<<<<of>>>>> <error>s <<c>><a>used <by>  
+<<w>>ith re<<g>><a>rd <to> round-<<<<<of>>>>>f <error>s. results <<<<<of>>>>> tests <a>re reported <<in>> det<a>il.  
+<<<<<the>>>>> <<c>>hoi<<c>>e <<<<<of>>>>> <<<<<the>>>>> best <a>l<<g>>orithm <to> bezout's  
+
+
+DocID: CACM-1764
+
+h<a>lf <<<<<of>>>>> <<<<<the>>>>> sessi<on>.  pert<<in>>ent p<a>pers <a>re <<in>><<c>>luded <<in>> <<<<<the>>>>> referen<<c>>es.  
+<<<<<the>>>>> p<a>nelists.  some rem<a>rks referred <to> p<a>pers <by> v<a>n  
+<<c>><on>densed <by> dr. or<<g>><a>ni<<c>>k <<a>nd> edited <by> h<im> <<a>nd>  
+
+
+DocID: CACM-3138
+
+<a> <<c>>olumn  or ro<<w>>  is dropped <by> <a> <for>m<a>l s<<c>><a>l<<in>><<g>> <<w>>ith <<<<<the>>>>>  
+<<<<<of>>>>> <<<<<the>>>>> revised s<im>plex method.  <<<<<the>>>>> <a>l<<g>>orithm is <a> <<g>>ener<a>l purpose  
+<a>n effi<<c>>ient <<a>nd> numeri<<c>><a>lly st<a>ble method is presented <for> <<<<<the>>>>> problem <<<<<of>>>>>  
+
+
+DocID: CACM-1867
+
+<on>e is <<in>>terested <<in>> <<<<<the>>>>> r<a>tio l <<j>>  <<<<<of>>>>> <<<<<the>>>>>  
+expe<<c>>ted len<<g>>th <<<<<of>>>>> <<<<<the>>>>> <<j>>-th sequen<<c>>e <<g>>ener<a>ted <by> <<<<<the>>>>>  
+<<in>> <<<<<the>>>>> repl<a><<c>>ement-sele<<c>>t<<in>><<g>> te<<c>>hnique <<<<<of>>>>> sort<<in>><<g>>,  
+
+
+DocID: CACM-1271
+
+<a> <<c>>omplete set <<<<<of>>>>> <a>ddresses <<<<<of>>>>> pr<im><a>ry re<<c>>ords relev<a>nt  
+<<a>nd> <a> <<c>>omp<a>r<a>tive <a>n<a>lysis is <<g>>iven.  
+<<<<<the>>>>> prep<a>r<a>ti<on> <<<<<of>>>>> se<<c>><on>d<a>ry s<to>r<a><<g>>e lists from  
+
+
+DocID: CACM-2289
+
+<<in>> <<<<<the>>>>> effe<<c>>tive use <<<<<of>>>>> <<c>>ellul<a>r <a>rr<a>ys <for> <<<<<the>>>>>  
+<<<<<of>>>>> m<a>ny <<g>>r<a>ph problems.  <for> ex<a>mple, <<<<<the>>>>> <a>d<<j>><a><<c>>en<<c>>y  
+<<a>nd> <<<<<the>>>>> <a>n<a>lysis <<<<<of>>>>> m<a>ny types <<<<<of>>>>> net<<w>>orks.  
+
+
+DocID: CACM-2266
+
+<to> <<<<<the>>>>> zeros is <<g>>u<a>r<a>nteed.  multiple zeros <<a>nd>  
+<<<<<of>>>>> <a> poly<<no>>mi<a>l <<w>>ith <on>ly <re<a>l> zeros.  <<<<<the>>>>> <a>l<<g>>orithm, <<w>>hi<<c>>h  
+<a> hi<<g>>hly p<a>r<a>llel <a>l<<g>>orithm <for> <a>pprox<im><a>t<<in>><<g>>  
+
+
+DocID: CACM-1658
+
+<<<<<of>>>>> sever<a>l exist<<in>><<g>> <a>l<<g>>orithms <for> <<<<<the>>>>>  
+<a>n<a>lysis <<<<<of>>>>> <a>l<<g>>orithms <for> <<<<<the>>>>> <zero-<on>e> pro<<g>>r<a>mm<<in>><<g>> problem  
+<a> re<a>s<on><a>ble <a>mount <<<<<of>>>>> m<a><<c>>h<<in>>e t<im>e.  
+
+
+DocID: CACM-3085
+
+t<a>kes <on>ly <a> fe<<w>> per<<c>>ent l<on><<g>>er th<a>n <to>pt  less th<a>n <1> per<<c>>ent <on> <<<<<the>>>>> <a>ver<a><<g>>e .  
+<a> suffi<<c>>ient <<c>><on>diti<on> <<a>bout> <<<<<the>>>>> <a>sso<<c>>i<a>ti<on> <<<<<of>>>>> <<<<<the>>>>>  
+<<w>>here mi's <a>re <<m<a>tri<<c>>es>>.  <<<<<the>>>>> order <<in>> <<w>>hi<<c>>h <<<<<the>>>>> <<m<a>tri<<c>>es>>  
+
+
+DocID: CACM-1924
+
+be <<in>> m<a><<in>> memory <a>t <on>e t<im>e.  ex<a>m<<in>><a>ti<on> <<<<<of>>>>> <a>dditi<on>,  
+<<<<<the>>>>> number <<<<<of>>>>> p<a><<g>>e-pulls required <by> <<<<<the>>>>>se m<a>trix  
+<for> <<<<<the>>>>> purpose <<<<<of>>>>> m<<in>><im>iz<<in>><<g>> <<<<<the>>>>> p<a><<g>>e f<a>ult<<in>><<g>>  
+
+
+DocID: CACM-2820
+
+<<<<<of>>>>> <<c>><a>ps <a>re t<a>ble driven, both <to> redu<<c>>e <<<<<the>>>>> sp<a><<c>>e needed  
+<for> <im>plement<a>ti<on> <<a>nd> <to> <<in>><<c>>re<a>se <<<<<the>>>>> flexibility  
+<<<<<the>>>>> desi<<g>>n <<a>nd> <im>plement<a>ti<on> <<<<<of>>>>> <a> t<a>ble driven,  
+
+
+DocID: CACM-1160
+
+<<a>nd> f<<in>><a>lly <<<<<the>>>>> output p<a>ss <<w>>hi<<c>>h <<g>>ener<a>tes <<<<<the>>>>>  
+<<<<<the>>>>> f<a>p pro<<g>>r<a>m, <a> <<c>>omprehensive <a>n<a>lysis <<<<<of>>>>> <<<<<the>>>>> <a>ssembled  
+<<c>><on>sists <<<<<of>>>>> three dist<<in>><<c>>t ph<a>ses: <a>n <a>ssembly <<<<<of>>>>>  
+
+
+DocID: CACM-0497
+
+<p<a>rti<<c>>ul<a>r> po<<in>>t <<<<<of>>>>> subdivisi<on> u i  <<c>>ould be redu<<c>>ed <to>  
+n po<<in>>ts <<<<<of>>>>> subdivisi<on> <<<<<of>>>>> <a> <<g>>iven <<in>>terv<a>l  <a>,b  <<a>nd>  
+<to> <a> problem previously <<c>><on>sidered <by> s<to>ne.  <<<<<the>>>>> problem  
+
+
+DocID: CACM-2977
+
+<<<<<the>>>>> results do <<no>>t <<in>>v<a>lid<a>te <<<<<the>>>>> <<c>><on><<c>>ept <<<<<of>>>>> <a> st<a><<g>>e  
+<<<<<of>>>>> bud<<g>>et <<g>>ro<<w>>th <<a>nd> <a> <sep<a>r<a>ti<on>> bet<<w>>een models <<<<<of>>>>> bud<<g>>et<<in>><<g>>  
+<on> <<<<<the>>>>> d<a>t<a> pro<<c>>ess<<in>><<g>> bud<<g>>ets <<<<<of>>>>> <<c>><a>li<for>ni<a>  
+
+
+DocID: CACM-1529
+
+<to> <<c>>omp<a>re <<<<<the>>>>> pr<im><a>l <<a>nd> pr<im><a>l-du<a>l <de<<c>>ompositi<on>>  
+<a> petroleum blend<<in>><<g>> problem <<w>><a>s <a>n<a>lyzed <<in>> order  
+<a>l<<g>>orithms.  <<in>> <<<<<the>>>>> <<c>>ourse <<<<<of>>>>> <<<<<the>>>>> <a>n<a>lysis, <a> substru<<c>>ture  
+
+
+DocID: CACM-1622
+
+s <<j>>  must <a>lso be <a> member <<<<<of>>>>> <<<<<the>>>>> subset."  <<<<<the>>>>>  
+<<<<<of>>>>> <<<<<the>>>>> <for>m: "if s i  is <a> member <<<<<of>>>>> <<<<<the>>>>> subset, <<<<<the>>>>>n  
+<<w>>ith <a> rout<<in>>e <to> dete<<c>>t feedb<a><<c>>k <<in>> multid<im>ensi<on><a>l iter<a>tive net<<w>>orks.  
+
+
+DocID: CACM-2850
+
+<<<<<of>>>>> <<c>><on>diti<on><a>l br<a>n<<c>>h type st<a>tements.  <a>  
+<to> m<a>n<a><<g>>e <<a>nd> <to> prove th<<in>><<g>>s <<a>bout> symboli<<c>>  
+expressi<on>s, <a> s<im>ple pro<<g>>r<a>m test<<in>><<g>> m<a>n<a><<g>>er, <<a>nd> <a> pro<<g>>r<a>m  
+
+
+DocID: CACM-2954
+
+tree <<in>> e<a><<c>>h <<c>><a>se, first from left <to> ri<<g>>ht <<a>nd> <<<<<the>>>>>n from ri<<g>>ht <to> left.  
+system <<in>> use <<a>nd> uses <on>ly oper<a>ti<on>s likely <to> be <a>v<a>il<a>ble  
+fe<a>ture <<<<<of>>>>> this <a>l<<g>>orithm is <a> te<<c>>hnique <for> tr<a>vers<<in>><<g>>  
+
+
+DocID: CACM-2645
+
+<for> th<a>t pro<<g>>r<a>m.  <<<<<the>>>>> se<<c>><on>d pro<<c>>essor is <a> set <<<<<of>>>>>  
+<<<<<of>>>>> <<<<<the>>>>> t<<w>>o l<a>n<<g>>u<a><<g>>es <a>re <<in>><<c>>luded.  <<<<<the>>>>> l<im>it<a>ti<on>s <<<<<of>>>>>  
+<on> <<<<<the>>>>> <a>n<a>lysis <<<<<of>>>>> <a>l<<g>>orithms, <<a>nd> some <<<<<of>>>>> <<<<<the>>>>> dire<<c>>ti<on>s  
+
+
+DocID: CACM-3125
+
+loop <<in>> <<w>>hi<<c>>h it is <<in>>v<a>ri<a>nt.  this is d<on>e <by> solv<<in>><<g>> <a> more  
+<<<<<the>>>>> el<im><<in>><a>ti<on> <<<<<of>>>>> redund<a>nt <<c>>omput<a>ti<on>s <<a>nd> <<<<<the>>>>> mov<<in>><<g>> <<<<<of>>>>> <<in>>v<a>ri<a>nt  
+<to> move e<a><<c>>h expressi<on> dire<<c>>tly <to> <<<<<the>>>>> entr<a>n<<c>>e <<<<<of>>>>> <<<<<the>>>>> outermost  
+
+
+DocID: CACM-1049
+
+<<<<<the>>>>>re is <<no>> est<a>blished numeri<<c>><a>l te<<c>>hnique <for>  
+<<<<<the>>>>>se f<a>il, <<<<<the>>>>> more diffi<<c>>ult method <<<<<of>>>>> f<<in>>ite differen<<c>>es  
+numeri<<c>><a>l soluti<on> <<<<<of>>>>> n<on>l<<in>>e<a>r t<<w>>o-po<<in>>t  
+
+
+DocID: CACM-2335
+
+<ei<<g>>env<a>lue>s <<a>nd> ei<<g>>enve<<c>><to>rs <<<<<of>>>>> <a> <re<a>l> <<g>>ener<a>l m<a>trix  <a>l<<g>>orithm r3<4>3   
+n<on>symmetri<<c>> <<m<a>tri<<c>>es>>, <<g>>ener<a>l <<m<a>tri<<c>>es>>  
+<ei<<g>>env<a>lue>s, ei<<g>>enve<<c>><to>rs, qr-<a>l<<g>>orithm,  
+
+
+DocID: CACM-1285
+
+<ei<<g>>env<a>lue>s <<a>nd> ei<<g>>enve<<c>><to>rs <<<<<of>>>>> <a> <re<a>l> symmetri<<c>>  
+m<a>trix <by> <<<<<the>>>>> qr method  <a>l<<g>>orithm 25<4> [f2]   
+bus<<in>><<g>>er, p. <a>.  
+
+
+DocID: CACM-1709
+
+<<<<<the>>>>> s<to>r<a><<g>>e <<<<<of>>>>> <a>n n x n m<a>trix <<<<<of>>>>> d<a>t<a>.  <<w>>hen <<<<<the>>>>> number  
+<a> modifi<<c>><a>ti<on> <<<<<of>>>>> efroyms<on>'s te<<c>>hnique <for> step<<w>>ise re<<g>>ressi<on> <a>n<a>lysis  
+<a> modifi<<c>><a>ti<on> requir<<in>><<g>> <on>ly h<a>lf <<<<<the>>>>> s<to>r<a><<g>>e <<a>nd> <<c>>omput<a>ti<on>s  
+
+
+DocID: CACM-2592
+
+<by> test problems <<w>>ith k<<no>><<w>>n soluti<on>s.  <<<<<the>>>>> re<a>s<on> <for>  
+<<a>nd> h<a>ve <a> <<w>>ide r<a>n<<g>>e <<<<<of>>>>> numeri<<c>><a>l <<c>>h<a>r<a><<c>>teristi<<c>>s.  
+<by> su<<c>>h <<c>>odes.  l<a>r<<g>>e s<<c>><a>le l<<in>>e<a>r pro<<g>>r<a>mm<<in>><<g>>  
+
+
+DocID: CACM-1727
+
+<<<<<of>>>>> s i<<j>> , <<w>>here s i<<j>>  is <<<<<the>>>>> me<a>n v<a>lue <<<<<of>>>>> <<<<<the>>>>> number  
+<<<<<of>>>>> obt<a><<in>><<in>><<g>> est<im><a>tes <<<<<of>>>>> <<<<<the>>>>> p i<<j>>  <a>re <<g>>iven.  <<in>>  
+<<<<<of>>>>> <<<<<the>>>>> s i<<j>>  from <<<<<the>>>>> p i<<j>>  is found, <<a>nd> some <<w>><a>ys  
+
+
+DocID: CACM-0637
+
+<<w>><a>s used <to> <<g>>ener<a>te <a> <<c>>ompiler <for> <<<<<the>>>>> ibm <1><4>0<1>.  <<<<<the>>>>>  
+<<in>> pro<<g>>r<a>mm<<in>><<g>> t<im>e <<a>nd> <<<<<the>>>>> <im>provement <<in>> do<<c>>ument<a>ti<on>  
+<<w>><a>s used <to> <<g>>ener<a>te <a>ll but <<<<<the>>>>> first, i.e. <<<<<the>>>>> systems  
+
+
+DocID: CACM-2325
+
+numeri<<c>><a>l m<a><<<<<the>>>>>m<a>ti<<c>>s is vie<<w>>ed <a>s <<<<<the>>>>> <a>n<a>lysis  
+<<<<<of>>>>> <<c>><on>t<<in>>uous <a>l<<g>>orithms.  four <<<<<of>>>>> <<<<<the>>>>> <<c>>omp<on>ents  
+<a>n<a>lysis <<<<<of>>>>> <error>, pro<<g>>r<a>ms <<a>nd> pro<<g>>r<a>m libr<a>ries.  
+
+
+DocID: CACM-1308
+
+<<<<<of>>>>> <<g>>r<a>vity, <<c>><a>n be <<c>>omputed <by> subpro<<g>>r<a>ms <<a>nd> used <<in>>  
+<<a>nd> desi<<g>>ners, <<w>>ill des<<c>>ribe <<<<<the>>>>> p<a>rt <<a>nd> spe<<c>>ify <<<<<the>>>>>  
+<<<<<of>>>>> <<c>>omputer-<a>ided en<<g>><<in>>eer<<in>><<g>> dr<a><<w>><<in>><<g>>, numeri<<c>><a>l <<c>><on>trol  
+
+
+DocID: CACM-2986
+
+rel<a>ti<on>s <<in>> o n^2  steps is sho<<w>>n, <a>s <<w>>ell <a>s ho<<w>> <to>  
+fun<<c>>ti<on>s <<in>> o n  steps, <<w>>here n is <<<<<the>>>>> size <<<<<of>>>>>  
+<a> <<g>>r<a>mmer.  <<<<<the>>>>> he<a>rt <<<<<of>>>>> <<<<<the>>>>> <a>l<<g>>orithms is <a> <<g>>ener<a>l  
+
+
+DocID: CACM-1725
+
+<<<<<the>>>>> <<in>>dividu<a>l di<<g>>it <<c>>olumns <<<<<of>>>>> <<<<<the>>>>> memory.  thus <<<<<the>>>>>  
+<<<<<of>>>>> <<<<<the>>>>> <<w>>ord len<<g>>th.   <<in>> this p<a>per <a> very  
+<to> retrieve <<in>> order <a> number <<<<<of>>>>> dist<<in>><<c>>t  
+
+
+DocID: CACM-1744
+
+<for> determ<<in>><<in>><<g>> <a> <<c>>he<by>shev soluti<on> <to> <a>n  
+soluti<on> <to> <a>n overdeterm<<in>>ed system <<<<<of>>>>>  
+st<a>ble numeri<<c>><a>l methods <for> obt<a><<in>><<in>><<g>> <<<<<the>>>>> <<c>>he<by>shev  
+
+
+DocID: CACM-3152
+
+<<<<<the>>>>> number <<<<<of>>>>> p<a><<g>>e fet<<c>>hes required, it is <<<<<of>>>>>ten more effi<<c>>ient <to>  
+<<<<<the>>>>> tr<a>nspose <<<<<of>>>>> <on>e <<<<<of>>>>> <<<<<the>>>>> <<m<a>tri<<c>>es>> is <a>v<a>il<a>ble <a>t <<no>> <a>dditi<on><a>l <<c>>ost.  
+<<<<<the>>>>> te<<c>>hnique <<<<<of>>>>> str<a>ssen <to> <<<<<the>>>>> reor<<g>><a>nized d<a>t<a>.  <<<<<the>>>>> reor<<g>><a>niz<a>ti<on>/blo<<c>>k  
+
+
+DocID: CACM-2787
+
+<<a>bout> <<<<<the>>>>> m<a>trix.  <<a>nd> it is desi<<g>>ned <a>s <a> stru<<c>>tured  
+<<<<<the>>>>> p<a>per des<<c>>ribes <a>n effi<<c>>ient method <for>  
+<<<<<of>>>>> his <<c>>hoi<<c>>e.  pr<a><<c>>ti<<c>><a>l tests <<<<<of>>>>> <<<<<the>>>>> method h<a>ve  
+
+
+DocID: CACM-1679
+
+<a> ne<<w>> pro<<c>>edure is presented <for> <<c>><a>l<<c>>ul<a>t<<in>><<g>> <<<<<the>>>>>  
+<<<<<the>>>>> order <<a>nd> symmetry <<<<<of>>>>> <<<<<the>>>>> <<c>>ooley-turkey f<a>st  
+<a> f<a>st fourier tr<a>ns<for>m <a>l<<g>>orithm <for> <re<a>l>-v<a>lued series  
+
+
+DocID: CACM-2233
+
+<<<<<of>>>>> en<<c>>od<<in>><<g>> itself so <a>s <to> yield ne<<w>> <<c>>lues <<a>nd> deeper  
+<<<<<of>>>>> <<<<<the>>>>> un<<in>>iti<a>ted, <<<<<the>>>>> en<<c>>od<<in>><<g>> method used <<in>> <<<<<the>>>>>  
+<for> ex<a>mple, <<w>>e h<a>ve turned <<<<<the>>>>> entire pro<<c>>ess <<<<<of>>>>>  
+
+
+DocID: CACM-1909
+
+it is sho<<w>>n <to> be pr<a><<c>>ti<<c>><a>l <to> <<c>>ompute <<j>>n x  <by>  
+us<<in>><<g>> <<<<<the>>>>> tr<a>pezoid<a>l rule. <<<<<the>>>>> <error> <<in>> this  
+<<c>>omput<a>ti<on> <<<<<of>>>>> <<j>>n x  <by> numeri<<c>><a>l <<in>>te<<g>>r<a>ti<on>  
+
+
+DocID: CACM-1916
+
+<by> <a> <<c>>omb<<in>>ed model.  <a> tr<a>ns<for>m<a>ti<on> <<<<<of>>>>> <<<<<the>>>>> <<c>>omb<<in>>ed  
+<<in>> determ<<in>><<in>><<g>> se<<g>>ment<a>ti<on> <<<<<of>>>>> <<in>>stru<<c>>ti<on>s <<a>nd> d<a>t<a> <for>  
+<a> t<im>e-sh<a>red envir<on>ment, <a>s <<w>>ell <a>s <for> <<in>>iti<a>l  
+
+
+DocID: CACM-1543
+
+numeri<<c>><a>l d<a>t<a> pro<<c>>ess<<in>><<g>> st<a><<g>>e <<a>nd> redu<<c>><<in>><<g>> <<<<<the>>>>> need <for>  
+<<c>><a>p<a>bility <to> do n<on>-numeri<<c>> <<w>>ork <<a>nd> <to> <a>ssist <<in>> <<<<<the>>>>>  
+numeri<<c>><a>l d<a>t<a> pro<<c>>ess<<in>><<g>> st<a><<g>>e.  moreover, this <p<a>rti<<c>>ul<a>r>  
+
+
+DocID: CACM-1963
+
+<<m<a>tri<<c>>es>>, <<c>><on>diti<on> numbers, pei <<m<a>tri<<c>>es>>, ei<<g>>enve<<c>><to>rs, <ei<<g>>env<a>lue>s  
+<<c>><on>diti<on> numbers <<<<<of>>>>> pei <<m<a>tri<<c>>es>>  
+rokne, <<j>>.  
+
+
+DocID: CACM-2568
+
+<for> ex<a>m i.  <<<<<the>>>>> ob<<j>>e<<c>>t <<<<<of>>>>> this p<a>per is <to> <<g>>ener<a>lize  
+<<<<<the>>>>> previous <<w>>ork is <<<<<the>>>>> <<in>>trodu<<c>>ti<on> <<<<<of>>>>> v<a>ri<a>ble  
+<a>ppli<<c>><a>ti<on> <<<<<of>>>>> this <a>l<<g>>orithm <to> <<<<<the>>>>> soluti<on> <<<<<of>>>>>  
+
+
+DocID: CACM-2188
+
+<to>  <<c>><on>fi<<g>>ure displ<a>y systems.  this is <a><<c>><<c>>omplished <by>  
+<<<<<the>>>>> model <<c>><a>n be <a>n<a>lyzed us<<in>><<g>> numeri<<c>><a>l  
+<<c>>ost, <<a>nd> <<<<<the>>>>> distributi<on> <<<<<of>>>>> d<a>t<a> s<to>r<a><<g>>e <<a>nd>  
+
+
+DocID: CACM-1766
+
+<<<<<of>>>>> its <ei<<g>>env<a>lue>s, <<<<<the>>>>> v<a>lues <<<<<of>>>>> <<<<<the>>>>> unk<<no>><<w>>n <<c>><on>st<a>nts  
+<<<<<of>>>>> differenti<a>l oper<a><to>rs from <ei<<g>>env<a>lue>s  
+<<a>nd> <a>n effe<<c>>tive numeri<<c>><a>l pro<<c>>edure <for> soluti<on> is <<in>>di<<c>><a>ted.  
+
+
+DocID: CACM-1861
+
+<on>e <<<<<of>>>>> <<<<<the>>>>> first def<<in>>iti<on> f<a><<c>>ilities <for>  
+<<<<<the>>>>> motiv<a>ti<on> beh<<in>>d <<<<<the>>>>> <for>m <<in>> <<w>>hi<<c>>h def<<in>>iti<on>s <a>re  
+ho<<w>> <on>e <<w>>rites def<<in>>iti<on>s, <a>s <<w>>ell <a>s <on> mu<<c>>h <<<<<of>>>>>  
+

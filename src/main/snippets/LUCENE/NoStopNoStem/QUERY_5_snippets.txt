@@ -1,0 +1,710 @@
+LUCENE_NoStopNoStem
+
+Query
+I'd like papers on design and implementation of editing interfaces,
+window-managers, command interpreters, etc.  The essential issues are
+human interface design, with views on improvements to user efficiency,
+effectiveness and satisfaction.
+
+Top 100 Results (373 millisecs)
+
+
+DocID: CACM-2035
+
+similar <to> a disk.  priority was given <to> <the> <<design>> <of> efficient  
+program preparati<<on>> <<and>> assembly.  it focuses <<on>> <the> preparati<<on>> <<and>> <editing>  
+similar <to> that <of> a sophisticated terminal.  <the> tapes <are> logically  
+
+
+DocID: CACM-1829
+
+<of> <the> m<<on>>i<to>r program <<and>> <the> <human> <<and>> program <<interface>s>  
+from <the> <human> <user>.  it also will resp<<on>>d <to> comm<<and>>s  
+<<and>> equal basis through <the> medium <of> <the> graphic m<<on>>i<to>r.  
+
+
+DocID: CACM-2629
+
+file, device, <<and>> inter-process i/o;  3  <the> ability <to>  
+file system <<and>> <of> <the> <user> comm<<and>> <interface>.  
+paper discusses <the> nature <<and>> implementati<<on>> <of> <the>  
+
+
+DocID: CACM-2786
+
+<<and>> <to> use by people  for example, secretaries <<and>>  
+<the> size <<and>> f<<on>>t changes, positi<<on>>ing, line drawing, <<and>>  
+<the> language has been <<design>>ed <to> be easy <to> learn  
+
+
+DocID: CACM-2321
+
+<of> <the> respective subsystems.  several "st<<and>>ard" <<interface>s>,  
+multiplexing, <<and>> switch c<<on>>trol, in additi<<on>> <to> minimizing  
+<<on>> <the> <interface> between computers <<and>> data communicati<<on>>s systems  
+
+
+DocID: CACM-1978
+
+routines which <are> easy <to> use <<and>> also take advantage <of> <the>  
+<the> use <of> interactive graphics <to> solve numerical problems  
+insight <<and>> visual capabilities <of> <the> <human> problem solver.  several  
+
+
+DocID: CACM-2003
+
+<the> <<design>> process, <are> presented.  <the> main emphasis is given <to> <the>  
+<of> <the> s<of>tw<are> system; its <<design>> criteria prov<id>e <the> <user> <with>  
+<the> characteristics <of> an interactive s<of>tw<are> system, intended <to> c<<on>>stitute  
+
+
+DocID: CACM-1671
+
+<the> system is written in bbn lisp <<on>> <the> scientific  
+<the> <<design>> <<and>> implementati<<on>> <of> a system <to>  
+<of> applying rules <to> <the> data, <<and>> <to> s<to>re  
+
+
+DocID: CACM-1699
+
+<of> such a system include ease <of> use, learning time, <<and>>  
+<with> emphasis <<on>> interactive  man-machine  language <<and>> <<on>>  
+<of> <the> <to>ols which would be available <to> him were  
+
+
+DocID: CACM-2357
+
+<<and>> fabricati<<on>>.  all aspects <of> <the> system <are>  
+prov<id>es <the> necessary elements <to> input <<and>> modify files,  
+<<and>> developed as part <of> <the> project cost <<on>>e  
+
+
+DocID: CACM-2169
+
+<with> integer coefficients.  it has been <<design>>ed <<and>>  
+<efficiency>.  c<<on>>s<id>erable effort has been spent <to> ensure  
+implemented <to> h<<and>>le large problems <with> ease <<and>>  
+
+
+DocID: CACM-2247
+
+<the> c<<on>>venti<<on>>al assumpti<<on>> that a module c<<on>>sists <of>  
+decompositi<<on>> <are> described.  it is shown that <the>  
+<of> a system while allowing <the> shortening <of> its development  
+
+
+DocID: CACM-3147
+
+<of> systematically coordinating <the> c<<on>>figurati<<on>>s <of> datasets <<and>>  
+problem involving 54 computati<<on>>s <<and>> 49 datasets, <the> main point <of>  
+d is simple enough <to> be adapted <to> many file <<design>> situati<<on>>s.  
+
+
+DocID: CACM-2483
+
+<are> <the> heart <of> coko's <effectiveness>, yet <the>y <are>  
+<are> described which could be used as a comm<<and>>  
+<to> a large extent by <the> definiti<<on>> <<and>> trimming  
+
+
+DocID: CACM-1188
+
+<of> <the> purposes a transla<to>r is required <to> translate  
+<the> <id>ea <of> c<<on>>structing a computer <<design>>  
+<of> <the> <<design>> language <are> enumerated.  <to> achieve most  
+
+
+DocID: CACM-3050
+
+<the> computer system <to> meet <the> dem<<and>>s made by <the>  
+<the> player <to> c<<on>>figure a computer system <to> meet  
+jobs, <etc>. .  <the> player <of> <the> game receives  
+
+
+DocID: CACM-2299
+
+is described, <<and>> its merits <are> illustrated by <the> ease  
+in terms <of> a few basic <editing> functi<<on>>.  
+number <of> programmed subroutines <are> necessary for all  
+
+
+DocID: CACM-2820
+
+<of> caps <are> table driven, both <to> reduce <the> space needed  
+<<and>> at run time.  errors <are> not au<to>matically  
+<with> a computer assisted course <<on>> introduc<to>ry computer science.  
+
+
+DocID: CACM-1960
+
+<the> main <<design>> principles <of> <the> multiaccess system esope <are> described.  
+than <<on>> implementati<<on>> details.  <the> main features <of> <the> system  
+include <the> ability given <to> any <user> <to> schedule his own parallel  
+
+
+DocID: CACM-1698
+
+<like> any actual c<<on>>sole, but <the> entire collecti<<on>> <of>  
+<user>, but ra<the>r easy <to> characterize <the> entire <user> community.  
+<the> ability <of> a computer system <to> communicate  
+
+
+DocID: CACM-1742
+
+between display <<and>> p<are>nt computer is a key fac<to>r in display processor <<design>>.  
+<the> flexibility <<and>> power needed in <the> data  
+making <improvements> <<on>>e can return <to> <the> original  
+
+
+DocID: CACM-2106
+
+be committed <to> <the> equipment prov<id>ed by any manufacturer;  6  be able <to>  
+spurious <issues> as possible;  2  allow, <with>out undue effort, <the>  
+such as paging <<and>> priority interrupt systems can best be explained at <the>  
+
+
+DocID: CACM-3102
+
+sec, <etc>.  <are> discussed.  a method is given for <the>  
+<the> <issues> <of> how a programming language might  
+various proposals for syntax <are> c<<on>>s<id>ered.  
+
+
+DocID: CACM-2396
+
+<like> that <of> quillian's tlc.  muse, from a model <to> underst<<and>>  
+<the> model first applies syntactic analysis <to>  
+<of> familiar c<<on>>cepts <<and>> <the> additi<<on>> <of> new <<on>>es.  
+
+
+DocID: CACM-2314
+
+<the> author feels <are> important <to> improve <the> productivity  
+input <<and>> output <of> data would facilitate use <of>  
+<are> stressed, as is <the> duality <of> data  
+
+
+DocID: CACM-2622
+
+<the> <user>.  <the> intruder may know all about h <<and>>  
+is unable <to> invert.  this functi<<on>> is applied <to> <the>  
+in <the> computer.    all aspects <of> <the> system, including  
+
+
+DocID: CACM-2138
+
+systems, <etc>.  prime <<design>> goals <of> <the> <<design>> <are> <the>  
+<to> allow access <to> all relevant hardw<are> features <of>  
+<the> definiti<<on>> <of> <the> representati<<on>> <of> all  
+
+
+DocID: CACM-1937
+
+<<and>> display requests.  data is displayed as tables <<and>>  
+<the> comm<<and>> language <of> <the> system prov<id>es <the> <user>  
+<<and>> <the> general system <<design>> <are> described.  
+
+
+DocID: CACM-1764
+
+half <of> <the> sessi<<on>>.  pertinent <papers> <are> included in <the> references.  
+<the> panelists.  some remarks referred <to> <papers> by van  
+dam <<and>> kahn or <to> <the> discussi<<on>> during <the> first  
+
+
+DocID: CACM-3011
+
+<<and>> where department <user>s have less c<<on>>trol over <<design>>  
+nature <of> <the>se systems, management use <of> computing is  
+<of> computing <<and>> tends <to> c<<on>>trol computing decisi<<on>>s  
+
+
+DocID: CACM-2873
+
+<the> flexible definiti<<on>> <of> geometric objects <<and>>  
+<of> using this language <to> <<design>> o<the>r  
+aspects <of> its implementati<<on>>.  <the> language allows  
+
+
+DocID: CACM-2145
+
+approaches <to> wiring <<design>>, <<and>> <the> o<the>r is <the>  
+than logical <<design>>.  it can be used <to> <<design>>  
+<<on>>e is <the> heuristic method, which simulates <human>  
+
+
+DocID: CACM-1502
+
+features <are> its ability <to> h<<and>>le any piece <of>  
+text, <the> c<<on>>tent-searching facility, <<and>> <the> character-by-character  
+<editing> operati<<on>>s.  <the> edi<to>r  
+
+
+DocID: CACM-1571
+
+<of> <the> institute <with> <the> ability <to> interact directly  
+<the> data processing labora<to>ry <of> <the> brain  
+determinati<<on>> <of> <interface> parameters between <the>  
+
+
+DocID: CACM-3137
+
+system from <the> perspective <of> <the> end-<user>.  <the> making ev<id>ent <the> effect <of>  
+<the> technique is illustrated by applicati<<on>> <to> <the> <<design>>  
+a macro model <of> a distributed informati<<on>> system in presented.  <the> model  
+
+
+DocID: CACM-2252
+
+<of> <the> method <are>:  1  <the> syntax <of> <the> language  
+<<on>> indiv<id>ual lines <<and>> that d<<on>>e globally <to>  
+<the> skelet<<on>>  is maintained <to> represent <the> statement  
+
+
+DocID: CACM-0892
+
+<the> results <of> <the> above operati<<on>>s.  some examples <of>  
+features <of> a particular machine implementati<<on>> <are> given.  
+records, <editing> printed output, <<and>> summarizing  
+
+
+DocID: CACM-2841
+
+c<<on>>trolling <the> shapes <of> <the> surfaces,  2  all <of> <the>  
+<of> <the> system <are>:  1  <the> surfaces <are> rendered as isoparametric  
+<<and>> <the>y <are> <<design>>ed <with> <the> a<id> <of> a three-dimensi<<on>>al  
+
+
+DocID: CACM-2887
+
+<<design>>, <<and>> lack <of> research.  <the> types  
+80 percent <of> error diagnosis was found <to> be inaccurate.  
+in <the> four error categories <of> previous  
+
+
+DocID: CACM-2380
+
+it describes how <the> tenex <<design>> <<and>> implementati<<on>>  
+uniform file <<and>> i/o capabilities, <<and>> clean flexible  
+reliable service at several sites <<and>> through <the>  
+
+
+DocID: CACM-1824
+
+<the> various pieces  at all levels  <of> <the> parse.  it  
+<of> parse-requests as a subroutine, <<and>> parse-time  
+multiple input-output streams, <the> initiati<<on>> <of> sequences  
+
+
+DocID: CACM-2358
+
+<<and>> carries its own independent attributes <of> size <<and>> access  
+<the> multics virtual memory: c<<on>>cepts <<and>> <<design>>  
+since <the> size <of> main memory <<on>> c<<on>>temporary systems  
+
+
+DocID: CACM-2542
+
+<the> reas<<on>>s for this failure <are> explored, <<and>> a new methodology  
+analysis <<and>> simulati<<on>> routines.  using <the> performance  
+<the> performance <of> a proposed <<design>> is not evaluated  
+
+
+DocID: CACM-1392
+
+<are> discussed.  c<<on>>crete examples <are> prov<id>ed by <the>  
+is made <to> stress principles <<and>> <id>eas <of> general relevance  
+various facets <of> <the> <<design>> <<and>> implementati<<on>>  
+
+
+DocID: CACM-1487
+
+<of> key words, <<and>>  5  <the> provisi<<on>> <of> an <editing> capability  
+<id>entificati<<on>> <of> key words,  2  <the> discovery <of>  
+problems <with> which eliza is c<<on>>cerned <are>:  1 <the>  
+
+
+DocID: CACM-1605
+
+<<and>> problem characteristics, were specified as <<design>>  
+definitive <of> "system <effectiveness>," <<and>> analysis <of>  
+<the> sequence <of> problem soluti<<on>>, <<and>> programmer  
+
+
+DocID: CACM-1810
+
+<<and>> it is shown that given some c<are> in use <the>  
+<the> folding is manual, <are> examined, <<and>> a number <of>  
+<interface> <with> a very large speed difference.  <the> disadvantages  
+
+
+DocID: CACM-3012
+
+<of> <the> study for <the> <<design>> <of> similar systems <are> discussed.  
+<<and>> retrieval system.  a m<<on>>i<to>r built in<to> <the> computer  
+<the> use <of> this system.  <the> implicati<<on>>s  
+
+
+DocID: CACM-3087
+
+<<design>> <<and>> implementati<<on>> <of> this system is described <<and>>  
+<<and>> <the> relati<<on>>ship <of> this system <to> o<the>rs.  
+<of> system comp<<on>>ents <<and>> examples <of> overall system  
+
+
+DocID: CACM-1435
+
+<the> four experimental <<design>> problems <are>:  1  <the>  
+<<design>> techniques which may be applicable <to> <the> <<design>>  
+<of> fac<to>r selecti<<on>>,  3  <the> problem <of> motive  
+
+
+DocID: CACM-1589
+
+<<and>> s<to>rage, <<and>> hard copy presentati<<on>> <of>  
+keyboard <<on>> a character-by-character basis so as <to>  
+results.  use <of> <the> system requires a minimum <of> experience  
+
+
+DocID: CACM-3127
+
+<with> quite different architectures.  both <the> system <<and>> applicati<<on>>  
+because <the> system is implemented by <the> same s<of>tw<are> <<on>> different  
+over a large set <of> machines.  it is currently running <<on>> two minicomputers  
+
+
+DocID: CACM-3054
+
+<are> summarized.  a variety <of> special situati<<on>>s <are> c<<on>>s<id>ered  
+implementati<<on>> combining <the> most effective <improvements>  
+<to> quicksort is given, al<<on>>g <with> a discussi<<on>>  
+
+
+DocID: CACM-2592
+
+<with> known soluti<<on>>s.  <the> method permits <the> generati<<on>>  
+<<and>> have a w<id>e range <of> numerical characteristics.  
+<of> test problems that <are> <of> arbitrary size  
+
+
+DocID: CACM-1962
+
+<of> those generated by <human> beings.  multiple functi<<on>>s  up <to> 14   
+operates <<on>> a small computer  ddp-224 .  functi<<on>>s <are> s<to>red <<on>> a  
+<<and>> <editing> functi<<on>>s <of> time is described.  <the> functi<<on>>s <are> typical  
+
+
+DocID: CACM-1409
+
+memory.  <the> arithmetic unit has a comm<<and>> structure similar  
+<to> large parallel machines, <<and>> uses flip-flop  
+in computer <<design>>;  2  <to> be usable as an educati<<on>>al  
+
+
+DocID: CACM-2534
+
+<<and>> is prov<id>ed au<to>matically by <the> compiler. <the> most remarkable  
+<<and>> executi<<on>>, <<and>> <the> <<design>> <of> pl/c is dominated by  
+completes translati<<on>> <of> every program submitted <<and>>  
+
+
+DocID: CACM-2181
+
+<of> <the> pedagogic <<and>> substantive c<<on>>cerns raised; <<and>>  
+<the> committee <with> material for its study <of>  
+<with> background informati<<on>> for <the> <<on>>going task <of> course  
+
+
+DocID: CACM-2522
+
+<<and>> <are> source allocati<<on>> strategy based <<on>>  
+implementati<<on>> <of> a dispatcher based <<on>> <the> working set  
+<the> <<design>>, implementati<<on>>, <<and>> evaluati<<on>> <of> a working set dispatcher  
+
+
+DocID: CACM-3035
+
+<improvements> at <the> test instituti<<on>>.  <the> results  
+<the> findings <of> a study <<design>>ed <to> address  
+<the> pressing problems associated <with> <the> strategic  
+
+
+DocID: CACM-2188
+
+cost, <<and>> <the> distributi<<on>> <of> data s<to>rage <<and>>  
+<<and>> helps give a better underst<<and>>ing <of> now  
+<<and>> <of> <the> computati<<on>>al requirements <of> <the> graphics applicati<<on>>.  
+
+
+DocID: CACM-3144
+
+<the> host machine.  <the> model reveals <the> ana<to>my <of> <interpreters>  
+<<and>> how <the>se differ from procedures, <<and>> exhibits links  
+ei<the>r be interpreted  i.e. nested <interpreters>  or run directly <<on>>  
+
+
+DocID: CACM-2812
+
+<the> ads problem definiti<<on>> was supplemented <with>  
+was translated <to> <the> form necessary for use by <the>  
+<<and>> performance evalua<to>r. <the> statement <of> requirements  
+
+
+DocID: CACM-0972
+
+over <the> <<on>>-line data link is used <to> update <the> data files  
+<the> air force permits many opera<to>rs <to> access  
+<to> <the> c<<on>>sole inputs <<and>> permit <the> opera<to>rs  
+
+
+DocID: CACM-2277
+
+<of> <the> maniac ii <are> given, al<<on>>g <with> a descripti<<on>>  
+<of> <the> basic dem<<and>> paging scheme <<and>> <the> associate memory  
+finally, a descripti<<on>> <of> <the> hardw<are> <<design>> for implementati<<on>>  
+
+
+DocID: CACM-2201
+
+at <the> <user>'s request, this record is sent <to> <the> ibm  
+c<<on>>tributi<<on>>s <of> anima<to>r will be <the> provisi<<on>> <of> a  
+<to> produce <the> same sequence <of> pictures can be generated.  
+
+
+DocID: CACM-1534
+
+<of> <the> system.  <the> techniques found useful in <the> development  
+<the> use <of> <the> drums, <the> buffering <of> input <<and>> output  
+<<on>> slow peripherals, <<and>> <the> executi<<on>> <of> normal  
+
+
+DocID: CACM-2956
+
+over <the> elements <of> any finite set  instead <of> <the>  
+<the> domain <of> an array as a data type, <the> need for  
+<<and>> resulting problems <with> c<<on>>versi<<on>> <of>  
+
+
+DocID: CACM-2439
+
+<the> system executive or in any <of> <the> system's compilers or <interpreters>.  
+terminals simultaneously <<and>> can c<<on>>trol <the> interacti<<on>>s  
+<user>-written programs <<on>> <the> dartmouth time-sharing  
+
+
+DocID: CACM-3146
+
+campus <to> be studied <<and>> solved by student teams.  <the> objective <of>  
+<the> clinic program, brings projects from industry <<on>>  
+problems <of> sufficient magnitude <<and>> complexity.  under this program,  
+
+
+DocID: CACM-1395
+
+scan" <<and>> an example <of> its applicati<<on>> <are>  
+<of> which ambit is a member, <<and>> it prov<id>es a rati<<on>>ale  
+technique for <the> replacement rule <of> <the>  
+
+
+DocID: CACM-1750
+
+<<and>> functi<<on>>s <of> such a system <are> based <<on>> a  
+<with> <the> traditi<<on>>al c<<on>>figurati<<on>> <of> separate <<and>> independent  
+milli<<on>> words <of> extended core s<to>rage.  in <the>  
+
+
+DocID: CACM-1519
+
+run <<on>> a w<id>e variety <of> c<<on>>figurati<<on>>s <of> <the>  
+<the> schedulers.  both <<on>>line <user>s <<and>> <of>f line jobs use  
+i. 1900, <<and>> can h<<and>>le a large number <of> <<on>>line c<<on>>sole  
+
+
+DocID: CACM-1253
+
+an attempt <to> present its flavor.  a brief descripti<<on>> <of>  
+<to> <the> reader familiar <with> algebraic languages.  
+quikscript-a simscript- <like> language for <the> g-20  
+
+
+DocID: CACM-2105
+
+computer interpretati<<on>> <of> a flowchart.  <the> <user> draws a descripti<<on>> <of> a  
+scale computer.  <the> <<design>> is simulated, <<and>> a graphic representati<<on>> <of> <the>  
+prov<id>es an envir<<on>>ment <to> perform this iterative process efficiently <<and>>  
+
+
+DocID: CACM-1281
+
+time.  <the> computer c<<on>>verses <with> <the> <user> during <the>  
+format statements <to> determine <the> input, <the> computer  
+data, <<and>> allows <editing> <of> values input.  
+
+
+DocID: CACM-2401
+
+a pattern, <are> reviewed <<and>> discussed.  an analogy <with> a  
+nature <of> <the> process, <<and>> <the> possibility <of> shrinking  
+as <the> determinati<<on>> <of> <the> maximum number <of> steps  
+
+
+DocID: CACM-1159
+
+<to> <the>m.  finally, reas<<on>>s <are> given for believing that <the>  
+<<on>>e computer <to> ano<the>r.  <of> <the> methods examined, <the>  
+discussi<<on>>, <with> emphasis <<on>> its ec<<on>>omics. <the> c<<on>>s<id>erati<<on>>s  
+
+
+DocID: CACM-2535
+
+nature <of> <the> arrival process from a <user> <to> <the> computer  
+performance <of> <the> computer  model , in <the> sense  
+<with> a single exp<<on>>ential server  <the> computer .  
+
+
+DocID: CACM-1853
+
+<<and>> <the> opera<to>rs implemented  most <are>  
+<of> <the> two.  a descripti<<on>> is given <of> that list representati<<on>>  
+similar <to> those <of> lisp 1.5 .  <the> system garbage collec<to>r  
+
+
+DocID: CACM-2753
+
+<to> it.  it uses <the> planning process <to> give  
+<to> accurately describe <the> objects <<and>> <the>  
+metric c<<on>>straints <to> be tested <<and>> <the> <<design>> <to>  
+
+
+DocID: CACM-2572
+
+<<and>> decentralized approach <to> <the> questi<<on>> <of> <the>  
+externally  <of> what is proposed;  2  project <<and>> perhaps  
+group <of> ultimate <user>s in systems <<design>>,  
+
+
+DocID: CACM-2469
+
+petri nets <are> investigated as <<on>>e method <of>  
+from modules developed in <the> investigati<<on>> <of> petri net implementati<<on>>.  
+petri nets <<and>> speed independent <<design>>  
+
+
+DocID: CACM-2002
+
+subplots by <the> acti<<on>> <of> <<on>>e or more simple modules is possible.  <the> <user>  
+locating, <<and>> scaling  in <the> layout <of> multiple subplots  <of>  
+complexity <to> be c<<on>>structed by adding or replacing modules.  <the>  
+
+
+DocID: CACM-2947
+
+delimiting <the> c<<on>>text in which <the> hit is <to> be  
+<editing> functi<<on>>s.  it uses a simple comm<<and>> language <<design>>ating  
+c<<on>>sisting <of> <the> textual string desired <<and>> strings  
+
+
+DocID: CACM-2155
+
+implementati<<on>> <of> some <of> his data structures in order <to> gain <efficiency>.  
+in terms <of> <the> graphs <to> <the>n specify <the>  
+this is based <<on>> directed graphs <with> named edges <<and>>  
+
+
+DocID: CACM-1238
+
+<the> reporting functi<<on>>.  a practical <<and>> satisfac<to>ry  
+in system <<design>>, particularly <the> h<<and>>ling <of>  
+<<and>> resp<<on>>sive <to> <the> changing requirements  
+
+
+DocID: CACM-2399
+
+<of> operati<<on>>, <<and>> some aspects <of> implementati<<on>> <are> discussed.  
+tube entry <<and>> display stati<<on>>s <with> keyboard <<and>> 13  
+a crt <editing> system  
+
+
+DocID: CACM-2705
+
+<of> general utility <<and>> studies <of> questi<<on>>s  
+ma<the>matics <<and>> natural languages.  <the> split between  
+through analogies <with> similar aspects <of>  
+
+
+DocID: CACM-1135
+
+in <the> program  e.g. modificati<<on>> <of> <<on>>ly <<on>>e entry <of> <the>  
+<of> flowcharts .  here an invariant pattern <of> procedure  
+<the> structural analysis <of> <the> class <of> processes <to> be represented  
+
+
+DocID: CACM-1844
+
+<the> size <<and>> power <of> <the> machines used <<and>> <the>  
+<the> ratio <of> <user>s <to> computers is dependent <<on>> both  
+from <<and>> <to> <the> remote terminals.  in <the>  
+
+
+DocID: CACM-2771
+
+<of> sol<id> objects <to> be syn<the>sized <<and>> s<to>red  
+<are> c<<on>>cise, readily composed, <<and>> <are> given in terms  
+<the> technique has <the> advantage that operati<<on>>s  
+
+
+DocID: CACM-1603
+
+<with> <the> m<<on>>i<to>r through a small set <of> meta-instructi<<on>>  
+<the> <user> program from <the> details <of> input/output timing,  
+<<design>>ed <to> c<<on>>trol a w<id>e variety <of> real-time  
+
+
+DocID: CACM-2187
+
+by <the> fact that change is an important feature <of> <the>  
+characteristics <of> <the> field <<and>> its relati<<on>>ships <to>  
+o<the>r fields, <<and>> a local view which focuses <<on>>  
+
+
+DocID: CACM-1646
+
+<<and>> during executi<<on>> <of> a program.  <the> need for  
+<the> diagnostic features.  <the> h<<and>>ling <of> error messages  
+<<and>> <the> particular techniques employed <to> prov<id>e  
+
+
+DocID: CACM-2990
+
+<to> <the> frequency <of> occurrence <of> <the> term in <the>  
+<to> c<<on>>struct for <the> average case.  in <the> present  
+<of> query term accuracy is in troduced as <the> probability  
+
+
+DocID: CACM-1748
+
+<the> scheduling mechanism is analyzed in detail <<and>> <the>  
+<the> noti<<on>>s <of> process <<and>> state vec<to>r <are> discussed,  
+<<and>> <the> nature <of> basic operati<<on>>s <<on>> processes  
+
+
+DocID: CACM-1465
+
+<efficiency> dictates that <the> overall <effectiveness>  
+various parts <of> a program <<and>> ec<<on>>omy <of>  
+be based <<on>> fixed c<<on>>venti<<on>>s <to> preserve <efficiency>  
+
+
+DocID: CACM-2959
+
+<of> informati<<on>> in two-dimensi<<on>>al pictures <of> tables,  
+describe <<and>> execute <the>ir applicati<<on>>s <<on>> a computer.  
+<the> <user> <of> sba <views> his applicati<<on>> as manipulati<<on>>  
+
+
+DocID: CACM-2950
+
+<of> a scheduling system which formalizes <the> noti<<on>> <of>  
+<of> such an implementati<<on>>  
+<<on>> priorities is derived.  <the> abstract model prov<id>es  
+

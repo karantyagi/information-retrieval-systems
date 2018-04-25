@@ -1,0 +1,710 @@
+LUCENE_NoStopNoStem
+
+Query
+What does type compatibility mean in languages that allow programmer
+defined types?  (You might want to restrict this to "extensible" languages
+that allow definition of abstract data types or programmer-supplied
+definitions of operators like *, +.)
+
+Top 100 Results (8 millisecs)
+
+
+DocID: CACM-2651
+
+<data> <type>s, modes, mode unions, <type> conversion,  
+and very flexible <data> <type> behavi<or>, <in> a context <<that>>  
+set <<of>> <data> <type>s and associated operations <in> a manner  
+
+
+DocID: CACM-2940
+
+<<languages>>, programm<in>g methodology, pro<<of>>s <<of>> c<or>rectness, <type>s, verification  
+cases <<of>> these loops are essentially identical <<to>> the  
+<<of>> <abstract> <data> <type>s.  <in> <this> paper the <abstract>ion techniques  
+
+
+DocID: CACM-1861
+
+how one writes def<in>itions, as well as on much <<of>>  
+higher level <<languages>> is described.  users <<of>> the  
+one <<of>> the first def<in>ition facilities f<or>  
+
+
+DocID: CACM-3105
+
+<in> operat<in>g systems by access control mechanisms.  <this>  
+<<languages>> <<that>> supp<or>t the notion <<of>> <abstract> <data>  
+expression <<of>> access constra<in>ts on shared <data>.  
+
+
+DocID: CACM-2931
+
+<in> the other direction f<or> the m<or>e applied parts <<of>>  
+<<of>> explanation <<to>> go from the conceptual ideas <<to>>  
+<what> is a computable process?  how  <or> how  
+
+
+DocID: CACM-3103
+
+<data> <type>s such as sets and lists, <programmer>  
+<abstract> <data> <type>s, au<<to>>matic programm<in>g, <data>  
+then <in>efficient <in> space <or> time.  <in> <this> paper  
+
+
+DocID: CACM-1614
+
+<<of>> the program and are not fixed <in> the language.  even  
+new <data> <type>s and opera<<to>>rs <<to>> the language.  
+the process<in>g <<of>> text conta<in><in>g def<in>ed contexts features  
+
+
+DocID: CACM-1902
+
+<<to>> rec<or>d the results <<of>> programm<in>g exercises <in> three  
+programs, and no special recognition <<of>> exercises by the opera<<to>>rs is necessary.  
+a discussion is given <<of>> alterations <<that>> were  
+
+
+DocID: CACM-2082
+
+<this> idea is  1  <<to>> use the phrase structure <<of>> a program <<to>> def<in>e the  
+structure <<of>> a f<or>mal documentation f<or> <<that>> program;  2  <<to>> use the syntactic  
+<type>s and identifiers <in> the result<in>g structure <<to>> trigger the au<<to>>matic  
+
+
+DocID: CACM-2470
+
+<data> <type>s out <<of>> simper ones with the operations <<of>> row<in>g,  
+questions <<of>> local and global environments and <<of>>  
+<in><<to>> <<languages>> through the mechanism <<of>> s<in>gle<<to>>n  
+
+
+DocID: CACM-2265
+
+<type> check<in>g.  <this> paper attempts <<to>> isolate  
+<<of>> the <type>-wise c<or>rectness <or> <in>c<or>rectness  
+notions <<of>> <abstract>ion and application <<of>> functions.  
+
+
+DocID: CACM-2957
+
+<data> <abstract>ion, relational <data>base, <data> <type>,  
+suggested <<that>> aggregate <type>s, and other <type>s  
+knowledge representation, <data> def<in>ition language  
+
+
+DocID: CACM-2956
+
+<data> <type>s, generic procedures, programm<in>g <<languages>>  
+notion <<that>> a <data> <type> is a set <<of>> values <<to>>gether  
+over the elements <<of>> any f<in>ite set  <in>stead <<of>> the  
+
+
+DocID: CACM-2958
+
+<abstract> <data> <type>s and the development <<of>> <data> structures  
+<abstract> <data> <type>, c<or>rectness pro<<of>>, <data> <type>,  
+<in> the development <<of>> s<<of>>tware <<that>> is reliable,  
+
+
+DocID: CACM-2254
+
+detail <<to>> be <<of>> value <in> the design <<of>> other array <<languages>>.  
+<<that>> subarrays may vary over the <or>ig<in>al array <in>  
+<<of>> general <in>terest is the <data> structure f<or> partition<in>g.  
+
+
+DocID: CACM-3031
+
+<<of>> an <abstract> <data> <type>.  second, semi-au<<to>>matic  
+the process <<of>> prov<in>g the c<or>rectness <<of>> an implementation  
+<data> <type>, <data> structure, specification  
+
+
+DocID: CACM-2078
+
+<<of>> derivatives <<of>> the distance between objects <or> their arrangement  
+computer graphic <<languages>>.  four alternative <data> structures  
+requirements f<or> <this> problem area are def<in>ed and compared with current  
+
+
+DocID: CACM-1602
+
+<<of>> solution is au<<to>>matically provided <in> conjunction  
+a knowledge <<of>> numerical methods <or> the <in>tricacies  
+have been au<<to>>mated so <<that>> the pose <programmer>  
+
+
+DocID: CACM-3101
+
+<<of>> the <programmer>, permitt<in>g the def<in>ition <<of>> various  
+recursive functions <or> as c<or>out<in>es.  <this> <in>tegration  
+well suited <<to>> goal-<or>iented problems and <<to>> other problems  
+
+
+DocID: CACM-2684
+
+<<to>> def<in>e <abstract> syntax and translations between <<languages>>,  
+systems <in> provid<in>g a readable and complete f<or>mal def<in>ition  
+<<of>> the syntax <<of>> programm<in>g <<languages>> has been  
+
+
+DocID: CACM-2002
+
+d <in> a way such <<that>> the user could supply the m<in>imum <<of>> <in>f<or>mation,  
+common <<to>> all <type>s <<of>> <data> plots are outl<in>ed and the way <in> which these  
+systems <or> other attributes <<of>> the plot.  <this> enables plots <<of>> any  
+
+
+DocID: CACM-2939
+
+mechanisms <<that>> supp<or>t the use <<of>> <data> and  
+<<languages>>, through the procedure <or> subrout<in>e.  
+w<or>k <in> programm<in>g methodology has led <<to>> the realization  
+
+
+DocID: CACM-2705
+
+<in> programm<in>g. the development <<of>> natural <<languages>> <<to>>ward  
+<<of>> the his<<to>>ry <<of>> artificial, auxiliary <<languages>> it  
+<<of>> general utility and studies <<of>> questions  
+
+
+DocID: CACM-1678
+
+role <<of>> each <<of>> the courses <in> the graduate program  
+a number <<of>> courses are listed <in> the area  
+<<to>> a ph. student <in> computer science.  a brief  
+
+
+DocID: CACM-1626
+
+<<of>> virtual mem<or>y <<to>> <<allow>> address arithmetic f<or> <type>  
+<<of>> techniques <<that>> have been used <<to>> build a lisp  
+be enough c<or>e mem<or>y <<to>> conta<in> all the <data>  
+
+
+DocID: CACM-1463
+
+one <<of>> the most salient characteristics <<of>> <extensible>  
+l<in>kage <<that>> were embodied <in> the auth<or>s' previous  
+various levels <<of>> programm<in>g <<languages>>.  
+
+
+DocID: CACM-2785
+
+<<to>> specify the parallelism <<of>> his alg<or>ithm <in> terms <<of>> 64-w<or>d  
+glypnir is one <<of>> the earliest exist<in>g <<languages>>  
+been extended <<to>> <<allow>> the <programmer> explicitly  
+
+
+DocID: CACM-1379
+
+a f<in>al solution <<to>> the dangl<in>g else <<of>> algol 60 and related <<languages>>  
+<or> <<to>> the second one.  exist<in>g solutions <<to>> the problem  
+lies <in> whether <<to>> attach the else <<to>> the first if  
+
+
+DocID: CACM-2341
+
+<in> <what> appears <<to>> be an easy and natural way.  <in> addition  
+aggregate <<of>> characters <in> the f<or>m <<of>> a right parallelepiped,  
+adapt <in> size and shape <<to>> their environment.  blocks  
+
+
+DocID: CACM-1470
+
+the <data> itself,  2  by referr<in>g <<to>> the <data> by  
+specification is similar <<to>> a requirement, but the <programmer>  
+<<that>> commands the action <<to>> be taken.  a requirement  
+
+
+DocID: CACM-2138
+
+<data> structures <in> terms <<of>> the access alg<or>ithm f<or> elements <<of>> the structure.  
+<<to>> <<allow>> access <<to>> all relevant hardware features <<of>>  
+by which <<to>> cope with the evolutionary nature <<of>> systems  
+
+
+DocID: CACM-1589
+
+<type> <or> dimension declarations.  m<or>eover, <in> the onl<in>e  
+<or> <in>struction, s<in>ce the growth <<of>> an overlay<in>g  
+results.  use <<of>> the system requires a m<in>imum <<of>> experience  
+
+
+DocID: CACM-0867
+
+fitt<in>g <<of>> broken plane segments <<to>> surfaces z=g x,y  def<in>ed  
+closet fit <<of>> broken l<in>e segments <<to>> a curve <in> an  
+the constra<in>t <<that>> the plane segments are def<in>ed  
+
+
+DocID: CACM-1783
+
+base <<to>> <<allow>> such <in>-and-out conversions <<to>> return  
+back <<to>> a float<in>g-po<in>t number <in> the <or>ig<in>al  
+byan <in>-and-out conversion we <mean> <<that>> a float<in>g-po<in>t  
+
+
+DocID: CACM-1491
+
+<<of>> algol is described <in> full detail <<to>> demonstrate <<that>>  
+etc. can be def<in>ed adequately and precisely by <this> method.  
+<<of>> a sequence <<of>> <in>terpretation rules exerts  
+
+
+DocID: CACM-3142
+
+<what> <type> <<of>> err<or>s occur?  how easily are they c<or>rected?  <what>  
+<or> m<or>e err<or>s per year.  eighty percent relate <<to>> bill<in>g.  attempts  
+from such <data>? results show <<that>> with the present state <<of>> the  
+
+
+DocID: CACM-1098
+
+<<of>> s<<to>>rage, use <<of>> pushdown s<<to>>res, and use <<of>>  
+some heuristics <<to>> aid <in> the selection <<of>> one <<of>> these  
+<<languages>> are reviewed: f<or>ms <<of>> <data> structures  
+
+
+DocID: CACM-2632
+
+<<of>> any <<of>> the operations def<in>ed with respect <<to>> <<that>>  
+<this> paper describes the design philosophy <<of>>  
+<<to>> a given <type>, shar<in>g, and protection <<of>> any reference  
+
+
+DocID: CACM-2264
+
+terms <<of>> values and side-effects.  a transla<<to>>r is def<in>ed  
+<<to>> make the pro<<of>> rig<or>ous.  c<or>rectness <<of>> the  
+and side-effect <<of>> the program.  dur<in>g the course <<of>>  
+
+
+DocID: CACM-2941
+
+<type>s and <type> coercions, the benefits <<of>> the <type> system  
+difficulty <<of>> mak<in>g the treatment <<of>> variant rec<or>ds safe.  
+programm<in>g <<languages>>, <type>s, modules,  
+
+
+DocID: CACM-2699
+
+sets <<of>> <or>dered n-tuples usable as mapp<in>gs.  <this>  
+<<of>> very high level whose reper<<to>>ire <<of>> semantic  
+ tabulated  mapp<in>gs <<to>> be proved.  once facts <<of>> <this>  
+
+
+DocID: CACM-1112
+
+one err<or>, which <might> be a wrong, miss<in>g <or> extra letter  
+over 95 percent <<of>> these err<or> <type>s.  
+<or> a s<in>gle transposition.  the unidentified  
+
+
+DocID: CACM-0630
+
+<<that>> readability can be added au<<to>>matically <in>  
+<<to>> write" are not <<of>>ten compatible.  <this> paper argues  
+<<of>> the many requirements <<of>> an au<<to>>code, the  
+
+
+DocID: CACM-1210
+
+<<to>> facilitate handl<in>g <<of>> tape files.  they <<allow>>  
+<this> note describes some f<or>tran subrout<in>es  
+the casual scientific <programmer>'s idea <<of>> simplicity.  
+
+
+DocID: CACM-1625
+
+been implemented <in> a process<or> called sure <<that>> accepts  
+some <<of>> the problems encountered <in> au<<to>>matic improvement  
+au<<to>>matically <<to>> programs written <in> an algol-<like>  
+
+
+DocID: CACM-0527
+
+the f<or>mal def<in>ition <<of>> a concept is recursive <in> nature.  
+a concept is def<in>ed as a class <<of>> objects  
+<<of>> the set <<of>> all objects <in><<to>> disjo<in>t classes.  
+
+
+DocID: CACM-2320
+
+err<or>s <<to>> be caught at compile time.  a comb<in>ation <<of>>  
+<<of>> programs and permits a large class <<of>> time-dependent  
+<programmer> <<to>> control schedul<in>g <<of>> resources among  
+
+
+DocID: CACM-2603
+
+simple precedence <<languages>>.  <in> <this> paper <this>  
+<<languages>> and determ<in>istic <<languages>>  
+was shown by m<or>ris <<to>> be a proper superclass <<of>> the  
+
+
+DocID: CACM-2937
+
+least <in> one environment, the use <<of>> a statically  
+and the number <<of>> runs conta<in><in>g err<or>s shows <<that>>, at  
+<<of>> the result<in>g programs.  <this> paper discusses an experiment  
+
+
+DocID: CACM-0595
+
+<might> we approach solv<in>g <this> problem?  
+accepted <<that>> some knowledge <<of>> the hardware and computer  
+cobol, the use <<of>> such syntax <in> solv<in>g any given problem,  
+
+
+DocID: CACM-1282
+
+possible <<to>> write f<or>tran iv subrout<in>es <<that>> may  
+enables the <programmer> <<to>> take advantage <<of>> the  
+the use <<of>> f<or>tran <in> subrout<in>es with cobol ma<in> programs  
+
+
+DocID: CACM-2201
+
+contributions <<of>> anima<<to>>r will be the provision <<of>> a  
+<<to>> produce the same sequence <<of>> pictures can be generated.  
+design <<of>> picture sequences <in> a conversational  
+
+
+DocID: CACM-1869
+
+<or> implicit block structures <<to>> provide a nam<in>g  
+and  2  there is a significant sav<in>g <in> the number <<of>>  
+<in>direct address<in>g with<in> function def<in>itions;  
+
+
+DocID: CACM-3171
+
+<<to>> be used f<or> implementations <<of>> high level <<languages>>.  under suitable  
+<in> either time <or> space, dur<in>g execution <<of>> the program.  
+circumstances, <this> method requires absolutely no overhead,  
+
+
+DocID: CACM-1262
+
+<<to>> <in>dicate sections <<of>> program which are <<to>> be executed  
+a range <<of>> parallel operation and partly <<to>>  
+two statements are suggested which <<allow>> a <programmer>  
+
+
+DocID: CACM-1237
+
+the nature <<of>> table-<or>iented programm<in>g <<languages>>  
+conversion <<of>> decision tables <<to>> computer programs  
+<<of>> decision tables <<to>> programs are presented  
+
+
+DocID: CACM-2722
+
+<<of>> the search space  as a <data> structure f<or> s<<to>>rage <<of>>  
+<data> structure can handle many <type>s <<of>> queries  
+a significant advantage <<of>> <this> structure is <<that>> a s<in>gle  
+
+
+DocID: CACM-2081
+
+<<of>> matrices  are considered, and matrix opera<<to>>rs areext  
+ended <<to>> sequence opera<<to>>rs and cumulative opera<<to>>rs.  alg<or>ithms  
+superfluous operations.  sequences <<of>> matrices  and sequences <<of>> sequences  
+
+
+DocID: CACM-2898
+
+<programmer> <<to>> prescribe explicitly the <or>der <in>  
+manner.  <in> general, a program specified <in> <this>  
+<<of>> his problem.  the requirement <<to>> <in>dicate irrelevant  
+
+
+DocID: CACM-1390
+
+rules <<to>> lists and arrays as easily as str<in>gs, <<that>> both  
+pr<in>ciple which <<allow>> their elab<or>ation <in> <<to>> m<or>e  
+language are <<that>> it <<allow>>s one <<to>> apply transf<or>mation  
+
+
+DocID: CACM-2305
+
+<<of>> <<to>>day's programm<in>g <<languages>>  
+<in>sights <<that>> would lead <<to>> advancements <in> the state  
+the<or>y <<of>> programm<in>g, his<<to>>ry <<of>> programm<in>g  
+
+
+DocID: CACM-2178
+
+<<of>> an explicit syntax necessary.  an example <<of>>  
+<<of>> the def<in>ition <<of>> a language <in> terms <<of>> its semantics are discussed.  
+terms <<of>> its semantics; <<that>> is, the <data> structures  
+
+
+DocID: CACM-2876
+
+supplied <<to>> him by the <data>base.  the ability <<to>> condition  
+dimension <<of>> privacy protection, the control over <what>  
+it appears <<to>> be necessary f<or> the <data>base <<to>>  
+
+
+DocID: CACM-2314
+
+<in>put and output <<of>> <data> would facilitate use <<of>>  
+a wide range <<of>> applications.  three aspects <<of>> programm<in>g  
+efficient, and run on <data>.  because <<of>> <this> general  
+
+
+DocID: CACM-1878
+
+depend on be<in>g able <<to>> f<in>d and mark nodes <<that>>  
+list <<of>> slip may be amended <<to>> mark those lists  
+recovery <<of>> reentrant list structures <in> slip  
+
+
+DocID: CACM-1469
+
+<<of>> application area by a unified framew<or>k.  <this> framew<or>k  
+<<of>> them, functional relations among them  <<that>> can  
+<<that>> aims <<to>> expand the class <<of>> users' needs  
+
+
+DocID: CACM-1911
+
+<<to>> the syntactic analysis problem f<or> <this>  
+<<of>> both the generative procedure <<of>> <this> paper  
+and its <in>verse is given <in> the f<or>m <<of>> lisp function def<in>itions.  
+
+
+DocID: CACM-2406
+
+<data> bases.  <this> paper reviews past w<or>k <in> the <data>  
+and physical aspects <<of>> <data>.  applications <<of>> these  
+<data> def<in>ition language, <data> and s<<to>>rage structure,  
+
+
+DocID: CACM-2627
+
+ <or> <mean> time <in> system  is not only desirable <<to>>  
+m<in>imiz<in>g <mean> f<in>ish<in>g time.  <in> addition <<to>>  
+tasks.  <in> <this> paper a determ<in>istic model <<of>> <in>dependent  
+
+
+DocID: CACM-1693
+
+implicitly def<in>ed by usage <in> other declarations.  as  
+them.  the basic language is m<in>imal <in> the sense <<that>>  
+are not basic; they are special <type>s <<of>> procedures.  
+
+
+DocID: CACM-2152
+
+<this> technique employs display procedures <<to>>  
+possible both <<to>> simplify the specification <<of>> pictures  
+from aversion <<of>> the euler language <in> which  
+
+
+DocID: CACM-1366
+
+implications <<of>> <this> analysis f<or> designers <<of>> <<languages>>,  
+<<that>> analysis <<of>> strengths and weaknesses <<of>> each  
+<<languages>>.  the computational characteristics <<of>>  
+
+
+DocID: CACM-3185
+
+stick <<to>> modest and elegant programm<in>g <<languages>>, provided <<that>> we respect  
+the humble <programmer>  
+task with a full appreciation if its tremendous difficulty, provided <<that>> we  
+
+
+DocID: CACM-2527
+
+proposed <in> the past.  <this> rep<or>t describes the actual  
+detects many <type>s <<of>> <programmer> err<or>s.  
+<type> <<to>> another, checks subscripts, and au<<to>>matically  
+
+
+DocID: CACM-1162
+
+from a symbolic <<to>> a numeric version <<of>> a program, <<that>>  
+the mapp<in>g <<of>> any language which conf<or>ms <<to>>  
+the user <might> desire.  thus, <this> meta-language  
+
+
+DocID: CACM-2051
+
+<in> <<that>> pair <<of>> w<or>ds.  the output is a list <<of>> all c<or>respondence  
+<type>s with their frequency <<of>> occurrence <in> the <data>, and a  
+<<of>> the <<to>>tal frequency <in> the <data> <<of>> each c<or>respondence found  
+
+
+DocID: CACM-1835
+
+<<languages>> programm<in>g <<languages>>, student programm<in>g  
+<<to>> be followed <in> a student language is given.  
+<<of>> <data> <type>s.  several novel and powerful features  
+
+
+DocID: CACM-3030
+
+and <in> the reliability <<of>> the programs produced.  <in> <this>  
+<or> predict substantial <in>creases <in> productivity  
+recognized as helpful <in> the construction <<of>>  
+
+
+DocID: CACM-3150
+
+<<to>> shift our attention away from the detailed specification <<of>>  
+lead<in>g <<to>> basic changes <in> the nature <<of>> programm<in>g.  current programm<in>g  
+as high level <<languages>> enabled the <programmer> <<to>> escape from the  
+
+
+DocID: CACM-2717
+
+<data> conversion, <data> restructur<in>g, <data> translation,  
+def<in>ition language f<or> <data> conversion  
+utility program, programm<in>g <<languages>>, nonprocedural <<languages>>  
+
+
+DocID: CACM-2534
+
+<<to>> accommodate these extensions <<to>> pl/i without  
+<<of>> diagnostic assistance <in> a batch process<in>g environment.  
+<in> spite <<of>> the diagnostic eff<or>t pl/c is  
+
+
+DocID: CACM-3097
+
+are numbered 0 <<to>> n - 1, and blocks <<of>> n bits are  
+the m<in>imum shift rate requirement <does> not <<allow>> one  
+f<or> the purposes <<of>> <this> paper, a block-transfer  
+
+
+DocID: CACM-2126
+
+programm<in>g <<languages>>, <extensible>, compiler, bootstrapp<in>g, ambiguity  
+f<or> different categ<or>ies <<of>> users.  
+experience with an <extensible> language  
+
+
+DocID: CACM-1154
+
+<or> all <<of>> the follow<in>g:  1  <restrict> the manner <in>  
+<in> <this> categ<or>y are as closely related <<to>>  
+<<of>> the length <<of>> the <in>put,  3  <restrict> the <<to>>tal amount  
+
+
+DocID: CACM-2919
+
+are considered.  <in> <this> paper it is suggested <<that>>  
+basic sections <<of>> the paper <in> troduce the subject,outl<in>e  
+which is dedicated <<to>> <<that>> purpose.  such a computer  
+
+
+DocID: CACM-3013
+
+<<to>> one <<of>> the standard digital approximations <<to>> the gradient.  
+<this> note describes two opera<<to>>rs <<that>> respond  
+obta<in>ed from these opera<<to>>rs applied <<to>> a set <<of>> test  
+
+
+DocID: CACM-3198
+
+action - <or> <in>tellectual energy <<to>> mechanical energy. the medium <<that>> we use  
+<<of>> language. <in> the areas <<of>> language <in>vestigation we have concentrated first  
+the problem we have been concerned with is <<that>> <<of>> convert<in>g language <<to>>  
+
+
+DocID: CACM-2546
+
+the use <<of>> grammatical <in>ference f<or> design<in>g programm<in>g <<languages>>  
+identification <in> the limit, <extensible> <<languages>>  
+<<to>> a subclass <<of>> opera<<to>>r precedence grammars, but  
+
+
+DocID: CACM-1853
+
+<<of>> the two.  a description is given <<of>> <<that>> list representation  
+alg<or>ithm is presented <in> detail.  several classes <<of>> the  
+a list <<to>> be cha<in>ed, compact, <or> any comb<in>ation  
+
+
+DocID: CACM-2794
+
+<in> <this> manner.  a representation <<of>> the  
+<in> such a way <<that>> the <in>ference system employed  
+the set <<of>> clauses is <in>terpreted <in> the state-spacer  
+
+
+DocID: CACM-3002
+
+<this> model has already been used <in> the optimization <<of>>  
+<<that>> are s<<to>>red on different devices.  one <<of>> the subrec<or>ds  
+one <<of>> the ma<in> objectives <in> the design <<of>>  
+
+
+DocID: CACM-2833
+
+<this> paper describes a new way <<of>> solv<in>g  
+heap, and <does> not require the <programmer> <<to>> give  
+alg<or>ithms are designed <<to>> w<or>k well <in> systems  
+
+
+DocID: CACM-2843
+
+<this> paper describes a set <<of>> <<to>>ols and a philosophy  
+<<to>> augment the basic concepts with relevant,  
+f<or> teach<in>g s<<of>>tware <<that>> have been found  
+
+
+DocID: CACM-2389
+
+<<that>> language are described which <<allow>> the  
+used <<to>> solve problems expressed <in> <this> language  
+and <in>cludes <mean>s <<to>> represent spaces and objects, <<to>> manipulate  
+
+
+DocID: CACM-1703
+
+<<of>> the language.  use <<of>> the <or>ganizational trademark  
+accessible <<to>> the user <<to>> <<allow>> local variations  
+<<to>> other programm<in>g <<languages>> and computer services.  
+
+
+DocID: CACM-3066
+
+err<or>s and <<that>> the most effective methods  <in> terms <<of>>  
+and <<that>> the ability <<to>> detect certa<in> <type>s <<of>>  
+<this> paper describes an experiment <in> program  
+
+
+DocID: CACM-1988
+
+such as compiler-compilers <or> extendible <<languages>>.  
+the f<or>malism here <might> be used <<to>> def<in>e and answer such a  
+<<of>> process<or>s f<or> programm<in>g <<languages>>-compilers,  
+
+
+DocID: CACM-2558
+
+protection <in> programm<in>g <<languages>>  
+protection, <type>s, environments,trademarks, seals,  
+l<in>guistic mechanisms which can be used <<to>> protect  
+
+
+DocID: CACM-2851
+
+there <<to>> be arbitrarily many <in>struction po<in>ters  <or>  
+use <<of>> "place variables," it is observed <<that>> certa<in>  
+<<to>> previous w<or>k on the satisfiability <<of>> certa<in> logical f<or>mulas.  
+
+
+DocID: CACM-1180
+
+<data> arranged <in> a l<in>ear f<or>m <in> a w<or>kspace  
+<in> acc<or>dance with def<in>itions <<of>> symbolic terms,  
+<<of>> imperatives are given <<to>> show a few applications  
+

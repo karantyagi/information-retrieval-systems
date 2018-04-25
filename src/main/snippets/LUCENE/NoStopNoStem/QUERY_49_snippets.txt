@@ -1,0 +1,702 @@
+LUCENE_NoStopNoStem
+
+Query
+The role of information retrieval in knowledge based systems
+(i.e., expert systems).
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-3012
+
+<of> <the> study for <the> design <of> similar <<systems>> are discussed.  
+and <retr<ie>val> system.  a monitor built <in>to <the> computer  
+<the> use <of> this system.  <the> implications  
+
+
+DocID: CACM-2390
+
+users <of> <the> system can store <in> <the> computer  
+because <of> <the> problems created by <the> explosion  
+<of> useful comments by <the> readers <of> a work and for <in>teraction  
+
+
+DocID: CACM-1699
+
+<in> <the>ir design, were conducted at <the> moore school <<in>formation>  
+<of> <the> research is that an <<in>formation> <retr<ie>val> system  
+<of> documents.  factors <in>volved <in> evaluation  
+
+
+DocID: CACM-2795
+
+<the> program employs both <the> <<in>formation> <retr<ie>val> and  
+deduction capabilit<ie>s <of> <the> memory model.  <the>  
+<of> conceptual propert<ie>s stored <in> discrim<in>ation nets;  
+
+
+DocID: CACM-2990
+
+<of> query term accuracy is <in> troduced as <the> probability  
+to <the> frequency <of> occurrence <of> <the> term <in> <the>  
+<of> occurrence <of> a query term <in> <the> documents  
+
+
+DocID: CACM-2307
+
+reorganization <of> <the> stored <<in>formation> as a function <of>  
+<the> current <role> <of> computers <in> automatic  
+for <<in>formation> <retr<ie>val> and for <the> control  
+
+
+DocID: CACM-3134
+
+<the> normal multiplication table method y<ie>lds far more rapid <retr<ie>val>  
+<the> appropriateness <of> <the> above approach to a given <<in>formation> system  
+<<in>formation> <retr<ie>val>, <in>verted files, multiattribute <retr<ie>val>,  
+
+
+DocID: CACM-1514
+
+<of>:  1  <the> prior proportion <of> omitted terms, and  2  <the>  
+on <the> expected ga<in> from adjust <in>g matched term <retr<ie>val> <<systems>>  
+term <retr<ie>val> <<systems>>.  <the> expected ga<in> and its probability  
+
+
+DocID: CACM-2163
+
+use <of> computers <in> organizations, to classify <the>  
+<the> education necessary for <the> effective  
+education related to <the> use <of> computers <in> organizations  
+
+
+DocID: CACM-0239
+
+<in>effic<ie>ncy <of> <the> use <of> boolean functions  
+for <<in>formation> <retr<ie>val> <<systems>>  
+
+
+DocID: CACM-1032
+
+<of> <<in>formation> and tagg<in>g it for effective <retr<ie>val>,  
+<the> nonrelevant, and penalizes <the> system for <the>  
+<of> <the> file with a high probability <of> be<in>g  
+
+
+DocID: CACM-2631
+
+<of> this subset are <the>n used as <in>dex keys for <retr<ie>val>.  
+<retr<ie>val>, namely, <the> ma<in>tenance and use <of> large  
+one <of> <the> problems <of>ten associated with <<in>formation>  
+
+
+DocID: CACM-2882
+
+<retr<ie>val> <<systems>>.  <the>se data <retr<ie>val> <<systems>> can  
+by us<in>g <the> model to study <the> effect <of>  
+database organizations <in> data <retr<ie>val> <<systems>>.  <in> particular,  
+
+
+DocID: CACM-1935
+
+<the> search method described is b<in>ary <in> nature  
+a given document <in> a randomly received list <of> files.  
+and variance <of> <the> number <of> trials to recover  
+
+
+DocID: CACM-2046
+
+<of> changes <in> query, update, and report traffic and natural growth <in> <the>  
+future users <of> large data banks must be protected from hav<in>g to know how <the>  
+and <the> concept <of> a universal data sublanguage are <in>troduced.  <in>  
+
+
+DocID: CACM-0616
+
+<the> <<systems>> analyst's use.  <the>y trust that <the> ideas  
+language, at <the> <<systems>> level <of> data process<in>g.  <the>  
+first phase <of> <the> work <of> <the> language structure  
+
+
+DocID: CACM-1457
+
+<the> manipulation <of> a var<ie>ty <of> different  
+<in> automatic <<in>formation> <retr<ie>val>  
+outl<in>ed <in> <the> light <of> <the> procedures requir<in>g  
+
+
+DocID: CACM-1959
+
+for <the> design and cod<in>g <of> large shared data base <<systems>>.  <the>  
+<the> new organization which is proposed for management <<in>formation> <<systems>>.  
+and <the> newly <in>troduced concept <of> "file tagg<in>g," which is <the>  
+
+
+DocID: CACM-1236
+
+operat<in>g on <the> ibm 7094 is described.  <the> system  
+<the> smart automatic document <retr<ie>val> system-an illustration  
+<of> analysis procedures can <in> general be rel<ie>d upon to  
+
+
+DocID: CACM-3090
+
+features <of> <the> computer-<based> system and <of> <the> organizational  
+<of> comput<in>g, management <<in>formation> <<systems>>,  
+to enhance <the> adm<in>istrative  attractiveness <of> <the>  
+
+
+DocID: CACM-3177
+
+half <the> p<ie>ces and security breaches expose all but one <of> <the>  
+<of> robust key management schemes for cryptographic <<systems>>  
+olutely no <<in>formation> about d.  this technique enables <the> construction  
+
+
+DocID: CACM-1725
+
+<the> <in>dividual digit columns <of> <the> memory.  thus <the>  
+words from <the> memory.  lew<in> proves that, for <the> readout  
+aspects <of> <the> structure <of> sets <of> b<in>ary  
+
+
+DocID: CACM-2407
+
+<the> need for education related to <<in>formation>  
+<<in>formation> <<systems>>, <<in>formation> analysis,  
+programs <in> <<in>formation> <<systems>>  
+
+
+DocID: CACM-2402
+
+<the> correct structure cannot be computed because <of>  
+to <the> experimental data.  application <of> standard  
+molecular model build<in>g, i.e. <the> use <of> chemical <<in>formation>  
+
+
+DocID: CACM-0651
+
+a survey <of> languages and <<systems>> for <<in>formation> <retr<ie>val>  
+
+
+DocID: CACM-2479
+
+<the> course is outl<in>ed <in> <the> format <of> <the>  
+is proposed. <the> proposed addendum is to <in>clude <in> <the> curriculum  
+<<systems>> adm<in>istration, <<in>formation> <<systems>>  
+
+
+DocID: CACM-2198
+
+<the> art <in> <the>se <<systems>> and discusses <the> differences  
+<<systems>>.  after some discussion <of> <the> problems  
+problem <of> cater<in>g to a high volume <of> transactions  
+
+
+DocID: CACM-2311
+
+<the> scope <of> development projects and <the>  
+po<in>t <of> v<ie>w that parallels <the> commonly  
+<<systems>>, s<of>tware <<systems>>, <<systems>> development  
+
+
+DocID: CACM-2288
+
+<the> consecutive <retr<ie>val> property are proved <in>  
+<retr<ie>val> system <based> on <the> consecutive  
+set.  its existence enables <the> design <of> an <<in>formation>  
+
+
+DocID: CACM-2985
+
+<of> <the> four stages <of> edp growth [15].  <the> results also  
+<<systems>> is asserted to be a category <of> organizational  
+<the> relationship <of> <in> ternal pric<in>g <<systems>>  
+
+
+DocID: CACM-1681
+
+is sent to <the> system.  a macro flowchart <of> easy  
+<the> pr<in>tout <of> a <retr<ie>val> demonstration.  
+data base, <the> moore school <<in>formation> <<systems>> laboratory  
+
+
+DocID: CACM-2318
+
+<the> <role> <of> computer system models <in> performance evaluation  
+methods for evaluat<in>g <the> performance <of> computer  
+which <the> use <of> a model is appropriate.  
+
+
+DocID: CACM-1627
+
+<retr<ie>val> <<systems>>.  <the> concept <of> level  
+storage capacit<ie>s <of> certa<in> data management and <<in>formation>  
+a technique for organiz<in>g <the> devices <of> a computer  
+
+
+DocID: CACM-2870
+
+<the> model provides a unify<in>g v<ie>w <of> all <<systems>>  
+<of> secure <<in>formation> flow among security classes. <the>  
+derived from <the> security classes and justif<ie>d by <the> semantics  
+
+
+DocID: CACM-2519
+
+devices, <the> exhibition <of> <the> structure <in>herent <in> <the>  
+<the> nature <of> <the> difficulty <in>volved <in> communicat<in>g  
+on <the> problem <of> communicat<in>g complex <<in>formation>  
+
+
+DocID: CACM-1652
+
+on <the> basis <of> <the> requirements <of> local environments.  
+rate <of> <the> <<in>formation> channel l<in>k<in>g <the> system and  
+to problems <in> area such as <<in>formation> <retr<ie>val>, document  
+
+
+DocID: CACM-2160
+
+<of> lists.  <the> structure is highly dependent on <the>  
+<of> a boolean algebra generated by <the> quer<ie>s.  <the> desirable  
+on <the> basis <of> a s<in>gle value is permitted.  <the> file  
+
+
+DocID: CACM-0440
+
+particulars.  <the> underly<in>g problem is that <of> mak<in>g nearly  
+<<systems>> have been developed <in> a methodological  
+maximum use <of> items <of> identify<in>g <<in>formation>  
+
+
+DocID: CACM-2561
+
+<of> a similarity structure which is imposed on <the>  
+are implemented <in> a model fact <retr<ie>val> system  
+<the> system can <in>fer <the> correct response under  
+
+
+DocID: CACM-1199
+
+on exper<ie>nce; <in> most <in>stances, <the> benefits  
+center <in> terms <of> <<in>formation> nets, decision processes,  
+and <the> application <of> <the> results are discussed.  
+
+
+DocID: CACM-1541
+
+aspects <of> simulation stud<ie>s.  <the> ability to represent  
+<the> general objective <of> this language is  
+and <the> <role> <of> <the> process concept, is presented  
+
+
+DocID: CACM-1388
+
+<of> such equations and <the>n generates <the> expansions  
+<in>to <the> f<in>al expansions.  thus <the> exact <in>fluence  
+for all <of> <the> dependent variables. <the> expansions  
+
+
+DocID: CACM-1280
+
+<in> which multiple-lags and lags dependent on <the>  
+are <of> common occurrence <in> biology.  variable  
+<<systems>> <in> which variable time-lags are present  
+
+
+DocID: CACM-1728
+
+<the> frequency <of> page faults, i.e. <the> frequency <of> those  
+<of> page replacement algorithms and for assess<in>g <the>  
+<the> data collected from <the> <in>terpretive execution <of>  
+
+
+DocID: CACM-2741
+
+<<systems>> is proposed.  it is <based> on a technique <of> variable  
+pag<in>g <<systems>>  i  unstable regimes <of> operations and  ii   
+is taken <in> order to identify <in> multiprogramm<in>g  
+
+
+DocID: CACM-2852
+
+<in> computer sc<ie>nce or <in> <<in>formation> <<systems>>  
+to <the> 13 courses proposed by <the> acm curriculum committee  
+at purdue for <the> past four years.  <the> course  
+
+
+DocID: CACM-1747
+
+<of> a virtual computer are expla<in>ed.  examples <of> applications  
+<of> <the> criteria concern <the> read<in>g <of>  
+<the> scope <of> <the> criteria, <the> notion <of> an abstract  
+
+
+DocID: CACM-2127
+
+but <of> questionable generality with respect ei<the>r to subtle aspects <of>  
+<<systems>> <based> on dictionar<ie>s with thousands <of> entr<ie>s-with  
+a new order <of> complexity and require <the> <in>vention and development  
+
+
+DocID: CACM-0652
+
+use <of> semantic structure <in> <<in>formation> <<systems>>  
+
+
+DocID: CACM-1233
+
+<<systems>>.  <the> conventions are appl<ie>d to <the> use  
+for <the> use <of> flowcharts for <<in>formation> process<in>g  
+<of> <the> symbols appear<in>g <in> <the> proposed american standard  
+
+
+DocID: CACM-2846
+
+<of> one key, is <of> <the> order logm n  and <the> storage  
+a parameter <of> <the> tr<ie>, but whereas <the> f<ie>lds <of> <the>  
+<<in>formation> <retr<ie>val> <<systems>>.  it has <the> same underly<in>g  
+
+
+DocID: CACM-2625
+
+<<systems>> on <the> basis <of> protection, simplicity <of>  
+lack <of> an effic<ie>nt absolute address for objects <in>  
+<the>se <<systems>>.  <the> direct use <of> a capability as  
+
+
+DocID: CACM-2798
+
+by determ<in><in>g <the> distribution <of> <the> number <of> memory  
+<in>terleaved memory <<systems>>, modular memory <<systems>>,  
+analysis <of> <in>terleaved memory <<systems>> us<in>g blockage buffers  
+
+
+DocID: CACM-2111
+
+to compilers and operat<in>g <<systems>>.  <the>se <in>clude <the> use <of> syntax  
+and symbol tables, and <the> consideration <of> a limited class <of> spell<in>g  
+and semantics <<in>formation>, <the> organization <of> restricted keyword  
+
+
+DocID: CACM-2345
+
+<the> need for education related to <<in>formation>  
+management <<in>formation> <<systems>>, <<in>formation> <<systems>>  
+<in> universit<ie>s, at <the> master's level.  material  
+
+
+DocID: CACM-2968
+
+quer<ie>s are <the> only operations <of> <in> terest, <the>n "pure"  
+compiler-<in>dependent.  <the> quality <of> <the> result<in>g  
+path length, analysis <of> algorithms, <<in>formation>  
+
+
+DocID: CACM-1751
+
+<knowledge> vital to <the> dynamic management <of>  
+program behavior.  <in> this paper a new model, <the>  
+probably <the> most basic reason beh<in>d <the> absence  
+
+
+DocID: CACM-1924
+
+be <in> ma<in> memory at one time.  exam<in>ation <of> addition,  
+<of> <the> number <of> pages <of> ma<in> memory available  
+for <the> purpose <of> m<in>imiz<in>g <the> page fault<in>g  
+
+
+DocID: CACM-1066
+
+by <the> new demands that applications with<in> <the>  
+system.  emphasis <in> this paper is devoted to <the> underly<in>g  
+<of> problem statement <in> terms <of> basic data to l<in>ear  
+
+
+DocID: CACM-0637
+
+<<systems>>.  this report presents <the> results <of> a project  
+<in> programm<in>g time and <the> improvement <in> documentation  
+completed <in> may, 1961 <in> which <the> neliac system  
+
+
+DocID: CACM-3181
+
+<the> <in>troduction <of> eft <<systems>> will require a coord<in>ated educational  
+effort <of> considerable scale.  <in> addition, research has revealed  
+research has revealed <the> existence <of> widespread  
+
+
+DocID: CACM-2319
+
+<of> an operat<in>g system, an overall model <of> <the> total  
+gaps still exist <in> out <knowledge>.  because <of> <the>  
+and design <the> performance aspects <of> an operat<in>g system  
+
+
+DocID: CACM-1680
+
+<<in>formation> <retr<ie>val>.  it is written <in> fortran  
+iv  g  for <the> ibm system/360, model 40, and <the> ibm 2250  
+<retr<ie>val> operat<in>g <<systems>>, graphics, displays, man-mach<in>e  
+
+
+DocID: CACM-2372
+
+on <the> implementation <of> security measures <in> <<in>formation> <<systems>>  
+<the> security <of> an <<in>formation> system may be  
+security features <of> several exist<in>g <<systems>>, and serves  
+
+
+DocID: CACM-2522
+
+implementation <of> a dispatcher <based> on <the> work<in>g set  
+<the> design, implementation, and evaluation <of> a work<in>g set dispatcher  
+<the> system resources to <the> processes compet<in>g for <the>m.  
+
+
+DocID: CACM-2168
+
+use <of> only a s<in>gle size and configuration <of>  
+list-process<in>g <<systems>> have each allowed <the>  
+allows <the> use <of> arbitrarily many different sizes  
+
+
+DocID: CACM-1808
+
+ma<in>ta<in> <the> confidentiality <of> <<in>formation> processed  
+to <the> unique characteristics <of> computer files  
+security <<systems>>, confidential <<in>formation>  
+
+
+DocID: CACM-1349
+
+<in> <the> near future.  <in> <the> author's op<in>ion, <the> state  
+<in> western europe <in> <the> summer <of> 1966 gives  
+<of> <knowledge>.  <the> effects <of> <the>se constra<in>ts  
+
+
+DocID: CACM-2650
+
+<in> a.  <the> method should f<in>d applications <in> <<in>formation>  
+<the> calculation <of> b by <the> method presented requires  
+time proportional to |a|, <the> number <of> characters  
+
+
+DocID: CACM-3011
+
+<<systems>>  mis  bear little relation to <the> <<in>formation>  
+<<systems>> currently <in> use by top management <in> most us local  
+nature <of> <the>se <<systems>>, management use <of> comput<in>g is  
+
+
+DocID: CACM-2765
+
+<in>dex organization, <<in>formation> storage and <retr<ie>val>, query answer<in>g  
+criteria to determ<in>e <the> optimum set <of> <in>dex keys.  
+storage requirements, formaliz<in>g <the> <in>teraction <of> data  
+
+
+DocID: CACM-0891
+
+to <in>stall an <<in>formation> <retr<ie>val> program <in> less than  
+<the> <<in>formation> <retr<ie>val> problem whose solution  
+everyman's <<in>formation> <retr<ie>val> system  
+
+
+DocID: CACM-1625
+
+on <the> form <of> <the> program and <the> <knowledge> obta<in>ed  
+some <of> <the> problems encountered <in> automatic improvement  
+on <the> automatic simplification <of> source-language programs  
+
+
+DocID: CACM-2711
+
+<the> usefulness <of> <the> model.  
+from <the> o<the>rs as possible; <in> <the>se circumstances  
+as a function <of> <the> density <of> <the> object space;  
+
+
+DocID: CACM-2002
+
+d <in> a way such that <the> user could supply <the> m<in>imum <of> <<in>formation>,  
+<<systems>> or o<the>r attributes <of> <the> plot.  this enables plots <of> any  
+subplots by <the> action <of> one or more simple modules is possible.  <the> user  
+
+
+DocID: CACM-1380
+
+concise description <of> discrete event <<systems>>.  a  
+60 <in> which <the> most important new concepts  
+is that <of> quasi-parallel process<in>g.  
+
+
+DocID: CACM-1415
+
+by <the> harvard multipath analysis program.  <the> basic  
+on <the> tree structure output <of> <the> analyzer,  
+to select <the> preferred syntactic <in>terpretation <of> a sentence.  
+
+
+DocID: CACM-1886
+
+<of> time.  an assignment algorithm is <the>n executed <in>  
+<the> expressions, i.e. f<in>d<in>g a set <of> subexpressions  
+encountered <in> symbol manipulat<in>g <<systems>>.  
+
+
+DocID: CACM-1937
+
+<the> command language <of> <the> system provides <the> user  
+<in> this paper <the> statements <of> <the> request language  
+data display, <<in>formation> <retr<ie>val>, graphic display,  
+
+
+DocID: CACM-1267
+
+<in>volv<in>g <<in>formation> rate can best be expressed as <the>  
+<of> determ<in>ation <of> transfer rate <of> <<in>formation>  
+<<in>formation> thruput as a characteristic <of>  
+
+
+DocID: CACM-2181
+
+<<systems>>.  an analysis <of> <the> m<in>utes <of> <the> meet<in>gs  
+<the> committee with material for its study <of>  
+<the> general manager; computer-related material <in>  
+
+
+DocID: CACM-2947
+
+is <in> many ways comparable to <in> teractive bibliographical  
+delimit<in>g <the> context <in> which <the> hit is to be  
+<the> comb<in>ed powers <of> simple commands, str<in>g  
+
+
+DocID: CACM-2572
+
+community or <the> acceptance <of> a policy <in>  
+is not yet <in> a position to justify ei<the>r <the> construction  
+<of> an <<in>formation> utility <in> a prototype  
+
+
+DocID: CACM-2406
+
+as <in> advanced data management <<systems>> and distributed  
+and physical aspects <of> data.  applications <of> <the>se  
+data bases.  this paper rev<ie>ws past work <in> <the> data  
+
+
+DocID: CACM-2812
+
+was translated to <the> form necessary for use by <the>  
+was written <in> ads  accurately def<in>ed <<systems>>   
+analysis for <the> design and development <of> an  
+
+
+DocID: CACM-2840
+
+is argued.  <the> "safety" problem for protection <<systems>>  
+a model <of> protection mechanisms <in> comput<in>g  
+protection <in> operat<in>g <<systems>>  
+
+
+DocID: CACM-3125
+
+<the> elim<in>ation <of> redundant computations and <the> mov<in>g <of> <in>variant  
+<<in>formation> or restrictions on <the> shape <of> <the> program graph.  
+general problem, i.e. <the> elim<in>ation <of> computations performed  
+
+
+DocID: CACM-0982
+
+and <the> measurement <of> physical similarity <in> pairs <of>  
+<role> <in> <the> proposed type <of> translator.  experimental  
+evidence is presented <in> support <of> <the> premise  
+
+
+DocID: CACM-1750
+
+million words <of> extended core storage.  <in> <the>  
+<the> use <of> large quantit<ie>s <of> addressable  
+<of> <the> hardware arrangement and <the> s<of>tware components  
+
+
+DocID: CACM-2888
+
+<of> methodical cod<in>g are discussed, and <the> way <in>  
+system.  <in> bus<in>ess <<systems>> associated  
+items <in> bus<in>ess <<systems>> have to be identif<ie>d  
+
+
+DocID: CACM-2735
+
+discrim<in>ation <in> <the> employment <of> women <in> <the> computer <in>dustry  
+programmers, <<systems>> analysis, keypunch operators,  
+
+
+DocID: CACM-1927
+
+curriculum <in> <the> general area <of> <<in>formation>  
+data <retr<ie>val>, language analysis, <<in>formation>  
+sc<ie>nce, <<in>formation> organization, <<in>formation> <retr<ie>val>,  
+
+
+DocID: CACM-1745
+
+use <of> computer <in>stallations and so that <the> cost <of> <the>ir  
+<the> effective operation <of> free enterprise <in>  
+so that <<in>formation> services may share <in> <the>  
+
+
+DocID: CACM-1713
+
+at one time.  <the> case his tory given <in> this paper  
+that can occur <in> multiprogramm<in>g <<systems>> when  
+<in> multiprogramm<in>g <<systems>>: a case his tory  
+
+
+DocID: CACM-2358
+
+<<systems>> has grown, <the> need to share <<in>formation>  
+s<in>ce <the> size <of> ma<in> memory on contemporary <<systems>>  
+<of> <<in>formation> stored <in> files kept <in> secondary storage.  
+
+
+DocID: CACM-3072
+
+<of> <in>put-output activity.  attention is given to <the>  
+execut<in>g on <the> cpu.  <the> model <<systems>> feature simulated  
+used are <the> data-flow rates for <the> processes  
+
+
+DocID: CACM-2314
+
+<the> author feels are important to improve <the> productivity  
+to <the> design <of> advanced programm<in>g <<systems>> for  
+<in>put and output <of> data would facilitate use <of>  
+
+
+DocID: CACM-1164
+
+implementation <of> compatibility features us<in>g <the> emulation  
+sections that describe <in> greater detail <the>  
+emulation <of> large <<systems>>  
+
+
+DocID: CACM-1951
+
+by <the> exponential distribution are discussed for <the> <<systems>> stud<ie>d.  
+be robust; that is each <of> <the> variables <of> <the> model has <the>  
+describe <the> discrete variables.  approximations to <the> gamma distribution  
+
+
+DocID: CACM-3137
+
+system from <the> perspective <of> <the> end-user.  <the> mak<in>g evident <the> effect <of>  
+<the> technique is illustrated by application to <the> design  
+a macro model <of> a distributed <<in>formation> system <in> presented.  <the> model  
+

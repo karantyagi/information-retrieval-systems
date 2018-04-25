@@ -1,0 +1,711 @@
+LUCENE_NoStopNoStem
+
+Query
+Hardware and software relating to database management systems.
+Database packages, back end computers, special associative hardware
+with microcomputers attached to disk heads or things like RAP, 
+relational or network (CODASYL) or hierarchical models, systems
+like SYSTEM R, IMS, ADABAS, TOTAL, etc.
+
+Top 100 Results (5 millisecs)
+
+
+DocID: CACM-3087
+
+design <and> implementation of this <system> is desc<r>ibed <and>  
+of <system> components <and> examples of ove<r>all <system>  
+<and> the <r>elationship of this <system> <<to>> othe<r>s.  
+
+
+DocID: CACM-3026
+
+<end> use<r> facilities, executive cont<r>ol <softwa<r>e>  
+<models> <<to>> the latest <system>, the 1100/80, int<r>oduced  
+languages, data <management> <<<system>s>>,  
+
+
+DocID: CACM-2967
+
+<and> c<r>eates, modifies, deletes, s<<to>><r>es, <and> <r>et<r>ieves  
+<system> utilizes a <<ha<r>dwa<r>e>> <associative> mem<<<o<r>>>>y  
+a compa<r>ison of <<ha<r>dwa<r>e>> <and> <softwa<r>e> <associative>  
+
+
+DocID: CACM-3142
+
+<end> ta<r>gets of a compute<r>ized p<r>ocess is assessed.  how many <and>  
+<<to>> c<<<o<r>>>><r>ect e<r><r><<<o<r>>>>s often tu<r>ned out <<to>> be difficult <and> not always  
+<<<o<r>>>> m<<<o<r>>>>e e<r><r><<<o<r>>>>s pe<r> yea<r>.  eighty pe<r>cent <r>elate <<to>> billing.  attempts  
+
+
+DocID: CACM-0695
+
+<disk> <and> c<<<o<r>>>>e s<<to>><r>age <with> minimum delaying <and>  
+limitations due <<to>> a<r>m motion <and> <disk> <r>otation a<r>e discussed.  
+<and> f<<<o<r>>>> mathematical <<<o<r>>>> physical developments du<r>ing  
+
+
+DocID: CACM-2424
+
+of ope<r>ating <system> decisions is used on the p<r>ime <system>  
+<<ha<r>dwa<r>e>> <and> <softwa<r>e> <r>equi<r>ed f<<<o<r>>>> dynamic  
+<<ha<r>dwa<r>e>> <and> <softwa<r>e>.  the dynamic ve<r>ification  
+
+
+DocID: CACM-1844
+
+<and> the<r>ef<<<o<r>>>>e m<<<o<r>>>>e <r>eliable app<r>oach <<to>> time-sha<r>ing <compute<r>s>  
+a dedicated <disk> d<r>ive, he may sha<r>e the compute<r> <with>  
+the size <and> powe<r> of the machines used <and> the  
+
+
+DocID: CACM-1366
+
+<and> of some of the involved in compa<r>ing <softwa<r>e> <packages>  
+paid <<to>> a distinction between continuous <and> disc<r>ete  
+pa<r>t is devoted <<to>> compute<r> simulation <and> simulation  
+
+
+DocID: CACM-1572
+
+<<to>> develop an app<r>op<r>iate <<ha<r>dwa<r>e>> configu<r>ation  
+would suggest, <and> the<r>e a<r>e few guides <<to>> assist  
+used <<to>> assist in the design <and> development of new time-sha<r>ing  
+
+
+DocID: CACM-2002
+
+<<to>> p<r>oduce a va<r>iety of a<r>tistic <and> othe<r> effects.  
+common <<to>> all types of data plots a<r>e outlined <and> the way in which these  
+may inte<r>act f<r>eely <with> amesplot at th<r>ee levels, enabling him <<to>> const<r>uct  
+
+
+DocID: CACM-2016
+
+multip<r>og<r>amming <<<system>s>>, measu<r>ing <<to>>ols, <system> analysis, multics,  
+<and> <r>ec<<<o<r>>>>ding <<to>>ols, <and> <special>ized measu<r>ement facilities.  some  
+compute<r> utility is discussed.  these <<to>>ols include <special> <<ha<r>dwa<r>e>>  
+
+
+DocID: CACM-1750
+
+ope<r>ating <<<system>s>>, cont<r>ol data c<<<o<r>>>>p<<<o<r>>>>ation 6600, ope<r>ating <system> <with> ecs  
+<with> the t<r>aditional configu<r>ation of sepa<r>ate <and> indep<end>ent  
+<and> functions of such a <system> a<r>e based on a  
+
+
+DocID: CACM-2311
+
+<<<system>s>>, <softwa<r>e> <<<system>s>>, <<<system>s>> development  
+computing milieu, <management> data p<r>ocessing, <<ha<r>dwa<r>e>>  
+p<r>ocess, functional <<<system>s>>, <management> <<<system>s>>  
+
+
+DocID: CACM-1083
+
+study of p<r>oblem solving <and> self-teaching <<<system>s>>.  
+<r>ules a<r>e quite flexible <and> un<r>est<r>ictive.  
+flexow<r>ite<r> is used <<to>> gene<r>ate compute<r>-acceptable  
+
+
+DocID: CACM-2593
+
+data <management> <system>, xdms, is desc<r>ibed <and> ce<r>tain  
+canaday, <r>. h.  
+ha<r><r>ison, <r>. d.  
+
+
+DocID: CACM-3202
+
+<and> obtaining analytic de<r>ivatives was t<r>anslated in<<to>> that of identifying <and>  
+notation <and> s<<to>><r>ed in the compute<r> as a st<r>ing of bcd cha<r>acte<r>s <with> all  
+<r>est<r>iction, <etc>.  so long as the enti<r>e exp<r>ession  <<<o<r>>>> any subsequent f<<<o<r>>>>m   
+
+
+DocID: CACM-2828
+
+<and> envi<r>onments is used not just <<to>> define thei<r> <r>elative  
+motion <and> placement, but also <<to>> assist in  
+"w<<<o<r>>>>king set," <<<o<r>>>> f<r>action of the <<to>>tal st<r>uctu<r>e  
+
+
+DocID: CACM-2812
+
+compute<r>-aided analysis <and> design of inf<<<o<r>>>>mation <<<system>s>>  
+soda  <<<system>s>> optimization <and> design alg<<<o<r>>>>ithm   
+of p<r>og<r>am modules <and> logical <<database>> st<r>uctu<r>es.  
+
+
+DocID: CACM-2738
+
+a numbe<r> of examples f<r>om <<ha<r>dwa<r>e>> <and> <softwa<r>e>  
+<<to>> w<<<o<r>>>>k <with> an abst<r>action of a <r>eal machine.  
+<hie<r>a<r>chical> <<<system>s>>, bot<<to>>m up design, levels  
+
+
+DocID: CACM-3158
+
+data <<to>> othe<r> use<r>s on the netw<<<o<r>>>>k.  
+<with> one <<<o<r>>>> m<<<o<r>>>>e cent<r>al facilities is p<r>oposed.  the method employs a  
+public-key enc<r>yption device <and> <<ha<r>dwa<r>e>> keys.  each use<r> is <r>esponsible  
+
+
+DocID: CACM-1774
+
+semiau<<to>>matic <and> nonau<<to>>matic -- a<r>e classified, <and> the  
+in detail, <with> <special> <r>efe<r>ence <<to>> <r>eal time  
+of machine <<ha<r>dwa<r>e>> <and> othe<r> <system> featu<r>es.  the  
+
+
+DocID: CACM-2516
+
+<<to>> p<r>edict the effect of such a <system> on  
+<<ha<r>dwa<r>e>> is assumed <<to>> consist on n-levels of  
+s<<to>><r>age, <disk> mem<<<o<r>>>>y, <and> data cells.  equations a<r>e de<r>ived  
+
+
+DocID: CACM-0698
+
+f<r>om <<<o<r>>>>dina<r>y dial telephones.  no <special> <<ha<r>dwa<r>e>> <<<o<r>>>>  
+data-dial: two-way communication <with>  
+<compute<r>s> f<r>om <<<o<r>>>>dina<r>y dial telephones  
+
+
+DocID: CACM-1518
+
+<softwa<r>e>, <and> its envi<r>onment.  the measu<r>es of <system> pe<r>f<<<o<r>>>>mance  
+<<r>elating> <<to>> tu<r>na<r>ound time, th<r>oughput, <<ha<r>dwa<r>e>> utilization,  
+<softwa<r>e> utilization, <and> queueing p<r>ocesses.  
+
+
+DocID: CACM-2379
+
+multip<r>og<r>amming <system> which supp<<<o<r>>>>ts five <<<o<r>>>>  
+<<to>> define the ope<r>ating <system> as simply as possible.  
+on complexity of <softwa<r>e>.  the <system> is defined by  
+
+
+DocID: CACM-3025
+
+a p<r>ice <r>ange of five <<to>> one.  the <<<o<r>>>>igin <and>  
+<<ha<r>dwa<r>e>> <and> <softwa<r>e> development; <and> se<r>ving as a  
+of implementations <<to>> p<r>esently include <<<system>s>> cove<r>ing  
+
+
+DocID: CACM-2147
+
+that, <with> <r>ega<r>d <<to>> <compute<r>s> in highe<r> education,  
+<<ha<r>dwa<r>e>> <<<o<r>>>> cou<r>ses in nea<r>ly half of the associate  
+using <compute<r>s> in highe<r> education:  
+
+
+DocID: CACM-2342
+
+values <and> p<r>ocess configu<r>ations  <<to>> a next state  
+p<r>ocesses as well as <<to>> <softwa<r>e> p<r>ocesses, <and>  
+t<r>ansition <r>ules a<r>e both applicable <<to>> <<ha<r>dwa<r>e>>  
+
+
+DocID: CACM-2421
+
+<<ha<r>dwa<r>e>> <<<o<r>>>> <softwa<r>e>, must be p<r>ovided <<to>> t<r>anslate  
+ba<r><r>ett, <r>. c.  
+a scan conve<r>sion alg<<<o<r>>>>ithm <with> <r>educed s<<to>><r>age <r>equi<r>ements  
+
+
+DocID: CACM-1462
+
+the basic <softwa<r>e> f<<<o<r>>>> all newe<r> <compute<r>s>  
+of <r>esponsibility between levels leads <<to>> g<r>eate<r> efficiency <and>  
+multilevel ope<r>ating <<<system>s>>  
+
+
+DocID: CACM-3049
+
+<<to>> the design of sembegs <and> outlines the maj<<<o<r>>>>  
+ext<end>able <<to>> a fully inte<r>active <system>.  the  
+sembegs is easy <<to>> ext<end> <and> modify <<to>> meet the  
+
+
+DocID: CACM-2358
+
+<and> ca<r><r>ies its own indep<end>ent att<r>ibutes of size <and> access  
+<<<system>s>> has g<r>own, the need <<to>> sha<r>e inf<<<o<r>>>>mation  
+seve<r>al use<r>s <<to>> sha<r>e data via input <and> output  
+
+
+DocID: CACM-3112
+
+<<to>> finish.  a <r>eal-time list p<r>ocessing <system> is p<r>esented  
+hash linking a<r>e simple extensions <<to>> ou<r> <system>, <and>  
+vi<r>tual mem<<<o<r>>>>y, file <<<o<r>>>> <<database>> <management>,  
+
+
+DocID: CACM-2138
+
+by which <<to>> cope <with> the evolutiona<r>y natu<r>e of <<<system>s>>  
+<<to>> allow access <<to>> all <r>elevant <<ha<r>dwa<r>e>> featu<r>es of  
+f<<<o<r>>>> use in w<r>iting p<r>oduction <softwa<r>e> <<<system>s>> f<<<o<r>>>> a  
+
+
+DocID: CACM-2046
+
+<models> of the data.  in section 1, inadequacies of these <models> a<r>e discussed.  
+p<r>ovide use<r>s <with> t<r>ee-st<r>uctu<r>ed files <<<o<r>>>> slightly m<<<o<r>>>>e gene<r>al netw<<<o<r>>>>k  
+of changes in que<r>y, update, <and> <r>ep<<<o<r>>>>t t<r>affic <and> natu<r>al g<r>owth in the  
+
+
+DocID: CACM-1962
+
+<disk> file.  functions may be c<r>eated by <r>eal-time human inputs <<to>>  
+the compute<r> which can inte<r>act <with> al<r>eady s<<to>><r>ed functions <and>  
+g<r>oove-a p<r>og<r>am <<to>> compose, s<<to>><r>e, <and> edit functions of time  
+
+
+DocID: CACM-3136
+
+economet<r>ic <models> of the u. compute<r> ma<r>ket have been developed <<to>> study  
+p<r>edicting <system> cost as a function of seve<r>al <<ha<r>dwa<r>e>>  
+be so ove<r> simplified as <<to>> be meaningless.  multiple-<r>eg<r>ession <models>  
+
+
+DocID: CACM-2486
+
+i.e. w<<<o<r>>>>ds <<<o<r>>>> f<<<o<r>>>>mulas placed pa<r>tly at the <end> of  
+<and> ce<r>tain aspects of e<r><r><<<o<r>>>> c<<<o<r>>>><r>ection.  
+pho<<to>>composition, <special> p<r>oblems a<r>ise in highly  
+
+
+DocID: CACM-2988
+
+netw<<<o<r>>>>k <models>, in te<r>active compute<r> <<<system>s>>  
+in queueing netw<<<o<r>>>>k <models> of compute<r> <<<system>s>>.  
+<and> job swap time, <and> pe<r>f<<<o<r>>>>mance measu<r>es such as <r>esponse  
+
+
+DocID: CACM-1325
+
+the <<ha<r>dwa<r>e>>, <softwa<r>e>, <system> configu<r>ation <and>  
+<<to>> a satisfac<<to>><r>y solution <<to>> the p<r>oblem of the  
+<with> inc<r>easing the fidelity of the adaptive  
+
+
+DocID: CACM-3137
+
+of an inte<r>active t<r>ansaction p<r>ocessing <system>.  
+dist<r>ibuted p<r>ocessing, <system> design, cost minimization, dist<r>ibuted  
+<<database>>, inte<r>active computing, economic modeling, t<r>ansaction p<r>ocessing  
+
+
+DocID: CACM-2536
+
+of the main p<r>ocess<<<o<r>>>> ope<r>ating <system>, <and> an  
+telecommunications i/o <with>in an ope<r>ating <system>  
+discussed <with> emphasis on the main p<r>ocess<<<o<r>>>>-minicompute<r>  
+
+
+DocID: CACM-2817
+
+the notions of consistency <and> p<r>edicate locks in a <<database>> <system>  
+in <<database>> <<<system>s>>, use<r>s access sha<r>ed data  
+l<<<o<r>>>>ie, <r>..  
+
+
+DocID: CACM-3092
+
+<softwa<r>e> consume a maj<<<o<r>>>> p<<<o<r>>>>tion of the <<to>>tal life  
+cycle cost of a <system>.  <r>ough estimates of the <<to>>tal  
+ 3  in maintenance <and> enhancement, p<r>oblems of a <management>  
+
+
+DocID: CACM-3030
+
+p<r>oblem <and> also discuss a numbe<r> of extensions <<to>> cu<r><r>ent  
+<softwa<r>e> modules, <hie<r>a<r>chical> st<r>uctu<r>es  
+an example of <hie<r>a<r>chical> design <and> p<r>oof  
+
+
+DocID: CACM-2876
+
+supplied <<to>> him by the <<database>>.  the ability <<to>> condition  
+it appea<r>s <<to>> be necessa<r>y f<<<o<r>>>> the <<database>> <<to>>  
+<<<system>s>> is unde<r>s<<to>>od <<to>> be the cont<r>ol ove<r>  
+
+
+DocID: CACM-2188
+
+an app<r>oach <<to>> the optimum design of compute<r> g<<r>ap>hics <<<system>s>>  
+cost, <and> the dist<r>ibution of data s<<to>><r>age <and>  
+<with> an optimization, the best g<<r>ap>hics <system> configu<r>ation,  
+
+
+DocID: CACM-1754
+
+<<to>> the functional capabilities p<r>ovided <and> the unde<r>lying  
+in many <r>ecent compute<r> <system> designs, <<ha<r>dwa<r>e>>  
+dynamic s<<to>><r>age allocation <<<system>s>>  
+
+
+DocID: CACM-3056
+
+a<r>e used <<to>> keep t<r>ack of as many as 130,000 events <with>  
+<<<o<r>>>> <softwa<r>e> used f<<<o<r>>>> the moni<<to>><r>ing of expe<r>iments <<<o<r>>>> p<r>ocesses.  
+<<to>> advantage in multichannel counting <<ha<r>dwa<r>e>>  
+
+
+DocID: CACM-2882
+
+<<database>> a<r>chitectu<r>e, <<database>> pe<r>f<<<o<r>>>>mance <and>  
+<r>et<r>ieval <<<system>s>>.  these data <r>et<r>ieval <<<system>s>> can  
+<<database>> <<<o<r>>>>ganizations in data <r>et<r>ieval <<<system>s>>.  in pa<r>ticula<r>,  
+
+
+DocID: CACM-2710
+
+is based on the <<r>elational> model of data, <and> is  
+languages, <<r>elational> completeness  
+boyce, <r>. f  
+
+
+DocID: CACM-1805
+
+acc<<<o<r>>>>ding <<to>> eligibility  <r>eadiness <<to>> p<r>oceed  <and> p<r>i<<<o<r>>>>ity.  
+of itself <and> its co-<r>esidents <and> simulation has  
+it is useful <<to>> be able <<to>> <r>ep<r>esent them  
+
+
+DocID: CACM-2625
+
+fab<r>y, <r>. s.  
+add<r>essing, capabilities, add<r>essing <<ha<r>dwa<r>e>>,  
+p<r>otection, p<r>otection <<ha<r>dwa<r>e>>, sha<r>ed add<r>esses,  
+
+
+DocID: CACM-0670
+
+<and>, hence, is subject <<to>> many statutes <and> <r>egulations.  
+<with> <r>espect <<to>> the obligation not <<to>> disclose inf<<<o<r>>>>mation  
+imp<r>ope<r> <r>efusal <<to>> pay a check, <and> susceptibility  
+
+
+DocID: CACM-2852
+
+in compute<r> science <<<o<r>>>> in inf<<<o<r>>>>mation <<<system>s>>  
+cente<r> <management>, compute<r> <system> pe<r>f<<<o<r>>>>mance  
+in inf<<<o<r>>>>mation <<<system>s>> <<<o<r>>>> f<<<o<r>>>> g<r>aduate p<r>ofessional  
+
+
+DocID: CACM-2396
+
+<<like>> that of quillian's tlc.  muse, f<r>om a model <<to>> unde<r>st<and>  
+<<to>> mem<<<o<r>>>>y, gene<r>alizes f<r>om examples <and> pe<r>f<<<o<r>>>>ms va<r>ious actions.  
+component includes the ea<r>ly use of pa<r>se t<r>ees <and> <special>  
+
+
+DocID: CACM-3011
+
+<<<system>s>>  mis  bea<r> little <r>elation <<to>> the inf<<<o<r>>>>mation  
+<compute<r>s>, county gove<r>nment <compute<r>s>, compute<r> impacts, <management> computing  
+<and> implementation activities.  finally, <management>  
+
+
+DocID: CACM-2740
+
+of ope<r>ating <<<system>s>>.  the p<r>oject <management>  
+a<r>e explained.  the <system> is p<r>oved <<to>> be f<r>ee of "deadly  
+is an alte<r>native <<to>> dijkst<r>a's <hie<r>a<r>chical> st<r>uctu<r>ing  
+
+
+DocID: CACM-3089
+
+the <system> is assumed <<to>> ope<r>ate <with> a checkpointing  
+<and> <r>oll<back>/<r>ecove<r>y method <<to>> ensu<r>e <r>eliable  
+<<database>> <r>eliability, file <<<system>s>>, checkpoints, <r>ecove<r>y  
+
+
+DocID: CACM-1589
+
+<system> cont<r>ol language has been p<r>evented, <and> the<r>e  
+input <and> display, online <and> off line p<r>og<r>am p<r>epa<r>ation  
+<and> s<<to>><r>age, <and> ha<r>d copy p<r>esentation of  
+
+
+DocID: CACM-2888
+
+<with> la<r>ge collections of integ<r>ated files  <<database>>   
+<system>.  in business <<<system>s>> associated  
+so as <<to>> cont<r>ol futu<r>e extension <and> changes while maintaining  
+
+
+DocID: CACM-2198
+
+<and> update functions acting on netw<<<o<r>>>>k  
+<codasyl> <<<system>s>> committee  
+<with> <r>espect <<to>> data st<r>uctu<r>es, host language  
+
+
+DocID: CACM-1409
+
+a<r>ithmetic <and> cont<r>ol <r>egiste<r>s th<r>oughout.  all <<ha<r>dwa<r>e>>  
+time <and> p<r>ovides possibilities f<<<o<r>>>> an <associative>  
+in a <special> semina<r> we<r>e:  1  <<to>> be a <r>esea<r>ch p<r>oject  
+
+
+DocID: CACM-2718
+
+netw<<<o<r>>>>k model of <<database>>s, data base task g<r>oup, <<database>>  
+<<to>> gene<r>ate p<r>ocedu<r>e, is he<r>e used <<to>> gene<r>ate decla<r>atives.  
+the functional app<r>oach <<to>> <<database>> design is  
+
+
+DocID: CACM-2247
+
+<system> in<<to>> modules.  a <system> design p<r>oblem is  
+<softwa<r>e>, modules, modula<r>ity, <softwa<r>e>  
+p<r>esented <and> both a conventional <and> unconventional  
+
+
+DocID: CACM-2380
+
+<system> ope<r>ational <with>in six months of <<ha<r>dwa<r>e>>  
+unif<<<o<r>>>>m file <and> i/o capabilities, <and> clean flexible  
+on dec pdp-10 augmented by <special> paging <<ha<r>dwa<r>e>>  
+
+
+DocID: CACM-2151
+
+ope<r>ating <<<system>s>>, multip<r>og<r>amming <<<system>s>>, time-sha<r>ing  
+a <<ha<r>dwa<r>e>> <and> <softwa<r>e> scheme f<<<o<r>>>> measu<r>ing use<r> p<r>og<r>ams  
+<<<system>s>>, <softwa<r>e> measu<r>ement, use<r> p<r>og<r>am  
+
+
+DocID: CACM-2298
+
+which appea<r>s <<to>> be supe<r>i<<<o<r>>>> <<to>> the othe<r>s  
+conside<r>ed; <and> the <<<o<r>>>>ganization <and> definition of goals  
+p<r>oject <management>, <<ha<r>dwa<r>e>> evaluation  
+
+
+DocID: CACM-2680
+
+<disk> analysis, <disk> optimization, <disk> files,file  
+the assignment of files <<to>> <disk> packs, <and> packs <<to>> eithe<r>  
+decisions must be made as <<to>> which files a<r>e <<to>> be pe<r>manently  
+
+
+DocID: CACM-2816
+
+<<to>> <r>e<<<o<r>>>>ganize a <<database>>.  a <disk> file <<<o<r>>>>ganization  
+<<to>> physical dis<<<o<r>>>>ganization is defined, <and> this function  
+the <<database>> will inc<r>ease due <<to>> st<r>uctu<r>al  
+
+
+DocID: CACM-0616
+
+<and> can be add<r>essed <<to>> any of the membe<r>s of  
+by p<r>ofessional p<r>og<r>amme<r>s <and> <<<system>s>> analysts; <and>  c   
+designe<r>s <and> implemen<<to>><r>s, <and> all those  
+
+
+DocID: CACM-2319
+
+<and> design the pe<r>f<<<o<r>>>>mance aspects of an ope<r>ating <system>  
+<system> must be developed <<to>> be able <<to>> analyze  
+of an ope<r>ating <system>, an ove<r>all model of the <<to>>tal  
+
+
+DocID: CACM-2398
+
+<with> those of guided <<<o<r>>>> "dual" mode inte<r>action.  p<r>elimina<r>y  
+expe<r>ience <with> the <system> in an u<r>ban  
+<system>s  
+
+
+DocID: CACM-1711
+
+of <compute<r>s> may be ale<r>ted <<to>> potential legal  
+ce<r>tain ope<r>ations, <and> in complying <with>  
+statutes <and> <r>egulation <<r>elating> <<to>> <r>ec<<<o<r>>>>d keeping.  
+
+
+DocID: CACM-2720
+
+<and> utilization of a set of <disk> d<r>ives <with>  
+model <with> se<r>vice time of a <disk> d<r>ive <r>ep<r>esented  
+<disk> d<r>ive hie<r>a<r>chies, <system> evaluation, input/output,  
+
+
+DocID: CACM-2928
+
+<and> keep the <system> in tune.  
+a min<<<o<r>>>> <<ha<r>dwa<r>e>> extension <<to>> the honeywell  
+level of multip<r>og<r>amming in the <system> <and> <<to>> bill  
+
+
+DocID: CACM-2951
+
+netw<<<o<r>>>>k, anlytic modeling, simulation, benchma<r>k jobs, <system> measu<r>ement  
+on a netw<<<o<r>>>>k. analytical, simulation, <and> statistical pe<r>f<<<o<r>>>>mance  
+measu<r>e of <system> activity <<<o<r>>>> load level.  
+
+
+DocID: CACM-3070
+
+<<to>> model the a<r><r>ival <and> activation of jobs, <and> a  
+combined <<to>> p<r>oduce efficient yet accu<r>ate <system>  
+<system> p<r>ocess<<<o<r>>>>s.  the accu<r>acy <and> efficiency of the  
+
+
+DocID: CACM-1752
+
+<r>esou<r>ce <management> f<<<o<r>>>> a medium scale time-sha<r>ing ope<r>ating <system>  
+<<to>> alte<r>nate <<ha<r>dwa<r>e>> cha<r>acte<r>istics <and> the  
+the <system> pe<r>f<<<o<r>>>>mance <r>elative <<to>> the cha<r>acte<r>istics  
+
+
+DocID: CACM-3127
+
+<with> quite diffe<r>ent a<r>chitectu<r>es.  both the <system> <and> application  
+because the <system> is implemented by the same <softwa<r>e> on diffe<r>ent  
+<<ha<r>dwa<r>e>>, it has the same inte<r>face <<to>> use<r> p<r>og<r>ams.  hence,  
+
+
+DocID: CACM-1698
+
+<r>equi<r>ements?  answe<r>s <<to>> these <and> simila<r> questions  
+the ability of a compute<r> <system> <<to>> communicate  
+<system> design, input-output design  
+
+
+DocID: CACM-1602
+
+<with> the t<r>anslation f<r>om equation f<<<o<r>>>>m <<to>> compute<r>  
+need not be conce<r>ned <with> these details.  
+solve difficult computational p<r>oblems  <<like>> the  
+
+
+DocID: CACM-2715
+
+the <<r>elational> model of data, the x<r>m <<r>elational>  
+data accessing ope<r>ations <r>equi<r>ed <<to>> <r>espond <<to>> an a<r>bit<r>a<r>y  
+mem<<<o<r>>>>y <system>, <and> the sequel language have  
+
+
+DocID: CACM-1264
+
+<attached> tape d<r>ives.  p<r>inted output of this <system>  
+<<<o<r>>>> b<r>aille.  even though this <system> was w<r>itten f<<<o<r>>>>  
+batch output, <and> update <<<o<r>>>> duplicate the <system> tape  
+
+
+DocID: CACM-2786
+
+<and> <<to>> use by people  f<<<o<r>>>> example, sec<r>eta<r>ies <and>  
+<and> <r>eve<r>se half-line motions.  the <system>  
+the size <and> font changes, positioning, line d<r>awing, <and>  
+
+
+DocID: CACM-1747
+
+<and> extent of his compute<r>'s output.  <<to>> define  
+<<<system>s>>, multip<r>og<r>ammed <system> design, vi<r>tual <compute<r>s>,  
+<<<system>s>>, compute<r> <<<system>s>> design, input equipment,  
+
+
+DocID: CACM-2771
+
+added <<to>>gethe<r> <<<o<r>>>> subt<r>acted.  two alg<<<o<r>>>>ithms <<to>>  
+<<like>> a cube, wedge, <<<o<r>>>> cylinde<r>.  any solid  
+of solid objects <<to>> be synthesized <and> s<<to>><r>ed  
+
+
+DocID: CACM-2669
+
+<r>efe<r>ence patte<r>n <with> the effect of the au<<to>>matic <management>  
+<<to>> manipulate, <and> is applicable <<to>> such dive<r>se  
+<<<system>s>>, vi<r>tual mem<<<o<r>>>>y, <associative> mem<<<o<r>>>>y, mem<<<o<r>>>>y usage accounting, multics  
+
+
+DocID: CACM-2359
+
+the time <<to>> locate a <r>ec<<<o<r>>>>d is dep<end>ent not on the <<to>>tal  
+used <with> moveable head <disk> devices.  this study investigates  
+keys which a<r>e small compa<r>ed <<to>> the <<to>>tal <r>ec<<<o<r>>>>d  
+
+
+DocID: CACM-2059
+
+ope<r>ation <r>esea<r>ch, netw<<<o<r>>>>k p<r>oblems, cont<r>ol the<<<o<r>>>>y, t<r>affic p<r>oblems, <etc>.  
+as an extension <<to>> algol 60, <and> it is t<r>anslated in<<to>> algol  
+m<<<o<r>>>>pu<r>go, <r>.  
+
+
+DocID: CACM-2634
+
+<and> use, tests we<r>e made f<<<o<r>>>> each of these <<<system>s>>,  
+<and> the <r>esults a<r>e summa<r>ized as <<to>> cost <and> pe<r>f<<<o<r>>>>mance.  
+in <<<o<r>>>>de<r> <<to>> p<r>ovide use<r>s <with> a basis f<<<o<r>>>> selection  
+
+
+DocID: CACM-2277
+
+which has been added <<to>> the maniac ii <<ha<r>dwa<r>e>>.  
+paging <associative> mem<<<o<r>>>>y, s<<to>><r>age allocation,  
+a <<ha<r>dwa<r>e>> implementation on the maniac ii compute<r>  
+
+
+DocID: CACM-2846
+
+nodes in a t<r>ie have <<to>> be la<r>ge enough <<to>> hold  
+called a comp<r>essed t<r>ie <<<o<r>>>> c-t<r>ie, <<to>> be used in  
+data st<r>uctu<r>e, <<database>>, m-a<r>y t<r>ee, t<r>ie,  
+
+
+DocID: CACM-1892
+
+st<r>ategies, ope<r>ating <<<system>s>>, mem<<<o<r>>>>y <management>  
+<system> design <and> p<r>og<r>amming a<r>e discussed,  
+ma<r>kovian compute<r> <models>, scheduling  
+
+
+DocID: CACM-2375
+
+pe<r>f<<<o<r>>>>mance including <system> <<<o<r>>>>iented <and> individual  
+di<r>ect access s<<to>><r>age, <disk> analysis, <disk> scheduling,  
+c<r>ite<r>ia of expected seek time  <system> <<<o<r>>>>iented <and> expected  
+
+
+DocID: CACM-1695
+
+<and> data f<r>om a lib<r>a<r>y.  the <system>, ope<r>ated enti<r>ely  
+<with> the use<r> <and> pe<r>mits easy <and> <<r>ap>id t<r>ansitions  
+means f<<<o<r>>>> specification <and> modification of a netw<<<o<r>>>>k <and>  
+
+
+DocID: CACM-0585
+
+<<to>> p<r>oceed at a <r>elatively tempe<r>ate pace <<to>> insu<r>e that  
+<system> modifications we<r>e necessa<r>y <<to>> accomplish this  
+initial expe<r>ience <with> an ope<r>ating multip<r>og<r>amming <system>  
+
+
+DocID: CACM-1199
+
+<<<system>s>>.  it is difficult, the<r>ef<<<o<r>>>>e, <<to>> base decisions  
+changing technologies of <<ha<r>dwa<r>e>> <and> <softwa<r>e>  
+<and> cont<r>ol functions.  expe<r>iments pe<r>f<<<o<r>>>>med  
+
+
+DocID: CACM-1924
+
+<<<o<r>>>>ganizing mat<r>ices <and> mat<r>ix ope<r>ations f<<<o<r>>>> paged mem<<<o<r>>>>y <<<system>s>>  
+paged mem<<<o<r>>>>y <<<system>s>>, vi<r>tual mem<<<o<r>>>>y <<<system>s>>,  
+<<to>> the alg<<<o<r>>>>ithm.  
+
+
+DocID: CACM-1856
+
+<<to>> a gene<r>al p<r>ocess f<<<o<r>>>> comp<r>eh<end>ing language, <and>  
+been found <<to>> <r>elate <<to>> the new text, adapting <and>  
+<and> capabilities f<<<o<r>>>> <<r>elating> text <<to>> such  
+

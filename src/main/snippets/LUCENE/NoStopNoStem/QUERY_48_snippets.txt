@@ -1,0 +1,710 @@
+LUCENE_NoStopNoStem
+
+Query
+The use of computer science principles (e.g. data structures, 
+numerical methods) in generating optimization (e.g. linear programming)
+algorithms.  This includes issues of the Khachian (Russian, ellipsoidal)
+algorithm and complexity of such algorithms.
+
+Top 100 Results (8 millisecs)
+
+
+DocID: CACM-2314
+
+<<the>> author feels are important to improve <<the>> productivity  
+<in>put <and> output <<<of>>> <data> would facilitate <use> <<<of>>>  
+efficient, <and> run on <data>.  beca<use> <<<of>>> <this> general  
+
+
+DocID: CACM-2325
+
+<complexity> , syn<<the>>sis <and> analysis <<<of>>> <<algorithm>s>,  
+<<<of>>> cont<in>uous <<algorithm>s>.  four <<<of>>> <<the>> components  
+<numerical> ma<<the>>matics is viewed as <<the>> analysis  
+
+
+DocID: CACM-1066
+
+<<<of>>> problem statement <in> terms <<<of>>> basic <data> to l<in>ear  
+<such> a variety <<<of>>> situations that <<the>> respective <computer>  
+by <<the>> new dem<and>s that applications with<in> <<the>>  
+
+
+DocID: CACM-2646
+
+<<<of>>> programs with predictable behavior.  while <<the>> <methods>  
+<this> paper presents <<the>> background <and> <<algorithm>s>  
+<<<of>>> blocks <<<of>>> <data> to buffer <and> primary memories  
+
+
+DocID: CACM-2142
+
+<and> medic<in>e  e.g. <in> electron microscopy <and>  
+<this> problem.  <<the>> <<algorithm>s> are applicable <in> a large  
+x-ray photography  <in> which it is desirable to estimate <<the>>  
+
+
+DocID: CACM-0409
+
+<<<of>>> dist<in>ct <data> descriptions <and> <<the>> content <and>  
+<<<of>>> comm<and> <and> descriptive languages.  <<the>> concept  
+<and> <in>stances <<<of>>> large <and> complex <data> sets,  
+
+
+DocID: CACM-3130
+
+<<the>> undergraduate d<<eg>>ree program <in> <computer> <science> <<<of>>> <<the>>  
+<computer> <science> undergraduate programs is presented <in> terms <<<of>>>  
+<science> component <and> o<<the>>r material is presented.  <issues> related  
+
+
+DocID: CACM-2310
+
+ as <in> <in>dices <and> concordances  is widespread <and> accepted  
+<<the>> <use> <<<of>>> <<the>> <computer> <in> <<the>> language-oriented  
+areas <<<of>>> <<the>> humanities for which rigor <and> precision  
+
+
+DocID: CACM-2433
+
+<this> storage method <and> express parallel <<algorithm>s> are described.  
+<and> <<the>> conclusion is drawn that <data> allocation ra<<the>>r than  
+as part <<<of>>> an effort to design <and> implement  
+
+
+DocID: CACM-2968
+
+<use> <<<of>>> <<the>> <methods>.  if <in>sertion <and> subsequent  
+<and> extensions , weight-balance  i.e. bb <and> wb ,  
+measures  e.g. run time .  a detailed analysis <<<of>>> code is  
+
+
+DocID: CACM-2877
+
+<<<of>>> <<the>> program <and> all <<the>> def<in>itions that are  
+<<the>> global <data> relationships <in> a program  
+<and> h<and>les reducible <and> irreducible graphs <in>dist<in>guishably.  
+
+
+DocID: CACM-2766
+
+<<the>> best previous bounded workspace copy<in>g <<algorithm>s>  
+list <structures> is given.  <this> <algorithm>  
+one tag.  <<the>> only restriction on <<the>> <algorithm>  
+
+
+DocID: CACM-2699
+
+sets <<<of>>> ordered n-tuples usable as mapp<in>gs.  <this>  
+<<<of>>> very high level whose repertoire <<<of>>> semantic  
+paper describes <<the>> structure <<<of>>> an optimizer for <this>  
+
+
+DocID: CACM-2695
+
+<<<of>>> <in>crements are l<in>ear <in> n.  <this> compares  
+<<<of>>> comparisons, <<the>> number <<<of>>> assignments, <and> <<the>> number  
+<in> <numerical> l<in>ear algebra. consider <<the>> class <<<of>>> sparse  
+
+
+DocID: CACM-1601
+
+which <use> <<the>> technique <<<of>>> <<the>> procedures <in>  
+parallel <numerical> <methods> for <<the>> solution <<<of>>> equations  
+environment.  <in> <such> an environment <<the>> procedures  
+
+
+DocID: CACM-1433
+
+<in> a general way.  <<the>> generat<in>g function <<<of>>> <<the>> probability  
+as l<in>ear programm<in>g models grow bigger <and>  
+distribution <and> <<the>> moment generat<in>g  
+
+
+DocID: CACM-2226
+
+zero-one l<in>ear programm<in>g problem.  an error <in>  
+gue's paper is corrected.  <<the>> utility <<<of>>> one <<<of>>>  
+fur<<the>>r evidence for <<the>> analysis <<<of>>> <<algorithm>s>  
+
+
+DocID: CACM-2402
+
+<<the>> correct structure cannot be computed beca<use> <<<of>>>  
+<and> will cont<in>ue to be a field <<<of>>> <in>tense <in>terest.  
+that <<the>> cross-correlation between a model <and>  
+
+
+DocID: CACM-2592
+
+<and> have a wide range <<<of>>> <numerical> characteristics.  
+by <such> codes.  large scale l<in>ear programm<in>g  
+<<<of>>> test problems that are <<<of>>> arbitrary size  
+
+
+DocID: CACM-3037
+
+<in> unit time .  <<the>> method has <<the>> same arithmetic <complexity>  
+factorization <<<of>>> all <in>t<<eg>>ers between 2 <and> n <in> time proportional to n.  
+primes between 2 <and> n.  <<the>> <algorithm> executes  
+
+
+DocID: CACM-2273
+
+tested  <algorithm> 2 .  <<the>> new <<algorithm>s> comb<in>e to a  
+entry tables.  <<the>> <<algorithm>s> are based on <<the>>  
+certa<in> d<<eg>>ree <<the>> advantages <<<of>>> mask <methods> with  
+
+
+DocID: CACM-3165
+
+<<the>> new organization is fur<<the>>r illustrated by <<the>> outl<in>e <<<of>>> <<algorithm>s>  
+<<the>> approximation <algorithm> presented operates on <such> an  
+is analyzed.  <<the>> <data> organization <use>d for represent<in>g <<the>> polygonal  
+
+
+DocID: CACM-1651
+
+<data> preparation is required.  <<the>> <use>r may also, under  
+<<the>> article <in>cludes examples <<<of>>> <in>put, output from a  
+aid <in> identification, e.g., <<<of>>> row constra<in>ts.  
+
+
+DocID: CACM-2932
+
+<<the>> framework for research <in> <<the>> <<the>>ory <<<of>>> <complexity>  
+<and> <methods>.  illustrative examples <<<of>>> practical  
+<complexity> <<<of>>> computations, algebraic <complexity>,  
+
+
+DocID: CACM-1385
+
+ra<<the>>r than <data> process<in>g; <and>  5  <<the>>  
+with most <<<of>>> its mach<in>es probably be<in>g <<<of>>>  
+for <<the>> 1965 period, <computer> technology <in> ch<in>a is  
+
+
+DocID: CACM-2094
+
+type <<<of>>> a general nonl<in>ear <algorithm> due to osborne <and> watson  
+<<the>>ir solution.  <in> <this> paper <<the>> application to problems <<<of>>> <this>  
+<algorithm> can give satisfactory results <and>, <in> particular, can  
+
+
+DocID: CACM-1809
+
+<in> <such> a broad area center around <<the>> question <<<of>>> background  
+<numerical> analysis is <<the>> study <<<of>>> <methods> <and>  
+<numerical> analysis <in> a ph. <computer> <science> program  
+
+
+DocID: CACM-1392
+
+<<<of>>> ma<<the>>matical expression manipulation <<algorithm>s>  
+<in> <<the>> design <<<of>>> <<algorithm>s> for manipulat<in>g  
+extraction <<<of>>> <<the>> skeletal structure <<<of>>> an expression.  
+
+
+DocID: CACM-3103
+
+<in> low-level implementation details.  <in> <<the>> past,  
+<<the>>n <in>efficient <in> space or time.  <in> <this> paper  
+automatic <data> structure selection: an example <and> overview  
+
+
+DocID: CACM-2324
+
+nonl<in>ear programm<in>g is presented as well as <<the>>  
+programm<in>g, management <science>, operations research, <<algorithm>s>  
+management <science>: a view from nonl<in>ear programm<in>g  
+
+
+DocID: CACM-3010
+
+to <<the>> <complexity> <<<of>>> value <structures>.  <computer> <science>  
+value rat<in>gs <<<of>>> 313 students at <<the>> university <<<of>>> m<in>nesota  
+<in> 1972.  <computer> <science> majors were found  
+
+
+DocID: CACM-3200
+
+1. <<the>> equations  <in> symbolic form  to be satisfied  -  <<the>> differential  
+3. sets <<<of>>> functions  <in> symbolic form  to be <use>d <in> l<in>ear comb<in>ations  
+2. a <numerical> description <<<of>>> <<the>> r<<eg>>ions <in> which each <<<of>>> <<the>> equations  
+
+
+DocID: CACM-3150
+
+<and> objects with which we build.  <this> paper analyzes some <<<of>>> <<the>>  
+<<algorithm>s>, towards <<the>> description <<<of>>> <<the>> properties <<<of>>> <<the>> packages  
+<in>tricacies <<<of>>> a mach<in>e's order code, higher level programm<in>g systems  
+
+
+DocID: CACM-2522
+
+announced.  <this> report discusses <<the>> design <and>  
+implementation <<<of>>> a dispatcher based on <<the>> work<in>g set  
+<<the>> design, implementation, <and> evaluation <<<of>>> a work<in>g set dispatcher  
+
+
+DocID: CACM-2828
+
+motion <and> placement, but also to assist <in>  
+pictures by <computer>.  by us<in>g an extension <<<of>>>  
+<<the>> geometric structure <in>herent <in> <<the>> def<in>ition  
+
+
+DocID: CACM-2556
+
+to studies <in> <<the>> area <<<of>>> artificial <in>telligence <such>  
+<and> strat<<eg>>y improvement by feedback from <<the>> match<in>g process.  
+<in>accuracy <in> <<the>>ir specification is proposed. <this> method  
+
+
+DocID: CACM-2665
+
+n^2.  <<the>> second <algorithm>, assum<in>g one tag bit <in>  
+cell tag bits <<the>> task can be performed <in> time  
+cyclic <structures> are copied <in> average time  
+
+
+DocID: CACM-1722
+
+truncate <<the>> <in>t<<eg>>ral when <<the>> change yielded by <<the>> last  
+be improved by <use> <<<of>>> recent advances <in> <<the>> <<the>>ory  
+<in> <<the>> <numerical> <in>t<<eg>>ration <<<of>>> an improper  
+
+
+DocID: CACM-2081
+
+<and> utilized for efficient comput<in>g by sav<in>g memory space <and>  
+<<the>> paper <in>vestigates how <<the>> special structure <<<of>>> matrices can be described  
+<<<of>>> matrices  are considered, <and> matrix operators areext  
+
+
+DocID: CACM-1769
+
+<<the>> onward sweep <<<of>>> automatic process<in>g <<<of>>>  
+<<the>> problems be<in>g created by <<the>> population  
+<<the>> exp<and><in>g world <<<of>>> <computer>s  
+
+
+DocID: CACM-2538
+
+by both <<the>> subcommittee <and>  cccs , supplies a set <<<of>>>  
+<<<of>>> <<the>> committee on curriculum <in> <computer> <science>  
+<<the>> purposes <<<of>>> satisfy<in>g a wide variety <<<of>>> objectives.  
+
+
+DocID: CACM-2850
+
+<this> paper describes <<the>> symbolic execution <<<of>>>  
+<in> a simple pl/i style programm<in>g language.  
+it <in>cludes many st<and>ard debugg<in>g features, <<the>> ability  
+
+
+DocID: CACM-1658
+
+<this> paper is concerned with a review <and> exam<in>ation  
+<<<of>>> several exist<in>g <<algorithm>s> for <<the>>  
+analysis <<<of>>> <<algorithm>s> for <<the>> zero-one programm<in>g problem  
+
+
+DocID: CACM-2389
+
+<and> <in>cludes means to represent spaces <and> objects, to manipulate  
+formulat<in>g <and> solv<in>g <<<of>>> a class <<<of>>> space plann<in>g  
+a <computer> language <and> a set <<<of>>> programs with<in>  
+
+
+DocID: CACM-2032
+
+<and> <<the>>ir relation to trees studied <in> <<the>> past is expla<in>edesults for <<the>>  
+<data> <structures>, tree <structures>, file <structures>, scatter  
+probability distributions <<<of>>> path lengths are derived <and> illustrated.  
+
+
+DocID: CACM-2953
+
+<<<of>>> recursion removal <in>volves <<the>> <use> <<<of>>> one  
+with <this> general form arise <in> connection  
+on <<the>> basis <<<of>>> <<the>>ir runn<in>g time.  
+
+
+DocID: CACM-2406
+
+<data> bases.  <this> paper reviews past work <in> <<the>> <data>  
+<and> physical aspects <<<of>>> <data>.  applications <<<of>>> <<the>>se  
+<data> def<in>ition languages which describe both <<the>> logical  
+
+
+DocID: CACM-2283
+
+hexagonal, <and> triangular arrays.  <<the>> approach to <<the>>  
+<and> <<the>> relative performances <<<of>>> <<the>> <<algorithm>s>  
+<in> <this> report three th<in>n<in>g <<algorithm>s> are  
+
+
+DocID: CACM-2986
+
+functions <in> o n  steps, where n is <<the>> size <<<of>>>  
+a grammer.  <<the>> heart <<<of>>> <<the>> <<algorithm>s> is a general  
+compute l<in>ear precedence functions <in> o n^2  steps  
+
+
+DocID: CACM-1677
+
+<<the>> system <<<of>>> program <and> <data> representation  
+that has been <in> <use> on <<the>> rice university <computer>  
+a program, a <data> vector, or codewords which <in>  
+
+
+DocID: CACM-1654
+
+<computer> <science> is def<in>ed <in> several  
+stated, <and> it is asserted that <in> a north american  
+ways.  <<the>> objectives <<<of>>> <computer> <science> education are  
+
+
+DocID: CACM-3124
+
+level <<<of>>> arrays <and> new operators to assist <in> <<the>>  
+arrays <in> apl is presented.  <<the>>orems exhibit<in>g <<the>> relationships  
+<in>cludes new primitive functions to manipulate <<the>> nest<in>g  
+
+
+DocID: CACM-1886
+
+<<<of>>> time.  an assignment <algorithm> is <<the>>n executed <in>  
+<<the>> expressions, i.e. f<in>d<in>g a set <<<of>>> subexpressions  
+compiled, <methods> are presented for <in>creas<in>g <<the>>  
+
+
+DocID: CACM-1927
+
+<in>formation <science> <in> a ph. <computer> <science> program  
+curriculum <in> <<the>> general area <<<of>>> <in>formation  
+<computer> <science> program.  <<the>> subject area is  
+
+
+DocID: CACM-2767
+
+notices, <and> ano<<the>>r <use>s an <in>dexed l<in>ear list. <<the>> <<algorithm>s>  
+<in> <use> with current simulation languages.  <<the>> most  
+<<the>> advantages <and> limitations <<<of>>> <<the>> <<algorithm>s>.  
+
+
+DocID: CACM-1924
+
+be <in> ma<in> memory at one time.  exam<in>ation <<<of>>> addition,  
+matrix <<algorithm>s>, array process<in>g, pag<in>g <<algorithm>s>,  
+<<<of>>> <<the>> number <<<of>>> pages <<<of>>> ma<in> memory available  
+
+
+DocID: CACM-2484
+
+<in> <this> general construction method; namely, a set <<<of>>>  
+element from <<the>> given set <<<of>>> objects.  <<the>> <use> <<<of>>>  
+<and> formulat<in>g <<algorithm>s> under a given set <<<of>>> constra<in>ts.  
+
+
+DocID: CACM-2936
+
+<<<of>>> commonly <use>d simple l<in>ked list <<algorithm>s>.  <in> <this>  
+<complexity> showed it to be nearly <in>dependent <<<of>>> n.  
+published <<algorithm>s>.  first, <<the>> new <algorithm>'s  
+
+
+DocID: CACM-1147
+
+<<<of>>> apply<in>g <<the>> method to a specific problem.  <in>  
+<<<of>>> boundary value problems <in>volv<in>g l<in>ear  
+<numerical> <in>t<<eg>>ration scheme to reduce <<the>> problem from  
+
+
+DocID: CACM-0095
+
+<computer>, tabular <data> for <numerical> solution  
+<use> <<<of>>> subrout<in>es for <numerical> solution by electronic  
+by <this> procedure are <<the>> trigonometric, <in>verse trigonometric,  
+
+
+DocID: CACM-3032
+
+<in> store-<and>-forward packet switch<in>g <computer> networks.  
+it can be implemented <in> exist<in>g networks with less <complexity>  
+nodes <<<of>>> a network.  <<algorithm>s> for accomplish<in>g  
+
+
+DocID: CACM-1196
+
+true from <<the>> po<in>t <<<of>>> view <<<of>>> ease <<<of>>> programm<in>g,  
+<<<of>>> <<the>> <numerical> solution <<<of>>> systems <<<of>>> ord<in>ary differential  
+<computer> process<in>g can be formulated <in> terms  
+
+
+DocID: CACM-2941
+
+<and> why it is breached occasionally, <and> <<the>>  
+types <and> type coercions, <<the>> benefits <<<of>>> <<the>> type system  
+<data> <structures>, systems programm<in>g  
+
+
+DocID: CACM-2113
+
+<and> <<the>> state <<<of>>> s<in>gle bits determ<in>es <<the>> operational flow <<<of>>> <<the>>  
+that <<the>> <in>dividual locations <<<of>>> bytes <and> bits come to represent <<the>>  
+<<<of>>> examples taken from <<the>> fully operational implementation <<<of>>> <<the>>  
+
+
+DocID: CACM-1504
+
+given <<the>> adjacency matrix <<<of>>> <<the>> graph, <<the>> <algorithm>  
+<<<of>>> cycles for an undirected l<in>ear graph  
+by welch by a ratio <<<of>>> n/3  n is <<the>> number <<<of>>> nodes   
+
+
+DocID: CACM-1098
+
+<<<of>>> storage, <use> <<<of>>> pushdown stores, <and> <use> <<<of>>>  
+programm<in>g languages which, among <<the>>m, exhibit all <<the>>  
+representations <<<of>>> <data>, both by <<the>> programmer <and> with<in>  
+
+
+DocID: CACM-2451
+
+<<<of>>> <such> a model <this> paper considers <<the>> design <<<of>>>  
+<<the>> optimal tree cannot be implemented by means <<<of>>> practical  
+<such> trees to serve a well-specified application. <<the>>  
+
+
+DocID: CACM-2692
+
+lie outside <<the>> volume.  <in> two dimensions <<the>> <<algorithm>s>  
+volume.  <<the>> two additional planes parallel to <<the>> projection  
+collection <<<of>>> edges as was heret<<<of>>>ore <<the>> common  
+
+
+DocID: CACM-2835
+
+set <<<of>>> values.  <<the>> most common are parameters <<<of>>> variables  
+<algorithm> is given to fur<<the>>r improve <optimization>.  
+are discussed, <and> a modification <<<of>>> <<the>>  
+
+
+DocID: CACM-2701
+
+<<the>> number <<<of>>> operations is proportional to e plus <<the>>  
+<<the>> time bound.  examples are given <<<of>>> code  
+for a graph <<<of>>> e edges, <<the>> <algorithm> has a  
+
+
+DocID: CACM-2186
+
+<<the>> first concern <<<of>>> <<the>> paper is to describe <<the>>  
+<<<of>>> <<the>> new techniques with <<the>> st<and>ard procedure <<<of>>>  
+<<<of>>> condition are established for <<the>> method.  <<the>> second  
+
+
+DocID: CACM-2716
+
+<<<of>>> e. f. codd's relational algebra are presented, <and>  
+<<the>> basic idea is to employ automatic programm<in>g techniques  
+analysis, <and>  5  ma<in>ta<in><in>g locality <in> page references.  
+
+
+DocID: CACM-2106
+
+<such> as pag<in>g <and> priority <in>terrupt systems can best be expla<in>ed at <<the>>  
+spurious <issues> as possible;  2  allow, without undue effort, <<the>>  
+solution <<<of>>> <in>terest<in>g problems;  3  be capable <<<of>>> expos<in>g all  
+
+
+DocID: CACM-2903
+
+how <<the>> fast l<in>ear pattern match<in>g <algorithm> <<<of>>> knuth,  
+morris, <and> pratt can be derived <in> a few steps  
+called "recursion <in> troduction," is described <and>  
+
+
+DocID: CACM-3125
+
+<<the>> elim<in>ation <<<of>>> redundant computations <and> <<the>> mov<in>g <<<of>>> <in>variant  
+l<in>ear with <<the>> size <<<of>>> <<the>> program, <and> that it leads  
+loop <in> which it is <in>variant.  <this> is done by solv<in>g a more  
+
+
+DocID: CACM-3163
+
+also be performed <in> o log n  time.  thus <<the>> result <<<of>>> <this> paper  
+<<the>> tree.  <this> represents an improvement over <<the>> best previous  
+be performed <in> <<the>> same time as <<the>> correspond<in>g operations for  
+
+
+DocID: CACM-2883
+
+<<<of>>> an edge are embedded <in> a figure <<<of>>> merit <and> <<the>> edge  
+<in> <<the>> figure <<<of>>> merit, thus allow<in>g <<the>> extraction  
+<<the>> m<in>imization problem <and> a dynamic programm<in>g approach  
+
+
+DocID: CACM-1659
+
+a ph. <computer> <science> program.  a classification <<<of>>> <<the>>  
+computational l<in>guistics <in> a ph. <computer> <science> program  
+language <and> <computer>, language <data> process<in>g,  
+
+
+DocID: CACM-2253
+
+<in> a previous paper.  <this> scheme attempts program <optimization>  
+<in> <<the>> matrix calculi described by <<the>> authors  
+a by-product <<<of>>> <<the>> symbolic manipulation <<<of>>> expressions  
+
+
+DocID: CACM-2155
+
+<this> is based on directed graphs with named edges <and>  
+<in> terms <<<of>>> <<the>> graphs to <<the>>n specify <<the>>  
+<this> paper presents a notation <and> formalism  
+
+
+DocID: CACM-1457
+
+<and> suggestions are made for <<the>> design <<<of>>> programm<in>g  
+<and> tree or list <structures>.  <<the>> ma<in> <data>  
+<<the>> manipulation <<<of>>> a variety <<<of>>> different  
+
+
+DocID: CACM-2962
+
+<<the>> calendar year 1975-76.  <data> <in>clude pr<<<of>>>iles <<<of>>> graduate  
+<and> employment <<<of>>> ph.'s <in> <computer> <science> for  
+production <and> employment <<<of>>> ph.'s <in> <computer> <science>-1976  
+
+
+DocID: CACM-1353
+
+reviewed <and> <<the>> tolerances needed <in> <<the>> <numerical> procedure  
+<in> <this> technical note, <<the>> <numerical> steps  
+for <<the>> simplex method <<<of>>> l<in>ear programm<in>g are  
+
+
+DocID: CACM-2927
+
+to <<the>> <<the>>oretical lower bound for sieve <methods>  
+<complexity> <<<of>>> f<in>d<in>g all <<the>> primes less than  
+<and> <<the>> bit <complexity> to o n logn log log logn .  
+
+
+DocID: CACM-2969
+
+one <computer> to ano<<the>>r can also be ga<in>ed from <<the>>  
+<<<of>>> program <and> <data> files <in> a <computer> network  
+<and> a possible application <<<of>>> <<the>> model.  
+
+
+DocID: CACM-3118
+
+<in> <this> paper.  a lower bound to <<the>> number <<<of>>> steps required buy  
+a permutation <algorithm> is derived, <and> <<the>> class <<<of>>> optimum <<algorithm>s> is  
+a common <in>ternal organization <<<of>>> bubble memories consists <<<of>>> a set <<<of>>>  m<in>or   
+
+
+DocID: CACM-2997
+
+<<the>> convex hulls <<<of>>> sets <<<of>>> n po<in> ts <in> two  
+convex hulls <<<of>>> f<in>ite sets <<<of>>> po<in> ts <in> two <and> three dimensions  
+planar set <<<of>>> po<in> ts, spatial set <<<of>>>  
+
+
+DocID: CACM-1728
+
+<<the>> frequency <<<of>>> page faults, i.e. <<the>> frequency <<<of>>> those  
+<<<of>>> page replacement <<algorithm>s> <and> for assess<in>g <<the>>  
+<<the>> <data> collected from <<the>> <in>terpretive execution <<<of>>>  
+
+
+DocID: CACM-2887
+
+<in> <<the>> four error cat<<eg>>ories <<<of>>> previous  
+errors <in> programm<in>g, error correction, cobol, programm<in>g  
+a study <<<of>>> errors, error-proneness, <and> error diagnosis <in> cobol  
+
+
+DocID: CACM-0940
+
+generat<in>g discrete r<and>om variables <in> a <computer>  
+<this> note is concerned with details <<<of>>> how to  
+if <this> is done by a sequence <<<of>>> appropriately chosen  
+
+
+DocID: CACM-1977
+
+<in> ei<<the>>r <<the>> l1 or l-<in>f<in>ity norm.  auxiliary conditions <such> as  
+monotonicity or convexity <<<of>>> <<the>> approximation can also be imposed. <this>  
+<data> by means <<<of>>> a l<in>ear comb<in>ation <<<of>>> functions  <in>clud<in>g  
+
+
+DocID: CACM-3018
+
+<this> relationship, <<the>> keyword conflict problem <and> <<the>>  
+from <algorithm> for <<the>> o<<the>>r.  as consequences <<<of>>>  
+<algorithm> which solves a certa<in> comb<in>atorial <optimization>  
+
+
+DocID: CACM-3087
+
+<data> us<in>g a system called planes.  <<the>>  
+design <and> implementation <<<of>>> <this> system is described <and>  
+<<<of>>> system components <and> examples <<<of>>> overall system  
+
+
+DocID: CACM-2366
+
+<and> to reduce accumulation <<<of>>> round-<<<of>>>f errors.  <in>  
+an <algorithm> to compute <<the>> gamma function <and>  
+<algorithm> <in>cludes an object-time estimation <<<of>>> round-<<<of>>>f  
+
+
+DocID: CACM-3092
+
+<<the>> area has been given little attention <in> <<the>>  
+much <<<of>>> <<the>> total resources <<<of>>> systems <and> programm<in>g  
+cycle cost <<<of>>> a system.  rough estimates <<<of>>> <<the>> total  
+
+
+DocID: CACM-2337
+
+<<algorithm>s> is given.  one new <algorithm> for  
+f<in>d<in>g <<the>> m<in>imum <and> maximum elements <<<of>>> a set with  
+a sort<in>g problem <and> its <complexity>  
+
+
+DocID: CACM-2832
+
+<<the>> search rapid.  <<algorithm>s> for addition <and>  
+<<<of>>> contexts.  <this> note presents an <algorithm> which improves  
+is started from <<the>> position <<<of>>> <<the>> previous  
+
+
+DocID: CACM-1463
+
+<<the>> <in>tent <<<of>>> <this> paper to exp<and> <and> clarify <<the>> remarks  
+one <<<of>>> <<the>> most salient characteristics <<<of>>> extensible  
+paper on <<the>> em concepts, <and> to, f<in>ally, trace  
+
+
+DocID: CACM-1183
+
+<<<of>>> very long programs by <<the>> <computer>.  <<the>> procedure is  
+a note on <<the>> <use> <<<of>>> a digital <computer>  
+fortran ii language <and> made possible <<the>> writ<in>g  
+
+
+DocID: CACM-2950
+
+<<<of>>> a schedul<in>g system which formalizes <<the>> notion <<<of>>>  
+<algorithm> is developed <and> results <in> <<the>> def<in>ition  
+<in> real operat<in>g systems.  <<the>> policy-driven scheduler  
+

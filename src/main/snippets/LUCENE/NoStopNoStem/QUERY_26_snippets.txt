@@ -1,0 +1,696 @@
+LUCENE_NoStopNoStem
+
+Query
+Concurrency control mechanisms in operating systems
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-2626
+
+key <mechanisms> described <in>clude access <control> lists,  
+protection and the <control> of <in>formation shar<in>g <in> multics  
+the design of <mechanisms> to <control> the shar<in>g  
+
+
+DocID: CACM-3105
+
+<in> operat<in>g <systems> by access <control> <mechanisms>.  this  
+programm<in>g languages, access <control>, data types,  
+such as bank account records <in> a bank's data base.  
+
+
+DocID: CACM-2632
+
+of highly secure <systems>.  
+operat<in>g system, kernel, nucleus, protection, security  
+called an "object".  <mechanisms> are presented  
+
+
+DocID: CACM-2840
+
+protection <in> operat<in>g <systems>  
+a model of protection <mechanisms> <in> comput<in>g  
+protection, protection system, operat<in>g  
+
+
+DocID: CACM-3128
+
+to protection <mechanisms> <in> the system is expla<in>ed; <in> particular,  
+order<in>g of events <in> the processes.  
+<systems>, security models, mutual exclusion, semaphores  
+
+
+DocID: CACM-2541
+
+new concept for operat<in>g <systems>: separation  
+communication <mechanisms> enabl<in>g the construction  
+design of the language, operat<in>g system,  
+
+
+DocID: CACM-2314
+
+programm<in>g languages, <in>teractive <systems>, <control>  
+semantics, advanced programm<in>g <systems>  
+data communication <mechanisms>.  <in>teractive  
+
+
+DocID: CACM-2080
+
+multiprogramm<in>g, operat<in>g <systems>, parallel processes, process concept,  
+that can be extended with a hierarchy of operat<in>g <systems> to suit diverse  
+nucleus simulates an environment <in> which program execution and <in>put/output  
+
+
+DocID: CACM-1750
+
+operat<in>g <systems>, <control> data corporation 6600, operat<in>g system with ecs  
+multiprogrammed operat<in>g <systems>, multiprocessor  
+multiple computer <systems>, extended core storage,  
+
+
+DocID: CACM-2372
+
+on the implementation of security measures <in> <in>formation <systems>  
+operat<in>g <systems>, access management, data banks,  
+system implementation with<in> today's languages and operat<in>g <systems>.  
+
+
+DocID: CACM-2870
+
+of automatic program certification <mechanisms>  
+of different exist<in>g <systems> and facilitate  
+this paper <in>vestigates <mechanisms> that guarantee  
+
+
+DocID: CACM-1677
+
+storage organization <in> programm<in>g <systems>  
+<control>, codewords, data representation, program  
+address<in>g <mechanisms>, pag<in>g, segmentation, file  
+
+
+DocID: CACM-1680
+
+to it, and surrender<in>g <control> to the operat<in>g  
+retrieval operat<in>g <systems>, graphics, displays, man-mach<in>e  
+computer-assisted <in>struction, tutorial <systems>,  
+
+
+DocID: CACM-2320
+
+operat<in>g <systems>, concurrent processes, shared  
+operat<in>g <systems> but also with<in> user programs.  
+representation of multiprogramm<in>g <in> a high  
+
+
+DocID: CACM-3068
+
+here <in> terms of a general model for operat<in>g <systems>.  
+a model for verification of data security <in> operat<in>g <systems>  
+operat<in>g <systems>, security, protection, program verification  
+
+
+DocID: CACM-2377
+
+access <control>, hardware access <control>, computer  
+same <in> both cases as well.  
+of protection.  the <mechanisms> for implement<in>g  
+
+
+DocID: CACM-2939
+
+<control> abstractions.  this paper provides an <in> troduction  
+abstraction <mechanisms> <in> clu  
+to the abstraction <mechanisms> <in> clu.  by  
+
+
+DocID: CACM-1747
+
+processes, protection <in> multiprogrammed <systems>,  
+<systems>, computer <systems> design, <in>put equipment,  
+<in>put equipment design, operat<in>g <systems>, operat<in>g  
+
+
+DocID: CACM-3026
+
+languages, data management <systems>,  
+end user facilities, executive <control> software  
+large-scale ma<in> frame computer <systems>.  beg<in>n<in>g  
+
+
+DocID: CACM-2558
+
+protection <in> programm<in>g languages  
+access keys, access <control> authentication,  
+l<in>guistic <mechanisms> which can be used to protect  
+
+
+DocID: CACM-2578
+
+self-stabiliz<in>g <systems> <in> spite of distributed <control>  
+error recovery, distributed <control>, harmonious cooperation, self-repair  
+
+
+DocID: CACM-2036
+
+conditional job <control>, operat<in>g <systems>  
+exist<in>g time-shar<in>g <systems> is given.  
+to be executed <in> a non<in>teractive environment is proposed.  
+
+
+DocID: CACM-2938
+
+<systems> analytically verifiable and ultimately  
+<in> program validation: sequential programm<in>g, multiprogramm<in>g,  
+expressed <in> terms of the language modula.  
+
+
+DocID: CACM-2817
+
+<in> database <systems>, users access shared data  
+consistency, lock, database, <concurrency>, transaction  
+the notions of consistency and predicate locks <in> a database system  
+
+
+DocID: CACM-0696
+
+edp <systems> are used to record and <control> the  
+<in>formation <in> response to <in>quiries received from  
+facilities located <in> van nuys and sunnyvale,  
+
+
+DocID: CACM-1754
+
+dynamic storage allocation <systems>  
+facilities <in> several representative computer  
+storage fragmentation, storage hierarchies, address<in>g <mechanisms>  
+
+
+DocID: CACM-1463
+
+the employment of l<in>kage <mechanisms> through  
+system <control> over program-to-program and program-to-data  
+l<in>kage that were embodied <in> the authors' previous  
+
+
+DocID: CACM-2111
+
+operat<in>g <systems>, diagnostics, error detection,  
+spell<in>g correction <in> <systems> programs  
+to compilers and operat<in>g <systems>.  these <in>clude the use of syntax  
+
+
+DocID: CACM-2936
+
+scann<in>g <mechanisms>, multil<in>ked lists  
+simulation, time flow <mechanisms>, event  
+for general purpose discrete event simulation <systems>.  
+
+
+DocID: CACM-1461
+
+discussion summary on operat<in>g <systems>  
+
+
+DocID: CACM-1728
+
+behavior <in> those multiprogramm<in>g <systems> <in> which  
+operat<in>g <systems>, supervisor simulation, mach<in>e  
+behavior, virtual memory <systems>, s<in>gle-level  
+
+
+DocID: CACM-0084
+
+and management <control> <systems> of the federal government,  
+and use of automatic data process<in>g <in> bus<in>ess  
+
+
+DocID: CACM-0059
+
+and management <control> <systems> of the federal  
+and use of automatic data process<in>g <in> bus<in>ess  
+
+
+DocID: CACM-1591
+
+written <in> any language processed by the operat<in>g system.  
+teach<in>g, and then recovered <control> <in> order to resume  
+operat<in>g system to execute functions other than  
+
+
+DocID: CACM-2867
+
+used <in> the construction of a family of operat<in>g  
+modularization and hierarchy <in> a family of operat<in>g <systems>  
+level do not co<in>cide <in> a hierarchy of functions.  
+
+
+DocID: CACM-2597
+
+monitors, operat<in>g <systems>, schedul<in>g, mutual  
+monitors: an operat<in>g system structur<in>g concept  
+a possible method of implementation <in> terms  
+
+
+DocID: CACM-2342
+
+operat<in>g <systems>, parallel processes  
+concurrent programm<in>g <control>, cooperat<in>g processes,  
+subproblems, <in> the form of parallel programs, and <in>formal  
+
+
+DocID: CACM-1247
+
+computer programm<in>g <systems>  
+an operat<in>g environment for dynamic-recursive  
+presented <in> this paper is a brief nontechnical  
+
+
+DocID: CACM-1341
+
+<in> build<in>g current computer <systems>, we tend  
+levels of computer <systems>  
+programm<in>g, and, eventually, <systems> which learn.  
+
+
+DocID: CACM-2379
+
+operat<in>g <systems>, system design, levels of abstraction,  
+the design of the venus operat<in>g system  
+the venus operat<in>g system is an experimental  
+
+
+DocID: CACM-1476
+
+been presented <in> earlier papers ["<control> procedures for  
+receiv<in>g <systems> <in>terconnected by communication  
+functional <control> requirements and characteristics  
+
+
+DocID: CACM-2878
+
+<in> this paper <control> numbers, as well as lower and upper  
+of the system's queues, are derived.  
+bounds for the <control> numbers and the capacities  
+
+
+DocID: CACM-2317
+
+<in> the operat<in>g system area all major computer  
+languages, operat<in>g <systems>, programm<in>g  
+<systems>, multiprogramm<in>g, history  
+
+
+DocID: CACM-1290
+
+<control>"  <in> the earlier tutorial paper, "<control> procedures  
+transparent-mode <control> procedures for data  
+to the basic ascii communication <control> characters  
+
+
+DocID: CACM-2621
+
+operat<in>g <systems>, time shar<in>g <systems>, security, cryptography  
+the protection of time shar<in>g <systems> from  
+<in> the computer can be avoided.  we discuss the selection  
+
+
+DocID: CACM-3011
+
+<systems> currently <in> use by top management <in> most us local  
+<in>volv<in>g improvements <in> decision <in>formation.  
+prevalent <in> those governments with professional  
+
+
+DocID: CACM-2319
+
+operat<in>g system performance  
+and computer <systems>.  
+computer system, operat<in>g system, performance  
+
+
+DocID: CACM-2821
+
+cobol under <control>  
+been deployed <in> live multiple customer environments.  
+<control> structures.  they do not require syntax  
+
+
+DocID: CACM-1485
+
+<systems> and referenc<in>g data.  
+<in> this paper the major components of every  
+elementary program statement,  2  <mechanisms> for l<in>k<in>g  
+
+
+DocID: CACM-3064
+
+event simulation, time-flow <mechanisms>  
+simulation, discrete <systems> simulation, discrete  
+<in> simulated time; that <in>f<in>ite loops caused by the concatenation  
+
+
+DocID: CACM-0618
+
+computers- the key to total <systems> <control>: an <in>dustrial viewpo<in>t  
+man-man-mach<in>e processes are characterized <in> five  
+
+
+DocID: CACM-0086
+
+and management <control> <systems> of the federal government, as of december 1957  
+and use of automatic data process<in>g <in> bus<in>ess  
+
+
+DocID: CACM-0300
+
+a simplified merchandise <control> problem has  
+potential users of comput<in>g <systems>.  a mythical department  
+<in> the cobol language one of the many runs on its computer.  
+
+
+DocID: CACM-1534
+
+operat<in>g system, dad, is described <in> detail.  
+dad, the c. operat<in>g system  
+this system is designed for the <control> data 3600 us<in>g  
+
+
+DocID: CACM-3141
+
+numbered processes arranged <in> a circle, <in> which no central  
+decentralized algorithms, distributed <systems>, operat<in>g <systems>  
+<in> circular configurations of processes  
+
+
+DocID: CACM-2020
+
+illustrative pric<in>g <systems> are also discussed <in> order to demonstrate the  
+allocation <mechanisms>, charg<in>g, computer pric<in>g,  
+applicability of pric<in>g <in> quite different environments.  
+
+
+DocID: CACM-3025
+
+m<in>icomputer/microcomputer <systems>.  
+shar<in>g comput<in>g <systems>; transferr<in>g hardware  
+computer structures, architecture, operat<in>g system, timeshar<in>g  
+
+
+DocID: CACM-2151
+
+operat<in>g <systems>, multiprogramm<in>g <systems>, time-shar<in>g  
+<systems>, software measurement, user program  
+user program measurement <in> a time-shared environment  
+
+
+DocID: CACM-2060
+
+language is permissible <in> any other mean<in>gful context.  <in> particular,  
+quasi-parallel processes, and other unorthodox <control> <mechanisms>.  
+by <in>troduc<in>g values, called reference, which <in> turn possess  
+
+
+DocID: CACM-2138
+
+for use <in> writ<in>g production software <systems> for a  
+<systems> programm<in>g, data structures  
+bliss: a language for <systems> programm<in>g  
+
+
+DocID: CACM-2629
+
+operat<in>g <systems>, <in>clud<in>g:  1  a hierarchical file system  
+operat<in>g system for the digital equipment  
+time-shar<in>g, operat<in>g system, file system, command language, pdp-11  
+
+
+DocID: CACM-3127
+
+portability, real time, operat<in>g <systems>, m<in>icomputer  
+thoth, a portable real-time operat<in>g system  
+programs which use it are written <in> a high-level language.  
+
+
+DocID: CACM-0104
+
+digital simulation of discrete flow <systems>*  
+computer to simulate such <systems> utilizes some  
+the discrete flow <systems> discussed are characterized  
+
+
+DocID: CACM-2321
+
+multiplex<in>g, and switch <control>, <in> addition to m<in>imiz<in>g  
+synchronization, error <control>, signal<in>g, stream  
+future <systems> that comb<in>e computers, digital  
+
+
+DocID: CACM-2950
+
+<in> real operat<in>g <systems>.  the policy-driven scheduler  
+operat<in>g <systems>,processor shar<in>g, implementation  
+algorithm is developed and results <in> the def<in>ition  
+
+
+DocID: CACM-1751
+
+<in> modern computer <systems> is an adequate model for  
+multiprogramm<in>g, operat<in>g <systems>, program  
+general operat<in>g system concepts, multiprocess<in>g,  
+
+
+DocID: CACM-3050
+
+<systems> design education: a gam<in>g approach  
+and a simulated run of the center operat<in>g under  
+a hypothetical job mix is under the <control> of a game adm<in>istrator  
+
+
+DocID: CACM-2438
+
+functional arguments, multiprocessor <systems>, extensible <control> structures  
+<control> structures, environments, stack allocation,  
+many <control> and access environment structures  
+
+
+DocID: CACM-2424
+
+operat<in>g <systems>, data security, fault tolerance,  
+verification, modular computer <systems>  
+decisions improperly even <in> the presence  
+
+
+DocID: CACM-3183
+
+<in> a six-part research agenda: technological issues <in> eft, eft impacts  
+economic impacts, regulation and <control>, monitor<in>g eft  
+eft, and evaluat<in>g and monitor<in>g eft <systems>.  
+
+
+DocID: CACM-1636
+
+<systems> of ord<in>ary differential equations  
+<control>, two-po<in>t boundary-value problems for unstable  
+<systems> arise, greatly complicat<in>g the numerical  
+
+
+DocID: CACM-2876
+
+<systems> is understood to be the <control> over  
+protection <in> database, protection <in> programm<in>g  
+<in>tentional resolution of privacy protection <in> database <systems>  
+
+
+DocID: CACM-2522
+
+operat<in>g <systems>, supervisory <systems>  
+recent research <in> time-shar<in>g pag<in>g <systems>  
+<systems>, resource allocation, software evaluation,  
+
+
+DocID: CACM-1951
+
+operat<in>g <systems>, optimization models  
+generally are of <in>terest <in> computer communications studies can be  
+by the exponential distribution are discussed for the <systems> studied.  
+
+
+DocID: CACM-1226
+
+system.  <in> many <systems>, the selection  
+be critical to the system's operat<in>g efficiency.  
+this paper provides the <systems> designer with an <in>formation  
+
+
+DocID: CACM-1236
+
+<systems> operations and evaluation procedures.  
+operat<in>g on the ibm 7094 is described.  the system  
+of analysis procedures can <in> general be relied upon to  
+
+
+DocID: CACM-2985
+
+necessary for effective <control> of computer-based <systems>.  
+the relationship of <in> ternal pric<in>g <systems>  
+chargeout, stage hypothesis, <control>  
+
+
+DocID: CACM-2888
+
+system.  <in> bus<in>ess <systems> associated  
+items <in> bus<in>ess <systems> have to be identified  
+data, file, reference code, <systems>  
+
+
+DocID: CACM-0251
+
+<control> <systems>.  the cam profile generated <in>troduces  
+are utilized <in> ballistic computers of tank fire  
+
+
+DocID: CACM-2849
+
+distributed <control>, distributed comput<in>g,  
+with an operat<in>g ethernet of 100 nodes along a  
+<control>.  coord<in>ation of access to the ether for packet  
+
+
+DocID: CACM-3072
+
+computer <systems> are presented.  the basic <control> variables  
+multiprogramm<in>g <systems>, i/o system schedul<in>g  
+schedul<in>g <systems> for multiprogrammed- multiprocessor  
+
+
+DocID: CACM-1033
+
+<in>teraction <in> a general-purpose problem-solv<in>g  
+operat<in>g system <in>cludes display and entry of  
+arrays <in> s<in>gle statements.  the completely symbolic  
+
+
+DocID: CACM-2358
+
+of <in>formation stored <in> files kept <in> secondary storage.  
+operat<in>g system, multics, virtual memory, segmentation,  
+considerations of segmentation and shar<in>g <in> multics  
+
+
+DocID: CACM-1552
+
+software <systems> <in>volv<in>g elaborate,  
+the most fundamental underly<in>g problem <in> sophisticated  
+handl<in>g of selected sizes, <control> of shatter<in>g and  
+
+
+DocID: CACM-3028
+
+storage, extra codes, compilers, operat<in>g <systems>,  
+software <in> present-day term<in>ology.  several  
+management have evolved <in> the progression from  
+
+
+DocID: CACM-1844
+
+conversational <systems>, general purpose time-shar<in>g <systems>,  
+<systems>, modular computer-shar<in>g <systems>, graphics,  
+multiple term<in>al <systems>, term<in>al oriented <systems>,  
+
+
+DocID: CACM-2374
+
+provide substantial <in>creases <in> storage utilization  
+and operat<in>g efficiency over fixed partition<in>g.  
+procedures are exam<in>ed for use <in> multiprogramm<in>g  
+
+
+DocID: CACM-2668
+
+probability <in> a virtual memory system operat<in>g  
+based on memory states, <control> states, and memory  
+substates is presented.  the algorithm is general <in>  
+
+
+DocID: CACM-1752
+
+time-shar<in>g, operat<in>g <systems>, resource management,  
+discussed <in> relation to a comb<in>ed batch process<in>g  
+resource management for a medium scale time-shar<in>g operat<in>g system  
+
+
+DocID: CACM-0322
+
+the problem of operat<in>g a computer efficiently <in>  
+view of the grow<in>g number of programm<in>g <systems>  
+available.  each of these programm<in>g <systems> has been  
+
+
+DocID: CACM-2624
+
+operat<in>g system, third generation architecture,  
+virtual mach<in>e <systems> have been implemented  
+generation computer <systems>, e.g. the dec pdp-10, cannot  
+
+
+DocID: CACM-2844
+
+<mechanisms>, priority queues, heaps  
+heaps applied to event driven <mechanisms>  
+
+
+DocID: CACM-3153
+
+the <control> of response times <in> multi-class  
+<systems> by memory allocations  
+queue<in>g networks, pag<in>g, virtual memory, performance <control>  
+
+
+DocID: CACM-1199
+
+and <control> functions.  experiments performed  
+on experience; <in> most <in>stances, the benefits  
+center <in> terms of <in>formation nets, decision processes,  
+
+
+DocID: CACM-3137
+
+a methodology for the design of distributed <in>formation <systems>  
+various design and operat<in>g parameters on overall cost per transaction.  
+a macro model of a distributed <in>formation system <in> presented.  the model  
+
+
+DocID: CACM-2069
+
+operat<in>g <systems>, memory management  
+
+
+DocID: CACM-1264
+
+<in> the system.  
+blnsys-a 1401 operat<in>g system with braille capabilities  
+object deck under debugg<in>g trace <control>, card-to-braille  
+
+
+DocID: CACM-2378
+
+operat<in>g <systems>, supervisors, multiprogramm<in>g,  
+an operat<in>g system which is organized as a  
+<in> detail, outl<in>es the rema<in>der of the supervisor, and  
+
+
+DocID: CACM-2742
+
+discrete event simulation, simulation, event scann<in>g <mechanisms>  
+future event lists <in> discrete event simulations.  
+improved event-scann<in>g <mechanisms> for discrete event simulation  
+
+
+DocID: CACM-2949
+
+topology, rout<in>g problem <in> networks, distributed operat<in>g  
+computer networks, distributed <control>, network  
+store and forward message switch<in>g, traffic <control>  
+

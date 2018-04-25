@@ -1,0 +1,712 @@
+LUCENE_NoStopNoStem
+
+Query
+Semantics of programming languages, including abstract specifications
+of data types, denotational semantics, and proofs of correctness.
+
+Hoare, A.
+Dijkstra, E.
+
+ University of Massachusetts, Amherst, MA 01003
+
+Top 100 Results (5 millisecs)
+
+
+DocID: CACM-2940
+
+<<a>nd> th<e> control structur<e> <<<<of>>>> th<e> l<a>ngu<a>g<e> its<e>lf.  <a>  
+<l<a>ngu<a>g<e>s>, <progr<a>mming> m<e>thodology, pro<<<<of>>>>s <<<<of>>>> <corr<e>ctn<e>ss>, <typ<e>s>, v<e>rific<a>tion  
+<<a>bstr<a>ct>ion <<a>nd> r<e>pr<e>s<e>nt<a>tion, <<a>bstr<a>ct> <d<a>t<a>> <typ<e>s>,  
+
+
+DocID: CACM-2732
+
+<a>s <a> building block for <a>lt<e>rn<a>tiv<e> <<a>nd> r<e>p<e>titiv<e>  
+<<s<e>m<a>ntics>>, <progr<a>mming> l<a>ngu<a>g<e> <<s<e>m<a>ntics>>,  
+<corr<e>ctn<e>ss> pro<<<<of>>>>, d<e>riv<a>tion <<<<of>>>> progr<a>ms,  
+
+
+DocID: CACM-2931
+
+<<<<of>>>> comput<a>tion  in <a> w<a>y, th<e> st<a>tics <<<<of>>>> th<e> probl<e>m   
+th<e> d<e>finition <<<<of>>>> th<e> pr<e>cis<e> m<e><a>ning <<<<of>>>> <a> progr<a>m  
+<<a>nd> pro<<<<of>>>>s, which <a>r<e> cl<e><a>n <<a>nd> without undu<e> d<e>p<e>nd<e>nc<e>  
+
+
+DocID: CACM-3031
+
+<<a>bstr<a>ct> <d<a>t<a>> typ<e>, <corr<e>ctn<e>ss> pro<<<<of>>>>,  
+th<e> proc<e>ss <<<<of>>>> proving th<e> <corr<e>ctn<e>ss> <<<<of>>>> <a>n impl<e>m<e>nt<a>tion  
+<<a>bstr<a>ct> <d<a>t<a>> <typ<e>s> <<a>nd> s<<<<of>>>>tw<a>r<e> v<a>lid<a>tion  
+
+
+DocID: CACM-2326
+
+<<<<of>>>> comput<e>r progr<a>ms, <including> <corr<e>ctn<e>ss>, t<e>rmin<a>tion, <<a>nd> <e>quiv<a>l<e>nc<e>.  
+<<<<of>>>> th<e> l<e><a>st fix points <<<<of>>>> r<e>cursiv<e> progr<a>ms.  this  
+h<<a>nd>ling, in <a> uniform m<a>nn<e>r <<<<of>>>> v<a>rious prop<e>rti<e>s  
+
+
+DocID: CACM-2958
+
+<<<<of>>>> <a> symbol t<a>bl<e> for <a> block structur<e>d l<a>ngu<a>g<e>; <a> discussion  
+<<a>bstr<a>ct> <d<a>t<a>> <typ<e>s> <<a>nd> th<e> d<e>v<e>lopm<e>nt <<<<of>>>> <d<a>t<a>> structur<e>s  
+<e>ffici<e>nt, <<a>nd> fl<e>xibl<e>.  this p<a>p<e>r pr<e>s<e>nts <<a>nd> discuss<e>s  
+
+
+DocID: CACM-2842
+
+<<a>nd> th<e> und<e>rlying m<a>th<e>m<a>tic<a>l th<e>ory <<<<of>>>> comput<a>tion  
+th<e> <d<e>not<a>tion<a>l> <<s<e>m<a>ntics>> <<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s>  
+by d. scott <<a>nd> c. str<a>ch<e>y.  th<e> <a>pplic<a>tion <<<<of>>>> th<e> th<e>ory  
+
+
+DocID: CACM-2295
+
+<progr<a>mming> primitiv<e>s, <progr<a>mming> <l<a>ngu<a>g<e>s>,  
+<<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s>, <d<a>t<a>> structur<e>s  
+comm<e>nt on th<e> composition <<<<of>>>> <<s<e>m<a>ntics>> in <a>lgol 68  
+
+
+DocID: CACM-2148
+
+<<a>nd> simpl<e> introduction to both <a>lgol 68 <<a>nd>  
+<progr<a>mming> primitiv<e>s, <progr<a>mming> <l<a>ngu<a>g<e>s>,  
+<<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s>, <d<a>t<a>> structur<e>s  
+
+
+DocID: CACM-2470
+
+<d<a>t<a>> <typ<e>s> out <<<<of>>>> simp<e>r on<e>s with th<e> op<e>r<a>tions <<<<of>>>> rowing,  
+qu<e>stions <<<<of>>>> loc<a>l <<a>nd> glob<a>l <e>nvironm<e>nts <<a>nd> <<<<of>>>>  
+pro<<<<of>>>> <<<<of>>>> s<e>v<e>r<a>l <e>l<e>m<e>nt<a>ry th<e>or<e>ms conc<e>rning th<e> <<s<e>m<a>ntics>>  
+
+
+DocID: CACM-2264
+
+<<a>nd> sid<e>-<e>ff<e>ct <<<<of>>>> th<e> progr<a>m.  during th<e> cours<e> <<<<of>>>>  
+for <a> simpl<e> m<a>chin<e>.  th<e> <a>ction <<<<of>>>> th<e> m<a>chin<e> in <e>x<e>cuting  
+<corr<e>ctn<e>ss>, <progr<a>mming> <l<a>ngu<a>g<e>s>, <<s<e>m<a>ntics>>  
+
+
+DocID: CACM-2265
+
+th<e> notion <<<<of>>>> typ<e> ch<e>cking <<a>nd> pr<e>s<e>nts <a> p<a>rti<a>l  
+notions <<<<of>>>> <<a>bstr<a>ct>ion <<a>nd> <a>pplic<a>tion <<<<of>>>> functions.  
+<progr<a>mming> <l<a>ngu<a>g<e>s>, synt<a>x, <<s<e>m<a>ntics>>, compil<e>r  
+
+
+DocID: CACM-2227
+
+<a> pro<<<<of>>>> is giv<e>n <<<<of>>>> th<e> <corr<e>ctn<e>ss> <<<<of>>>> th<e>  
+<<<<of>>>> logic<a>l <e>rrors.  th<e> pro<<<<of>>>> <<<<of>>>> t<e>rmin<a>tion is tr<e><a>t<e>d  
+is giv<e>n <<<<of>>>> th<e> purpos<e> <<<<of>>>> th<e> progr<a>m <<a>nd> th<e> m<e>thod  
+
+
+DocID: CACM-1747
+
+<<<<of>>>> <a> virtu<a>l comput<e>r <a>r<e> <e>xpl<a>in<e>d.  <e>x<a>mpl<e>s <<<<of>>>> <a>pplic<a>tions  
+<<<<of>>>> th<e> crit<e>ri<a> conc<e>rn th<e> r<e><a>ding <<<<of>>>>  
+th<e> scop<e> <<<<of>>>> th<e> crit<e>ri<a>, th<e> notion <<<<of>>>> <a>n <<a>bstr<a>ct>  
+
+
+DocID: CACM-3073
+
+<a> v<a>ri<e>ty <<<<of>>>> f<a>mili<a>r <progr<a>mming> <e>x<e>rcis<e>s.  
+<progr<a>mming>, <progr<a>mming> <l<a>ngu<a>g<e>s>, <progr<a>mming> primitiv<e>s,  
+b<a>sic primitiv<e>s <<<<of>>>> <progr<a>mming> <<a>nd> th<a>t p<a>r<a>ll<e>l  
+
+
+DocID: CACM-2314
+
+<a> wid<e> r<a>ng<e> <<<<of>>>> <a>pplic<a>tions.  thr<e><e> <a>sp<e>cts <<<<of>>>> <progr<a>mming>  
+<<<<of>>>> progr<a>mm<e>rs working in such dom<a>ins.  <a>  
+input <<a>nd> output <<<<of>>>> <d<a>t<a>> would f<a>cilit<a>t<e> us<e> <<<<of>>>>  
+
+
+DocID: CACM-3105
+
+<l<a>ngu<a>g<e>s> th<a>t support th<e> notion <<<<of>>>> <<a>bstr<a>ct> <d<a>t<a>>  
+<a> l<a>ngu<a>g<e> <e>xt<e>nsion for <e>xpr<e>ssing constr<a>ints on <d<a>t<a>> <a>cc<e>ss  
+<progr<a>mming> <l<a>ngu<a>g<e>s>, <a>cc<e>ss control, <d<a>t<a>> <typ<e>s>,  
+
+
+DocID: CACM-3133
+
+<<a>bstr<a>ct> <d<a>t<a>> structur<e> for th<e> r<e>pr<e>s<e>nt<a>tion <<<<of>>>> cl<a>us<e>s, w<e> provid<e> <a>  
+b<e> r<e>g<a>rd<e>d <a>s <a> synt<a>ctic v<a>ri<a>nt <<<<of>>>> th<e> cl<a>us<a>l form <<<<of>>>> logic.  
+th<e>or<e>m-prov<e>r with <a> pot<e>nti<a>lly us<e>ful ind<e>xing sch<e>m<e> <<a>nd> p<a>th-following  
+
+
+DocID: CACM-3103
+
+<<a>bstr<a>ct> <d<a>t<a>> <typ<e>s>, <a>utom<a>tic <progr<a>mming>, <d<a>t<a>>  
+<progr<a>mming> syst<e>ms h<a>v<e> provid<e>d only <a> singl<e> g<e>n<e>r<a>l  
+<a>utom<a>tic <d<a>t<a>> structur<e> s<e>l<e>ction: <a>n <e>x<a>mpl<e> <<a>nd> ov<e>rvi<e>w  
+
+
+DocID: CACM-2943
+
+th<e> pro<<<<of>>>>s <a>r<e> p<a>rticul<a>rly <e><a>sy to follow <<a>nd> str<a>ightforw<a>rd  
+with th<e> h<e>lp <<<<of>>>> <a> f<e>w <a>xioms <<a>nd> rul<e>s <<<<of>>>> inf<e>r<e>nc<e>  
+it<e>r<a>tiv<e> progr<a>ms in <a> conv<e>ntion<a>l structur<e>d <progr<a>mming>  
+
+
+DocID: CACM-2342
+
+<<<<of>>>> th<e> <e>xist<e>nc<e> <<<<of>>>> c<e>rt<a>in s<e>qu<e>nc<e>s.  <a> m<e>ch<a>nic<a>l  
+th<e> form<a>tion <<<<of>>>> p<a>rti<a>l rul<e>s <<a>nd> th<e> c<a>lcul<a>tion <<<<of>>>>  
+s' in <a>ccord<a>nc<e> with <a> tr<a>nsition rul<e> s --> s'.  <a>  
+
+
+DocID: CACM-2155
+
+b<e> p<a>rt <<<<of>>>> <a> <progr<a>mming> l<a>ngu<a>g<e>, which <a>llows <a>  
+impl<e>m<e>nt<a>tion <<<<of>>>> som<e> <<<<of>>>> his <d<a>t<a>> structur<e>s in ord<e>r to g<a>in <e>ffici<e>ncy.  
+this p<a>p<e>r pr<e>s<e>nts <a> not<a>tion <<a>nd> form<a>lism  
+
+
+DocID: CACM-3077
+
+<<s<e>m<a>ntics>> to st<a>t<e> tr<a>nsitions, th<e>ir division <<<<of>>>> <progr<a>mming>  
+on<e>s in <a> styl<e> not possibl<e> in conv<e>ntion<a>l <l<a>ngu<a>g<e>s>.  
+cl<a>ss<e>s <<<<of>>>> progr<a>ms.  <a> n<e>w cl<a>ss <<<<of>>>> computing syst<e>ms  
+
+
+DocID: CACM-2705
+
+<<<<of>>>> th<e> history <<<<of>>>> <a>rtifici<a>l, <a>uxili<a>ry <l<a>ngu<a>g<e>s> it  
+<<<<of>>>> g<e>n<e>r<a>l utility <<a>nd> studi<e>s <<<<of>>>> qu<e>stions  
+in <progr<a>mming>. th<e> d<e>v<e>lopm<e>nt <<<<of>>>> n<a>tur<a>l <l<a>ngu<a>g<e>s> tow<a>rd  
+
+
+DocID: CACM-2178
+
+<a> l<a>ngu<a>g<e> <e>xt<e>nsion for gr<a>ph proc<e>ssing <<a>nd> its form<a>l <<s<e>m<a>ntics>>  
+<<<<of>>>> th<e> d<e>finition <<<<of>>>> <a> l<a>ngu<a>g<e> in t<e>rms <<<<of>>>> its <<s<e>m<a>ntics>> <a>r<e> discuss<e>d.  
+<<<<of>>>> <a>n <e>xplicit synt<a>x n<e>c<e>ss<a>ry.  <a>n <e>x<a>mpl<e> <<<<of>>>>  
+
+
+DocID: CACM-2112
+
+<a> s<e>t <<<<of>>>> tr<a>nsl<a>tion <e>qu<a>tions th<e> <sp<e>cific<a>tions> for <a> pushdown tr<a>nsl<a>tor.  
+r<e>cognition <<a>nd> p<a>rsing m<a>y b<e> tr<e><a>t<e>d <a>s sp<e>ci<a>l c<a>s<e>s <<<<of>>>> th<e> tr<a>nsl<a>tion  
+<a>r<e> us<e>d to d<e>scrib<e> th<e> synt<a>x <<a>nd> l<e>ft-cont<e>xt s<e>nsitiv<e> <<s<e>m<a>ntics>> for  
+
+
+DocID: CACM-2411
+
+<<s<e>m<a>ntics>> <<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s>, structur<e>d <progr<a>mming>.  
+<progr<a>mming> l<a>ngu<a>g<e> d<e>sign, pro<<<<of>>>> <<<<of>>>> progr<a>ms,  
+w<e>gn<e>r, <e>.  
+
+
+DocID: CACM-1323
+
+<a> corr<e>spond<e>nc<e> b<e>tw<e><e>n <e>xpr<e>ssions <<<<of>>>> <a>lgol 60 <<a>nd> <e>xpr<e>ssions  
+first <a> mod<e>l for comput<e>r <l<a>ngu<a>g<e>s> <<a>nd> comput<e> b<e>h<a>vior  
+<a> corr<e>spond<e>nc<e> b<e>tw<e><e>n <a>lgol 60 <<a>nd> church's l<a>mbd<a>-not<a>tion: p<a>rt i*  
+
+
+DocID: CACM-1902
+
+<<a>nd> for fin<a>l runs with syst<e>m-suppli<e>d <d<a>t<a>>.  <e>x<e>rcis<e>s  
+<a> discussion is giv<e>n <<<<of>>>> <a>lt<e>r<a>tions th<a>t w<e>r<e>  
+progr<a>ms, <<a>nd> no sp<e>ci<a>l r<e>cognition <<<<of>>>> <e>x<e>rcis<e>s by th<e> op<e>r<a>tors is n<e>c<e>ss<a>ry.  
+
+
+DocID: CACM-1471
+
+th<e> <<s<e>m<a>ntics>> <a>r<e> d<e>fin<e>d for <a> numb<e>r <<<<of>>>> m<e>t<a>-instructions  
+s<e>gm<e>nts <<a>nd> oth<e>r computing obj<e>cts, th<e> n<a>m<e>s <<<<of>>>> which  
+d<e>bugging, <<a>nd> th<e> sh<a>ring <a>mong us<e>rs <<<<of>>>> m<e>mory  
+
+
+DocID: CACM-0949
+
+synt<a>x <<a>nd> <<s<e>m<a>ntics>> in th<e> <progr<a>mming> <l<a>ngu<a>g<e>s>.  
+not only <a>s <a> strings-g<e>n<e>r<a>ting d<e>vic<e> but <a>lso <a>s <a>  
+<<<<of>>>> <a> cont<e>xt-fr<e><e> l<a>ngu<a>g<e> should b<e> conc<e>iv<e>d  
+
+
+DocID: CACM-3104
+
+t<e>st <d<a>t<a>> <a>s <a>n <a>id in proving progr<a>m <corr<e>ctn<e>ss>  
+t<e>st <d<a>t<a>> c<a>n b<e> us<e>d in proving progr<a>m <corr<e>ctn<e>ss>.  
+<corr<e>ctn<e>ss>, this m<e>thod simplifi<e>s th<e> proc<e>ss <<<<of>>>> providing  
+
+
+DocID: CACM-2865
+
+<ho<a>r<e>> h<a>s giv<e>n <a> s<e>t <<<<of>>>> <a>xioms for p<a>rti<a>l <corr<e>ctn<e>ss>,  
+<a> cruci<a>l <a>xiom provid<e>s for th<e> us<e> <<<<of>>>> <a>uxili<a>ry v<a>ri<a>bl<e>s,  
+<<<<of>>>> prop<e>rti<e>s <<<<of>>>> p<a>r<a>ll<e>l progr<a>ms is pr<e>s<e>nt<e>d.  
+
+
+DocID: CACM-3188
+
+<a>sp<e>cts into th<e> thr<e><e> s<e>miotic dim<e>nsion <<a>nd> th<e>r<e> s<e><e>ms to b<e> <a> strong  
+s<e>miotics <<a>nd> <progr<a>mming> <l<a>ngu<a>g<e>s>  
+<a>t this point th<a>t l<a>ngu<a>g<e> h<a>s m<a>ny <a>sp<e>cts <<a>nd> th<a>t pr<a>gm<a>tics, <<s<e>m<a>ntics>> <<a>nd>  
+
+
+DocID: CACM-2941
+
+<<a>nd> why it is br<e><a>ch<e>d occ<a>sion<a>lly, <<a>nd> th<e>  
+<typ<e>s> <<a>nd> typ<e> co<e>rcions, th<e> b<e>n<e>fits <<<<of>>>> th<e> typ<e> syst<e>m  
+<d<a>t<a>> structur<e>s, syst<e>ms <progr<a>mming>  
+
+
+DocID: CACM-1496
+
+<<<<of>>>> th<e> m<e>t<a>-l<a>ngu<a>g<e> b<a>s<e>d on th<e> <e>x<a>mpl<e> <<<<of>>>> <a>  
+<a> form<a>l <<s<e>m<a>ntics>> for comput<e>r <l<a>ngu<a>g<e>s>  
+<<a>nd> its <a>pplic<a>tion in <a> compil<e>r-compil<e>r  
+
+
+DocID: CACM-1834
+
+<<<<of>>>> s<e>ts <<<<of>>>> <a>xioms <<a>nd> rul<e>s <<<<of>>>> inf<e>r<e>nc<e>  
+<<a>nd> rul<e>s, <<a>nd> <a> form<a>l pro<<<<of>>>> <<<<of>>>> <a> simpl<e> th<e>or<e>m is  
+<a>xiom<a>tic m<e>thod, th<e>ory <<<<of>>>> <progr<a>mming>, pro<<<<of>>>>s <<<<of>>>>  
+
+
+DocID: CACM-2651
+
+<<a>nd> v<e>ry fl<e>xibl<e> <d<a>t<a>> typ<e> b<e>h<a>vior, in <a> cont<e>xt th<a>t  
+s<e>t <<<<of>>>> <d<a>t<a>> <typ<e>s> <<a>nd> <a>ssoci<a>t<e>d op<e>r<a>tions in <a> m<a>nn<e>r  
+l<a>ngu<a>g<e>, <a> k<e>y issu<e> is providing <a> suffici<e>nt  
+
+
+DocID: CACM-2886
+
+<<a>nd> compil<e>rs; <a> form<a>l d<e>finition <<<<of>>>> <a>ttribut<e> gr<a>mm<a>rs  
+<<a>nd> <a> discussion <<<<of>>>> som<e> <<<<of>>>> its import<a>nt <a>sp<e>cts  
+<<<<of>>>> s<e>m<a>ntic <a>ttribut<e>s in <a> f<e>w p<a>ss<e>s from l<e>ft  
+
+
+DocID: CACM-1781
+
+th<e> writing <<<<of>>>> tr<a>nsl<a>tors <<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s>  
+<a> critic<a>l r<e>vi<e>w <<<<of>>>> r<e>c<e>nt <e>fforts to <a>utom<a>t<e>  
+is pr<e>s<e>nt<e>d.  th<e> form<a>l study <<<<of>>>> synt<a>x <<a>nd> its <a>pplic<a>tion  
+
+
+DocID: CACM-3198
+
+<<<<of>>>> l<a>ngu<a>g<e>. in th<e> <a>r<e><a>s <<<<of>>>> l<a>ngu<a>g<e> inv<e>stig<a>tion w<e> h<a>v<e> conc<e>ntr<a>t<e>d first  
+on form<a>lizing synt<a>x <<a>nd> th<e>n on <<s<e>m<a>ntics>>.  
+micro<progr<a>mming>, <e>mul<a>tors <<a>nd> <progr<a>mming> <l<a>ngu<a>g<e>s>  
+
+
+DocID: CACM-3185
+
+th<e> intrinsic limit<a>tions <<<<of>>>> th<e> hum<a>n mind <<a>nd> <a>ppro<a>ch th<e> t<a>sk <a>s v<e>ry  
+stick to mod<e>st <<a>nd> <e>l<e>g<a>nt <progr<a>mming> <l<a>ngu<a>g<e>s>, provid<e>d th<a>t w<e> r<e>sp<e>ct  
+dijkstr<a>, <e>. w.  
+
+
+DocID: CACM-2972
+
+<<<<of>>>> which c<a>n b<e> d<e>scrib<e>d by <a> s<e>lf-cont<a>in<e>d nonproc<e>dur<a>l  
+<a> m<e>thod for d<e>scribing <<a>nd> structuring progr<a>ms  
+th<a>t simplifi<e>s pro<<<<of>>>>s <<<<of>>>> th<e>ir <corr<e>ctn<e>ss>  
+
+
+DocID: CACM-2851
+
+<<a>nd> p<e>rmits sh<a>r<e>d glob<a>l v<a>ri<a>bl<e>s.  <corr<e>ctn<e>ss>  
+<<<<of>>>> <a>n infinit<e> s<e>t <<<<of>>>> control st<a>t<e>s by <a>llowing  
+<a>r<e> pr<e>s<e>nt<e>d: <a>n <<a>bstr<a>ct> conc<e>ptu<a>l mod<e>l <<a>nd>  
+
+
+DocID: CACM-2945
+
+compil<e>rs.  <a>ppropri<a>t<e> <<s<e>m<a>ntics>> <a>r<e> pr<e>s<e>nt<e>d <<a>nd>  
+<<<<of>>>> <a> l<a>ttic<e> structur<e> <a>mong s<e>curity cl<a>ss<e>s,  
+d<e>nning, d. <e>.  
+
+
+DocID: CACM-2703
+
+probl<e>m for <a> gr<a>mm<a>r is to d<e>t<e>rmin<e> wh<e>th<e>r th<e> <<s<e>m<a>ntics>>  
+for <including> th<e> <<s<e>m<a>ntics>> <<<<of>>>> <a> cont<e>xt-fr<e><e> l<a>ngu<a>g<e>  
+tim<e>, <<s<e>m<a>ntics>>  
+
+
+DocID: CACM-2895
+
+probl<e>m <<a>nd> th<e> writ<e>r priority <<<<of>>>> th<e> s<e>cond  
+is us<e>d to writ<e> <sp<e>cific<a>tions> <<<<of>>>> th<e> r<e><a>d<e>rs/writ<e>rs  
+<e>v<e>nts <<<<of>>>> <a> comput<a>tion c<a>n occur.  th<e> l<a>ngu<a>g<e>  
+
+
+DocID: CACM-1358
+
+<a> giv<e>n high-l<e>v<e>l b<a>s<e> l<a>ngu<a>g<e> by th<e> us<e> <<<<of>>>> <a> n<e>w  
+<<<<of>>>> th<e> b<a>s<e> l<a>ngu<a>g<e>.  two <typ<e>s> <<<<of>>>> m<a>cros  
+<a>r<e> discuss<e>d, <<a>nd> <e>x<a>mpl<e>s <a>r<e> giv<e>n <<<<of>>>> th<e>ir us<e>.  th<e>  
+
+
+DocID: CACM-2956
+
+<a> simpl<e> not<a>tion for <a>llowing <typ<e>s> <<<<of>>>> p<a>r<a>m<e>t<e>rs  
+<<a>nd> r<e>sulting probl<e>ms with conv<e>rsion <<<<of>>>>  
+<d<a>t<a>> <typ<e>s>, g<e>n<e>ric proc<e>dur<e>s, <progr<a>mming> <l<a>ngu<a>g<e>s>  
+
+
+DocID: CACM-1213
+
+<typ<e>s> giv<e> th<e> fortr<a>n progr<a>mm<e>r control <<<<of>>>> input/output  
+th<e> us<e> <<a>nd> impl<e>m<e>nt<a>tion <<<<of>>>> two n<e>w fortr<a>n  
+r<a>n<e>ll<e>tti, j. <e>.  
+
+
+DocID: CACM-1098
+
+<<<<of>>>> stor<a>g<e>, us<e> <<<<of>>>> pushdown stor<e>s, <<a>nd> us<e> <<<<of>>>>  
+<a> comp<a>rison <<<<of>>>> list-proc<e>ssing comput<e>r <l<a>ngu<a>g<e>s>  
+r<e>pr<e>s<e>nt<a>tions <<<<of>>>> <d<a>t<a>>, both by th<e> progr<a>mm<e>r <<a>nd> within  
+
+
+DocID: CACM-1198
+
+solution <<<<of>>>> <a> probl<e>m in concurr<e>nt <progr<a>mming> control  
+<a> numb<e>r <<<<of>>>> m<a>inly ind<e>p<e>nd<e>nt s<e>qu<e>nti<a>l-cyclic  
+mom<e>nt on<e> <<a>nd> only on<e> <<<<of>>>> th<e>m is <e>ng<a>g<e>d in th<e>  
+
+
+DocID: CACM-2341
+
+<<a>nd> pr<e>p<a>r<a>tion  h<a>v<e> b<e><e>n progr<a>mm<e>d on <a> print<e>r  
+<a>ggr<e>g<a>t<e> <<<<of>>>> ch<a>r<a>ct<e>rs in th<e> form <<<<of>>>> <a> right p<a>r<a>ll<e>l<e>pip<e>d,  
+print<a>bl<e> output.  <a> v<a>ri<e>ty <<<<of>>>> gr<a>phic<a>l probl<e>ms  <including>  
+
+
+DocID: CACM-2254
+
+d<e>t<a>il to b<e> <<<<of>>>> v<a>lu<e> in th<e> d<e>sign <<<<of>>>> oth<e>r <a>rr<a>y <l<a>ngu<a>g<e>s>.  
+<d<a>t<a>> structur<e>, tr<e><e> structur<e>, <progr<a>mming>  
+<<<<of>>>> g<e>n<e>r<a>l int<e>r<e>st is th<e> <d<a>t<a>> structur<e> for p<a>rtitioning.  
+
+
+DocID: CACM-1421
+
+<<<<of>>>> th<e> ch<a>ng<e>s m<a>d<e> to <a>lgol 60, tog<e>th<e>r with <a>  
+<<<<of>>>> <a>n introduction to th<e> n<e>w l<a>ngu<a>g<e> <<a>nd> <a> summ<a>ry  
+<a> contribution to th<e> d<e>v<e>lopm<e>nt <<<<of>>>> <a>lgol  
+
+
+DocID: CACM-3039
+
+<a>ll <<<<of>>>> th<e> <a>ctivity n<e><e>d<e>d for g<a>rb<a>g<e> d<e>t<e>ction <<a>nd> coll<e>ction  
+d<e>spit<e> fr<e>qu<e>nt m<a>nipul<a>tions <<<<of>>>> <a> l<a>rg<e> sh<a>r<e>d <d<a>t<a>>  
+dijkstr<a>, <e>.  
+
+
+DocID: CACM-1457
+
+<<a>nd> sugg<e>stions <a>r<e> m<a>d<e> for th<e> d<e>sign <<<<of>>>> <progr<a>mming>  
+<<a>nd> tr<e><e> or list structur<e>s.  th<e> m<a>in <d<a>t<a>>  
+<d<a>t<a>> m<a>nipul<a>tion <<a>nd> <progr<a>mming> probl<e>ms  
+
+
+DocID: CACM-1749
+
+<<<<of>>>> th<e> d<e>sign <<a>nd> th<e> <corr<e>ctn<e>ss> <<<<of>>>> its impl<e>m<e>nt<a>tion.  
+dijkstr<a>, <e>. w.  
+which <a>ll <a>ctiviti<e>s <a>r<e> divid<e>d ov<e>r <a> numb<e>r <<<<of>>>>  
+
+
+DocID: CACM-2887
+
+d<e>sign, <<a>nd> l<a>ck <<<<of>>>> r<e>s<e><a>rch.  th<e> <typ<e>s>  
+compil<e>rs, improv<e>m<e>nt <<<<of>>>> t<e><a>ching, <<a>nd> ch<a>ng<e>s in <progr<a>mming>  
+<a> study <<<<of>>>> <e>rrors, <e>rror-pron<e>n<e>ss, <<a>nd> <e>rror di<a>gnosis in cobol  
+
+
+DocID: CACM-1835
+
+<<<<of>>>> <d<a>t<a>> <typ<e>s>.  s<e>v<e>r<a>l nov<e>l <<a>nd> pow<e>rful f<e><a>tur<e>s  
+<l<a>ngu<a>g<e>s> <progr<a>mming> <l<a>ngu<a>g<e>s>, stud<e>nt <progr<a>mming>  
+with <a> on<e>-l<e>v<e>l block structur<e> <<a>nd> <a> v<a>ri<e>ty  
+
+
+DocID: CACM-2700
+
+r<e>duction: <a> m<e>thod <<<<of>>>> proving prop<e>rti<e>s <<<<of>>>> p<a>r<a>ll<e>l progr<a>ms  
+wh<e>n proving th<a>t <a> p<a>r<a>ll<e>l progr<a>m h<a>s <a>  
+h<a>lting.  thus <corr<e>ctn<e>ss> pro<<<<of>>>>s <<<<of>>>> <a> p<a>r<a>ll<e>l  
+
+
+DocID: CACM-2111
+
+<<a>nd> symbol t<a>bl<e>s, <<a>nd> th<e> consid<e>r<a>tion <<<<of>>>> <a> limit<e>d cl<a>ss <<<<of>>>> sp<e>lling  
+to compil<e>rs <<a>nd> op<e>r<a>ting syst<e>ms.  th<e>s<e> includ<e> th<e> us<e> <<<<of>>>> synt<a>x  
+<<a>nd> <<s<e>m<a>ntics>> inform<a>tion, th<e> org<a>niz<a>tion <<<<of>>>> r<e>strict<e>d k<e>yword  
+
+
+DocID: CACM-2616
+
+on th<e> conv<e>rsion <<<<of>>>> progr<a>ms to d<e>cision t<a>bl<e>s: m<e>thod <<a>nd> obj<e>ctiv<e>s  
+<<s<e>m<a>ntics>>, th<e>ory <<<<of>>>> <progr<a>mming>, syst<e>ms <a>n<a>lysis  
+<<a>nd> comput<a>bility <a>r<e> sugg<e>st<e>d.  
+
+
+DocID: CACM-1135
+
+<<<<of>>>> flowch<a>rts .  h<e>r<e> <a>n inv<a>ri<a>nt p<a>tt<e>rn <<<<of>>>> proc<e>dur<e>  
+<a> proc<e>ss  <e>.g. ch<a>ng<e>s <a>ff<e>cting only on<e> <<<<of>>>> th<e> output  
+r<e>pr<e>s<e>nt<a>tion <<<<of>>>> proc<e>ss <a>s s<e>ts  t<a>bl<e>s  <<<<of>>>> r<e>l<a>tions  
+
+
+DocID: CACM-2204
+
+th<e> d<e>composition <<<<of>>>> t<a>sks into subt<a>sks <<a>nd> <<<<of>>>> <d<a>t<a>>  
+into <d<a>t<a>> structur<e>s.  th<e> proc<e>ss <<<<of>>>> succ<e>ssiv<e>  
+r<e>fin<e>m<e>nt <<<<of>>>> <sp<e>cific<a>tions> is illustr<a>t<e>d by <a> short  
+
+
+DocID: CACM-3055
+
+<<<<of>>>> sw<a>ps which is 2/3n + 0 1  <<a>nd> th<a>t  
+dijkstr<a> st<a>rts with <a> simpl<e> progr<a>m <<a>nd> <a>rriv<e>s <a>t  
+by 1/4 <<<<of>>>> <a> sw<a>p.  th<e> <a>lgorithm <<<<of>>>> m<e>y<e>r  
+
+
+DocID: CACM-3014
+
+<<a>nd> t<e>rmin<a>tion pro<<<<of>>>>s.  som<e> <<<<of>>>> th<e>s<e> pro<<<<of>>>>s <a>r<e> m<a>rk<e>dly  
+is pr<e>s<e>nt<e>d with <a> numb<e>r <<<<of>>>> <e>x<a>mpl<e>s <<<<of>>>> <corr<e>ctn<e>ss>  
+<corr<e>ctn<e>ss> <<a>nd> t<e>rmin<a>tion <<<<of>>>> progr<a>ms simult<a>n<e>ously.  
+
+
+DocID: CACM-2316
+
+<<<<of>>>> 1972.  k<e>y conc<e>pts oth<e>r th<a>n sp<e>cific <l<a>ngu<a>g<e>s> <a>r<e> discuss<e>d.  
+<<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s>  = high<e>r l<e>v<e>l <l<a>ngu<a>g<e>s> .  
+<<<<of>>>> <l<a>ngu<a>g<e>s> <a>r<e> giv<e>n.  th<e> m<a>jor <l<a>ngu<a>g<e>s> <a>r<e> list<e>d  
+
+
+DocID: CACM-1678
+
+to <a> ph. stud<e>nt in comput<e>r sci<e>nc<e>.  <a> bri<e>f  
+c<a>t<a>log d<e>scription <<<<of>>>> <e><a>ch cours<e> is <a>ppli<e>d <<a>nd> th<e>  
+<<a>nd> comput<a>bility in <a> ph. comput<e>r sci<e>nc<e>  
+
+
+DocID: CACM-2021
+
+<a> comm<e>nt on <a>xiom<a>tic <a>ppro<a>ch<e>s to <progr<a>mming>  
+<a>xiom<a>tic m<e>thod, pro<<<<of>>>>s <<<<of>>>> progr<a>ms,  
+homomorphic structur<e> in <progr<a>mming>  
+
+
+DocID: CACM-0068
+
+<a> study w<a>s m<a>d<e> <<<<of>>>> univ<e>rsity progr<a>ms in  
+<d<a>t<a>> proc<e>ssing <<a>nd> r<e>l<a>t<e>d fi<e>lds  
+th<e> rol<e> <<<<of>>>> th<e> univ<e>rsity in comput<e>rs,  
+
+
+DocID: CACM-1470
+
+th<e> <d<a>t<a>> its<e>lf,  2  by r<e>f<e>rring to th<e> <d<a>t<a>> by  
+<a> b<a>sic instruction <<<<of>>>> th<e> <progr<a>mming> l<a>ngu<a>g<e>.  
+<a> progr<a>m c<a>n obt<a>in <d<a>t<a>> inputs.  s<e>v<e>r<a>l <a>lt<e>rn<a>tiv<e>  
+
+
+DocID: CACM-2870
+
+<<<<of>>>> th<e>m <a>ccording to s<e>curity obj<e>ctiv<e>s, <<a>nd>  
+<<<<of>>>> diff<e>r<e>nt <e>xisting syst<e>ms <<a>nd> f<a>cilit<a>t<e>  
+c<e>ntr<a>l compon<e>nt <<<<of>>>> th<e> mod<e>l is <a> l<a>ttic<e> structur<e>  
+
+
+DocID: CACM-2718
+
+<a> pr<e>limin<a>ry syst<e>m for th<e> d<e>sign <<<<of>>>> dbtg <d<a>t<a>> structur<e>s  
+is to d<e>riv<e> <a> <d<a>t<a>> structur<e> which is c<a>p<a>bl<e> <<<<of>>>> supporting  
+<sp<e>cific<a>tions>.  th<e> <a>utom<a>tic <progr<a>mming> t<e>chnology  
+
+
+DocID: CACM-2192
+
+<<a>nd> thus <a>pplic<a>bl<e> in pro<<<<of>>>>s <a>bout int<e>rpr<e>t<e>rs  
+r<e>cursion, induction, <corr<e>ctn<e>ss>, pro<<<<of>>>>s, compil<e>r <corr<e>ctn<e>ss>  
+for <progr<a>mming> <l<a>ngu<a>g<e>s>.  
+
+
+DocID: CACM-3081
+
+v<a>lu<e> <<<<of>>>> <a> v<a>ri<a>bl<e> to b<e> <a>cc<e>ss<e>d in <a> bound<e>d  
+<<a>nd> is option<a>l in th<e> s<e>ns<e> th<a>t <a> lisp 1.5 int<e>rpr<e>t<e>r  
+d<e><e>p, <<a>nd> which <a>ff<e>cts only th<e> sp<e><e>d <<<<of>>>> <e>x<e>cution  
+
+
+DocID: CACM-1484
+
+<a> l<a>ngu<a>g<e> for d<e>scribing th<e> functions <<<<of>>>> synchronous syst<e>ms*  
+st<<a>nd><a>rd <progr<a>mming> <l<a>ngu<a>g<e>s> for th<e> d<e>scription <<<<of>>>>  
+<<a>nd> <a>utom<a>tic d<e>sign <<<<of>>>> th<e> syst<e>m d<e>scrib<e>d, in  
+
+
+DocID: CACM-2406
+
+<d<a>t<a>> b<a>s<e>s.  this p<a>p<e>r r<e>vi<e>ws p<a>st work in th<e> <d<a>t<a>>  
+<<a>nd> physic<a>l <a>sp<e>cts <<<<of>>>> <d<a>t<a>>.  <a>pplic<a>tions <<<<of>>>> th<e>s<e>  
+<d<a>t<a>> d<e>finition l<a>ngu<a>g<e>, <d<a>t<a>> <<a>nd> stor<a>g<e> structur<e>,  
+
+
+DocID: CACM-2733
+
+<l<a>ngu<a>g<e>s> in w<a>ys th<a>t <a>r<e> mor<e> fl<e>xibl<e> <<a>nd>  
+m<e>thods <<<<of>>>> d<e>scribing th<e> synt<a>x <<<<of>>>> <progr<a>mming>  
+c<e>rt<a>in cl<a>ss<e>s <<<<of>>>> th<e>s<e> <sp<e>cific<a>tions>.  
+
+
+DocID: CACM-2939
+
+<progr<a>mming> <l<a>ngu<a>g<e>s>, <d<a>t<a>> <typ<e>s>, <d<a>t<a>> <<a>bstr<a>ct>ions,  
+m<e><a>ns <<<<of>>>> <progr<a>mming> <e>x<a>mpl<e>s, th<e> utility <<<<of>>>> th<e> thr<e><e>  
+in th<e> <progr<a>mming> proc<e>ss.  <<<<of>>>> th<e>s<e>, only th<e>  
+
+
+DocID: CACM-2594
+
+<a> r<e>striction on th<e> p<e>rmissibl<e> op<e>r<a>tions, <<a>nd> <e>x<e>cution-tim<e> ch<e>cks.  
+<<<<of>>>> <a> r<e>strict<e>d cl<a>ss <<<<of>>>> <d<a>t<a>> structur<e>s but <e>nsur<e>s  
+structur<e>d <progr<a>mming>, <d<a>t<a>> structur<e>s, <d<a>t<a>> b<a>s<e> m<a>n<a>g<e>m<e>nt syst<e>m  
+
+
+DocID: CACM-2896
+
+<corr<e>ctn<e>ss> for multiproc<e>ssing t<a>sks  
+<a> p<a>r<a>ll<e>l progr<a>m, dijkstr<a>'s on-th<e>-fly g<a>rb<a>g<e>  
+coll<e>ctor, is prov<e>d corr<e>ct using <a> pro<<<<of>>>>  
+
+
+DocID: CACM-2634
+
+<<a>nd> th<e> r<e>sults <a>r<e> summ<a>riz<e>d <a>s to cost <<a>nd> p<e>rform<a>nc<e>.  
+<<a>nd> us<e>, t<e>sts w<e>r<e> m<a>d<e> for <e><a>ch <<<<of>>>> th<e>s<e> syst<e>ms,  
+s<e>v<e>r<a>l hundr<e>d coll<e>g<e> <<a>nd> univ<e>rsity comput<e>r  
+
+
+DocID: CACM-2684
+
+<a> sm<a>ll but signific<a>nt subs<e>t <<<<of>>>> pl/i is consid<e>r<e>d.  <a>  
+to d<e>fin<e> <<a>bstr<a>ct> synt<a>x <<a>nd> tr<a>nsl<a>tions b<e>tw<e><e>n <l<a>ngu<a>g<e>s>,  
+<<<<of>>>> th<e> synt<a>x <<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s> h<a>s b<e><e>n  
+
+
+DocID: CACM-2632
+
+typ<e> <<<<of>>>> obj<e>ct.  th<e> m<e>ch<a>nisms provid<e> <a> coh<e>r<e>nt  
+to <a> giv<e>n typ<e>, sh<a>ring, <<a>nd> prot<e>ction <<<<of>>>> <a>ny r<e>f<e>r<e>nc<e>  
+g<e>n<e>r<a>liz<e>d notion <<<<of>>>> "r<e>sourc<e>", both physic<a>l <<a>nd> virtu<a>l,  
+
+
+DocID: CACM-2946
+
+<<<<of>>>> this primitiv<e> in t<e>rms <<<<of>>>> p <<a>nd>  
+writ<e>rs probl<e>m <<a>nd> th<e> probl<e>m <<<<of>>>> inform<a>tion  
+h<a>ns<e>n <<a>nd> <ho<a>r<e>>, <e>v<e>nt <a>r<e> us<e>d for synchroniz<a>tion.  
+
+
+DocID: CACM-0689
+
+r<e>port <<<<of>>>> <a> visit to discuss common <progr<a>mming>  
+<l<a>ngu<a>g<e>s> in cz<e>choslov<a>ki<a> <<a>nd> pol<<a>nd>, 1963  
+gosd<e>n, j. <a>.  
+
+
+DocID: CACM-2701
+
+for <a> gr<a>ph <<<<of>>>> <e> <e>dg<e>s, th<e> <a>lgorithm h<a>s <a>  
+th<e> numb<e>r <<<<of>>>> op<e>r<a>tions is proportion<a>l to <e> plus th<e>  
+shown to tr<e><a>t <a> v<e>ry g<e>n<e>r<a>l cl<a>ss <<<<of>>>> function sp<a>c<e>s.  
+
+
+DocID: CACM-3170
+
+<a> form<a>l sp<e>cific<a>tion is giv<e>n for <a> simpl<e> c<a>l<e>nd<a>r  
+progr<a>m, <<a>nd> th<e> d<e>riv<a>tion <<a>nd> pro<<<<of>>>> <<<<of>>>> <corr<e>ctn<e>ss> <<<<of>>>> th<e> progr<a>m <a>r<e>  
+on th<e> pro<<<<of>>>> <<<<of>>>> <corr<e>ctn<e>ss> <<<<of>>>> <a> c<a>l<e>nd<a>r progr<a>m  
+
+
+DocID: CACM-2597
+
+<a> bound<e>d buff<e>r, <a>n <a>l<a>rm clock, <a> buff<e>r pool, <a>  
+<a> monitor <a>s <a> m<e>thod <<<<of>>>> structuring <a>n op<e>r<a>ting  
+<<<<of>>>> s<e>m<a>phor<e>s <<a>nd> giv<e>s <a> suit<a>bl<e> pro<<<<of>>>> rul<e>.  illustr<a>tiv<e>  
+
+
+DocID: CACM-0409
+
+<<<<of>>>> distinct <d<a>t<a>> d<e>scriptions <<a>nd> th<e> cont<e>nt <<a>nd>  
+<d<a>t<a>> <<a>nd> <a>lgorithms m<a>y b<e> <e>xpr<e>ss<e>d in <a> f<a>mily  
+<<a>nd> inst<a>nc<e>s <<<<of>>>> l<a>rg<e> <<a>nd> compl<e>x <d<a>t<a>> s<e>ts,  
+
+
+DocID: CACM-0990
+
+<a> propos<a>l is m<a>d<e> for <including> in <a> <progr<a>mming>  
+constr<a>int-typ<e> st<a>t<e>m<e>nts in <progr<a>mming> <l<a>ngu<a>g<e>s>  
+it<e>r<a>tion m<a>king us<e> for th<e> purpos<e> <<<<of>>>> <a> routin<e> for form<a>l diff<e>r<e>nti<a>tion.  
+
+
+DocID: CACM-2710
+
+<d<a>t<a>>b<a>s<e>, <d<a>t<a>> sub<l<a>ngu<a>g<e>s>, r<e>l<a>tions, qu<e>ry <l<a>ngu<a>g<e>s>,  
+t<a>bul<a>r <d<a>t<a>> b<a>s<e>s <a>r<e> d<e>scrib<e>d.  <a> synt<a>x is giv<e>n,  
+is b<a>s<e>d on th<e> r<e>l<a>tion<a>l mod<e>l <<<<of>>>> <d<a>t<a>>, <<a>nd> is  
+
+
+DocID: CACM-2046
+
+<d<a>t<a>> is org<a>niz<e>d in th<e> m<a>chin<e>  th<e> int<e>rn<a>l r<e>pr<e>s<e>nt<a>tion .  <a> prompting  
+<a> mod<e>l b<a>s<e>d on n-<a>ry r<e>l<a>tions, <a> norm<a>l form for <d<a>t<a>> b<a>s<e> r<e>l<a>tions,  
+<typ<e>s> <<<<of>>>> stor<e>d inform<a>tion.  <e>xisting noninf<e>r<e>nti<a>l, form<a>tt<e>d <d<a>t<a>> syst<e>ms  
+
+
+DocID: CACM-1604
+
+tim<e>s <<<<of>>>> ov<e>r 10,000 jobs s<e>rvic<e>d in <a> univ<e>rsity computing  
+th<e> r<e>sults <a>r<e> int<e>rpr<e>t<e>d in t<e>rms <<<<of>>>> th<e> prop<e>rti<e>s <<<<of>>>> th<e> syst<e>m studi<e>d.  
+furth<e>r <a>n<a>lysis <<<<of>>>> <a> computing c<e>nt<e>r <e>nvironm<e>nt  
+
+
+DocID: CACM-2814
+
+rost<e>r <<<<of>>>> <progr<a>mming> <l<a>ngu<a>g<e>s> for 1974-75  
+s<a>mm<e>t, j. <e>.  
+
+
+DocID: CACM-1247
+
+siz<e>, input <<a>nd> output for <a> hi<e>r<a>rchy <<<<of>>>> <d<a>t<a>> <typ<e>s>,  
+<<<<of>>>> stor<a>g<e> for contiguous blocks <<<<of>>>> <a>rbitr<a>ry  
+communic<a>tion <<a>nd> bookk<e><e>ping, <<a>nd> d<e>bugging <a>ids.  
+
+
+DocID: CACM-2092
+
+iii into <a> pr<a>ctic<a>lly us<e>ful syst<e>m to work with l<a>rg<e> <d<a>t<a>>  
+syst<e>m's p<e>rform<a>nc<e> <<a>nd> <<<<of>>>> th<e> limit<a>tions <<<<of>>>> its qu<e>stion-<a>nsw<e>ring  
+r<e>l<a>tion<a>l prop<e>rti<e>s <<a>nd> compl<e>x-r<e>l<a>tion-forming op<e>r<a>tors, <<a>nd>  
+
+
+DocID: CACM-0822
+
+r<e><a>l-tim<e> <progr<a>mming> <sp<e>cific<a>tions>  
+for both progr<a>m <<a>nd> fil<e> <sp<e>cific<a>tions> <a>r<e> d<e>v<e>lop<e>d.  
+<progr<a>mming>.  
+
+
+DocID: CACM-2787
+
+<<<<of>>>> his choic<e>.  pr<a>ctic<a>l t<e>sts <<<<of>>>> th<e> m<e>thod h<a>v<e>  
+<a>bout th<e> m<a>trix.  <<a>nd> it is d<e>sign<e>d <a>s <a> structur<e>d  
+<ho<a>r<e>>, c. <a>. r.  
+

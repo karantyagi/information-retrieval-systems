@@ -1,0 +1,700 @@
+LUCENE_NoStopNoStem
+
+Query
+Addressing schemes for resources in networks; resource addressing in
+network operating systems
+
+Top 100 Results (372 millisecs)
+
+
+DocID: CACM-2625
+
+<for> obta<<in>><<in>>g a segment's location <<in>> ma<<in>> memory given  
+<address<<in>>g>, capabilities, <address<<in>>g> hardware,  
+lack of an efficient absolute address <for> objects <<in>>  
+
+
+DocID: CACM-2541
+
+new concept <for> operat<<in>>g <systems>: separation  
+and the system's <address<<in>>g> structure, and centralized the  
+of the schedul<<in>>g from the ma<<in>>tenance functions <<in>> <resource>  
+
+
+DocID: CACM-2951
+
+<<in>> the vast store of <<resource>s> available  
+the five diverse arpa <network> <systems> studied <<in>> detail,  
+dynamic response time prediction <for> computer <<network>s>  
+
+
+DocID: CACM-2371
+
+<<in>> a <resource> shar<<in>>g computer <network>  
+computer <<network>s>, <resource> shar<<in>>g  
+a system <for> <<in>>terprocess communication  
+
+
+DocID: CACM-2776
+
+are identified <for> consideration <<in>> develop<<in>>g  
+survey of computer <<network>s> <<in>> higher education  
+the development of <<network>s> <<in>> higher education  
+
+
+DocID: CACM-1752
+
+<resource> management <for> a medium scale time-shar<<in>>g operat<<in>>g system  
+time-shar<<in>>g, operat<<in>>g <systems>, <resource> management,  
+task schedul<<in>>g and <resource> balanc<<in>>g <for>  
+
+
+DocID: CACM-1685
+
+of activity <<network>s> and to deal conveniently with <network>  
+<network> analysis, <network> calculation, <network> program  
+activity <network>, management project, standard <network>,  
+
+
+DocID: CACM-3032
+
+<<in>> store-and-<for>ward packet switch<<in>>g computer <<network>s>.  
+nodes of a <network>.  algorithms <for> accomplish<<in>>g  
+<for> its analysis <<in>> this paper, and also because  
+
+
+DocID: CACM-0912
+
+<address<<in>>g> an array yi <<in>> k-dimensions  
+by <for>tran <for> analysis of variance  
+
+
+DocID: CACM-2522
+
+the system <<resource>s> to the processes compet<<in>>g <for> them.  
+operat<<in>>g <systems>, supervisory <systems>  
+recent research <<in>> time-shar<<in>>g pag<<in>>g <systems>  
+
+
+DocID: CACM-1611
+
+schedul<<in>>g project <<network>s>  
+schedul<<in>>g system ramps  <resource> allocation and  
+path algorithm <<in>>corporated <<in>> the c-e-i-r proprietary  
+
+
+DocID: CACM-1869
+
+<address<<in>>g> is used, as <<in>> snobol, nam<<in>>g constra<<in>>ts  
+block structures, <<in>>direct <address<<in>>g>,  
+<<in>>direct <address<<in>>g> with<<in>> function def<<in>>itions;  
+
+
+DocID: CACM-1877
+
+<systems> is the selection of a <resource> allocation  
+a well-known problem <<in>> the design of operat<<in>>g  
+situation <<in>> which <<resource>s> have been allocated  
+
+
+DocID: CACM-1754
+
+dynamic storage allocation <systems>  
+facilities <<in>> several representative computer  
+storage fragmentation, storage hierarchies, <address<<in>>g> mechanisms  
+
+
+DocID: CACM-2892
+
+proposed <network> protocol and compared with those <for> the current system.  
+are used to anticipate overhead <<in>> a heavily loaded <network>.  
+arpanet, computer communication <<network>s>, <<in>>terprocess  
+
+
+DocID: CACM-2500
+
+usage of <<resource>s> is to be ma<<in>>ta<<in>>ed.  a <resource>  
+deadlock, <resource> allocation, schedul<<in>>g, <resource>  
+operat<<in>>g system, keeps <<resource>s> relatively  
+
+
+DocID: CACM-2949
+
+computer <<network>s>, distributed control, <network>  
+topology, rout<<in>>g problem <<in>> <<network>s>, distributed operat<<in>>g  
+<<in>> order <for> the nodes of a distributed computer  
+
+
+DocID: CACM-2499
+
+<<resource>s>.  the general suggestions <for> allocation  
+maximal <resource> use to be unfair, <for> example  
+<resource> allocation, <resource> account<<in>>g  
+
+
+DocID: CACM-1751
+
+<<in>> modern computer <systems> is an adequate model <for>  
+multiprogramm<<in>>g, operat<<in>>g <systems>, program  
+general operat<<in>>g system concepts, multiprocess<<in>>g,  
+
+
+DocID: CACM-2858
+
+<<in>> the program.  the algorithm is suitable <for> arbitrary  
+to the <address<<in>>g> constra<<in>>ts.  this may be, <for> example,  
+addresses <<in>> variable length <address<<in>>g>  
+
+
+DocID: CACM-2991
+
+<address<<in>>g>, file organizations, file structures, scatter  
+trans<for>mation, direct <address<<in>>g>, direct access, direct  
+cluster<<in>>g, <<in>><for>mation retrieval, open <address<<in>>g>, open  
+
+
+DocID: CACM-0828
+
+and pressures <<in>> fluid flow <<network>s> is presented.  
+<<in>>compressible flow <network> calculations  
+a general method <for> the calculation of flows  
+
+
+DocID: CACM-2095
+
+pag<<in>>g, <resource> allocation, memory allocation, core utilization  
+especially with respect to the organization of pag<<in>>g <schemes>.  
+distributions of segment sizes measured under rout<<in>>e operat<<in>>g con  
+
+
+DocID: CACM-1928
+
+<<in>> execution time and space, and a facility <for> handl<<in>>g  
+<<network>s> of large and active digital <systems>  
+of <network> structures other than digital <<network>s>.  
+
+
+DocID: CACM-2543
+
+hash <address<<in>>g>, hash code, l<<in>>ear prob<<in>>g,  
+address calculation, content <address<<in>>g>, file search<<in>>g,  
+a new method <for> enter<<in>>g and retriev<<in>>g <<in>><for>mation  
+
+
+DocID: CACM-0492
+
+<<in>> the mathematics, the <<in>>troduction and  
+analysis of a file <address<<in>>g> method  
+this paper presents a new file <address<<in>>g> method  
+
+
+DocID: CACM-2358
+
+of <<in>><for>mation stored <<in>> files kept <<in>> secondary storage.  
+operat<<in>>g system, multics, virtual memory, segmentation,  
+considerations of segmentation and shar<<in>>g <<in>> multics  
+
+
+DocID: CACM-1677
+
+<for> five years is described.  each logical entity <<in>> storage  
+or programm<<in>>g <systems>: simplicity of programmed <address<<in>>g>,  
+storage organization <<in>> programm<<in>>g <systems>  
+
+
+DocID: CACM-1723
+
+<<in>> <for>tran ii <for> the ibm 7094.  
+project <<network>s> are used <<in>> pert and cpm.  
+order<<in>>g, <network> construction by computer  
+
+
+DocID: CACM-1680
+
+retrieval operat<<in>>g <systems>, graphics, displays, man-mach<<in>>e  
+computer-assisted <<in>>struction, tutorial <systems>,  
+automatically, rel<<in>>quish<<in>>g computer <<resource>s> allocated  
+
+
+DocID: CACM-2194
+
+programm<<in>>g, variable-length <address<<in>>g>  
+<address<<in>>g>, assembler, cover<<in>>g problem, <<in>>teger  
+some computers permit either 8-bit <address<<in>>g>  
+
+
+DocID: CACM-2020
+
+paper the manner <<in>> which one would like to allocate comput<<in>>g <<resource>s>  
+flexibly <<in>> order to make a dynamic allocation of <<resource>s>.  consideration is  
+illustrative pric<<in>>g <systems> are also discussed <<in>> order to demonstrate the  
+
+
+DocID: CACM-2920
+
+<resource> allocation, deadlock, <<in>> terlock, deadly  
+priori <<in>><for>mation about the processes, <<resource>s>, operat<<in>>g  
+operat<<in>>g system, multiprogramm<<in>>g, time-shar<<in>>g,  
+
+
+DocID: CACM-3040
+
+desired, <<in>> order to preprocess the problem <for>  
+<<network>s>, constra<<in>>t satisfaction, graph color<<in>>g,  
+a constra<<in>>t <network> representation is presented  
+
+
+DocID: CACM-2515
+
+m<<in>>imal event-node <network> is an event-node <network>  
+<network>, m<<in>>imal event-node <network>, dummy  
+<network>, project, event-node <network>, activity-node  
+
+
+DocID: CACM-2969
+
+occur <<in>> real heterogeneous computer <<network>s>.  <<in>>sights  
+of program and data files <<in>> a computer <network>  
+optimal program and data locations <<in>> computer <<network>s>  
+
+
+DocID: CACM-2320
+
+operat<<in>>g <systems>, concurrent processes, shared  
+operat<<in>>g <systems> but also with<<in>> user programs.  
+representation of multiprogramm<<in>>g <<in>> a high  
+
+
+DocID: CACM-2197
+
+<network> comput<<in>>g, regional comput<<in>>g <<network>s>,  
+comput<<in>>g <<network>s>.  one such <network> has  
+of the <network>.  a regional <network> br<<in>>gs many benefits  
+
+
+DocID: CACM-3158
+
+a method <for> implement<<in>>g secure personal comput<<in>>g <<in>> a <network>  
+secure personal comput<<in>>g <<in>> an <<in>>secure <network>  
+data to other users on the <network>.  
+
+
+DocID: CACM-0332
+
+an <<in>>direct cha<<in>><<in>>g method <for> <address<<in>>g> on secondary keys  
+methods <for> enter<<in>>g random access files on  
+key trans<for>mation, is reviewed <<in>> more detail.  
+
+
+DocID: CACM-2632
+
+basis <for> extension of the system <<in>> two directions: the  
+hydra-the kernel of an operat<<in>>g system <for> c.mmp,  
+of highly secure <systems>.  
+
+
+DocID: CACM-2501
+
+method <for> <address<<in>>g> text by content is provided.  this  
+preparation, data entry, content <address<<in>>g>  
+wylbur is a comprehensive system <for> manipulat<<in>>g  
+
+
+DocID: CACM-3083
+
+pseudocha<<in>><<in>>g <<in>> hash tables  
+hash code, scatter storage, open <address<<in>>g>, cha<<in>><<in>>g,  
+<<in>> each cell of the hash table which permits "cha<<in>><<in>>g"  
+
+
+DocID: CACM-1938
+
+time-shar<<in>>g <systems>, as def<<in>>ed <<in>> this article,  
+are those multiaccess <systems> which permit  
+makes quantitative evaluation of time-shar<<in>>g <systems>  
+
+
+DocID: CACM-2482
+
+deadlocks, <resource> allocation, operat<<in>>g <systems>,  
+multiprogramm<<in>>g, hierarchical <systems>  
+occurr<<in>>g <resource> allocation problems  
+
+
+DocID: CACM-2597
+
+monitors, operat<<in>>g <systems>, schedul<<in>>g, mutual  
+monitors: an operat<<in>>g system structur<<in>>g concept  
+examples <<in>>clude a s<<in>>gle <resource> scheduler,  
+
+
+DocID: CACM-1735
+
+with monthly time allocation <schemes>.  
+a futures market <<in>> computer time  
+periodic fluctuation <<in>> computer use often associated  
+
+
+DocID: CACM-3076
+
+<<network>s>, <network> reliability, security, social values  
+<systems> <for> electronic funds transfer  eft  are not  
+<<in>> the context of social choice.  
+
+
+DocID: CACM-3068
+
+here <<in>> terms of a general model <for> operat<<in>>g <systems>.  
+a model <for> verification of data security <<in>> operat<<in>>g <systems>  
+operat<<in>>g <systems>, security, protection, program verification  
+
+
+DocID: CACM-2297
+
+computer system operat<<in>>g under demand pag<<in>>g.  <<in>>  
+<for> ma<<in>> memory <<resource>s> <<in>> a multiprogrammed  
+pag<<in>>g mach<<in>>es, demand pag<<in>>g, operat<<in>>g <systems>  
+
+
+DocID: CACM-2080
+
+multiprogramm<<in>>g, operat<<in>>g <systems>, parallel processes, process concept,  
+that can be extended with a hierarchy of operat<<in>>g <systems> to suit diverse  
+nucleus simulates an environment <<in>> which program execution and <<in>>put/output  
+
+
+DocID: CACM-0441
+
+<for> many problems <<in>>volv<<in>>g analysis of <<network>s>.  
+is discussed <<in>> terms of the 7090.  a pert <network> of  
+topological sort<<in>>g of large <<network>s>  
+
+
+DocID: CACM-0820
+
+check<<in>>g <for> loops <<in>> <<network>s>  
+
+
+DocID: CACM-2379
+
+operat<<in>>g <systems>, system design, levels of abstraction,  
+data shar<<in>>g, <resource> management, deadlock  
+the design of the venus operat<<in>>g system  
+
+
+DocID: CACM-2712
+
+horner's rule <for> the evaluation of general closed queue<<in>>g <<network>s>  
+queue<<in>>g <<network>s>, queue<<in>>g theory horner's rule,  
+the solution of separable closed queue<<in>>g <<network>s>  
+
+
+DocID: CACM-1695
+
+by the <network>, and to store and retrieve <<network>s>  
+means <for> specification and modification of a <network> and  
+plexus-an on-l<<in>>e system <for> model<<in>>g neural <<network>s>  
+
+
+DocID: CACM-1846
+
+<systems> are assumed to be described as a <network>  
+event <systems>, particularly computer <systems>, on  
+<<in>> which simultaneous events may occur  
+
+
+DocID: CACM-1879
+
+technique <for> segment <address<<in>>g> which take advantage  
+pag<<in>>g, segmentation, <address<<in>>g>  
+loss <<in>> storage utilization caused by the <<in>>ability  
+
+
+DocID: CACM-2219
+
+<<in>> a general purpose operat<<in>>g system, and  
+<resource> allocation and swapp<<in>>g  
+scheduler, time-shar<<in>>g, operat<<in>>g system,  
+
+
+DocID: CACM-2046
+
+of changes <<in>> query, update, and report traffic and natural growth <<in>> the  
+of redundancy and consistency <<in>> the user's model.  
+hierarchies of data, <<network>s> of data, relations, derivability,  
+
+
+DocID: CACM-2203
+
+randomiz<<in>>g, random access,file <address<<in>>g>,  
+trans<for>mation, direct <address<<in>>g>, direct access method,  
+each method is summarized <<in>> terms of the number  
+
+
+DocID: CACM-0040
+
+over a decimal representation <for> a high-per<for>mance,  
+communicat<<in>>g between man and the computer.  <<in>>  
+on the other hand, decimal numbers are essential <for>  
+
+
+DocID: CACM-1591
+
+written <<in>> any language processed by the operat<<in>>g system.  
+written to run under the operat<<in>>g system  ibsys  <for>  
+full <<resource>s> of the operat<<in>>g system  language processors,  
+
+
+DocID: CACM-3072
+
+amount of memory <resource> required <for> effective  
+schedul<<in>>g <systems> <for> multiprogrammed- multiprocessor  
+multiprogramm<<in>>g <systems>, i/o system schedul<<in>>g  
+
+
+DocID: CACM-3127
+
+portability, real time, operat<<in>>g <systems>, m<<in>>icomputer  
+thoth, a portable real-time operat<<in>>g system  
+encourages structur<<in>>g programs as <<network>s> of communicat<<in>>g processes  
+
+
+DocID: CACM-1785
+
+scatter storage, hash <address<<in>>g>, search<<in>>g,  
+file search<<in>>g, file <address<<in>>g>, storage layout  
+scatter storage techniques as a method <for>  
+
+
+DocID: CACM-2111
+
+operat<<in>>g <systems>, diagnostics, error detection,  
+spell<<in>>g correction <<in>> <systems> programs  
+to compilers and operat<<in>>g <systems>.  these <<in>>clude the use of syntax  
+
+
+DocID: CACM-3110
+
+span-dependent <<in>>structions, variable-length <address<<in>>g>,  
+an efficient solution is presented <for> the  
+assembl<<in>>g code <for> mach<<in>>es with span-dependent <<in>>structions  
+
+
+DocID: CACM-1728
+
+behavior <<in>> those multiprogramm<<in>>g <systems> <<in>> which  
+operat<<in>>g <systems>, supervisor simulation, mach<<in>>e  
+behavior, virtual memory <systems>, s<<in>>gle-level  
+
+
+DocID: CACM-2578
+
+self-stabiliz<<in>>g <systems> <<in>> spite of distributed control  
+multiprocess<<in>>g, <<network>s>, self-stabilization, synchronization,  
+
+
+DocID: CACM-1505
+
+a system organization <for> <resource> allocation  
+this paper <<in>>troduces a system <for> <resource> management  
+to be followed <for> <resource> allocation.  however, a basic  
+
+
+DocID: CACM-2798
+
+<<in>>terleaved memory <systems>, modular memory <systems>,  
+i.e. <schemes> <for> send<<in>>g <<in>>struction and data requests  
+modules <<in>> operation dur<<in>>g a memory cycle.  
+
+
+DocID: CACM-2681
+
+<resource> utilization, system throughput  
+and the operat<<in>>g conditions that lead  
+an expression is derived <for> the maximum  
+
+
+DocID: CACM-3177
+
+of robust key management <schemes> <for> cryptographic <systems>  
+<<in>> this paper we show how to divide data d <<in>>to  
+n pieces <<in>> such a way that d is easily reconstructable from any  
+
+
+DocID: CACM-2905
+
+shown to be complete <<in>> the sense that <for> every  
+are presented <for> build<<in>>g, <<in>> a mechanical  
+<<in>> several practical applications.  
+
+
+DocID: CACM-2988
+
+<<in>> queue<<in>>g <network> models of computer <systems>.  
+<network> models, <<in>> teractive computer <systems>  
+of <<in>> teractive computer <systems> which use nonpaged memories.  
+
+
+DocID: CACM-2860
+
+a practitioner's guide to <address<<in>>g> algorithms  
+data management, file retrieval, search<<in>>g, <address<<in>>g>  
+databases.  guidel<<in>>es <for> select<<in>>g identifier trans<for>mations,  
+
+
+DocID: CACM-0144
+
+<schemes>. provision is made <for> transmission of  
+present communications <systems> transmit s<<in>>gle  
+present methods are <<in>>efficient when computer <systems>  
+
+
+DocID: CACM-3059
+
+are <<in>> approximate cpu:i/o utilization balance and <for>  
+<for> systemtems <<in>> which the i/o system is more  
+overlap is found to be greatest <for> <systems> which  
+
+
+DocID: CACM-3092
+
+<systems> and programm<<in>>g <<resource>s> consumed range  
+much of the total <<resource>s> of <systems> and programm<<in>>g  
+demands <for> enhancements and extension constitute  
+
+
+DocID: CACM-1247
+
+an operat<<in>>g environment <for> dynamic-recursive  
+system which can serve as an operat<<in>>g environment <for>  
+computer programm<<in>>g <systems>  
+
+
+DocID: CACM-2274
+
+by the system is <<in>> the <for>m of a <network> that imposes  
+generat<<in>>g english discourse from semantic <<network>s>  
+algorithm uses the <<in>><for>mation <<in>> the semantic  
+
+
+DocID: CACM-3117
+
+computer technology, <<in>>novation, police <resource> allocation, police command  
+or computer-aided-dispatch <systems> where the mach<<in>>e beg<<in>>s to become  
+a tool <for> decision mak<<in>>g, strategic plann<<in>>g and person/mach<<in>>e  
+
+
+DocID: CACM-0796
+
+modification <<in>> general and relative <address<<in>>g>  
+"execute" order permits a temporary jump <for> up  
+<<in>> the scientific department of the israel defense  
+
+
+DocID: CACM-3088
+
+<resource> allocation, throughput, timeshar<<in>>g  
+general equations are derived <for> estimat<<in>>g  
+general equations <for> idealized cpu-i/o overlap configurations  
+
+
+DocID: CACM-3133
+
+strategy <for> guid<<in>>g the search <for> a proof.  
+logic and semantic <<network>s>  
+logic, semantic <<network>s>, theorem-prov<<in>>g, <<in>>dex<<in>>g, resolution, deduction,  
+
+
+DocID: CACM-2377
+
+same <<in>> both cases as well.  
+a hardware architecture <for> implement<<in>>g protection r<<in>>gs  
+of protection.  the mechanisms <for> implement<<in>>g  
+
+
+DocID: CACM-2840
+
+protection <<in>> operat<<in>>g <systems>  
+is argued.  the "safety" problem <for> protection <systems>  
+protection, protection system, operat<<in>>g  
+
+
+DocID: CACM-2900
+
+<<in>>cluded <<in>> an optimal allocation.  
+file allocation, computer <<network>s>, distributed data management  
+there<for>e much needed.  <<in>> this paper we present  
+
+
+DocID: CACM-2060
+
+language is permissible <<in>> any other mean<<in>>gful context.  <<in>> particular,  
+by <<in>>troduc<<in>>g values, called reference, which <<in>> turn possess  
+algorithm <for> comput<<in>>g or access<<in>>g its components.  the existence of  
+
+
+DocID: CACM-3126
+
+probe retriev<<in>>g  method <for> static sets  
+hash<<in>>g, hash<<in>>g methods, hash cod<<in>>g, direct <address<<in>>g>, identifier-  
+
+
+DocID: CACM-3038
+
+us<<in>>g encryption <for> authentication <<in>> large <<network>s> of computers  
+communication <<in>> computer <<network>s> is discussed.  
+encryption, security, authentication, <<network>s>, protocols,  
+
+
+DocID: CACM-2181
+
+<for> improv<<in>>g computer education <for> management,  
+graduate bus<<in>>ess school <resource> plann<<in>>g  
+the general manager; computer-related material <<in>>  
+
+
+DocID: CACM-0071
+
+proposal <for> a feasible programm<<in>>g system  
+a large set of characters, and <<in>>direct <address<<in>>g>.  
+storage available to avoid the necessity <for> segment<<in>>g  
+
+
+DocID: CACM-2614
+
+critical path, <<network>s>, precedence <<network>s>  
+arrow to precedence <network> trans<for>mation [h]  algorithm a481   
+
+
+DocID: CACM-3141
+
+numbered processes arranged <<in>> a circle, <<in>> which no central  
+decentralized algorithms, distributed <systems>, operat<<in>>g <systems>  
+<<in>> circular configurations of processes  
+
+
+DocID: CACM-2454
+
+<<network>s> with exponential servers.  expressions <for>  
+<<network>s> with exponential servers  
+computational algorithms <for> closed queue<<in>>g  
+
+
+DocID: CACM-0615
+
+<address<<in>>g> multidimensional arrays  
+its values at selected po<<in>>ts <<in>> n-dimensional space.  
+of <<in>>dices locat<<in>>g on array element <<in>> n-space  
+
+
+DocID: CACM-2372
+
+as a framework <for> a proposal <for> general security  
+on the implementation of security measures <<in>> <<in>><for>mation <systems>  
+operat<<in>>g <systems>, access management, data banks,  
+
+
+DocID: CACM-2830
+
+a practitioner's guide to <address<<in>>g> algorithms  corrigendum   
+

@@ -1,0 +1,707 @@
+LUCENE_NoStopNoStem
+
+Query
+I am interested in hidden-line and hidden-surface algorithms for
+cylinders, toroids, spheres, and cones.  This is a rather specialized
+topic in computer graphics.
+
+Top 100 Results (43 millisecs)
+
+
+DocID: CACM-2913
+
+<a>s <a> recogn<i>zed cure.  <a> method <for> ev<a>lu<a>t<i>ng f<i>lters  
+to h<i>dden-surf<a>ce <a>lgor<i>thms <i>s d<i>scussed, <<<a>nd>> <a>n <i>mplement<a>t<i>on  
+of <a> f<i>lter<i>ng t<i>ler <i>s shown <a>ccomp<a>n<i>ed  
+
+
+DocID: CACM-2004
+
+<a> descr<i>pt<i>on <i>s g<i>ven of <a>n <a>lgor<i>thm <for> produc<i>ng <computer> gener<a>ted  
+th<i>s <a>lgor<i>thm <a>ch<i>eves <a> s<i>gn<i>f<i>c<a>nt <i>ncre<a>se <i>n speed of comput<a>t<i>on over  
+results <a>re presented <<<a>nd>> <a>re comp<a>red w<i>th <computer> runs <a>ch<i>eved  
+
+
+DocID: CACM-2751
+
+<i>n p<a>rt on the method <for> model<i>ng the object, wh<i>ch  
+cons<i>dered <i>n the development of <a> sh<a>d<i>ng rule th<a>t  
+prov<i>des better qu<a>l<i>ty <<<a>nd>> <i>ncre<a>sed re<a>l<i>sm <i>n  
+
+
+DocID: CACM-2678
+
+h<i>dden l<i>ne problem, <computer> gr<a>ph<i>cs, contour surf<a>ce  
+c<a>740305 jb j<a>nu<a>ry 18, 1978  11:18 <<a>m>  
+
+
+DocID: CACM-2369
+
+gr<a>ph<i>cs, d<i>spl<a>ys, gr<a>ph<i>cs, <computer> dr<a>wn  
+some <a>x<i>s.  th<i>s p<a>per descr<i>bes <a> polygon comp<a>r<i>son  
+<a> method <i>s presented of determ<i>n<i>ng wh<i>ch  
+
+
+DocID: CACM-2692
+
+<<<a>nd>> l<a>st, <i>n m<a>rked contr<a>st to represent<a>t<i>on <a>s <a>  
+st<a>ge <i>s re<a>dy.  bec<a>use the s<<a>m>e code <i>s reentered  
+<for> perspect<i>ve <a>ppl<i>c<a>t<i>ons <i>n three d<i>ment<i>ons, <a> s<i>x-pl<a>ne  
+
+
+DocID: CACM-1915
+
+<i>n th<i>s l<a>st c<a>se, the result <i>s obt<a><i>ned <i>n <a> much s<i>mpler w<a>y.  
+h<i>dden l<i>nes <i>n the represent<a>t<i>on of <a> perspect<i>ve  
+dr<a>w<i>ng, d<i>spl<a>y<i>ng techn<i>ques, <computer> gr<a>ph<i>cs,  
+
+
+DocID: CACM-2473
+
+coll<i>ns, <a>. m.  
+h<i>dden-l<i>ne plot, surf<a>ce plot  
+m<a>cleod, <i>. d. g.  
+
+
+DocID: CACM-2829
+
+th<i>s p<a>per descr<i>bes extens<i>ons of th<i>s <a>lgor<i>thm <i>n  
+system wh<i>ch <i>s used <a>s <a> key <for> m<a>pp<i>ng p<a>tterns  
+<i>n 1974 c<a>tmull developed <a> new <a>lgor<i>thm  
+
+
+DocID: CACM-2827
+
+<i>s represented <a>s <a> set of coeff<i>c<i>ents <<<a>nd>> p<a>r<<a>m>eter  
+<a> p<a>r<<a>m>etr<i>c <a>lgor<i>thm <for> dr<a>w<i>ng p<i>ctures  
+of qu<a>dr<i>c surf<a>ces. <a> p<a>r<<a>m>eter<i>z<a>t<i>on scheme <i>s used.  
+
+
+DocID: CACM-2828
+
+<i>s prov<i>ded to v<a>ry the <<a>m>ount of det<a><i>l presented <i>n  
+mot<i>on <<<a>nd>> pl<a>cement, but <a>lso to <a>ss<i>st <i>n  
+<a> f<i>xed upper l<i>m<i>t.  second, <a> me<a>n<i>ngful w<a>y  
+
+
+DocID: CACM-2924
+
+th<i>s method <a>re <a>lgor<i>thms wh<i>ch en<a>ble <i>n ter<a>ct<i>ve  
+me<a>ns <for> m<a>n-m<a>ch<i>ne commun<i>c<a>t<i>on, <<<a>nd>> softw<a>re <for>  
+b-spl<i>nes <<<a>nd>> the surf<a>ce <i>s <i>n terpol<a>ted between sect<i>ons  
+
+
+DocID: CACM-2674
+
+<<<a>nd>> the other to <i>nter<a>ct<i>ve <a>ppl<i>c<a>t<i>ons.  the <a>lgor<i>thms  
+<i>n execut<i>on t<i>me over th<a>t of <a> convent<i>on<a>l  
+sc<a>n convers<i>on <a>lgor<i>thms <for> <a> cell org<a>n<i>zed r<a>ster d<i>spl<a>y  
+
+
+DocID: CACM-1978
+
+<<<a>nd>> gr<a>ph<i>c term<i>n<a>ls, we h<a>ve <a>v<a><i>l<a>ble <a> new d<i>mens<i>on  
+d<a>t<a>.  <i>n conclus<i>on, <a>re<a> <for> future work <i>n th<i>s f<i>eld <a>re d<i>scussed.  
+<i>n numer<i>c<a>l problem solv<i>ng c<a>p<a>b<i>l<i>t<i>es.  r<a>ther th<a>n s<i>mply use  
+
+
+DocID: CACM-2845
+
+<a> gener<a>l<i>z<a>t<i>on of the buddy system <for> stor<a>ge  
+<a> buddy system v<a>r<i><a>t<i>on <for> d<i>sk stor<a>ge <a>lloc<a>t<i>on  
+s<i>ze <i> =s<i>ze <i>-1 +s<i>ze <i>-k <i>   where k m<a>y be  
+
+
+DocID: CACM-2402
+
+<for> l<a>rge structures.  th<i>s <i>s s<i>gn<i>f<i>c<a>nt, <for> cryst<a>llogr<a>phy  
+th<a>t th<i>s <i>n<for>m<a>t<i>on c<a>n be the b<a>s<i>s of <a> techn<i>que  
+<<<a>nd>> w<i>ll cont<i>nue to be <a> f<i>eld of <i>ntense <i>nterest.  
+
+
+DocID: CACM-2367
+
+<for>m<a>ts <for> such <a> course <a>re d<i>scussed, <a> top<i>c by top<i>c  
+<computer>s <<<a>nd>> soc<i>ety: <a> proposed course <for> <computer> sc<i>ent<i>sts  
+the purpose of th<i>s p<a>per <i>s to descr<i>be <a> course  
+
+
+DocID: CACM-0616
+
+report <i>s b<a>sed, <for> the most p<a>rt, on <a> m<a>them<a>t<i>c<a>l  
+group.  the go<a>l of th<i>s work <i>s to <a>rr<i>ve <a>t <a> proper  
+<i>n th<i>s report.  r<a>ther, they h<a>ve tr<i>ed to present  
+
+
+DocID: CACM-2384
+
+h<i>dden-l<i>ne plot, surf<a>ce plot  
+h<i>dden-l<i>ne plott<i>ng progr<<a>m> [j6]  <a>lgor<i>thm <a>420   
+
+
+DocID: CACM-2919
+
+wh<i>ch <i>s ded<i>c<a>ted to th<a>t purpose.  such <a> <computer>  
+<a>re cons<i>dered.  <i>n th<i>s p<a>per <i>t <i>s suggested th<a>t  
+<computer> conf<i>gur<a>t<i>ons, <computer> networks, softw<a>re  
+
+
+DocID: CACM-3116
+
+presents <a> <computer> represent<a>t<i>on <for> sol<i>ds <<<a>nd>> surf<a>ces <<<a>nd>> <a>lgor<i>thms  
+<i>n m<a>ny <i>ndustr<i><a>l env<i>ronments <i>t <i>s necess<a>ry to determ<i>ne whether  
+<<<a>nd>> <i>n product m<a>nuf<a>ctur<i>ng <<<a>nd>> test<i>ng.  typ<i>c<a>lly, dr<a>w<i>ngs  
+
+
+DocID: CACM-2809
+
+methods <i>n the theory of norms <i>s demonstr<a>ted.  new results  
+<a>re g<i>ven, <i>n p<a>rt<i>cul<a>r <for> the gener<a>l<i>z<a>t<i>on  
+pos<i>t<i>v<i>ty <<<a>nd>> norms  
+
+
+DocID: CACM-2111
+
+<<<a>nd>> symbol t<a>bles, <<<a>nd>> the cons<i>der<a>t<i>on of <a> l<i>m<i>ted cl<a>ss of spell<i>ng  
+sever<a>l spec<i><a>l<i>zed techn<i>ques <a>re shown <for> eff<i>c<i>ently  
+<i>ncorpor<a>t<i>ng spell<i>ng correct<i>on <a>lgor<i>thms <i>n  
+
+
+DocID: CACM-2786
+
+<<<a>nd>> to use by people  <for> ex<<a>m>ple, secret<a>r<i>es <<<a>nd>>  
+<i>s used to m<a>ke <a> comp<i>ler th<a>t tr<a>nsl<a>tes th<i>s l<a>ngu<a>ge  
+the s<i>ze <<<a>nd>> font ch<a>nges, pos<i>t<i>on<i>ng, l<i>ne dr<a>w<i>ng, <<<a>nd>>  
+
+
+DocID: CACM-1181
+
+<a> method h<a>s evolved <for> tr<a>nsm<i>tt<i>ng d<a>t<a> of  
+<a> type or<i>g<i>n<a>t<i>ng <i>n m<a>ny l<a>bor<a>tory s<i>tu<a>t<i>on  
+no spec<i><a>l<i>zed equ<i>pment <<<a>nd>> uses <a>ny ord<i>n<a>ry  
+
+
+DocID: CACM-2925
+
+express<i>on, <i>n term of the number of contour po<i>n ts, <for>  
+cycles <i>s ut<i>l<i>zed.  <a>lso developed <i>s <a> closed-<for>m  
+descr<i>b<i>ng <a> hum<a>n he<a>d <i>s <i>ncluded.  
+
+
+DocID: CACM-1742
+
+gr<a>ph<i>cs, gr<a>ph<i>c term<i>n<a>l, d<i>spl<a>ys, gr<a>ph<i>cs,  
+between d<i>spl<a>y <<<a>nd>> p<a>rent <computer> <i>s <a> key f<a>ctor <i>n d<i>spl<a>y processor des<i>gn.  
+<a>s <a> sm<a>ll processor r<a>ther th<a>n <a> powerful ch<a>nnel.  
+
+
+DocID: CACM-2188
+
+<<<a>nd>> of the comput<a>t<i>on<a>l requ<i>rements of the gr<a>ph<i>cs <a>ppl<i>c<a>t<i>on.  
+cost, <<<a>nd>> the d<i>str<i>but<i>on of d<a>t<a> stor<a>ge <<<a>nd>>  
+me<a>ns of <a> m<a>them<a>t<i>c<a>l model of <a> <computer> dr<i>ven  
+
+
+DocID: CACM-2146
+
+str<i>ngs re<a>d <i>s d<i>spl<a>yed.  the log<i>c of th<i>s  
+less re<a>d<i>ng <<<a>nd>> wr<i>t<i>ng th<a>n most <a>lgor<i>thms <i>n  
+the mod<i>f<i>ed opt<i>mum <a>lgor<i>thm.  th<i>s <a>lgor<i>thm <i>s rel<a>t<i>vely  
+
+
+DocID: CACM-2918
+
+<i>s shown to be p<a>rt<i>cul<a>rly su<i>ted to cert<a><i>n spec<i><a>l<i>zed  
+<i>s <a>ssoc<i><a>ted w<i>th one or more memor<i>es <i>n wh<i>ch  
+<a>dv<a>nt<a>ges <i>n terms of <i>n terference <<<a>nd>> rel<i><a>b<i>l<i>ty <for>  
+
+
+DocID: CACM-2421
+
+<for> <a> group of sc<a>n l<i>nes.  when th<i>s port<i>on  
+<i>m<a>ge <<<a>nd>> only <a> sl<i>ght <i>ncre<a>se <i>n execut<i>on t<i>me over  
+most gr<a>ph<i>cs systems us<i>ng <a> r<a>ster sc<a>n output  
+
+
+DocID: CACM-2341
+
+<i>n wh<a>t <a>ppe<a>rs to be <a>n e<a>sy <<<a>nd>> n<a>tur<a>l w<a>y.  <i>n <a>dd<i>t<i>on  
+<for> nonnumer<i>c<a>l work.  the concept of <a> block <i>s l<a>rgely  
+extens<i>on to <a> str<i>ng.   the th<i>rd d<i>mens<i>on <i>s used <for>  
+
+
+DocID: CACM-1159
+
+<a> survey <i>s offered of techn<i>ques <for> tr<a>nsferr<i>ng  
+<i>n <a>ny spec<i>f<i>c c<a>se <a>re d<i>scussed, <<<a>nd>> <a>n <a>ttempt  
+th<a>t <i>t <i>s th<i>s process of convergence <i>n h<a>rdw<a>re  
+
+
+DocID: CACM-1551
+
+th<i>s p<a>per de<a>ls w<i>th <a>lgor<i>thms concern<i>ng <a>r<i>thmet<i>c  
+<for> <a> h<i>t<a>c-5020 <computer> h<a>v<i>ng n <a>ccumul<a>tors.  the  
+on comp<i>l<i>ng <a>lgor<i>thms <for> <a>r<i>thmet<i>c express<i>ons  
+
+
+DocID: CACM-2905
+
+set <i> the sm<a>llest t<a>ble <i>n wh<i>ch the elements of <i>  
+by us<i>ng <a> perfect h<a>sh<i>ng funct<i>on constructed by th<i>s  
+<i>s cons<i>dered.  g<i>ven <a> set <i> of <i>dent<i>f<i>ers, two methods  
+
+
+DocID: CACM-2433
+
+<<<a>nd>> the conclus<i>on <i>s dr<a>wn th<a>t d<a>t<a> <a>lloc<a>t<i>on r<a>ther th<a>n  
+th<i>s stor<a>ge method <<<a>nd>> express p<a>r<a>llel <a>lgor<i>thms <a>re descr<i>bed.  
+problem.  <a> s<a>t<i>sf<a>ctory method of d<a>t<a> <a>lloc<a>t<i>on <i>s  
+
+
+DocID: CACM-2201
+
+term<i>n<a>l <for> mov<i>e m<a>k<i>ng, <a>llow<i>ng the tr<i><a>l <<<a>nd>> error  
+ l<i>ght pen, pushbuttons, <<<a>nd>> teletype  <i>s m<a><i>nt<a><i>ned.  
+<computer> gr<a>ph<i>cs, <computer> <a>n<i>m<a>t<i>on, on-l<i>ne  
+
+
+DocID: CACM-2771
+
+<a> techn<i>que <i>s presented wh<i>ch <a>llows <a> cl<a>ss  
+<a>re conc<i>se, re<a>d<i>ly composed, <<<a>nd>> <a>re g<i>ven <i>n terms  
+us<i>ng <a> <computer>.  synthes<i>s beg<i>ns w<i>th pr<i>m<i>t<i>ve sol<i>ds  
+
+
+DocID: CACM-1697
+
+<<<a>nd>> <a> d<i>scuss<i>on of the rel<a>t<i>ve mer<i>ts of such <a> system  
+<i>s g<i>ven.  <i>llustr<a>t<i>ons of the <computer> <i>nput  
+<a> d<i>spl<a>y scope.  text <i>nputt<i>ng <i>s <a>ccompl<i>shed  
+
+
+DocID: CACM-3141
+
+<a>lgor<i>thm <for> f<i>nd<i>ng the l<a>rgest  or sm<a>llest  of <a> set of un<i>quely  
+controller ex<i>sts <<<a>nd>> the number of processes <i>s not known <a> pr<i>or<i>.  
+th<i>s decentr<a>l<i>zed <a>lgor<i>thm uses <a> techn<i>que of select<i>ve  
+
+
+DocID: CACM-2841
+
+<<<a>nd>> they <a>re des<i>gned w<i>th the <a><i>d of <a> three-d<i>mens<i>on<a>l  
+<i>s descr<i>bed. the surf<a>ces <a>re represented <i>n the system  
+of <a> pr<a>ct<i>c<a>l 3-d system <for> des<i>gn<i>ng sp<a>ce-<for>ms.  
+
+
+DocID: CACM-2687
+
+of <a> r<a>ster d<i>spl<a>y <a>re shown to be s<a>t<i>sf<i>ed <for>  
+<a> cell org<a>n<i>zed r<a>ster d<i>spl<a>y <for> l<i>ne dr<a>w<i>ngs  
+<a> typ<i>c<a>l des<i>gn <for> very complex l<i>ne dr<a>w<i>ngs.  
+
+
+DocID: CACM-3111
+
+be sent securely.  th<i>s p<a>per shows th<a>t <i>t <i>s  
+<i>n <a> theoret<i>c<a>l <<<a>nd>> <a> pr<a>ct<i>c<a>l sense.  
+<i>n such <a> f<a>sh<i>on th<a>t commun<i>c<a>t<i>ons secur<i>ty  
+
+
+DocID: CACM-1908
+
+<a> much h<i>gher level of per<for>m<a>nce <i>s <a>tt<a><i>ned by  
+<a><i>d <i>n dec<i>s<i>on-m<a>k<i>ng <<<a>nd>> problem-solv<i>ng r<a>ther  
+cost <for> us<a>ge of the two <computer> systems; however,  
+
+
+DocID: CACM-3193
+
+<i>nto the <computer> of <for>mul<a>e typed on <a>n 84 ch<a>r<a>cter flexo-wr<i>ter. th<i>s  
+flexo-wr<i>ter w<i>ll be mod<i>f<i>ed <for> <a>utom<a>t<i>c h<a>lf-l<i>ne <a>dv<a>nce <<<a>nd>> retr<a>ct,  
+work <i>s <i>n progress on <a> <for>mul<a> cod<i>ng techn<i>que <a>llow<i>ng d<i>rect entry  
+
+
+DocID: CACM-2987
+
+<a> b<i>n<a>ry tree se<a>rch.  the <a>lgor<i>thm <<<a>nd>>  
+<a> f<a>st <a>lgor<i>thm <for> test<i>ng the <i>nclus<i>on of <a> po<i>n t  
+<a> represent<a>t<i>on <for> polygons <<<a>nd>> polygon<a>l  
+
+
+DocID: CACM-1710
+
+of <a> ser<i>es of m<a>cro c<a>lls, wh<i>ch <a>re outl<i>ned <i>n  
+<a> spec<i><a>l p<i>cture l<a>ngu<a>ge <i>s descr<i>bed wh<i>ch h<a>s proved  
+r<a>ther th<a>n <a> p<a>rt<i>cul<a>r <i>mplement<a>t<i>on, though  
+
+
+DocID: CACM-0531
+
+<i>n m<a>ryl<<<a>nd>>, where m<a>ny of the reports from over <a> hundred  
+<i>s gener<a>lly not pre<a>ss<i>gned to <a>n <i>nd<i>v<i>du<a>l <for>  
+<<<a>nd>> other <i>dent<i>f<i>c<a>t<i>on must be comp<a>red.  th<i>s  
+
+
+DocID: CACM-1458
+
+prov<i>de <a> f<a>c<i>l<i>ty <for> the onl<i>ne user; <i>t <i>s the  
+ch<a>nges <i>n the processes rel<a>ted to produc<i>ng <<<a>nd>> check<i>ng  
+system surround<i>ng the progr<<a>m>m<i>ng l<a>ngu<a>ge.  <i>n th<i>s  
+
+
+DocID: CACM-2152
+
+th<i>s p<a>per d<i>scusses some of these problems, <<<a>nd>> suggests <a>n  
+<i>s w<i>despre<a>d <i>n <i>nter<a>ct<i>ve <computer> gr<a>ph<i>cs,  
+<computer> gr<a>ph<i>cs, progr<<a>m>m<i>ng l<a>ngu<a>ges, d<i>spl<a>y f<i>les  
+
+
+DocID: CACM-3059
+
+<for> systemtems <i>n wh<i>ch the <i>/o system <i>s more  
+<a>re <i>n <a>pprox<i>m<a>te cpu:<i>/o ut<i>l<i>z<a>t<i>on b<a>l<a>nce <<<a>nd>> <for>  
+overl<a>p <i>s found to be gre<a>test <for> systems wh<i>ch  
+
+
+DocID: CACM-1014
+
+<i>n comput<i>ng the <i>nter<a>ct<i>ons.  <a> progr<<a>m> dev<i>ce  
+these <i>nter<a>ct<i>ons <i>t <i>s <i>mposs<i>ble to <i>gnore them <i>n  
+to get the <computer> to do th<i>s <i>s descr<i>bed.  
+
+
+DocID: CACM-1924
+
+occurr<i>ng <i>n <a> p<a>ged memory system.  <i>t <i>s shown th<a>t  
+m<a>n<i>pul<a>t<i>on <a>lgor<i>thms <i>s <a>lso stud<i>ed <a>s <a> funct<i>on  
+m<a>tr<i>x <a>lgor<i>thms, <a>rr<a>y process<i>ng, p<a>g<i>ng <a>lgor<i>thms,  
+
+
+DocID: CACM-1680
+
+<computer> oper<a>t<i>ons such <a>s s<i>mul<a>t<i>on, progr<<a>m>m<i>ng, <<<a>nd>>  
+<a> gener<a>l-purpose d<i>spl<a>y process<i>ng <<<a>nd>> tutor<i><a>l system  
+<i>v  g  <for> the <i>bm system/360, model 40, <<<a>nd>> the <i>bm 2250  
+
+
+DocID: CACM-0435
+
+<i>s w<i>th th<i>s somewh<a>t neglected <a>re<a> th<a>t the <a>uthor <i>s  
+currently <a> gre<a>t de<a>l of t<i>me <<<a>nd>> ef<for>t <i>s  
+<<<a>nd>> procedures <i>s not <i>nst<a>nt<a>neous, but r<a>ther occurs  
+
+
+DocID: CACM-2657
+
+<for> the <i>mproved <a>lgor<i>thm, the <a>n<a>lys<i>s <i>s  
+problem, <<<a>nd>> <a> progr<<a>m> <i>s obt<a><i>ned by <a>n<a>lyz<i>ng <a> proof.  
+lee <i>n 1969 <i>s g<i>ven.  <i>n the old <a>lgor<i>thm, the progr<<a>m>-synthes<i>z<i>ng  
+
+
+DocID: CACM-0492
+
+b<a>s<i>s of <a> m<a>rkov ch<a><i>n model.  <for> the re<a>der not <i>nterested  
+<i>n the m<a>them<a>t<i>cs, the <i>ntroduct<i>on <<<a>nd>>  
+th<i>s p<a>per presents <a> new f<i>le <a>ddress<i>ng method  
+
+
+DocID: CACM-2967
+
+memor<i>es <i>n the context of <computer> gr<a>ph<i>cs  
+<<<a>nd>> cre<a>tes, mod<i>f<i>es, deletes, stores, <<<a>nd>> retr<i>eves  
+<a> comp<a>r<i>son of h<a>rdw<a>re <<<a>nd>> softw<a>re <a>ssoc<i><a>t<i>ve  
+
+
+DocID: CACM-2968
+
+<<<a>nd>> extens<i>ons , we<i>ght-b<a>l<a>nce  <i>.e. bb <<<a>nd>> wb ,  
+<a> comp<a>r<i>son of tree-b<a>l<a>nc<i>ng <a>lgor<i>thms  
+<a>n<a>lyzed, <<<a>nd>> some gu<i>del<i>nes <a>re g<i>ven <for> <a>n eff<i>c<i>ent  
+
+
+DocID: CACM-3049
+
+grow<i>ng needs of <a> l<a>rge b<a>tch env<i>ronment, <<<a>nd>> <i>s even  
+<a> s<i>mply extended <<<a>nd>> mod<i>f<i>ed b<a>tch  
+prov<i>des f<a>c<i>l<i>t<i>es <for> stor<i>ng, retr<i>ev<i>ng, <<<a>nd>>  
+
+
+DocID: CACM-2892
+
+<for> v<a>r<i>ous models of system use <i>s stud<i>ed.  
+<a> study of l<i>ne overhe<a>d <i>n the <a>rp<a>net  
+proposed network protocol <<<a>nd>> comp<a>red w<i>th those <for> the current system.  
+
+
+DocID: CACM-1735
+
+<computer> t<i>me th<a>t <a>llows the pr<i>ce of <computer>  
+<a> futures m<a>rket <i>n <computer> t<i>me  
+<a>n <a>uct<i>on method <i>s descr<i>bed <for> <a>lloc<a>t<i>ng  
+
+
+DocID: CACM-2667
+
+of t<a>sks <a>s <a> funct<i>on of the number of p<a>ges those t<a>sks h<a>ve <i>n core.  
+<i>n <a> l<a>rge-sc<a>le, t<i>me-sh<a>red <computer> system.  <a> softw<a>re  
+th<i>s <a>n<a>lys<i>s <a>re presented <for> <a> <for>tr<a>n comp<i>ler  
+
+
+DocID: CACM-2708
+
+th<i>s p<a>per descr<i>bes <a> recovery scheme <for> synt<a>x  
+<for> further rese<a>rch on th<i>s top<i>c conclude  
+c<a>751104 jb j<a>nu<a>ry 6, 1978  9:42 <<a>m>  
+
+
+DocID: CACM-1237
+
+<a> comp<i>ler.  both l<i>m<i>ted-entry <<<a>nd>> extended-entry  
+<<<a>nd>> fe<a>tures <i>s d<i>scussed.  <i>t <i>s presumed th<a>t the re<a>der  
+<<<a>nd>> then ev<a>lu<a>ted <i>n terms of stor<a>ge requ<i>rements,  
+
+
+DocID: CACM-2959
+
+descr<i>be <<<a>nd>> execute the<i>r <a>ppl<i>c<a>t<i>ons on <a> <computer>.  
+the system <for> bus<i>ness <a>utom<a>t<i>on  sb<a>  <i>s <a> system  
+bus<i>ness <for>ms, <<<a>nd>> reports on <a> d<i>spl<a>y term<i>n<a>l.  
+
+
+DocID: CACM-2035
+
+f<a>c<i>l<i>t<i>es <for> text ed<i>t<i>ng, <a>utom<a>t<i>c f<i>l<i>ng <<<a>nd>> f<i>le m<a><i>nten<a>nce, <<<a>nd>>  
+progr<<a>m> prep<a>r<a>t<i>on <<<a>nd>> <a>ssembly.  <i>t focuses on the prep<a>r<a>t<i>on <<<a>nd>> ed<i>t<i>ng  
+l<a>p6 <i>s <a>n on-l<i>ne system runn<i>ng on <a> 2048-word l<i>nc wh<i>ch prov<i>des full  
+
+
+DocID: CACM-2819
+
+<a> h<i>gh degree of compress<i>on <for> s<<a>m>ple texts.  
+two <a>lgor<i>thms <for> encod<i>ng <a> str<i>ng d<i>ffer  
+p<a>r<<a>m>eters <i>n the <a>lgor<i>thms <a>re opt<i>m<i>zed to obt<a><i>n  
+
+
+DocID: CACM-1281
+
+<a> d<a>t<a> <i>nput scheme <for> <a> t<i>me-sh<a>r<i>ng <computer>  
+<a>sks the user <for> the requ<i>red v<a>lues one <a>t <a>  
+<i>s descr<i>bed <i>n th<i>s p<a>per.  <i>nste<a>d of us<i>ng  
+
+
+DocID: CACM-3082
+
+<for> synchron<i>z<i>ng phys<i>c<a>l clocks, <<<a>nd>> <a> bound <i>s der<i>ved  
+<a>nother <i>n <a> d<i>str<i>buted system <i>s ex<<a>m><i>ned, <<<a>nd>>  
+<a> d<i>str<i>buted <a>lgor<i>thm <i>s g<i>ven <for> synchron<i>z<i>ng  
+
+
+DocID: CACM-1931
+
+<a> method proposed by h<a>sen <<<a>nd>> r. r. sm<i>th <i>s comp<a>red  
+<i>. determ<i>n<a>nts <i>n <a> progr<<a>m> to test <a> set of  
+<<<a>nd>> <i>ts use <i>n test<i>ng <for> <a> chebyshev system  
+
+
+DocID: CACM-2400
+
+<i>n p<i>ctures.  th<i>s p<a>per po<i>nts out th<a>t the use of <a>ngle-r<a>d<i>us  
+use of the hough tr<a>ns<for>m<a>t<i>on todetect l<i>nes <<<a>nd>> curves <i>n p<i>ctures  
+r<a>ther th<a>n slope-<i>ntercept p<a>r<<a>m>eters  
+
+
+DocID: CACM-3204
+
+e<a>sy to <a>ccess, <<<a>nd>> th<a>t the result must be obt<a><i>ned <i>n <a> re<a>son<a>bly short  
+t<i>me. <a>ccord<i>ngly the progr<<a>m> <i>s wr<i>tten <for> <a> t<i>me-sh<a>red <computer>. the q-32  
+chosen bec<a>use <i>t <a>lso h<a>d <a> l<i>sp 1.5 comp<i>ler. progr<<a>m>m<i>ng <<<a>nd>> debugg<i>ng w<a>s  
+
+
+DocID: CACM-2631
+
+th<i>s method tre<a>ts text <a>s <a> str<i>ng of ch<a>r<a>cters r<a>ther  
+of th<i>s subset <a>re then used <a>s <i>ndex keys <for> retr<i>ev<a>l.  
+<i>nfrequently.  <a> novel method <i>s presented, wh<i>ch  
+
+
+DocID: CACM-2453
+
+<a> l<i>m<i>ted entry dec<i>s<i>on t<a>ble to <a> tree structured <computer>  
+more useful <i>n pr<a>ct<i>ce.  the <a>lgor<i>thm <i>s well su<i>ted <for>  
+th<i>s <a>lgor<i>thm <i>s e<a>sy to code <<<a>nd>> t<a>kes <a> much sm<a>ller  
+
+
+DocID: CACM-2016
+
+<<<a>nd>> record<i>ng tools, <<<a>nd>> spec<i><a>l<i>zed me<a>surement f<a>c<i>l<i>t<i>es.  some  
+<a>n <a>rr<a>y of me<a>sur<i>ng tools dev<i>sed to <a><i>d <i>n the <i>mplement<a>t<i>on of <a> prototype  
+<computer> ut<i>l<i>ty <i>s d<i>scussed.  these tools <i>nclude spec<i><a>l h<a>rdw<a>re  
+
+
+DocID: CACM-3149
+
+<a> cycl<i>c-order property <i>s def<i>ned <for> bod<i>es bounded by smooth-curved f<a>ces.  
+the property <i>s shown to be useful <for> <a>n<a>lyz<i>ng p<i>ctures of such bod<i>es,  
+, p<i>cture process<i>ng, <computer> gr<a>ph<i>cs, p<a>ttern recogn<i>t<i>on.  
+
+
+DocID: CACM-2389
+
+<a>ccord<i>ng to <a> v<a>r<i>ety of constr<a><i>nts.  the <a>lgor<i>thms  
+<<<a>nd>> <i>ncludes me<a>ns to represent sp<a>ces <<<a>nd>> objects, to m<a>n<i>pul<a>te  
+<a> <computer> l<a>ngu<a>ge <<<a>nd>> <a> set of progr<<a>m>s w<i>th<i>n  
+
+
+DocID: CACM-1397
+
+str<i>ngs, <i>n the<i>r <a>ppl<i>c<a>t<i>ons, <<<a>nd>> <i>n <a>lgor<i>thms <for>  
+<for> m<a>n<i>pul<a>t<i>on of <a>lgebr<a><i>c <for>mul<a>s <<<a>nd>> symbol  
+people <i>nterested <i>n progr<<a>m>m<i>ng l<a>ngu<a>ges des<i>gned  
+
+
+DocID: CACM-1957
+
+<for> <i>ts use <a>re g<i>ven.  the l<i>st set gener<a>tor <i>s  
+<i>n p<a>r<a>llel, r<a>ther th<a>n ev<a>lu<a>t<i>ng subexpress<i>ons <<<a>nd>>  
+<a> construct wh<i>ch m<a>y be <a>dded to <a> l<i>st process<i>ng system or <a>ny  
+
+
+DocID: CACM-1366
+
+<for> d<i>g<i>t<a>l <computer>s <a>re d<i>scussed <i>n p<a>rt  
+<<<a>nd>> of some of the <i>nvolved <i>n comp<a>r<i>ng softw<a>re p<a>ck<a>ges  
+p<a>rt <i>s devoted to <computer> s<i>mul<a>t<i>on <<<a>nd>> s<i>mul<a>t<i>on  
+
+
+DocID: CACM-3075
+
+<<<a>nd>> t<i>me.  <a> re<a>l<i>st<i>c model <i>s used model <i>s used <i>n wh<i>ch  
+<i>s <a>lso presented to sort n numbers <i>n t<i>me o k log  
+<a> p<a>r<a>llel bucket-sort <a>lgor<i>thm <i>s presented  
+
+
+DocID: CACM-3071
+
+<i>n th<i>s note, <a>n <a>lgor<i>thm <i>s presented <for> the  
+th<i>s <a>lgor<i>thm, <a>lthough more spec<i><a>l<i>zed th<a>n th<a>t  
+<i>n <for>m<a>c <<<a>nd>> <i>s des<i>gned to complete the cl<a>ss<i>f<i>c<a>t<i>on  
+
+
+DocID: CACM-2984
+
+cost <i>s effect<i>vely ut<i>l<i>zed.  the method <i>ncludes <a>  
+<a> method <i>s presented <for> ev<a>lu<a>t<i>ng <computer>  
+system per<for>m<a>nce <i>n terms of <a> cost/ut<i>l<i>z<a>t<i>on  
+
+
+DocID: CACM-2522
+
+<a>nnounced.  th<i>s report d<i>scusses the des<i>gn <<<a>nd>>  
+the beh<a>v<i>or of <a> <computer> system <i>s l<a>rgely  
+the des<i>gn, <i>mplement<a>t<i>on, <<<a>nd>> ev<a>lu<a>t<i>on of <a> work<i>ng set d<i>sp<a>tcher  
+
+
+DocID: CACM-3028
+
+<i>n these <<<a>nd>> other <a>re<a>s <i>s d<i>scussed, <<<a>nd>>  
+context <<<a>nd>> then descr<i>bes the <a>rch<i>tecture <<<a>nd>> system  
+th<i>s p<a>per pl<a>ces e<a>ch <computer> <i>n <i>ts h<i>s tor<i>c<a>l  
+
+
+DocID: CACM-2973
+
+sort<i>ng on <a> mesh-connected p<a>r<a>llel <computer>  
+two <a>lgor<i>thms <a>re presented <for> sort<i>ng n^2  
+n .  the <a>lgor<i>thms of th<i>s p<a>per <a>re shown to be opt<i>m<a>l  
+
+
+DocID: CACM-1569
+
+<i>n <a> pl/<i> procedure whose structure <<<a>nd>> st<a>tements p<a>r<a>llel  
+<a> method <i>s descr<i>bed <for> <i>mplement<i>ng the product<i>ons  
+<i>mplement<i>ng phr<a>se-structure product<i>ons <i>n pl/<i>  
+
+
+DocID: CACM-2598
+
+th<i>s p<a>per mod<i>f<i>es <a>n e<a>rl<i>er <a>lgor<i>thm <for>  
+<i>n th<i>s p<a>per per<for>m l<i>m<i>ted se<a>rch <<<a>nd>>, <a>ccord<i>ngly,  
+<a> <computer> progr<<a>m>.  the <a>lgor<i>thms cons<i>dered  
+
+
+DocID: CACM-2969
+
+of progr<<a>m> <<<a>nd>> d<a>t<a> f<i>les <i>n <a> <computer> network  
+opt<i>m<a>l progr<<a>m> <<<a>nd>> d<a>t<a> loc<a>t<i>ons <i>n <computer> networks  
+occur <i>n re<a>l heterogeneous <computer> networks.  <i>ns<i>ghts  
+
+
+DocID: CACM-2547
+
+to determ<i>ne whether <a> po<i>nt l<i>es w<i>th<i>n <a> closed bound<a>ry;  
+m<a>ps, reg<i>on cover<a>ge, <<<a>nd>> l<i>ne structures, <i>s descr<i>bed.  
+the ne<i>ghbor<i>ng bound<a>r<i>es to <a> po<i>nt <<<a>nd>> the  
+
+
+DocID: CACM-1385
+
+<a> b<i>n<a>ry n<a>ture; however, <a> turn<i>ng po<i>nt m<a>y h<a>ve been re<a>ched <i>n m<i>d-1965.  
+<for> the 1965 per<i>od, <computer> technology <i>n ch<i>n<a> <i>s  
+ch<i>n<a> <i>s <a>djudged to h<a>ve <a> m<a>rg<i>n<a>l <computer> c<a>p<a>b<i>l<i>ty,  
+
+
+DocID: CACM-1433
+
+<i>s found.  the number of repet<i>t<i>ons of <a> cert<a><i>n  
+memor<i>zed <i>s often put on m<a>gnet<i>c t<a>pe or d<i>sk, <<<a>nd>>  
+<a> note on l<i>ne<a>r progr<<a>m>m<i>ng <a>lgor<i>thm des<i>gn: <a> comb<i>n<a>tor<i><a>l problem  
+
+
+DocID: CACM-1824
+
+<i>n spec<i><a>l purpose l<a>ngu<a>ges such <a>s snobol4 <<<a>nd>>  
+<i>n bu<i>ld<i>ng <a> powerful synt<a>x <<<a>nd>> funct<i>on  
+<for> d<a>t<a>less progr<<a>m>m<i>ng, <<<a>nd>> <a>s <a> gener<a>l str<i>ng m<a>n<i>pul<a>tor.  
+
+
+DocID: CACM-2535
+
+<a> study <i>s m<a>de of the w<a>y <i>n wh<i>ch <a>synchronous  
+of <a> t<i>me-sh<a>red <computer>-commun<i>c<a>t<i>ons system.  <i>t <i>s  
+w<i>th <a> s<i>ngle exponent<i><a>l server  the <computer> .  
+
+
+DocID: CACM-2534
+
+<i>n sp<i>te of the d<i><a>gnost<i>c ef<for>t pl/c <i>s  
+<<<a>nd>> execut<i>on, <<<a>nd>> the des<i>gn of pl/c <i>s dom<i>n<a>ted by  
+<for> the most p<a>rt th<i>s <a>ss<i>st<a>nce <i>s <i>mpl<i>c<i>t  
+
+
+DocID: CACM-1623
+
+<i>n <a> gener<a>l  m<a>them<a>t<i>c<a>l  sense <<<a>nd>> could be  
+<a> nonl<i>ne<a>r c<i>rcu<i>t <a>n<a>lys<i>s problem <i>s st<a>ted  
+m<a>y be <i>nterested <i>n the problem bec<a>use <i>t <i>s st<a>ted  
+
+
+DocID: CACM-1145
+
+<i>s one <for> wh<i>ch no eff<i>c<i>ent <a>lgor<i>thm<i>c solut<i>on <i>s known.  
+<i>n <a>re<a>s such <a>s g<<a>m>e-pl<a>y<i>ng <<<a>nd>> theorem-prov<i>ng, where  
+scheme <i>s rel<i>ed upon exclus<i>vely <for> <a> solut<i>on,  
+
+
+DocID: CACM-2368
+
+<i>n th<i>s tutor<i><a>l p<a>per <a> <computer> progr<<a>m>  
+<a>lgor<i>thms.  the two pl<a>yers <i>n <a> sh<a>nnon sw<i>tch<i>ng g<<a>m>e,  
+str<a>tegy expl<a><i>ned <i>n th<i>s p<a>per <i>s v<a>l<i>d <i>n <a>ll three  
+
+
+DocID: CACM-2873
+
+<a> geometr<i>c f<i>gure v<i><a> <a> collect<i>on of p<a>r<<a>m>eters <<<a>nd>>  
+le<a>rn <<<a>nd>> very close to the n<a>tur<a>l l<a>ngu<a>ge used <i>n geometry.  
+<for> use by nonprogr<<a>m>mers; <i>t <i>s e<a>sy to  
+

@@ -1,0 +1,675 @@
+LUCENE_NoStopNoStem
+
+Query
+Graph theoretic algorithms applicable to sparse matrices
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-2695
+
+eigenvalues, <graph>, bandwidth, <sparse> matrix  
+a <graph> <theoretic> algorithm which examines an arbitrary  
+<matrices> which can be tridiagonalized using  
+
+
+DocID: CACM-2986
+
+operations on <sparse> relations  
+matrix, directed <graph>, wirth-weber precedence  
+computational complexity, <sparse> relation, boolean  
+
+
+DocID: CACM-2769
+
+although it executes faster for <sparse> <matrices>  
+matrix, directed <graph>, di<graph>, boolean  
+by a boolean matrix. the algorithm is similar <to> warshall's  
+
+
+DocID: CACM-1563
+
+knight's <to>ur is generalized and applied <to> the  
+problem of finding a hamil<to>n path in a <graph>.  a <graph>-<theoretic>  
+
+
+DocID: CACM-2524
+
+<to> reduce the number of comparisons required <to> achieve  
+a file <to> find a key which is closest <to> a given  
+some approaches <to> best-match file searching  
+
+
+DocID: CACM-2490
+
+efficient <algorithms> for <graph> manipulation [h]  algorithm a447   
+<graph>s,analysis of <algorithms>, <graph> manipulation  
+a <graph> in<to> connected components, biconnected  
+
+
+DocID: CACM-2368
+
+<graph> <algorithms>, <graph> processing, shannon switching  
+games, game playing, <graph> theory, positional  
+<to> know whether the computer is connect or cut.  
+
+
+DocID: CACM-1457
+
+data structures, including linear text, <sparse> <matrices>,  
+facilities <to> aid in information retrieval.  
+manipulations <to> be performed in au<to>matic information  
+
+
+DocID: CACM-2289
+
+solution of <graph> problems is the determination of <algorithms>  
+n^2 <to> n^3 steps.  
+<graph> theory, cellular logic-in-memory arrays,  
+
+
+DocID: CACM-2232
+
+precise so that computer <algorithms> for feature extraction  
+it <to> the pattern boundary radius vec<to>r, and descriptions  
+is <to> clarify how the word description can be made  
+
+
+DocID: CACM-2780
+
+<sparse> <matrices>, triangular fac<to>rization, elements  
+on computing certain elements of the inverse of a <sparse> matrix  
+
+
+DocID: CACM-2081
+
+ended <to> sequence opera<to>rs and cumulative opera<to>rs.  <algorithms>  
+some complete calculi for <matrices>  
+of <matrices>  are considered, and matrix opera<to>rs areext  
+
+
+DocID: CACM-2630
+
+in a directed <graph>.  these <algorithms> generalize the floyd  
+<graph>, network, shortest path, algorithm  
+two <algorithms> are presented that construct  
+
+
+DocID: CACM-2905
+
+directly <to> small sets.  some methods <to> extend  
+distributed sets, this method can give rather <sparse> tables.  
+shown <to> be complete in the sense that for every  
+
+
+DocID: CACM-2273
+
+by instantly marking rules which are not <applicable>  <algorithms>  
+tested  algorithm 2 .  the new <algorithms> combine <to> a  
+two <algorithms> for generating computer programs  
+
+
+DocID: CACM-2167
+
+<algorithms> and the number-<theoretic> conjectures on which  
+some of the <theoretic>al results related <to> algebraic  
+<algorithms> for certain classes of expressions are included.  
+
+
+DocID: CACM-3152
+
+rather than <to> use the best known <algorithms> which leave the  
+in order <to> multiply <matrices> while minimizing  
+multiplication scheme is shown <to> be advantageous for  
+
+
+DocID: CACM-2484
+
+s<to>rage allocation, tree, <graph>  
+different relations and <algorithms> results in different  
+the results presented may be valuable <to>  
+
+
+DocID: CACM-1924
+
+matrix <algorithms>, array processing, paging <algorithms>,  
+carefully designed matrix <algorithms> can lead <to>  
+<to> the algorithm.  
+
+
+DocID: CACM-3156
+
+access <to> a common memory.  simultaneous access <to> the same location  
+<graph> theory, parallel processing, <algorithms>,  
+the algorithm can be used <to> find the transitive closure  
+
+
+DocID: CACM-3040
+
+backtrack, combina<to>rial <algorithms>, constraint  
+networks, constraint satisfaction, <graph> coloring,  
+<to> backtrack search by explicitly determining  
+
+
+DocID: CACM-1047
+
+<matrices> from canonical forms.  the <matrices> generated  
+simple similarity transformations <to> generate full  
+a method for obtaining test <matrices> with  
+
+
+DocID: CACM-2766
+
+<to> fixed or variable size nodes.  
+the best previous bounded workspace copying <algorithms>  
+section of memory.  the method is <applicable>  
+
+
+DocID: CACM-1504
+
+<algorithms> for finding a fundamental set  
+algorithm is superior <to> welch's; however, when  
+of cycles for an undirected linear <graph>  
+
+
+DocID: CACM-3124
+
+apl array <to> be a recursive data structure equivalent <to> a tree structure  
+construction of data-driven <algorithms>.  
+trees, data-driven <algorithms>, theory of arrays  
+
+
+DocID: CACM-3176
+
+s<to>ring a <sparse> table  
+<sparse> matrix, table compression, table lookup  
+is a little complicated <to> use in practice, our analysis shows  
+
+
+DocID: CACM-2557
+
+and square <matrices>.  the minimum time required <to> evaluate  
+sequences subject <to> the constraints of the machine organization.  
+as well as parallel computers is discussed.  <algorithms>  
+
+
+DocID: CACM-2453
+
+time.  the method is <applicable> <to> any limited entry  
+previously published heuristic <algorithms>.  compared  
+of decision tables <to> computer programs  
+
+
+DocID: CACM-3018
+
+<to> the problem of covering the edges of a <graph>  
+<algorithms> which always produce solutions  
+problem is established which allows <algorithms>  
+
+
+DocID: CACM-2883
+
+can be solved using well-known <graph> search <algorithms>.  
+are discussed, showing that the <graph> search  
+method can lead <to> substantial improvements in computing  
+
+
+DocID: CACM-2506
+
+a <sparse> matrix package  algorithm r408   
+matrix, <sparse> matrix, matrix manipulation, fortran standards  
+
+
+DocID: CACM-2199
+
+matrix, <sparse> matrix, matrix manipulation  
+a <sparse> matrix package  part i  [f4]  algorithm 408   
+
+
+DocID: CACM-3094
+
+analyses of deterministic parsing <algorithms>  
+values corresponding <to> a given compiler-machine  
+the minimum, maximum, and average times <to>  
+
+
+DocID: CACM-2189
+
+permutation, <graph> theory, scheduling, combina<to>rial algebra  
+of permutations fundamental <to> scheduling problems  
+corresponds <to> two circular permutations which mirror-image  
+
+
+DocID: CACM-1707
+
+test <matrices>, positive <matrices>, similarity  
+matrix <to> be similar <to> a positive matrix.  this  
+which, when applied <to> a particular upper triangular  
+
+
+DocID: CACM-1886
+
+are also <applicable> <to> the problem of fac<to>ring  
+fac<to>rization <algorithms>, code optimization, sequencing  
+necessarily generated.  the fac<to>rization <algorithms>  
+
+
+DocID: CACM-1630
+
+seems <to> have advantages when it is  
+necessary <to> determine repeatedly whether points are inside  
+or outside the region, or <to> perform set-<theoretic>  
+
+
+DocID: CACM-0955
+
+a class of <matrices> <to> test inversion procedures  
+
+
+DocID: CACM-2216
+
+therefore is <applicable> <to> a family of sorting <algorithms>  
+the solution <to> the integral equation indicates that  
+thousand trees containing up <to> 10,000 points have  
+
+
+DocID: CACM-2142
+
+this problem.  the <algorithms> are <applicable> in a large  
+and the problem is <to> find the "most representative"  
+picture.  three <algorithms> are described  all using  
+
+
+DocID: CACM-1423
+
+of the concept of an inverse which applies <to> all <matrices>.  
+<algorithms> are fairly complicated and require  
+been found <to> the conventional orthogonalization  
+
+
+DocID: CACM-2805
+
+are derived are shown <to> be almost attainable for any set of <matrices>.  
+perturbation of eigenvalues, non-normal <matrices>,  
+perturbations of eigenvalues of non-normal <matrices>  
+
+
+DocID: CACM-3139
+
+new methods <to> color the vertices of a <graph>  
+methods <to> color the vertices of a <graph> which rely  
+np-complete, <graph> structure, balancing, <graph>  
+
+
+DocID: CACM-0828
+
+the method is <applicable> <to> computer use.  
+
+
+DocID: CACM-2134
+
+the assignment problem <to> rectangular <matrices>  
+problem, rectangular <matrices>, algorithm  
+a solution for rectangular <matrices>.  timing results  
+
+
+DocID: CACM-2177
+
+the time required <to> analyze a <graph>  
+<graph>.  the <graph> may be represented either  i  as an  
+<graph>, separable, spanning tree, web grammar  
+
+
+DocID: CACM-2442
+
+a <sparse> matrix package  algorithm r408   
+
+
+DocID: CACM-2314
+
+framework,the requirements specified are <applicable>  
+list processing systems should be designed <to>  
+features, since <algorithms> must be not only  
+
+
+DocID: CACM-2877
+
+flow <graph>s, <algorithms>, compilers  
+possibly "reach" each node of the control flow <graph>  
+"live" on each edge of the <graph>.  the procedure uses  
+
+
+DocID: CACM-1727
+
+large <matrices>.  
+program correspondence, program <graph>, one-entry  
+<to> have a reasonable estimation of the values  
+
+
+DocID: CACM-2052
+
+tree, undirected linear <graph>  
+scheduling <to> reduce conflict in meetings  
+independently of the relation of the activities in conflict <to> additional  
+
+
+DocID: CACM-1961
+
+circuits of a <graph>.  the algorithm can be easily modified <to> find all  
+an efficient search algorithm <to> find the elementary circuits of a <graph>  
+in the <graph> <to> give a relation between speed and complexity.  
+
+
+DocID: CACM-1787
+
+transition <matrices>, compilation, translation,  
+an <algorithms> is described which constructs  
+use of transition <matrices> in compiling  
+
+
+DocID: CACM-1847
+
+fundamental cycle set, <graph>, algorithm, cycle, spanning tree  
+<to> that of gotlieb and corneil.  testsshow our  
+corneil and superior <to> that of welch; in terms  
+
+
+DocID: CACM-1660
+
+index by subject <to> <algorithms>, 1960-1968  
+
+
+DocID: CACM-1952
+
+index by subject <to> <algorithms>, 1970  
+
+
+DocID: CACM-1145
+
+speed computer in order <to> compare two 15-node  
+practical <algorithms> are unknown  for the interesting  
+and the program is designed <to> avoid excessive computation  
+
+
+DocID: CACM-2806
+
+two hadamard numbers for <matrices>  
+<matrices>, eigenvalues, norms, condition numbers,  
+<to> norm-bound "condition numbers."  one  for  
+
+
+DocID: CACM-2824
+
+an improvement <to> martin's algorithm for  
+syntax analysis, precedence functions, boolean <matrices>  
+
+
+DocID: CACM-2888
+
+items in business systems have <to> be identified  
+it is vital <to> assign codes in a methodical way  
+so as <to> control future extension and changes while maintaining  
+
+
+DocID: CACM-2699
+
+and membership <to> be established, the domains  
+ tabulated  mappings <to> be proved.  once facts of this  
+and ranges of  tabulated  mappings <to> be estimated from  
+
+
+DocID: CACM-3115
+
+<matrices> applied <to> text encryption  
+intermediate vec<to>rs <to> the <matrices>.  the mapping  
+<matrices>, encryption, vernam, pseudorandom  
+
+
+DocID: CACM-2768
+
+<to> the buddy type s<to>rage allocation systems.  
+blocks is described.  this scheme is <applicable>  
+location of a block of s<to>rage relative <to> other  
+
+
+DocID: CACM-1501
+
+the eigenvec<to>rs of the smaller <matrices>.  
+constructed.  an algorithm is given <to> obtain the  
+two smaller <matrices> of order n which can be easily  
+
+
+DocID: CACM-1796
+
+index by subject <to> <algorithms>, 1969  
+index by subject <to> <algorithms>, 1960 1968  comm.  
+this 1969 index is the first supplement <to> the  
+
+
+DocID: CACM-2619
+
+of a <graph>.  the preconditions correspond <to> the unavailability  
+<graph> coloring conditions for the existence  
+of solutions <to> the timetable problem  
+
+
+DocID: CACM-1153
+
+<applicable> <to> both binary and decimal computers.  
+
+
+DocID: CACM-2192
+
+and thus <applicable> in proofs about interpreters  
+is shown <to> be useful for proving partial functions equivalent  
+
+
+DocID: CACM-1963
+
+<matrices>, condition numbers, pei <matrices>, eigenvec<to>rs, eigenvalues  
+condition numbers of pei <matrices>  
+
+
+DocID: CACM-1116
+
+timetable problem <to> theorems on <matrices> of zeros  
+problems of applying the method <to> constructing  
+boolean <matrices>, is described.  in limited tests the  
+
+
+DocID: CACM-2980
+
+editing is equivalent <to> fast <graph> operations.  a number of examples are shown.  
+of the region adjacency <graph>.  the scheme  
+is based on definitions of <graph> properties which are  
+
+
+DocID: CACM-2015
+
+merger algorithm, minimum cost inverse-arborescence, <graph> theory  
+merging productions.  the productions generated correspond <to> the minimum cost  
+inverse-arborescence of that <graph>.  the validity of the technique is  
+
+
+DocID: CACM-2059
+
+colored <graph>, language extended algol,  
+<graph> operations such as node and/or link deletion or insertion, union,  
+as an extension <to> algol 60, and it is translated in<to> algol  
+
+
+DocID: CACM-2226
+
+experience additional <to> that recently  
+the <algorithms> as a suboptimizer is indicated.  
+further evidence for the analysis of <algorithms>  
+
+
+DocID: CACM-1347
+
+partial derivative <matrices>.  this requirement has led <to>  
+systems <to> initial condition and parameter errors, involves  
+the required <matrices> from specific system equations supplied  
+
+
+DocID: CACM-1417
+
+here and grosch's law which seems <to> be <applicable> <to>  
+
+
+DocID: CACM-0799
+
+<to> the construction of algol compilers.  
+compact enough <to> permit rapid, one-pass compilation  
+tape.  the methods given are largely <applicable>  
+
+
+DocID: CACM-3085
+
+where mi's are <matrices>.  the order in which the <matrices>  
+<matrices> in the optimal order is presented.  an  
+o n  algorithm <to> find an order of computation which  
+
+
+DocID: CACM-1683
+
+syntactic analysis, boolean <matrices>, relations  
+defined boolean <matrices>.  application of the  
+procedure <to> opera<to>r grammars is also given.  
+
+
+DocID: CACM-2554
+
+generalized eigenvalues, symmetric band <matrices>  
+the algorithm reduces the generalized problem <to>  
+schwartz for the reduction of symmetric <matrices>  
+
+
+DocID: CACM-0096
+
+<to> equations separated from a helmholtz  
+lit<to>n 40 ibm 704 computer.  results are generally <applicable>  
+
+
+DocID: CACM-2488
+
+the <matrices> involved in a linear least squares  
+a continuous derivative, <to> arrays of planar data.  
+
+
+DocID: CACM-2803
+
+between pseudoinverses of <matrices> and conjugate  
+this paper is devoted <to> the study of connections  
+
+
+DocID: CACM-0661
+
+elements of <sparse> multi-dimensional arrays are  
+
+
+DocID: CACM-2405
+
+system of linear equations, almost tridiagonal matrix, <sparse> matrix  
+
+
+DocID: CACM-2178
+
+<graph> processing, programming language, formal semantics,  
+directed <graph>, lisp, network, data structure,  
+of the meaning <to> be assigned them  the  
+
+
+DocID: CACM-2631
+
+an information-<theoretic> approach <to>  
+more suited <to> implementation on s<to>rage devices.  
+information, an attempt is made <to> overcome  
+
+
+DocID: CACM-2172
+
+plot, <graph>, line printer plot  
+<graph> plotter [j6]  algorithm 412   
+
+
+DocID: CACM-2830
+
+a practitioner's guide <to> addressing <algorithms>  corrigendum   
+
+
+DocID: CACM-2863
+
+shown <to> be optimum with respect <to> this criterion.  
+realizable variable space <algorithms>.  
+page replacement <algorithms>, optimal page replacement  
+
+
+DocID: CACM-2884
+
+have shown superiority of the new <algorithms> compared <to>  
+permutations, loop-free <algorithms>  
+classical permutation enumeration <algorithms> encounter  
+
+
+DocID: CACM-2787
+
+binary <matrices>, matrix reduction, tight set, school  
+and more efficient processing techniques; <to> take fuller  
+reduction of the binary <matrices> which arise in  
+
+
+DocID: CACM-0856
+
+sort, <applicable> <to> a variety of record statements.  
+an approach <to> sorting records is described  
+described is designed <to> be a generalized, self-generating  
+
+
+DocID: CACM-2894
+
+a measurement methodology <applicable> <to> in teractive  
+purpose is <to> enable external, user-oriented assessment  
+the methodology, leading <to> a pragmatic figure-of-merit  
+
+
+DocID: CACM-0962
+
+<applicable> <to> the second large computer in the cdc line,  
+a summary of approximations <to> the elementary  
+of maehly's ideas <to> a double-precision subroutine  
+
+
+DocID: CACM-0891
+
+however, is quite general and is <applicable>  
+<to> install an information retrieval program in less than  
+ from a programming stand-point  <to> reconsider their position,  
+
+
+DocID: CACM-2141
+
+but is widely <applicable> <to> map and pho<to><graph>ic  
+<to> avoid comparing all of them.  the technique  
+has been used <to> compress data from forest resource maps,  
+
+
+DocID: CACM-1935
+
+binary pattern, file examination, <graph> theory, information  
+and variance of the number of trials <to> recover  
+
+
+DocID: CACM-2902
+
+<algorithms>.  simple <algorithms> operating on memory ordered  
+fragmentation.  <algorithms> main taining separate  
+well.  <algorithms> employing power-of-two block sizes  
+
+
+DocID: CACM-2950
+
+are defined and related <to> existing <algorithms>.  a  
+a unifying approach <to> scheduling  
+scheduling <algorithms>, scheduling models, priority,  
+

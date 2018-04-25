@@ -1,0 +1,715 @@
+LUCENE_NoStopNoStem
+
+Query
+Abstracts of articles:
+    J. Backus, "Can programming be liberated from the Von Neumann style?
+               A functional style and its algebra of programs", CACM 21
+    Re Millo, R. Lipton, A. Perlis, letter to ACM Forum, CACM 22
+	       (1979), 629-630
+
+Backus, J.
+De Millo, R.
+Lipton, R.
+Perlis, A.
+
+Top 100 Results (8 millisecs)
+
+
+DocID: CACM-3077
+
+<<style>>?  <<<a>>> function<<<a>>>l <<style>> <<<a>>>nd <its> <<<a>>>lgeb<<<r>>><<<a>>>  
+<von> <neum<<<a>>>nn> compute<<<r>>>s, <von> <neum<<<a>>>nn> l<<<a>>>ngu<<<a>>>ges, mo<de>ls <<of>>  
+<c<<<a>>>n> <p<<<r>>>og<<<r>>><<<a>>>mming> <be> li<be><<<r>>><<<a>>>ted <f<<<r>>>om> <the> <von> <neum<<<a>>>nn>  
+
+
+DocID: CACM-3140
+
+<<of>> continuity, <the> inevit<<<a>>>bility <<of>> ch<<<a>>>nge, <<<a>>>nd <the> complexity <<of>>  
+p<<<r>>>og<<<r>>><<<a>>>ms, no m<<<a>>>tte<<<r>>> how obt<<<a>>>ined, will not pl<<<a>>>y <the>  
+specific<<<a>>>tion <<of>> signifi<c<<<a>>>n>tly m<<<a>>>ny <<<<r>>>e><<<a>>>l p<<<r>>>og<<<r>>><<<a>>>ms m<<<a>>>ke <the> fo<<<r>>>m  
+
+
+DocID: CACM-2700
+
+<<<<r>>>e>duction: <<<a>>> method <<of>> p<<<r>>>oving p<<<r>>>ope<<<r>>>ties <<of>> p<<<a>>><<<r>>><<<a>>>llel p<<<r>>>og<<<r>>><<<a>>>ms  
+th<<<a>>>t <<<a>>> st<<<a>>>tement is indivisible, i.e. th<<<a>>>t <the> st<<<a>>>tement  
+<c<<<a>>>n>not <be> inte<<<r>>>le<<<a>>>ved with <the> <<<<r>>>e>st <<of>> <the> p<<<r>>>og<<<r>>><<<a>>>m.  
+
+
+DocID: CACM-1705
+
+<<of>> <de><<<r>>>ived p<<<r>>>ocedu<<<<r>>>e>s  ioi, io<<<r>>>, iob, io<<<a>>> .  <the>  
+<<of>> <the> subset oti, ot<<<r>>>, otb, ot<<<a>>>.  <the> <be><<<r>>>keley <<style>>  
+<<<a>>>nd <<<r>>>ounds p<<<r>>>ope<<<r>>>ly.  v<<<a>>><<<r>>>i<<<a>>>nts <c<<<a>>>n> e<<<a>>>sily <be> w<<<r>>>itten  
+
+
+DocID: CACM-1132
+
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+itu<<<r>>><<<r>>>i<<<a>>>g<<<a>>>, <<<r>>>.  
+c<<<a>>>cm feb<<<r>>>u<<<a>>><<<r>>>y, 1964  
+
+
+DocID: CACM-1106
+
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+<p<<<r>>>og<<<r>>><<<a>>>mming> <<of>> digit<<<a>>>l compute<<<r>>>s  
+c<<<a>>>cm <<<a>>>p<<<r>>>il, 1964  
+
+
+DocID: CACM-2705
+
+seen <to> <be> high qu<<<a>>>lity p<<<r>>>og<<<r>>><<<a>>>m lite<<<r>>><<<a>>>tu<<<<r>>>e>  i.e. p<<<r>>>og<<<r>>><<<a>>>ms   
+<<of>> gene<<<r>>><<<a>>>l utility <<<a>>>nd studies <<of>> questions  
+domin<<<a>>>nt fo<<<r>>> <<<a>>> long time <to> come.  <the> most p<<<r>>>omising  
+
+
+DocID: CACM-2850
+
+<<of>> condition<<<a>>>l b<<<r>>><<<a>>>nch type st<<<a>>>tements.  <<<a>>>  
+<<<a>>>s in <<<a>>> no<<<r>>>m<<<a>>>l execution except th<<<a>>>t v<<<a>>>lues m<<<a>>>y <be> symbolic  
+exp<<<<r>>>e>ssions, <<<a>>> simple p<<<r>>>og<<<r>>><<<a>>>m testing m<<<a>>>n<<<a>>>ge<<<r>>>, <<<a>>>nd <<<a>>> p<<<r>>>og<<<r>>><<<a>>>m  
+
+
+DocID: CACM-1137
+
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+c<<<a>>>cm feb<<<r>>>u<<<a>>><<<r>>>y, 1964  
+<<<a>>> fo<<<r>>>m<<<a>>>t l<<<a>>>ngu<<<a>>>ge*  
+
+
+DocID: CACM-0406
+
+<the> use <<of>> th<<<<r>>>e><<<a>>><de>d lists in const<<<r>>>ucting <<<a>>> combined  
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+c<<<a>>>cm <<j>><<<a>>>nu<<<a>>><<<r>>>y, 1961  
+
+
+DocID: CACM-0196
+
+<b<<<a>>>ckus>, <<j>>.  
+c<<<a>>>cm m<<<a>>>y, 1960  
+<<<<r>>>e>po<<<r>>>t on <the> <<<a>>>lgo<<<r>>>ithmic l<<<a>>>ngu<<<a>>>ge <<<a>>>lgol 60  
+
+
+DocID: CACM-1046
+
+<<of>> <the>i<<<r>>> system. it exp<<<a>>>nds on some points th<<<a>>>t <the> o<<<r>>>igin<<<a>>>l  
+<<<a>>> compile<<<r>>>-building system <de>veloped by b<<<r>>>ooke<<<r>>> <<<a>>>nd mo<<<r>>><<<r>>>is  
+in <<<a>>> num<be><<<r>>> <<of>> <<<<a>>><<<r>>>ticles> published du<<<r>>>ing <the>  
+
+
+DocID: CACM-3008
+
+<<of>> g<<<r>>><<<a>>>phs <<<a>>><<<<r>>>e> used <to> mo<de>l <the> loss <<of>> p<<<r>>>oximity involved  
+only boun<de>d loss <<of>> <<<a>>>ve<<<r>>><<<a>>>ge p<<<r>>>oximity, but <c<<<a>>>n> <be> so  
+loss <<of>> p<<<r>>>oximity is <the>n consi<de><<<<r>>>e>d, <<<a>>>nd it is shown  
+
+
+DocID: CACM-0437
+
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+c<<<a>>>cm <de>cem<be><<<r>>>, 1962  
+g<<<a>>>lle<<<r>>>, b. <<<a>>>.  
+
+
+DocID: CACM-0001
+
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+c<<<a>>>cm <de>cem<be><<<r>>>, 1958  
+c<<<a>>>581203 <<j>>b m<<<a>>><<<r>>>ch <22>, 1978  8:28 pm  
+
+
+DocID: CACM-0209
+
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+c<<<a>>>cm <<<a>>>p<<<r>>>il, 1960  
+c<<<a>>>600402 <<j>>b m<<<a>>><<<r>>>ch <22>, 1978  1:56 pm  
+
+
+DocID: CACM-1614
+
+<<of>> <the> p<<<r>>>og<<<r>>><<<a>>>m <<<a>>>nd <<<a>>><<<<r>>>e> not fixed in <the> l<<<a>>>ngu<<<a>>>ge.  even  
+<the> <be>h<<<a>>>vio<<<r>>> <<of>> existing ope<<<r>>><<<a>>><to><<<r>>>s m<<<a>>>y <be> <<<<r>>>e><de>fined.  
+ite<<<r>>><<<a>>>tions <<<a>>>nd tempo<<<r>>><<<a>>><<<r>>>y s<to><<<r>>><<<a>>>ge.  ex<<<a>>>mples <<of>> <de>finition sets  
+
+
+DocID: CACM-2922
+
+<to> <be> m<<<a>>>n<<<a>>>ged <<<a>>>t <the> choice level is <<<a>>> f<<<<r>>>e>e <<of>> contexts.  
+<the> p<<<r>>>oposed <<<a>>>ttitu<de> <<<a>>>ims <<<a>>>t <<<<r>>>e>t<<<a>>>ining <the> pu<<<r>>>ity <<of>>  
+<<of>> <the> se<<<a>>><<<r>>>ch st<<<r>>><<<a>>>tegies: e<<<a>>>ch nonte<<<r>>>min<<<a>>>l no<de> <<of>> <the>  
+
+
+DocID: CACM-1764
+
+h<<<a>>>lf <<of>> <the> session.  pe<<<r>>>tinent p<<<a>>>pe<<<r>>>s <<<a>>><<<<r>>>e> inclu<de>d in <the> <<<<r>>>e>fe<<<<r>>>e>nces.  
+<be><<<r>>>n<<<a>>><<<r>>>d <<<a>>>. g<<<a>>>lle<<<r>>>, <<<r>>>ich<<<a>>><<<r>>>d, w. h<<<a>>>mming, <<<a>>>nd <<<a>>>l<<<a>>>n <<j>>. pe<<<r>>>lis.  
+d<<<a>>>m <<<a>>>nd k<<<a>>>hn o<<<r>>> <to> <the> discussion du<<<r>>>ing <the> fi<<<r>>>st  
+
+
+DocID: CACM-2802
+
+<<of>> ce<<<r>>>t<<<a>>>in element<<<a>>><<<r>>>y equ<<<a>>>tions <de>fined in <the>  
+<<<a>>>lgeb<<<r>>><<<a>>> <<of>> functions.  <the>se solutions <c<<<a>>>n> <be> given in  
+<the> new m<<<a>>>th <<of>> compute<<<r>>> <p<<<r>>>og<<<r>>><<<a>>>mming>  
+
+
+DocID: CACM-1029
+
+it <c<<<a>>>n> <be> used <<<a>>>s <<<a>>> quick-<<<<r>>>e><<<a>>>ction <to>ol whe<<<<r>>>e> <the>  
+<to> <the> method is <the> <de>composition <<of>> <the> given  
+in<to> <<<a>>> se<<<r>>>ies <<of>> element<<<a>>><<<r>>>y function<<<a>>>l steps.  <<<a>>>  
+
+
+DocID: CACM-1835
+
+<<of>> d<<<a>>>t<<<a>>> types.  seve<<<r>>><<<a>>>l novel <<<a>>>nd powe<<<r>>>ful fe<<<a>>>tu<<<<r>>>e>s  
+<the> iit<<<r>>><<<a>>>n l<<<a>>>ngu<<<a>>>ge, <de>veloped <to> <be> used  
+with <<<a>>> one-level block st<<<r>>>uctu<<<<r>>>e> <<<a>>>nd <<<a>>> v<<<a>>><<<r>>>iety  
+
+
+DocID: CACM-2219
+
+i <f<<<r>>>om> <<<<r>>>e>sou<<<r>>>ce i <<<a>>>nd w[i] is <the> cost pe<<<r>>> unit <<of>> <the>  
+p<<<r>>>omised <to> <the> use<<<r>>> by <the> policy function <<<a>>>nd <the> se<<<r>>>vice  
+by <<<a>>> <<<<r>>>e>sou<<<r>>>ce count sum{w[i]<<<r>>>[i<<j>>]} whe<<<<r>>>e> <<<r>>>[i<<j>>] is <the>  
+
+
+DocID: CACM-3078
+
+<c<<<a>>>n> <be> consi<de><<<r>>><<<a>>>bly <<<<r>>>e>duced by <the> <<<a>>>pplic<<<a>>>tion  
+<<of>> <<<a>>> compute<<<r>>> system const<<<r>>>ucted <<of>> un<<<<r>>>e>li<<<a>>>ble  
+systems <c<<<a>>>n> <be> mo<de>led by m<<<a>>><<<r>>>kov <<<a>>>nd semi-m<<<a>>><<<r>>>kov  
+
+
+DocID: CACM-1834
+
+which <c<<<a>>>n> <be> used in p<<<r>>>o<<of>>s <<of>> <the> p<<<r>>>ope<<<r>>>ties <<of>> compute<<<r>>>  
+study <<of>> geomet<<<r>>>y <<<a>>>nd h<<<a>>>ve l<<<a>>>te<<<r>>> <be>en exten<de>d <to>  
+by use <<of>> techniques which we<<<<r>>>e> fi<<<r>>>st <<<a>>>pplied in <the>  
+
+
+DocID: CACM-1278
+
+<<of>> <the> <<<a>>>cm, <<<r>>>. wenge<<<r>>>t suggested <<<a>>> technique fo<<<r>>>  
+m<<<a>>>chine ev<<<a>>>lu<<<a>>>tion <<of>> <the> p<<<a>>><<<r>>>ti<<<a>>>l <de><<<r>>>iv<<<a>>>tives <<of>> <<<a>>> function  
+in <<<a>>> <<<<r>>>e>cent <<<a>>><<<r>>>ticle in <the> communic<<<a>>>tions  
+
+
+DocID: CACM-1007
+
+extension <<of>> existing compile<<<r>>>s by sophistic<<<a>>>ted use <<of>> m<<<a>>>c<<<r>>>os  
+employed <to> <<<a>>>dd <<<a>>> new f<<<a>>>cility <to> <be>lf<<<a>>>p.  
+<<<a>>> <de>sc<<<r>>>iption is p<<<<r>>>e>sented <<of>> <<<a>>>n <<<a>>>pplic<<<a>>>tion  
+
+
+DocID: CACM-0065
+
+pe<<<r>>>lis, <<j>>. <<<a>>>.  
+c<<<a>>>cm septem<be><<<r>>>, 1959  
+c<<<a>>>590904 <<j>>b m<<<a>>><<<r>>>ch <22>, 1978  4:49 pm  
+
+
+DocID: CACM-0176
+
+pe<<<r>>>lis, <<<a>>>. <<j>>.  
+c<<<a>>>cm <<j>>une, 1960  
+
+
+DocID: CACM-1260
+
+<the> p<<<r>>>oblem <<of>> <<<a>>>n<<<a>>>lyzing d<<<a>>>t<<<a>>> <f<<<r>>>om> <<<a>>> mossb<<<a>>>ue<<<r>>>  
+c<<<a>>>lcul<<<a>>>tion it is possible <to> m<<<a>>>ke <the> <<<a>>>n<<<a>>>lysis on <<<a>>>  
+const<<<r>>><<<a>>>ints on <the> function<<<a>>>l fo<<<r>>>m <<of>> <the>  
+
+
+DocID: CACM-1469
+
+<<of>> <the>m, function<<<a>>>l <<<<r>>>e>l<<<a>>>tions <<<a>>>mong <the>m  th<<<a>>>t <c<<<a>>>n>  
+<the> o<the><<<r>>> is <the> choice <<of>> <the> <<<a>>>bst<<<r>>><<<a>>>ct  
+<be> <<<<r>>>e>fe<<<r>>><<<<r>>>e>d <to> in <the> l<<<a>>>ngu<<<a>>>ge.  <the> system is bi<<<a>>>sed  
+
+
+DocID: CACM-0689
+
+<<<<r>>>e>po<<<r>>>t <<of>> <<<a>>> visit <to> discuss common <p<<<r>>>og<<<r>>><<<a>>>mming>  
+gos<de>n, <<j>>. <<<a>>>.  
+c<<<a>>>cm novem<be><<<r>>>, 1963  
+
+
+DocID: CACM-0254
+
+<<<a>>> p<<<<r>>>e>limin<<<a>>><<<r>>>y <<<<r>>>e>po<<<r>>>t <<<<r>>>e>sulted.  <<<a>>>t <the> <<<a>>>cm  
+<<of>> <the> subcommittee fo<<<r>>> <<<a>>> st<<<a>>>nd<<<a>>><<<r>>>d subset <<of>> <<<a>>>lgol  
+p<<<r>>>io<<<r>>> <to> <<<a>>>nd du<<<r>>>ing <the> 1961 weste<<<r>>>n <<j>>oint  
+
+
+DocID: CACM-1458
+
+out p<<<r>>>og<<<r>>><<<a>>>ms.  in <the> m<<<a>>>in, it it not <the>  
+p<<<r>>>ovi<de> <<<a>>> f<<<a>>>cility fo<<<r>>> <the> online use<<<r>>>; it is <the>  
+<p<<<r>>>og<<<r>>><<<a>>>mming> l<<<a>>>ngu<<<a>>>ge <its>elf which must <be> ch<<<a>>>nged <to>  
+
+
+DocID: CACM-3154
+
+<the> logic <<of>> <the> <<<a>>>lgo<<<r>>>ithm.  we <<<a>>><<<r>>>gue th<<<a>>>t compute<<<r>>> p<<<r>>>og<<<r>>><<<a>>>ms would  
+<be> mo<<<<r>>>e> <<of>>ten co<<<r>>><<<<r>>>e>ct <<<a>>>nd mo<<<<r>>>e> e<<<a>>>sily imp<<<r>>>oved <<<a>>>nd modified if  
+<<<a>>>nd <<<a>>> cont<<<r>>>ol component, which <de>te<<<r>>>mines <the> p<<<r>>>oblem-solving  
+
+
+DocID: CACM-2113
+
+<<<a>>>nd <the> st<<<a>>>te <<of>> single b<its> <de>te<<<r>>>mines <the> ope<<<r>>><<<a>>>tion<<<a>>>l flow <<of>> <the>  
+th<<<a>>>t <the> individu<<<a>>>l loc<<<a>>>tions <<of>> bytes <<<a>>>nd b<its> come <to> <<<<r>>>e>p<<<<r>>>e>sent <the>  
+<<of>> ex<<<a>>>mples t<<<a>>>ken <f<<<r>>>om> <the> fully ope<<<r>>><<<a>>>tion<<<a>>>l implement<<<a>>>tion <<of>> <the>  
+
+
+DocID: CACM-1977
+
+with <<<a>>> g<<<r>>><<<a>>>phic<<<a>>>l displ<<<a>>>y h<<<a>>>s <be>en <de>veloped fo<<<r>>> <the> <<<a>>>pp<<<r>>>oxim<<<a>>>tion <<of>>  
+splines  selected by <the> use<<<r>>>.  <the> coefficients <<of>> <the> <<<a>>>pp<<<r>>>oxim<<<a>>>tion  
+mono<to>nicity o<<<r>>> convexity <<of>> <the> <<<a>>>pp<<<r>>>oxim<<<a>>>tion <c<<<a>>>n> <<<a>>>lso <be> imposed. this  
+
+
+DocID: CACM-2097
+
+<the> te<<<a>>>ch system w<<<a>>>s <de>veloped <<<a>>>t mit <to> e<<<a>>>se <the> cost <<<a>>>nd imp<<<r>>>ove <the> <<<<r>>>e>sults  
+simil<<<a>>><<<r>>> p<<<r>>>og<<<r>>><<<a>>>ms <<of>> p<<<r>>><<of>>ound tu<to><<<r>>>i<<<a>>>l skill will <<<a>>>ppe<<<a>>><<<r>>> only <<<a>>>s <the> <<<<r>>>e>sults <<of>>  
+<<of>> element<<<a>>><<<r>>>y inst<<<r>>>uction in <p<<<r>>>og<<<r>>><<<a>>>mming>.  <to> <the> stu<de>nt, te<<<a>>>ch <<of>>fe<<<r>>>s loosely  
+
+
+DocID: CACM-2981
+
+<<of>> <<<a>>> p<<<r>>>o<<of>> by subgo<<<a>>>l induction <to> <be> v<<<a>>>lid.  
+induction <c<<<a>>>n> <be> viewed <<<a>>>s <<<a>>> speci<<<a>>>lized fo<<<r>>>m <<of>> comput<<<a>>>tion  
+di<<<<r>>>e>ctly <f<<<r>>>om> <its> input-output specific<<<a>>>tion without <the>  
+
+
+DocID: CACM-1155
+
+<f<<<r>>>om> <the> given f<<<a>>>cts <c<<<a>>>n>not <be> <<<a>>>nswe<<<<r>>>e>d <<<a>>>nd  
+<<<a>>> hum<<<a>>>n <c<<<a>>>n> inc<<<<r>>>e><<<a>>>se <the> <de>ductive powe<<<r>>> <<of>> <de>ducom  
+o<<<r>>> <<<a>>> method <<of>> <<<a>>>nswe<<<r>>>ing <<<a>>> gene<<<r>>><<<a>>>l kind <<of>> question.  
+
+
+DocID: CACM-2181
+
+<<of>> <the> ped<<<a>>>gogic <<<a>>>nd subst<<<a>>>ntive conce<<<r>>>ns <<<r>>><<<a>>>ised; <<<a>>>nd  
+<the> committee with m<<<a>>>te<<<r>>>i<<<a>>>l fo<<<r>>> <its> study <<of>>  
+<<<a>>>nd <to> <de>velop <<<a>>> se<<<r>>>ies <<of>> <<<<r>>>e>commend<<<a>>>tions fo<<<r>>>  
+
+
+DocID: CACM-2148
+
+<<<a>>>nd simple int<<<r>>>oduction <to> both <<<a>>>lgol 68 <<<a>>>nd  
+<the> l<<<a>>>ngu<<<a>>>ge pe<<<r>>>m<its> <the> composition <<of>> v<<<a>>>lues <<<a>>>nd <<<a>>>ctions,  
+<f<<<r>>>om> <<<a>>> sem<<<a>>>ntic point <<of>> view.  it is shown how  
+
+
+DocID: CACM-0616
+
+<<<a>>>nd <c<<<a>>>n> <be> <<<a>>>dd<<<<r>>>e>ssed <to> <<<a>>>ny <<of>> <the> mem<be><<<r>>>s <<of>>  
+will <be> <<<<r>>>e><<<a>>>d  <<<a>>>  with <<<a>>>vid inte<<<<r>>>e>st by <p<<<r>>>og<<<r>>><<<a>>>mming> l<<<a>>>ngu<<<a>>>ge  
+<the> systems <<<a>>>n<<<a>>>lyst's use.  <the>y t<<<r>>>ust th<<<a>>>t <the> i<de><<<a>>>s  
+
+
+DocID: CACM-1482
+
+<the> m<<<a>>>in concept <<of>> <the> system is <the> use <<of>>  
+<the> compute<<<r>>>'s memo<<<r>>>y.  bugsys <c<<<a>>>n> <be> used fo<<<r>>> m<<<a>>>ny  
+types <<of>> <<<a>>>pplic<<<a>>>tions.  in p<<<a>>><<<r>>>ticul<<<a>>><<<r>>>, <the> <<<a>>>utho<<<r>>>s  
+
+
+DocID: CACM-1852
+
+<<<a>>> b<<<a>>>se fo<<<r>>> <<<a>>> mobile <p<<<r>>>og<<<r>>><<<a>>>mming> system  
+bootst<<<r>>><<<a>>>pping, <<of>> p<<<r>>>ocesso<<<r>>>s fo<<<r>>> <p<<<r>>>og<<<r>>><<<a>>>mming> l<<<a>>>ngu<<<a>>>ges is  
+<be> t<<<r>>><<<a>>>nsfe<<<r>>><<<<r>>>e>d <to> <<<a>>> new m<<<a>>>chine in less th<<<a>>>n one  
+
+
+DocID: CACM-2312
+
+<<<a>>> pessimistic fo<<<<r>>>e>c<<<a>>>st is given <<of>> wh<<<a>>>t <c<<<a>>>n> <be>  
+expected <to> h<<<a>>>ppen in <the> <<<a>>>pplic<<<a>>>tion <<of>> compute<<<r>>>s  
+on <the> p<<<<r>>>e>sent <<<a>>>nd futu<<<<r>>>e> <<of>> scientific comput<<<a>>>tion  
+
+
+DocID: CACM-3199
+
+<<<a>>>lgem is <<<a>>> p<<<a>>>ck<<<a>>>ge <<of>> subp<<<r>>>og<<<r>>><<<a>>>ms w<<<r>>>itten in slip, fo<<<r>>>t<<<r>>><<<a>>>n iv <<<a>>>nd m<<<a>>>p 7094  
+o<the><<<r>>> m<<<a>>>nipul<<<a>>><to><<<r>>>s is <the> <<<a>>>ssignment <<of>> types <to> <<<a>>>ll exp<<<<r>>>e>ssions <<<a>>>nd <the> use  
+<<<a>>>nd <<of>> finding <the> highest common f<<<a>>>c<to><<<r>>> <<of>> two polynomi<<<a>>>ls. <<<a>>>lso inclu<de>d <<<a>>><<<<r>>>e>  
+
+
+DocID: CACM-2470
+
+<<<a>>>nd <<<a>>> technique is p<<<<r>>>e>sented by which <the>y <c<<<a>>>n> <be> int<<<r>>>oduced  
+<c<<<a>>>n> <be> consi<de><<<<r>>>e>d functions on <the> envi<<<r>>>onment.  <the>  
+with <the> use <<of>> <the> p<<<a>>><<<r>>><<<a>>>doxic<<<a>>>l combin<<<a>>><to><<<r>>>, y.  <the>  
+
+
+DocID: CACM-2542
+
+<the> <<<<r>>>e><<<a>>>sons fo<<<r>>> this f<<<a>>>ilu<<<<r>>>e> <<<a>>><<<<r>>>e> explo<<<<r>>>e>d, <<<a>>>nd <<<a>>> new methodology  
+<be> co<<<r>>><<<<r>>>e>cted without costly m<<<a>>><<j>>o<<<r>>> <<<<r>>>e>implement<<<a>>>tion <<of>> <the> p<<<r>>>oposed system.  
+<<<a>>>n<<<a>>>lysis <<<a>>>nd simul<<<a>>>tion <<<r>>>outines.  using <the> pe<<<r>>>fo<<<r>>>m<<<a>>>nce  
+
+
+DocID: CACM-2210
+
+<the> <de>si<<<<r>>>e>d p<<<r>>>og<<<r>>><<<a>>>m is ext<<<r>>><<<a>>>cted <f<<<r>>>om> <the> p<<<r>>>o<<of>>.  <the>  
+<the> induction <<<r>>>ule used <<<a>>>nd <the> fo<<<r>>>m <<of>> <the> p<<<r>>>og<<<r>>><<<a>>>m  
+must <be> <<<a>>>pplied. <the> <<<<r>>>e>l<<<a>>>tion <be>tween <the> ve<<<r>>>sion <<of>>  
+
+
+DocID: CACM-1196
+
+t<<<r>>>ue <f<<<r>>>om> <the> point <<of>> view <<of>> e<<<a>>>se <<of>> <p<<<r>>>og<<<r>>><<<a>>>mming>,  
+<<<a>>> l<<<a>>><<<r>>>ge cl<<<a>>>ss <<of>> p<<<r>>>oblems le<<<a>>>ding <to> digit<<<a>>>l  
+<<of>> <the> nume<<<r>>>ic<<<a>>>l solution <<of>> systems <<of>> o<<<r>>>din<<<a>>><<<r>>>y diffe<<<<r>>>e>nti<<<a>>>l  
+
+
+DocID: CACM-3054
+
+<to> quickso<<<r>>>t is given, <<<a>>>long with <<<a>>> discussion  
+implement <the> quickso<<<r>>>t so<<<r>>>ting <<<a>>>lgo<<<r>>>ithm <<<a>>>nd <its>  
+<f<<<r>>>om> <<<a>>> p<<<r>>><<<a>>>ctic<<<a>>>l st<<<a>>>ndpoint <to> illust<<<r>>><<<a>>>te  
+
+
+DocID: CACM-1248
+
+<<<a>>>nd pe<<<r>>>fo<<<r>>>m such simplific<<<a>>>tions on it <<<a>>>s <c<<<a>>>n> <be> <de>tected  
+on <the> <<<a>>>u<to>m<<<a>>>tic simplific<<<a>>>tion <<of>> compute<<<r>>> p<<<r>>>og<<<r>>><<<a>>>ms  
+h<<<a>>>ving <<<a>>>ny knowledge <<of>> wh<<<a>>>t it is supposed <to> do.  
+
+
+DocID: CACM-0527
+
+<its> p<<<r>>>ope<<<r>>>ties.  p<<<r>>>ope<<<r>>>ty is <de>fined <to> me<<<a>>>n <<<a>>> p<<<a>>><<<r>>>tition  
+<<<a>>> concept is <de>fined <<<a>>>s <<<a>>> cl<<<a>>>ss <<of>> ob<<j>>ects  
+<<<a>>> one-<to>-one co<<<r>>><<<<r>>>e>spon<de>nce is est<<<a>>>blished <be>tween <the>  
+
+
+DocID: CACM-2834
+
+<to> <the> gene<<<r>>><<<a>>>tion <<of>> <the> combin<<<a>>>tions <<of>> n things  
+t<<<a>>>ken k <<<a>>>t <<<a>>> time, <the> compositions <<of>> intege<<<r>>>s, <<<a>>>nd  
+in th<<<a>>>t <the> time <<<<r>>>e>qui<<<<r>>>e>d <to> gene<<<r>>><<<a>>>te <the> next  
+
+
+DocID: CACM-1934
+
+<c<<<a>>>n> <be> d<<<r>>><<<a>>>wn in such <<<a>>> w<<<a>>>y th<<<a>>>t <the> num<be><<<r>>> <<of>> <<<a>>>ccumul<<<a>>><to><<<r>>>s  
+<<<a>>> <de>sc<<<r>>>iption is given <<of>> how <<<a>>> t<<<<r>>>e>e <<<<r>>>e>p<<<<r>>>e>senting <the>  
+<to> <<<a>>> specific p<<<r>>>oblem un<de><<<r>>> <the> <the>o<<<r>>>y <<of>> g<<<r>>><<<a>>>phs.  
+
+
+DocID: CACM-0231
+
+<<<a>>> p<<<r>>>opos<<<a>>>l fo<<<r>>> <<<a>>> set <<of>> public<<<a>>>tion st<<<a>>>nd<<<a>>><<<r>>>ds fo<<<r>>> use by <the> <<<a>>>cm  
+c<<<a>>>cm feb<<<r>>>u<<<a>>><<<r>>>y, 1960  
+kent, e. <<<r>>>.  
+
+
+DocID: CACM-3099
+
+<the> pu<<<r>>>pose <<of>> this <<<<r>>>e>po<<<r>>>t is <to> p<<<<r>>>e>sent <<<a>>>  
+pu<<<<r>>>e> <<<a>>>nd mixed intege<<<r>>> <p<<<r>>>og<<<r>>><<<a>>>mming> p<<<r>>>oblems.  some <<of>>  
+<the> sets <<of>> sufficient conditions p<<<<r>>>e>sented <c<<<a>>>n>  
+
+
+DocID: CACM-2538
+
+by both <the> subcommittee <<<a>>>nd  cccs , supplies <<<a>>> set <<of>>  
+<the> pu<<<r>>>poses <<of>> s<<<a>>>tisfying <<<a>>> wi<de> v<<<a>>><<<r>>>iety <<of>> ob<<j>>ectives.  
+<to> m<<<a>>>ke <<<<r>>>e>commend<<<a>>>tions <<<<r>>>e>g<<<a>>><<<r>>>ding compute<<<r>>> science p<<<r>>>og<<<r>>><<<a>>>ms  
+
+
+DocID: CACM-3197
+
+<the> following o<<<r>>>g<<<a>>>niz<<<a>>>tion<<<a>>>l <de>sc<<<r>>>iptions h<<<a>>>ve <be>en p<<<r>>>ovi<de>d in o<<<r>>><de><<<r>>> <to>  
+st<<<r>>>uctu<<<<r>>>e>s <<of>> st<<<a>>>nd<<<a>>><<<r>>>ds-p<<<r>>>ocessing o<<<r>>>g<<<a>>>niz<<<a>>>tions in <the> compute<<<r>>> <<<a>>><<<<r>>>e><<<a>>>  
+in line with <the> <<<a>>>cm's policy st<<<a>>>tement [comm. <<<a>>>cm 5  nov. 1962 , 547-549],  
+
+
+DocID: CACM-2929
+
+<<of>> <the> p<<<r>>>ocedu<<<<r>>>e> body.  <the> gene<<<r>>><<<a>>>l p<<<r>>>oblem <<of>>  
+p<<<r>>>og<<<r>>><<<a>>>m <to> <be> optimized.  p<<<<r>>>e>limin<<<a>>><<<r>>>y <<<<r>>>e>sults fo<<<r>>> <the>  
+<<of>> <<<<r>>>e>pl<<<a>>>cing <<<a>>> p<<<r>>>ocedu<<<<r>>>e> invoc<<<a>>>tion by <<<a>>> modified copy  
+
+
+DocID: CACM-1891
+
+<c<<<a>>>n> <be> viewed by <<<a>>> l<<<a>>><<<r>>>ge g<<<r>>>oup <<of>> people <<<a>>>t <the>  
+<to> p<<<r>>>oduce <<<a>>> ste<<<<r>>>e>og<<<r>>><<<a>>>phic displ<<<a>>>y <the> compute<<<r>>> c<<<a>>>lcul<<<a>>>tes  
+viewed <f<<<r>>>om> two sep<<<a>>><<<r>>><<<a>>>te points.  <the> <<<<r>>>e>sulting vi<de>o  
+
+
+DocID: CACM-1028
+
+<<<a>>> <<<<r>>>e>cently p<<<r>>>oposed <<<a>>>n<<<a>>>lytic<<<a>>>l <<<a>>>pp<<<r>>>o<<<a>>>ch <to>  
+technique is shown <to> <be> both <<<a>>>ccu<<<r>>><<<a>>>te <<<a>>>nd e<<<a>>>sy <to>  
+<<<<r>>>e>qui<<<<r>>>e>d.  <its> use should g<<<<r>>>e><<<a>>>tly f<<<a>>>cilit<<<a>>>te <the> w<<<r>>>iting  
+
+
+DocID: CACM-3133
+
+<be> <<<<r>>>e>g<<<a>>><<<r>>><de>d <<<a>>>s <<<a>>> synt<<<a>>>ctic v<<<a>>><<<r>>>i<<<a>>>nt <<of>> <the> cl<<<a>>>us<<<a>>>l fo<<<r>>>m <<of>> logic.  
+<<<a>>>n exten<de>d fo<<<r>>>m <<of>> sem<<<a>>>ntic netwo<<<r>>>k is <de>fined, which <c<<<a>>>n>  
+<<<a>>>bst<<<r>>><<<a>>>ct d<<<a>>>t<<<a>>> st<<<r>>>uctu<<<<r>>>e> fo<<<r>>> <the> <<<<r>>>e>p<<<<r>>>e>sent<<<a>>>tion <<of>> cl<<<a>>>uses, we p<<<r>>>ovi<de> <<<a>>>  
+
+
+DocID: CACM-3103
+
+time <c<<<a>>>n> <be> s<<<a>>>ved by <<<a>>>u<to>m<<<a>>>ting <the> p<<<r>>>ocess <<of>> filling  
+p<<<r>>>oved <to> <be> ve<<<r>>>y helpful in const<<<r>>>ucting <<<a>>>nd  
+<p<<<r>>>og<<<r>>><<<a>>>mming> systems h<<<a>>>ve p<<<r>>>ovi<de>d only <<<a>>> single gene<<<r>>><<<a>>>l  
+
+
+DocID: CACM-1112
+
+<<<a>>> technique fo<<<r>>> compute<<<r>>> <de>tection <<<a>>>nd co<<<r>>><<<<r>>>e>ction <<of>> spelling e<<<r>>><<<r>>>o<<<r>>>s*  
+<the> method <de>sc<<<r>>>i<be>d <<<a>>>ssumes th<<<a>>>t <<<a>>> wo<<<r>>>d  
+one e<<<r>>><<<r>>>o<<<r>>>, which might <be> <<<a>>> w<<<r>>>ong, missing o<<<r>>> ext<<<r>>><<<a>>> lette<<<r>>>  
+
+
+DocID: CACM-2903
+
+how <the> f<<<a>>>st line<<<a>>><<<r>>> p<<<a>>>tte<<<r>>>n m<<<a>>>tching <<<a>>>lgo<<<r>>>ithm <<of>> knuth,  
+mo<<<r>>><<<r>>>is, <<<a>>>nd p<<<r>>><<<a>>>tt <c<<<a>>>n> <be> <de><<<r>>>ived in <<<a>>> few steps  
+imp<<<r>>>oving p<<<r>>>og<<<r>>><<<a>>>ms by <the> int<<<r>>>oduction <<of>> <<<<r>>>e>cu<<<r>>>sion  
+
+
+DocID: CACM-1391
+
+<<<a>>>nd sets <<of>> m<<<a>>>ps, subsets <<<a>>>nd sets <<of>> subsets,  
+se<<<r>>>ve <<<a>>>s <<<a>>> te<<<a>>>che<<<r>>>'s <<<a>>>id <to> <the> un<de><<<r>>>g<<<r>>><<<a>>>du<<<a>>>te stu<de>nt <<of>>  
+in <<<a>>> time-sh<<<a>>><<<r>>>ing envi<<<r>>>onment, <the> system <c<<<a>>>n>  
+
+
+DocID: CACM-2201
+
+<to> p<<<r>>>oduce <the> s<<<a>>>me sequence <<of>> pictu<<<<r>>>e>s <c<<<a>>>n> <be> gene<<<r>>><<<a>>>ted.  
+<<<a>>>t <the> use<<<r>>>'s <<<<r>>>e>quest, this <<<<r>>>e>co<<<r>>>d is sent <to> <the> ibm  
+cont<<<r>>>ibutions <<of>> <<<a>>>nim<<<a>>><to><<<r>>> will <be> <the> p<<<r>>>ovision <<of>> <<<a>>>  
+
+
+DocID: CACM-1931
+
+<<<a>>> method p<<<r>>>oposed by h<<<a>>>sen <<<a>>>nd <<<r>>>. <<<r>>>. smith is comp<<<a>>><<<<r>>>e>d  
+<<<a>>>nd <its> use in testing fo<<<r>>> <<<a>>> chebyshev system  
+i. <de>te<<<r>>>min<<<a>>>nts in <<<a>>> p<<<r>>>og<<<r>>><<<a>>>m <to> test <<<a>>> set <<of>>  
+
+
+DocID: CACM-2645
+
+<<of>> <the> two l<<<a>>>ngu<<<a>>>ges <<<a>>><<<<r>>>e> inclu<de>d.  <the> limit<<<a>>>tions <<of>>  
+on <the> <<<a>>>n<<<a>>>lysis <<of>> <<<a>>>lgo<<<r>>>ithms, <<<a>>>nd some <<of>> <the> di<<<<r>>>e>ctions  
+<the> sound p<<<r>>>ocesso<<<r>>> is <<<a>>> set <<of>> p<<<r>>>ocedu<<<<r>>>e>s  
+
+
+DocID: CACM-3138
+
+<<<a>>> column  o<<<r>>> <<<r>>>ow  is d<<<r>>>opped by <<<a>>> fo<<<r>>>m<<<a>>>l sc<<<a>>>ling with <the>  
+<<of>> <the> <<<<r>>>e>vised simplex method.  <the> <<<a>>>lgo<<<r>>>ithm is <<<a>>> gene<<<r>>><<<a>>>l pu<<<r>>>pose  
+<<<a>>>n efficient <<<a>>>nd nume<<<r>>>ic<<<a>>>lly st<<<a>>>ble method is p<<<<r>>>e>sented fo<<<r>>> <the> p<<<r>>>oblem <<of>>  
+
+
+DocID: CACM-2311
+
+<the> scope <<of>> <de>velopment p<<<r>>>o<<j>>ects <<<a>>>nd <the>  
+point <<of>> view th<<<a>>>t p<<<a>>><<<r>>><<<a>>>llels <the> commonly  
+<<<a>>> gene<<<r>>><<<a>>>tion<<<a>>>l pe<<<r>>>spective <<of>> info<<<r>>>m<<<a>>>tion system <de>velopment  
+
+
+DocID: CACM-2020
+
+<the> wi<de>sp<<<<r>>>e><<<a>>>d use <<of>> complex thi<<<r>>>d gene<<<r>>><<<a>>>tion computing systems h<<<a>>>s led <to> <<<a>>>  
+pe<<<r>>>sist <<<a>>>bout <its> pu<<<r>>>pose <<<a>>>nd <its> ope<<<r>>><<<a>>>tion.  <<<a>>>n <<<a>>>ttempt is m<<<a>>><de> <to> cl<<<a>>><<<r>>>ify  
+<<<a>>>lso given <to> <the> me<<<a>>>ns by which use<<<r>>>s <c<<<a>>>n> <be> insul<<<a>>>ted <f<<<r>>>om> <the> h<<<a>>><<<r>>>mful  
+
+
+DocID: CACM-2060
+
+<<<a>>> v<<<a>>><<<r>>>iety <<of>> <p<<<r>>>og<<<r>>><<<a>>>mming> ex<<<a>>>mples illust<<<r>>><<<a>>>tes <the> gene<<<r>>><<<a>>>lity <<of>> <the> l<<<a>>>ngu<<<a>>>ge.  
+functions <<<a>>>nd l<<<a>>><be>ls <<<a>>><<<<r>>>e> pe<<<r>>>missible  <<<<r>>>e>sults <<of>> functions <<<a>>>nd v<<<a>>>lues  
+not pe<<<r>>>mitted.  <the> function<<<a>>>l <<<a>>>pp<<<r>>>o<<<a>>>ch <to> d<<<a>>>t<<<a>>> st<<<r>>>uctu<<<<r>>>e>s <<<a>>>nd <the>  
+
+
+DocID: CACM-2707
+
+<<<a>>>nd <its> his<to><<<r>>>y is given.  second, it is shown how <the> use  
+p<<<r>>>oblems, <the> comput<<<a>>>tion <<of>> new te<<<r>>>ms in <<<a>>> well-known  
+<<of>> m<<<a>>>c<<<r>>>os <c<<<a>>>n> consi<de><<<r>>><<<a>>>bly sho<<<r>>>ten <the> comput<<<a>>>tion  
+
+
+DocID: CACM-0796
+
+<to> <<<a>>>void <<<a>>> need <to> <<<<r>>>e>so<<<r>>>t <to> optimum <p<<<r>>>og<<<r>>><<<a>>>mming>  
+<be>tween <the> co<<<<r>>>e> <<<a>>>nd d<<<r>>>um s<to><<<<r>>>e>s <<<a>>>nd <to> <<<a>>>nd <f<<<r>>>om>  
+<<<a>>> num<be><<<r>>> <<of>> o<the><<<r>>> <<<a>>>dv<<<a>>>nced o<<<r>>><de><<<r>>>s <<<a>>>nd  
+
+
+DocID: CACM-0942
+
+<the> <<<a>>>utho<<<r>>>s h<<<a>>>ve <<<<r>>>e>cently <be>en conce<<<r>>>ned in <<<a>>>  
+w<<<r>>>itten <to> pe<<<r>>>fo<<<r>>>m <the>se.  <the> m<<<a>>>in pu<<<r>>>pose <<of>> this  
+<the> question <<of>> gene<<<r>>><<<a>>>l st<<<a>>>tistic<<<a>>>l p<<<r>>>og<<<r>>><<<a>>>ms is  
+
+
+DocID: CACM-1754
+
+<<of>> <the> p<<<a>>>pe<<<r>>> is <to> p<<<r>>>ovi<de> <<<a>>> useful pe<<<r>>>spective <f<<<r>>>om>  
+<to> <the> function<<<a>>>l c<<<a>>>p<<<a>>>bilities p<<<r>>>ovi<de>d <<<a>>>nd <the> un<de><<<r>>>lying  
+p<<<r>>>oblems <<of>> s<to><<<r>>><<<a>>>ge <<<a>>>lloc<<<a>>>tion.  <<<a>>> method <<of>> ch<<<a>>><<<r>>><<<a>>>cte<<<r>>>izing  
+
+
+DocID: CACM-3036
+
+<the> optim<<<a>>>l set t<<<a>>>b s<to>ps.  <the> use <<of>> fixed t<<<a>>>b  
+<<<<r>>>e>duced <the> num<be><<<r>>> <<of>> ch<<<a>>><<<r>>><<<a>>>cte<<<r>>>s t<<<r>>><<<a>>>nsmitted by <f<<<r>>>om>  
+this fe<<<a>>>tu<<<<r>>>e> <c<<<a>>>n> <be> used <to> <<<<r>>>e>duce <the> num<be><<<r>>> <<of>> ch<<<a>>><<<r>>><<<a>>>cte<<<r>>>s  
+
+
+DocID: CACM-2971
+
+<the> fe<<<a>>>tu<<<<r>>>e>s <<of>> <the> sp/k l<<<a>>>ngu<<<a>>>ge we<<<<r>>>e> chosen <to> encou<<<r>>><<<a>>>ge  
+m<<<a>>>ke <the> l<<<a>>>ngu<<<a>>>ge e<<<a>>>sy <to> le<<<a>>><<<r>>>n <<<a>>>nd use, <to> elimin<<<a>>>te  
+<the> l<<<a>>>ngu<<<a>>>ge e<<<a>>>sy <to> compile.  <the> <<<<r>>>e>sulting l<<<a>>>ngu<<<a>>>ge  
+
+
+DocID: CACM-2490
+
+<be> specified dyn<<<a>>>mic<<<a>>>lly.   if v is <the> num<be><<<r>>> <<of>> ve<<<r>>>tices  
+<<<a>>>nd e is <the> num<be><<<r>>> <<of>> edges, e<<<a>>>ch <<<a>>>lgo<<<r>>>ithm  
+components <<<a>>>nd simple p<<<a>>>ths.  <the> <<<a>>>lgo<<<r>>>ithm fo<<<r>>> p<<<a>>><<<r>>>titioning  
+
+
+DocID: CACM-2480
+
+how <to> p<<<r>>>og<<<r>>><<<a>>>m is simil<<<a>>><<<r>>> <to> te<<<a>>>ching him <to> pl<<<a>>>y <<<a>>> music<<<a>>>l  
+<to> <be> f<<<a>>>mili<<<a>>><<<r>>> with <<<a>>>t le<<<a>>>st two <p<<<r>>>og<<<r>>><<<a>>>mming> l<<<a>>>ngu<<<a>>>ges,  
+<<of>> <<<a>>> cou<<<r>>>se <<<a>>>bout <p<<<r>>>og<<<r>>><<<a>>>mming> <de>signed <to> p<<<r>>>ovi<de>  
+
+
+DocID: CACM-2227
+
+<<<a>>> p<<<r>>>o<<of>> is given <<of>> <the> co<<<r>>><<<<r>>>e>ctness <<of>> <the>  
+is given <<of>> <the> pu<<<r>>>pose <<of>> <the> p<<<r>>>og<<<r>>><<<a>>>m <<<a>>>nd <the> method  
+const<<<r>>>ucting <the> p<<<r>>>og<<<r>>><<<a>>>m p<<<r>>>o<<of>> du<<<r>>>ing <the> p<<<r>>>ocess <<of>> coding  
+
+
+DocID: CACM-3191
+
+<the> pu<<<r>>>pose <<of>> this lette<<<r>>> is two_fold: fi<<<r>>>st <to> give due c<<<<r>>>e>dit <to> <the>  
+<to>mpkins-p<<<a>>>ige <<<a>>>lgo<<<r>>>ithm, <<<a>>>nd second <to> cl<<<a>>><<<r>>>ify <<<a>>> comment by hill, c<<<r>>> <<<<r>>>e>view  
+c<<<a>>>cm <<j>>une, 1968  
+
+
+DocID: CACM-1365
+
+<<of>> fo<<<r>>>t<<<r>>><<<a>>>n iv which pe<<<r>>>m<its> <the> use <<of>> <the> compute<<<r>>>  
+<the> <<<a>>>n<<<a>>>lysis ph<<<a>>>se in ce<<<r>>>t<<<a>>>in p<<<r>>>oduction <p<<<r>>>og<<<r>>><<<a>>>mming>.  
+types <<of>> <<<a>>>n<<<a>>>lysis-which <<<a>>><<<r>>>ose in <the> solution <<of>> specific  
+
+
+DocID: CACM-1170
+
+<<of>> combin<<<a>>>tion show <the> <<<<r>>>e>l<<<a>>>tion <<of>> <<<a>>> wo<<<r>>>d <to> <its> gove<<<r>>>no<<<r>>>  
+<the> ch<<<a>>><<<r>>><<<a>>>cte<<<r>>>istics used <to> fo<<<r>>>m wo<<<r>>>d cl<<<a>>>sses <<<a>>><<<<r>>>e> <the>  
+in <the> <de>pth p<<<a>>>tte<<<r>>>n <<of>> <the> sentence.  <the>  
+
+
+DocID: CACM-3027
+
+<f<<<r>>>om> high-level l<<<a>>>ngu<<<a>>>ge sou<<<r>>>ce p<<<r>>>og<<<r>>><<<a>>>ms.  <the>  
+<de>sign <<of>> <the> p<<<r>>>ocesso<<<r>>> is <the>n t<<<r>>><<<a>>>ced <f<<<r>>>om> <the> initi<<<a>>>l  
+<<of>> <the> mu5 p<<<r>>>o<<j>>ect, <the> <<<a>>>ims <<<a>>>nd i<de><<<a>>>s fo<<<r>>> mu5  
+
+
+DocID: CACM-2215
+
+<<<<r>>>e>ceiving <the> <<<<r>>>e>sult <<of>> th<<<a>>>t test, <the> p<<<r>>>ocedu<<<<r>>>e>  
+is <<<a>>>n ex<<<a>>>mple <<of>> sp<<<r>>>.  in this p<<<a>>>pe<<<r>>> <the> <<<a>>>utho<<<r>>>s suggest  
+which <<<a>>><<<<r>>>e> <the> <<<a>>>n<<<a>>>logues <<of>> <the> "minim<<<a>>>x b<<<a>>>cking-up p<<<r>>>ocedu<<<<r>>>e>"  
+
+
+DocID: CACM-1630
+
+set is <<<a>>> so<<<r>>>t <<of>>"skele<to>n" <<of>> <the> <<<<r>>>e>gion.  <the>  
+<<<a>>>ny <<<<r>>>e>gion <c<<<a>>>n> <be> <<<<r>>>e>g<<<a>>><<<r>>><de>d <<<a>>>s <<<a>>> union <<of>> m<<<a>>>xim<<<a>>>l  
+neighbo<<<r>>>hoods <<of>> <its> points, <<<a>>>nd <c<<<a>>>n> <be> specified  
+
+
+DocID: CACM-2092
+
+<f<<<r>>>om> question <to> <<<a>>>nswe<<<r>>> en<<<a>>>bles effective use <to> <be> m<<<a>>><de> <<of>> this  
+<de>t<<<a>>>il.  <the> system is w<<<r>>>itten in lisp 1.5 <<<a>>>nd ope<<<r>>><<<a>>>tes on <the> q-32  
+c<<<a>>>p<<<a>>>bility <<<a>>><<<<r>>>e> p<<<<r>>>e>sented <<<a>>>nd discussed.  it is shown th<<<a>>>t <the>  
+
+
+DocID: CACM-2718
+
+is <to> <de><<<r>>>ive <<<a>>> d<<<a>>>t<<<a>>> st<<<r>>>uctu<<<<r>>>e> which is c<<<a>>>p<<<a>>>ble <<of>> suppo<<<r>>>ting  
+<to> gene<<<r>>><<<a>>>te p<<<r>>>ocedu<<<<r>>>e>, is he<<<<r>>>e> used <to> gene<<<r>>><<<a>>>te <de>cl<<<a>>><<<r>>><<<a>>>tives.  
+<<<a>>> p<<<<r>>>e>limin<<<a>>><<<r>>>y system fo<<<r>>> <the> <de>sign <<of>> dbtg d<<<a>>>t<<<a>>> st<<<r>>>uctu<<<<r>>>e>s  
+
+
+DocID: CACM-3069
+
+on <the> p<<<r>>>ocedu<<<<r>>>e>, <<<a>>>nd <<<a>>>ll <<of>> <its> subc<<<a>>>lls.  <the>  
+m<<<a>>>y <be> used, <<<a>>>nd which <<<a>>><<<<r>>>e> possibly p<<<<r>>>e>se<<<r>>>ved by <<<a>>> c<<<a>>>ll  
+p<<<r>>>og<<<r>>><<<a>>>ms <<<a>>>nd <to> <de><<<a>>>l with <the> sh<<<a>>><<<r>>>ing <<of>> v<<<a>>><<<r>>>i<<<a>>>bles  
+
+
+DocID: CACM-2517
+
+t<<<a>>>bles <<<a>>>nd <the>i<<<r>>> conve<<<r>>>sion <to> compute<<<r>>> p<<<r>>>og<<<r>>><<<a>>>ms  
+simil<<<a>>><<<r>>> <to> <the> <<<r>>>ule-m<<<a>>>sk technique.  <the> <<<a>>>pplic<<<a>>>bility  
+th<<<a>>>t <the><<<<r>>>e> is <<<a>>> pl<<<a>>>ce both fo<<<r>>> <the> multi-<<<r>>>ule  
+
+
+DocID: CACM-1474
+
+v<<<a>>>lidity <<of>> <the>se mo<de>ls.  it is conclu<de>d th<<<a>>>t <the> mo<de>ls  
+both <<<r>>><<<a>>><<<<r>>>e> <<<a>>>nd mild.  <the> test techniques <c<<<a>>>n> <<<a>>>lso <be>  
+<de>sc<<<r>>>i<be> <<<a>>> se<<<r>>>ies <<of>> expe<<<r>>>iments fo<<<r>>> testing <the>  
+
+
+DocID: CACM-2920
+
+<<of>> <the> system.  when e<<<a>>>ch p<<<r>>>ocess specifies <its>  
+<<<a>>>s <<<a>>> g<<<a>>>me <be>tween <the> ope<<<r>>><<<a>>>ting system <<<a>>>nd <the> p<<<r>>>ocesses  
+<the>n <be> used <to> const<<<r>>>uct explicitly <the> set <<of>> s<<<a>>>fe  
+
+
+DocID: CACM-2876
+
+<<<a>>> use<<<r>>> is <<<a>>>llowed <to> do with <<<a>>> piece <<of>> info<<<r>>>m<<<a>>>tion  
+supplied <to> him by <the> d<<<a>>>t<<<a>>>b<<<a>>>se.  <the> <<<a>>>bility <to> condition  
+<<<<r>>>e>solution <c<<<a>>>n> <be> <<<a>>>chieved, but th<<<a>>>t it involves <<<a>>> <<<r>>><<<a>>>dic<<<a>>>l  
+
+
+DocID: CACM-2534
+
+pl/c is <<<a>>> compile<<<r>>> fo<<<r>>> <<<a>>> di<<<a>>>lect fo<<<r>>> pl/i.  <the>  
+<<<a>>>nd is p<<<r>>>ovi<de>d <<<a>>>u<to>m<<<a>>>tic<<<a>>>lly by <the> compile<<<r>>>. <the> most <<<<r>>>e>m<<<a>>><<<r>>>k<<<a>>>ble  
+<<<a>>>nd execution, <<<a>>>nd <the> <de>sign <<of>> pl/c is domin<<<a>>>ted by  
+
+
+DocID: CACM-2943
+
+<<<a>>> lucid p<<<r>>>og<<<r>>><<<a>>>m <<<a>>><<<<r>>>e> simply <<<a>>>xioms <f<<<r>>>om> which <the> p<<<r>>>o<<of>>  
+with <the> help <<of>> <<<a>>> few <<<a>>>xioms <<<a>>>nd <<<r>>>ules <<of>> infe<<<<r>>>e>nce  
+fo<<<r>>> <the> speci<<<a>>>l lucid functions.  <<<a>>>s <<<a>>> <p<<<r>>>og<<<r>>><<<a>>>mming>  
+
+
+DocID: CACM-1988
+
+<the> fo<<<r>>>m<<<a>>>lism he<<<<r>>>e> might <be> used <to> <de>fine <<<a>>>nd <<<a>>>nswe<<<r>>> such <<<a>>>  
+<<<a>>> fo<<<r>>>m<<<a>>>lism is p<<<<r>>>e>sented fo<<<r>>> <de>sc<<<r>>>ibing <the> <<<a>>>ctions  
+<be> p<<<r>>>oduced <f<<<r>>>om> <<<a>>> given set <<of>> component p<<<r>>>ocesso<<<r>>>s.  
+

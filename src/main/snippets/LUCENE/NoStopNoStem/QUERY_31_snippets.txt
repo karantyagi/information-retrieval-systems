@@ -1,0 +1,714 @@
+LUCENE_NoStopNoStem
+
+Query
+I'd like to find articles describing the use of singular value decomposition
+in digital image processing.  Applications include finding approximations
+to the original image and restoring images that are subject to noise. An
+article on the subject is H. Andrews and C. Patterson "Outer product
+expansions and their uses in digital image processing", American Mathematical
+
+Andrews, H.
+Patterson, C.
+
+Top 100 Results (14 millisecs)
+
+
+DocID: CACM-1686
+
+even <<in>> w<<h>>ite lig<<h>>t.  a new approa<<c>><<h>> based <on> po<<in>>t  
+<of> <<<t<<h>>e>>> <<<image>>>s re<<c>><on>stru<<c>>ted from <<digital>> <<h>>olograms <are> presented.  
+<of> <<<t<<h>>e>>> aut<<h>>ors' <<digital>> <<h>>olograp<<h>>i<<c>> pro<<c>>ess <are> d<is><<c>>ussed,  
+
+
+DocID: CACM-3013
+
+<<an>d> <<c>>entro<id> <of> a neig<<h>>bor<<h>>ood as <an> edge <value>, <is> also  
+<<<t<<h>>e>>> se<<c>><on>d <use>s <<<t<<h>>e>>> differen<<c>>e between <<<t<<h>>e>>> me<an> <<an>d>  
+<<<to>>> <on>e <of> <<<t<<h>>e>>> st<<an>d>ard <<digital>> <approximati<on>s> <<<to>>> <<<t<<h>>e>>> gradient.  
+
+
+DocID: CACM-3047
+
+model <<an>d> known positi<on>s <of> <<<t<<h>>e>>> lig<<h>>t sour<<c>>es.  <<<t<<h>>e>>>  
+<of> su<<c>><<h>> <<<image>>>s wit<<h>> <<digital>> terra<<in>> models.  <<in>> additi<on>,  
+wit<<h>> <<<t<<h>>e>>> effe<<c>>ts <of> vary<<in>>g sun <an>gle <<an>d>  
+
+
+DocID: CACM-2283
+
+<<h>>exag<on>al, <<an>d> tri<an>gular arrays.  <<<t<<h>>e>>> approa<<c>><<h>> <<<to>>> <<<t<<h>>e>>>  
+<<in>> t<<h>><is> report t<<h>>ree t<<h>><<in>>n<<in>>g algorit<<h>>ms <are>  
+<are> <<c>>omp<are>d.  it <is> found <t<<h>>at> <<<t<<h>>e>>> algorit<<h>>m operat<<in>>g  
+
+
+DocID: CACM-2142
+
+<<an>d> medi<<c>><<in>>e  e.g. <<in>> ele<<c>>tr<on> mi<<c>>ros<<c>>opy <<an>d>  
+x-ray p<<h>>o<<<to>>>grap<<h>>y  <<in>> w<<h>>i<<c>><<h>> it <is> desirable <<<to>>> estimate <<<t<<h>>e>>>  
+<<an>d> varied number <of> fields.  <<<t<<h>>e>>> most import<an>t  
+
+
+DocID: CACM-1144
+
+it <is> believed <t<<h>>at> <<<t<<h>>e>>> te<<c>><<h>>nique, us<<in>>g a <<digital>> <<c>>omputer,  
+m<an>ipulati<on> <of> <<<t<<h>>e>>> <<digital>> <<<image>>> <of> <<<t<<h>>e>>> nu<<c>>lear  
+a te<<c>><<h>>nique <is> des<<c>>ribed for determ<<in>><<in>>g <<<t<<h>>e>>>  
+
+
+DocID: CACM-2065
+
+as <an> example, <<<t<<h>>e>>> met<<h>>ods <are> applied <<<to>>> <<<t<<h>>e>>> karyotyp<<in>>g <of> <<c>><<h>>romosomes.  <<<t<<h>>e>>>  
+system <is> <<in>>tended for a w<id>e variety <of> biomedi<<c>>al <appli<<c>>ati<on>s>.  
+<<<image>>> pro<<c>>ess<<in>>g, biomedi<<c>>al <<<image>>> pro<<c>>ess<<in>>g, <on>-l<<in>>e <<<image>>> pro<<c>>ess<<in>>g,  
+
+
+DocID: CACM-1327
+
+<is> based <on> <<<t<<h>>e>>> <<c>>reati<on> <of> a b<<in>>ary <<<image>>>  
+from <<<t<<h>>e>>> programm<<in>>g po<<in>>t view:  1  amount <of>  
+<is> simplified, <<an>d>  3  do<<c>>umentati<on> <is>  
+
+
+DocID: CACM-2421
+
+<<<t<<h>>e>>> l<<in>>es <of> <<<t<<h>>e>>> draw<<in>>g <<in>> strips <<c>>orresp<on>d<<in>>g <<<to>>>  
+<<<t<<h>>e>>> next porti<on>.  be<<c>>a<use> <of> <<<t<<h>>e>>> l<is>t pro<<c>>ess<<in>>g  
+<<<t<<h>>e>>> pi<<c>>ture des<<c>>ripti<on> from <<<t<<h>>e>>> xy format <<<to>>> <<<t<<h>>e>>> raster  
+
+
+DocID: CACM-2370
+
+<an> experimental labora<<<to>>>ry for pattern re<<c>>ogniti<on> <<an>d> signal pro<<c>>ess<<in>>g  
+<<an>d> d<is>play system <<h>>as been <<in>> operati<on> at <<<t<<h>>e>>>  
+<<an>d> programm<<in>>g support <are> des<<c>>ribed <<an>d> typi<<c>>al <appli<<c>>ati<on>s>  
+
+
+DocID: CACM-3015
+
+<an> import<an>t versi<on> <of> <<<t<<h>>e>>> problem <<in>> medi<<c>><<in>>e <is>  
+<<in>>tegrals <of> its grayness over t<<h>><<in>> strips <is> <of> great  
+<<<to>>> o<<<t<<h>>e>>>r ways <of> solv<<in>>g systems <of> <<in>>equalities.  
+
+
+DocID: CACM-2674
+
+<<an>d> <<<t<<h>>e>>> o<<<t<<h>>e>>>r <<<to>>> <<in>>tera<<c>>tive <appli<<c>>ati<on>s>.  <<<t<<h>>e>>> algorit<<h>>ms  
+<is> most suitable <<<to>>> n<on>-<<in>>tera<<c>>tive <appli<<c>>ati<on>s>  
+<<in>> exe<<c>>uti<on> time over <t<<h>>at> <of> a <<c>><on>venti<on>al  
+
+
+DocID: CACM-1891
+
+maps <are> s<<<to>>>red <on> separate refres<<h>> b<<an>d>s <of> <<<t<<h>>e>>>  
+<<<t<<h>>e>>> proje<<c>>ted v<id>eo <<<image>>>s <of> <an> obje<<c>>t,  
+separati<on> <is> a<<c>><<h>>ieved by view<<in>>g <<<t<<h>>e>>> <<<image>>>  
+
+
+DocID: CACM-2893
+
+<of> ameri<<c>><an> lo<<c>>al government. t<<h>><is> paper establ<is><<h>>es <t<<h>>at>  
+<of> <<c>><on>trol over edp de<<c>><is>i<on>s <<an>d> <<<t<<h>>e>>> dom<<in>><an>t  
+<of> <<<t<<h>>e>>>ir au<<<to>>>mated <appli<<c>>ati<on>s>.  <<<t<<h>>e>>>  
+
+
+DocID: CACM-2188
+
+<<<to>>>  <<c>><on>figure d<is>play systems.  t<<h>><is> <is> a<<c>><<c>>ompl<is><<h>>ed by  
+<<c>>ost, <<an>d> <<<t<<h>>e>>> d<is>tributi<on> <of> data s<<<to>>>rage <<an>d>  
+<<an>d> <<h>>elps give a better underst<<an>d><<in>>g <of> now  
+
+
+DocID: CACM-2125
+
+<is> <<<t<<h>>e>>>n <<c>><<h>>osen as <<<t<<h>>e>>> approximat<<in>>g <<c>><on><<<to>>>ur.  <<<t<<h>>e>>> determ<<in>>ati<on> <of> <<<t<<h>>e>>> m<<in>>imal  
+<<<t<<h>>e>>> ordered sequen<<c>>e <of> <<c>><on><<<to>>>ur po<<in>>ts <<an>d> <<<t<<h>>e>>> <<c>><on>ne<<c>>ti<on> grap<<h>> <of>  
+<<<t<<h>>e>>> <<<image>>> <are> first obta<<in>>ed by a modified ledley algorit<<h>>m <<in>> <on>e  
+
+
+DocID: CACM-2051
+
+<<in>> <t<<h>>at> pair <of> words.  <<<t<<h>>e>>> output <is> a l<is>t <of> all <<c>>orresp<on>den<<c>>e  
+<t<<h>>at> <<c>>orresp<on>den<<c>>e  unless <<<t<<h>>e>>>ir relative <value> <is> below <an> arbitrarily  
+ea<<c>><<h>> pair <of> words <is> <<<t<<h>>e>>>n assigned a relative <value> <t<<h>>at> <is> a fun<<c>>ti<on>  
+
+
+DocID: CACM-2211
+
+<of> a po<<in>>t <<<to>>> <<<t<<h>>e>>> appropriate word <<an>d>  
+<<in>> <<<t<<h>>e>>> <<c>>ore memory <of> <<<t<<h>>e>>> <<c>>omputer, <<an>d> s<of>tw<are>  
+<of> large amounts <of> data <are> possible wit<<h>> reas<on>ably  
+
+
+DocID: CACM-2231
+
+<<in>> time m x n, w<<h>>ere m, n <are> <<<t<<h>>e>>> dimensi<on>s  
+<<<t<<h>>e>>> re<<c>><on>stru<<c>>ti<on> <of> b<<in>>ary patterns from <<<t<<h>>e>>>ir proje<<c>>ti<on>s  
+be perfe<<c>>tly re<<c>><on>stru<<c>>ted <<in>> time m x n <<an>d> <t<<h>>at>  
+
+
+DocID: CACM-1388
+
+<of> su<<c>><<h>> equati<on>s <<an>d> <<<t<<h>>e>>>n generates <<<t<<h>>e>>> exp<an>si<on>s  
+<of> ord<<in>>ary differential equati<on> <is> s<<h>>own <<<to>>> also  
+<on> a f<<in>>ite taylor series exp<an>si<on> <t<<h>>at> <<in>><<c>>ludes  
+
+
+DocID: CACM-0533
+
+<are> required.  <<<t<<h>>e>>> te<<c>><<h>>nique <is> quite simple <<an>d> produ<<c>>es  
+<<in>> t<<h>><is> note we propose a met<<h>>od <of> generat<<in>>g  
+<<in>> terms <of> exa<<c>>t <<h>>arm<on>i<<c>> <an>alys<is>.  <<in>> pra<<c>>ti<<c>>e, d<is><<c>>rete  
+
+
+DocID: CACM-2402
+
+<<<t<<h>>e>>> <<c>>orre<<c>>t stru<<c>>ture <<c>><an>not be <<c>>omputed be<<c>>a<use> <of>  
+<t<<h>>at> <<<t<<h>>e>>> <<c>>ross-<<c>>orrelati<on> between a model <<an>d>  
+<t<<h>>at> t<<h>><is> <<in>>formati<on> <<c>><an> be <<<t<<h>>e>>> bas<is> <of> a te<<c>><<h>>nique  
+
+
+DocID: CACM-1543
+
+<<c>>apability <<<to>>> do n<on>-numeri<<c>> work <<an>d> <<<to>>> ass<is>t <<in>> <<<t<<h>>e>>>  
+<of> <<<t<<h>>e>>> ma<<<t<<h>>e>>>mati<<c>>al te<<c>><<h>>niques employed.  wit<<h>> <<<t<<h>>e>>> program  
+<of> appli<<c>>ati<on> <of> <<digital>> <<c>>omputers bey<on>d <<<t<<h>>e>>>  
+
+
+DocID: CACM-1741
+
+<of> <<<t<<h>>e>>> po<<in>>t <on> <<<t<<h>>e>>> s<<c>>reen.  <<<t<<h>>e>>> <<in>>verse <of>  
+<<<t<<h>>e>>> <<c>>oord<<in>>ates <of> <<<t<<h>>e>>> po<<in>>t <on> <<<t<<h>>e>>> s<<c>>reen.  <<<t<<h>>e>>>  
+<<in>>verse <of> <<<t<<h>>e>>> map generati<on> pro<<c>>ess <is> required <<<to>>>  
+
+
+DocID: CACM-0730
+
+<of> <<<t<<h>>e>>> system, w<<h>>i<<c>><<h>> <is> <<in>>tended for <<<t<<h>>e>>> soluti<on> <of> s<<c>>ientifi<<c>>  
+<an> attempt <<<to>>> m<<in>>imize <t<<h>>at> fragmentati<on> <of> <<<t<<h>>e>>> orig<<in>>al  
+<of> <<<t<<h>>e>>> error <<in>> <<<t<<h>>e>>> un<<c>>ompiled program, <<an>d>  
+
+
+DocID: CACM-0973
+
+<is> <<<t<<h>>e>>> estimati<on> <of> <<<t<<h>>e>>> state <of> <<<t<<h>>e>>> <<h>>eart <on>  
+<<<t<<h>>e>>> bas<is> <of> sk<<in>> potential measurements.  a ma<<<t<<h>>e>>>mati<<c>>al  
+potentials <is> sket<<c>><<h>>ed.  <<<t<<h>>e>>>n it <is> s<<h>>own <t<<h>>at> <<<t<<h>>e>>> <<in>>verse  
+
+
+DocID: CACM-1350
+
+<of> <<<t<<h>>e>>> form z --> <<c>>y 1  ... y m ,  m >= o  w<<h>>ere z <<an>d>  
+<<<t<<h>>e>>> stru<<c>>tural des<<c>>ripti<on>s sd g,x  assigned <<<to>>> <<<t<<h>>e>>>  
+as <is> generated by g <<an>d> w<<h>>ose rules <are> all  
+
+
+DocID: CACM-1721
+
+po<<in>>t <<<to>>> be determ<<in>>ed <is> <id>entified wit<<h>> su<<c>><<h>> a <s<<in>>gular>  
+if <<<t<<h>>e>>> <<in>>tegral parameter tends <<<to>>> <<in>>f<<in>>ity.  <<in>>  
+<is> <use>d <<in>> develop<<in>>g <<<t<<h>>e>>> met<<h>>od. <<<t<<h>>e>>> <<in>>terse<<c>>ti<on>  
+
+
+DocID: CACM-0078
+
+<<<t<<h>>e>>> <use> <<an>d> extensi<on> <of> <<<t<<h>>e>>> <id>eas <<in>> o<<<t<<h>>e>>>r parti<<c>>ular  
+devi<<c>>es <<<to>>> parti<<c>>ular problems.  <<<t<<h>>e>>> purpose <of> t<<h>><is>  
+remarks <on> <<<t<<h>>e>>> pra<<c>>ti<<c>>al soluti<on> <of> <<c>><<h>>ara<<c>>ter<is>ti<<c>> <value> problems  
+
+
+DocID: CACM-1415
+
+<is> des<<c>>ribed <<in>> t<<h>><is> paper, w<<h>>i<<c>><<h>> was designed <<<to>>> operate  
+<on> <<<t<<h>>e>>> tree stru<<c>>ture output <of> <<<t<<h>>e>>> <an>alyzer,  
+<<an>d> <<<t<<h>>e>>> mi<<c>>rosenten<<c>>es <t<<h>>at> were produ<<c>>ed <are> ex<<h>>ibited.  
+
+
+DocID: CACM-2004
+
+<<<t<<h>>e>>> warno<<c>>k algorit<<h>>m developed at <<<t<<h>>e>>> university <of> uta<<h>> <<an>d> implemented  
+system at <<<t<<h>>e>>> university <of> ill<<in>>o<is>.  <<<t<<h>>e>>> <<h>><is><<<to>>>ry lead<<in>>g <<<to>>> <<<t<<h>>e>>> algorit<<h>>m  
+by <<<t<<h>>e>>> warno<<c>>k approa<<c>><<h>>.  <an> extensi<on> <of> <<<t<<h>>e>>> pro<<c>>edure <<<to>>> variable positi<on>  
+
+
+DocID: CACM-1588
+
+<of> pl/i.  <<<t<<h>>e>>> basi<<c>> <<c>><on><<c>>epts <of> l<is>t pro<<c>>ess<<in>>g <<an>d>  
+<<<t<<h>>e>>> p<<h>>ilosop<<h>>y <of> <<<t<<h>>e>>> pl/i l<an>guage extensi<on>s <are>  
+fa<<c>>ilities, it <is> possible <<<to>>> write pl/i pro<<c>>edures <t<<h>>at>  
+
+
+DocID: CACM-2130
+
+s <<in>> a m<an>ner <t<<h>>at>  redu<<c>>es <<<t<<h>>e>>> frequen<<c>>y <of> su<<c>><<h>> tr<an>sfers <is> <<<t<<h>>e>>>  
+<<subje<<c>>t>> <of> t<<h>><is> paper.  segmentati<on> te<<c>><<h>>niques proposed by <<c>>. v.  
+imposed by <<<t<<h>>e>>> available <<c>>omput<<in>>g equipment.  a generalizati<on> <of>  
+
+
+DocID: CACM-1108
+
+<<<to>>> <<<t<<h>>e>>> <<c>>enter <of> a partially illum<<in>>ated mo<on>.  <<<t<<h>>e>>>  
+<<<t<<h>>e>>> tra<<c>>ker system.  <<<t<<h>>e>>> system basi<<c>>ally <<c>><on>s<is>ts <of>  
+<<in>> detail <<an>d> <<<t<<h>>e>>>n des<<c>>ribed <<in>> general <are> <<<t<<h>>e>>> operati<on>  
+
+
+DocID: CACM-2054
+
+<an> <on>-l<<in>>e <<digital>> <<c>>omputer pro<<c>>ess<<in>>g system <is> <<c>><on>s<id>ered <<in>> w<<h>>i<<c>><<h>> <an>  
+<t<<h>>at> at t<<h>><is> time it <is> bot<<h>> e<<c>><on>omi<<c>>ally <<an>d> logi<<c>>ally feasible <<<to>>> <<h>><<an>d>le at  
+<on> <<<t<<h>>e>>> feasibility <of> voi<<c>>e <<in>>put <<<to>>>  
+
+
+DocID: CACM-1726
+
+<<<t<<h>>e>>> segmentati<on> <of> pr<<in>>ted text, <<<t<<h>>e>>> possibility <of>  
+<on> <<h>>um<an> demar<<c>>ati<on> <of> <<<t<<h>>e>>> various regi<on>s <of>  
+error rates <of> <<<t<<h>>e>>> order <of> 0.1 per<<c>>ent <are> obta<<in>>ed <<in>>  
+
+
+DocID: CACM-1440
+
+<<in>> a form <<<to>>> fa<<c>>ilitate <<<t<<h>>e>>>ir <use> <<in>> ibm system/360 squ<are>  
+several for <<<t<<h>>e>>> r<an>ge [1/16, 1], w<<h>>i<<c>><<h>> <is> <<<t<<h>>e>>> <<in>>terval  
+start<<in>>g <approximati<on>s> for squ<are> root <<c>>al<<c>>ulati<on> <on> ibm system/360  
+
+
+DocID: CACM-1665
+
+<of> <<<t<<h>>e>>> nature <of> <<<t<<h>>e>>> items be<<in>>g evaluated.  if <<<t<<h>>e>>>  
+<of> events.  t<<h>><is> allows <<<t<<h>>e>>> system <<<to>>> be <use>d <<in>> a  
+<<in>> design<<in>>g a system for au<<<to>>>mati<<c>> generati<on> <of> a  
+
+
+DocID: CACM-2628
+
+<<in>> bot<<h>> <<c>>ases, <<<t<<h>>e>>> sort<<in>>g pro<<c>>edure <is> <<<t<<h>>e>>>  
+<of> requests <is> allowed.  fixed-<<h>>ead drum <<an>d>  
+<<c>><on>s<id>ered, <<an>d> emp<<h>>as<is> <is> pla<<c>>ed <on> <<<t<<h>>e>>> relative  
+
+
+DocID: CACM-2367
+
+<<<to>>> so<<c>>iety.  <<<t<<h>>e>>> impa<<c>>t <of> <<c>>omputers <is> div<id>ed  
+<is> l<is>ted.  it <is> <<h>>oped <t<<h>>at> <<<t<<h>>e>>> proposal will make  
+<<an>d> moral; <<<t<<h>>e>>> ma<<in>> part <of> <<<t<<h>>e>>> paper def<<in>>es  
+
+
+DocID: CACM-0616
+
+<<an>d> <<c>><an> be addressed <<<to>>> <an>y <of> <<<t<<h>>e>>> members <of>  
+report <is> based, for <<<t<<h>>e>>> most part, <on> a ma<<<t<<h>>e>>>mati<<c>>al  
+<<<t<<h>>e>>> systems <an>alyst's <use>.  <<<t<<h>>e>>>y trust <t<<h>>at> <<<t<<h>>e>>> <id>eas  
+
+
+DocID: CACM-2826
+
+<of> <an> <<<image>>>.  t<<h>><is> <<c>><on>trol sequen<<c>>e <is> <<<t<<h>>e>>>n <use>d  
+<<<t<<h>>e>>> simpli<<c>>ity <of> <<<t<<h>>e>>> sti<<c>>k figure <<<image>>> en<<c>>ourages  
+<<<to>>> drive <an> <<<image>>> sequen<<c>>e t<<h>>roug<<h>> <<<t<<h>>e>>> same movement.  
+
+
+DocID: CACM-1824
+
+<<in>> spe<<c>>ial purpose l<an>guages su<<c>><<h>> as snobol4 <<an>d>  
+<<<t<<h>>e>>> various pie<<c>>es  at all levels  <of> <<<t<<h>>e>>> parse.  it  
+<<<to>>> <an> algorit<<h>>mi<<c>> l<an>guage  pl/i  <t<<h>>at> prov<id>es  
+
+
+DocID: CACM-1423
+
+<<<t<<h>>e>>> loss <of> signifi<<c>><an><<c>>e w<<h>>i<<c>><<h>> results <<in>> form<<in>>g <<<t<<h>>e>>> produ<<c>>t a'a expli<<c>>itly.  
+<of> <<<t<<h>>e>>> <<c>><on><<c>>ept <of> <an> <<in>>verse w<<h>>i<<c>><<h>> applies <<<to>>> all matri<<c>>es.  
+<<an>d> wit<<h>> no additi<on>al s<<<to>>>rage requirements.  <<<t<<h>>e>>> algorit<<h>>m  
+
+
+DocID: CACM-1384
+
+requirements <are> essentially <<<t<<h>>e>>> same as <<<t<<h>>e>>> ma<<<t<<h>>e>>>mati<<c>>al  
+program <<in>> <<c>>omputer s<<c>>ien<<c>>e <are> a <<subje<<c>>t>>  
+s<<h>>ould assure <<<t<<h>>e>>> student <of> a broad ma<<<t<<h>>e>>>mati<<c>>al  
+
+
+DocID: CACM-2786
+
+<<an>d> <<<to>>> <use> by people  for example, se<<c>>retaries <<an>d>  
+<<<t<<h>>e>>> size <<an>d> f<on>t <<c>><<h>><an>ges, positi<on><<in>>g, l<<in>>e draw<<in>>g, <<an>d>  
+<<<t<<h>>e>>> l<an>guage <<h>>as been designed <<<to>>> be easy <<<to>>> learn  
+
+
+DocID: CACM-1664
+
+<<<to>>> <<<t<<h>>e>>> <<c>>urvil<<in>>ear <<c>>oord<<in>>ate system spe<<c>>ified by <<<t<<h>>e>>>  
+<is> dem<on>strated by us<<in>>g it <<<to>>> derive <<<t<<h>>e>>> navier-s<<<to>>>kes  
+<an> algorit<<h>>m for deriv<<in>>g <<<t<<h>>e>>> equati<on>s <of>  
+
+
+DocID: CACM-3059
+
+<is> developed by network <de<<c>>ompositi<on>>.  <<<t<<h>>e>>>  
+<are> <<in>> approximate <<c>>pu:i/o utilizati<on> bal<an><<c>>e <<an>d> for  
+system <are> developed <<in>> t<<h>><is> paper.  <<<t<<h>>e>>> soluti<on> te<<c>><<h>>nique  
+
+
+DocID: CACM-0104
+
+<is> <of> <an> extensive pa<<c>>kage-<<h>><<an>d>l<<in>>g pl<an>t, wit<<h>> <<<t<<h>>e>>>  
+problems.  <<<t<<h>>e>>> pr<<in>><<c>>ipal porti<on> <of> <<<t<<h>>e>>> paper <is>  
+<<<t<<h>>e>>> d<is><<c>>rete flow systems d<is><<c>>ussed <are> <<c>><<h>>ara<<c>>terized  
+
+
+DocID: CACM-0674
+
+appli<<c>>ati<on> <of> ibm 1620 edp met<<h>>ods <<<to>>> <<<t<<h>>e>>> <<c>>al<<c>>ulati<on>  
+<of> <<<t<<h>>e>>> formati<on> <<c>><on>st<an>ts <of> <<c>>omplex  
+<<an>d>rews, a. <<c>>.  
+
+
+DocID: CACM-1046
+
+<of> <<<t<<h>>e>>>ir system. it exp<<an>d>s <on> some po<<in>>ts <t<<h>>at> <<<t<<h>>e>>> orig<<in>>al  
+<<in>> a number <of> <<arti<<c>>le>s> publ<is><<h>>ed dur<<in>>g <<<t<<h>>e>>>  
+ex<<c>>ept <<in>> some very small details, <<an>d> <<in>> some <<c>>omments,  
+
+
+DocID: CACM-1700
+
+<an> equality <is> <<in>> <<c>><on><<c>>lusive; <<<t<<h>>e>>> words <of> <<<t<<h>>e>>>  
+time, <<<t<<h>>e>>> logi<<c>>al produ<<c>>t  us<<in>>g <<<t<<h>>e>>> <<an>d> operati<on>   
+<an> 18-byte mask <is> <<c>>reated from <<<t<<h>>e>>> item's me<an><<in>>gful  
+
+
+DocID: CACM-2856
+
+<<in>> t<<h>><is> paper <use>s dynami<<c>> programm<<in>>g <<<to>>> syn<<<t<<h>>e>>>size  
+stage, <on>e <<c>><on>diti<on> <is> sele<<c>>ted for test<<in>>g, <<an>d>  
+<an> optimal program <is> <<in>><<c>>reased subst<an>tially,  
+
+
+DocID: CACM-1233
+
+<of> <<<t<<h>>e>>> symbols appear<<in>>g <<in>> <<<t<<h>>e>>> proposed ameri<<c>><an> st<<an>d>ard  
+for <<<t<<h>>e>>> <use> <of> flow<<c>><<h>>arts for <<in>>formati<on> pro<<c>>ess<<in>>g  
+systems.  <<<t<<h>>e>>> <<c>><on>venti<on>s <are> applied <<<to>>> <<<t<<h>>e>>> <use>  
+
+
+DocID: CACM-2060
+
+stru<<c>>tures <are> treated as fun<<c>>ti<on>s.   4  type de<<c>>larati<on>s <are>  
+<of> variables.   2  assignment <<an>d> <<in>>dire<<c>>t address<<in>>g <are> formalized  
+l<an>guage <is> perm<is>sible <<in>> <an>y o<<<t<<h>>e>>>r me<an><<in>>gful <<c>><on>text.  <<in>> parti<<c>>ular,  
+
+
+DocID: CACM-3198
+
+<<<t<<h>>e>>> problem we <<h>>ave been <<c>><on><<c>>erned wit<<h>> <is> <t<<h>>at> <of> <<c>><on>vert<<in>>g l<an>guage <<<to>>>  
+for t<<h>><is> purpose <is> l<an>guage <<an>d> <<<t<<h>>e>>>refore we <are> preo<<c>><<c>>upied wit<<h>> <<<t<<h>>e>>> <<subje<<c>>t>>  
+<on> formaliz<<in>>g syntax <<an>d> <<<t<<h>>e>>>n <on> sem<an>ti<<c>>s.  
+
+
+DocID: CACM-1325
+
+<<<to>>> a sat<is>fa<<c>><<<to>>>ry soluti<on> <<<to>>> <<<t<<h>>e>>> problem <of> <<<t<<h>>e>>>  
+fun<<c>>ti<on> <of> a system for <<<t<<h>>e>>> remote, <on>l<<in>>e, real-time <<digital>>  
+presented <<in>> t<<h>><is> paper <is> a brief report <on>  
+
+
+DocID: CACM-0849
+
+<<<t<<h>>e>>> <value> <of> s leads <<<to>>> a sear<<c>><<h>> time w<<h>>i<<c>><<h>> <is> <on>ly 25  
+<of> <<<t<<h>>e>>> tree.  it <is> also s<<h>>own <t<<h>>at> optimiz<<in>>g  
+for <<<t<<h>>e>>> b<<in>>ary sear<<c>><<h>> <<an>d> <<<t<<h>>e>>> <<c>><<h>>a<<in>>ed file.  <<<t<<h>>e>>> relati<on>  
+
+
+DocID: CACM-3021
+
+<<<t<<h>>e>>> rema<<in>>der w<<h>>en <<<t<<h>>e>>> result <is> div<id>ed by <<<t<<h>>e>>> publi<<c>>ly  
+<an> en<<c>>rypti<on> met<<h>>od <is> presented wit<<h>> <<<t<<h>>e>>> novel  
+<an> en<<c>>rypti<on> key publi<<c>>ly revealed by <<<t<<h>>e>>> <<in>>tended re<<c>>ipient.  
+
+
+DocID: CACM-2687
+
+<of> su<<c>><<h>> a d<is>play <is> s<<h>>own by deriv<<in>>g <<<t<<h>>e>>>  
+been limited <<<to>>> alp<<h>><an>umeri<<c>> <<c>><<h>>ara<<c>>ters.  a d<is>play <is>  
+<of> a raster d<is>play <are> s<<h>>own <<<to>>> be sat<is>fied for  
+
+
+DocID: CACM-2721
+
+<<in>> <<<t<<h>>e>>> <<c>>olumbia river was made based <on> <approximati<on>s>  
+<<in>> additi<on>, <<<t<<h>>e>>> study dem<on>strates <<<t<<h>>e>>> <use>fulness <of>  
+<<an>d>, spe<<c>>ifi<<c>>ally, revealed <<<t<<h>>e>>> import<an><<c>>e <of> <<<t<<h>>e>>> <an>nual  
+
+
+DocID: CACM-1929
+
+<<digital>> <<c>>omputers <are> w<id>ely <use>d for <<<t<<h>>e>>>  
+<<c>>omputer <<<image>>>s, <<h>>alf <<<to>>>ne pi<<c>>tures, mi<<c>>r<of>ilm plotters; pro<<c>>ess<<in>>g  
+form <are> <<<t<<h>>e>>>refore mu<<c>><<h>> needed.  <on>e <of> <<<t<<h>>e>>> most <<c>>omm<on>ly  
+
+
+DocID: CACM-1066
+
+<of> problem statement <<in>> terms <of> basi<<c>> data <<<to>>> l<<in>>ear  
+a ma<<<t<<h>>e>>>mati<<c>>al algorit<<h>>m  i.e. <<<t<<h>>e>>> simplex met<<h>>od  <<<to>>>  
+<of> <<<t<<h>>e>>> <<c>>omp<on>ents <of> su<<c>><<h>> a system <are>: tr<an>slati<on>  
+
+
+DocID: CACM-0670
+
+<<an>d>, <<h>>en<<c>>e, <is> <<subje<<c>>t>> <<<to>>> m<an>y statutes <<an>d> regulati<on>s.  
+<<<t<<h>>e>>> <<in>>trodu<<c>>ti<on> <of> <<c>>omputers <<in>> <<<to>>> <<<t<<h>>e>>> b<an>k<<in>>g  
+<of> <of>f prem<is>es pro<<c>>ess<<in>>g.  it <is> essential  
+
+
+DocID: CACM-1428
+
+pers<on>nel <<in>> m<on>i<<<to>>>r<<in>>g <<an>d> report<<in>>g <on> <<c>>riti<<c>>ally ill patients, <is> des<<c>>ribed.  
+<<<to>>> ass<is>t <<<t<<h>>e>>> p<<h>>ysi<<c>>i<an>, nurse <<an>d> paramedi<<c>>al  
+<<in>> <<<t<<h>>e>>> m<an>agement <of> <<c>>riti<<c>>ally iii patients  
+
+
+DocID: CACM-1590
+
+wit<<h>><<in>> 1 <<<to>>> 2 times real-time <on> <<<t<<h>>e>>> ibm 7090.  
+<an> error dete<<c>>ti<on> <<an>d> <<c>>orre<<c>>ti<on> pro<<c>>edurebout  
+<of> <<<t<<h>>e>>> spee<<c>><<h>> waveform <is> des<<c>>ribed.  spee<<c>><<h>> sounds were  
+
+
+DocID: CACM-2519
+
+<is> exam<<in>>ed.  <<<t<<h>>e>>> problem <is> <an>alyzed <<in>> terms <of>  
+devi<<c>>es, <<<t<<h>>e>>> ex<<h>>ibiti<on> <of> <<<t<<h>>e>>> stru<<c>>ture <<in>><<h>>erent <<in>> <<<t<<h>>e>>>  
+<<<t<<h>>e>>> nature <of> <<<t<<h>>e>>> diffi<<c>>ulty <<in>>volved <<in>> <<c>>ommuni<<c>>at<<in>>g  
+
+
+DocID: CACM-1571
+
+<of> <<<t<<h>>e>>> <<in>>stitute wit<<h>> <<<t<<h>>e>>> ability <<<to>>> <<in>>tera<<c>>t dire<<c>>tly  
+<<<t<<h>>e>>> data pro<<c>>ess<<in>>g labora<<<to>>>ry <of> <<<t<<h>>e>>> bra<<in>>  
+determ<<in>>ati<on> <of> <<in>>terfa<<c>>e parameters between <<<t<<h>>e>>>  
+
+
+DocID: CACM-2050
+
+<<<to>>> m<an>ual met<<h>>ods, <<in>> w<<h>>i<<c>><<h>> <on>ly a sample <of> <<<t<<h>>e>>> <<<to>>>tal available text <is>  
+all <of> <an> unrestri<<c>>ted natural l<an>guage text, some <appli<<c>>ati<on>s>, <of> w<<h>>i<<c>><<h>>  
+obje<<c>>t <of> <<c>>erta<<in>> verbs for approximately <<h>>alf <of> <<<t<<h>>e>>> relev<an>t o<<c>><<c>>urren<<c>>es.  
+
+
+DocID: CACM-2396
+
+<like> <t<<h>>at> <of> quilli<an>'s tl<<c>>.  m<use>, from a model <<<to>>> underst<<an>d>  
+<<<t<<h>>e>>> model first applies synta<<c>>ti<<c>> <an>alys<is> <<<to>>>  
+<of> familiar <<c>><on><<c>>epts <<an>d> <<<t<<h>>e>>> additi<on> <of> new <on>es.  
+
+
+DocID: CACM-1961
+
+<of> ar<<c>>s.  <<<t<<h>>e>>> speed <is> also related <<<to>>> <<<t<<h>>e>>> number <of> <<c>>ir<<c>>uits  
+<<<t<<h>>e>>> speed <of> <<<t<<h>>e>>> algorit<<h>>m <<<to>>> <<<t<<h>>e>>> number <of> verti<<c>>es <<an>d> <<<t<<h>>e>>> number  
+<<c>>ir<<c>>uits <of> a grap<<h>>.  <<<t<<h>>e>>> algorit<<h>>m <<c>><an> be easily modified <<<to>>> <f<<in>>d> all  
+
+
+DocID: CACM-0615
+
+<<<t<<h>>e>>> elements <of> <an> n-dimensi<on>al array must ex<is>t <<in>>  
+<<<to>>> <<<t<<h>>e>>> lo<<c>>ati<on>  address  <of> <<<t<<h>>e>>> element <<in>> its s<<<to>>>rage  
+ve<<c>><<<to>>>r <is> <<<t<<h>>e>>> <<subje<<c>>t>> <of> t<<h>><is> paper.  it <is> noted  
+
+
+DocID: CACM-1381
+
+<of> ma<<<t<<h>>e>>>mati<<c>>al <<c>><on><<c>>epts as well as <<<t<<h>>e>>> <id>eas <of> programm<<in>>g  
+ma<<<t<<h>>e>>>mati<<c>>al <<c>>urri<<c>>ulum w<<h>>i<<c>><<h>> <is> preparati<on> for <<<t<<h>>e>>> <use>  
+<<an>d> <<c>>larifi<<c>>ati<on>s w<<h>>i<<c>><<h>> <are> possible be<<c>>a<use> <of>  
+
+
+DocID: CACM-2314
+
+<<<t<<h>>e>>> aut<<h>>or feels <are> import<an>t <<<to>>> improve <<<t<<h>>e>>> produ<<c>>tivity  
+<<in>>put <<an>d> output <of> data would fa<<c>>ilitate <use> <of>  
+<are> stressed, as <is> <<<t<<h>>e>>> duality <of> data  
+
+
+DocID: CACM-2606
+
+<<<to>>> be superior <<in>> speed <<an>d> a<<c>><<c>>ura<<c>>y, w<<h>>ile <<<t<<h>>e>>>  
+<<<t<<h>>e>>> taylor series met<<h>>od <<an>d> <<<t<<h>>e>>> new met<<h>>od <are> s<<h>>own  
+new met<<h>>od <is> s<<h>>own <<<to>>> be most superior w<<h>>en <<<t<<h>>e>>> soluti<on>  
+
+
+DocID: CACM-2020
+
+<<<t<<h>>e>>> w<id>espread <use> <of> <<c>>omplex t<<h>>ird generati<on> <<c>>omput<<in>>g systems <<h>>as led <<<to>>> a  
+flexibly <<in>> order <<<to>>> make a dynami<<c>> allo<<c>>ati<on> <of> resour<<c>>es.  <<c>><on>s<id>erati<on> <is>  
+<are> allo<<c>>ated am<on>g <<<t<<h>>e>>> <use>r <<c>>ommunity.  <on>e me<an>s <t<<h>>at> <is> suggested  
+
+
+DocID: CACM-0605
+
+<is> assigned a <<digital>> <id>entifi<<c>>ati<on> giv<<in>>g po<<in>>ts <of>  
+<<<t<<h>>e>>>ir <<c>><on>sequen<<c>>es <<an>d> <<<to>>> determ<<in>>e <<<t<<h>>e>>> ability <of> a  
+<<c>><<h>><an>ges <<in>> <<<t<<h>>e>>> model <<c>><an> be made <<<to>>> observe  
+
+
+DocID: CACM-3075
+
+<<an>d> time.  a real<is>ti<<c>> model <is> <use>d model <is> <use>d <<in>> w<<h>>i<<c>><<h>>  
+<t<<h>>at> requires time o log n  <<an>d> <<<t<<h>>e>>> <use> <of> n  
+pro<<c>>essors.  <<<t<<h>>e>>> algorit<<h>>m makes <use> <of> a te<<c>><<h>>nique <t<<h>>at>  
+
+
+DocID: CACM-1806
+
+<<<to>>> avo<id> t<<h>><is> diffi<<c>>ulty <<an>d> <<<to>>> improve <<<t<<h>>e>>> rate <of>  
+given <<an>d> a <<c>>riti<<c>>al review <of> relat<<in>>g literature <is>  
+based <on> <<<t<<h>>e>>> modified met<<h>>od <is> given <<in>> algorit<<h>>m  
+
+
+DocID: CACM-2302
+
+<of> <<<t<<h>>e>>> entire labor for<<c>>e.  be<<c>>a<use> <of> <<<t<<h>>e>>> <<c>>entral import<an><<c>>e  
+<of> <<h>><is> work, <<an>d> <<in>> <<h>><is> attitudes <<<to>>>ward <t<<h>>at> work.  te<<c>><<h>>nologi<<c>>al  
+<<<t<<h>>e>>> <<in>>div<id>ual worker, <<in>> <<<t<<h>>e>>> nature <<an>d> amount  
+
+
+DocID: CACM-1601
+
+<<in>> a parallel pro<<c>>ess<<in>>g envir<on>ment.  <<c>><on>vergen<<c>>e <is>  
+<<<to>>> a soluti<on> <of> <an> equati<on>.  <<<t<<h>>e>>> s8everal  
+w<<h>>i<<c>><<h>> <use> <<<t<<h>>e>>> te<<c>><<h>>nique <of> <<<t<<h>>e>>> pro<<c>>edures <<in>>  
+
+
+DocID: CACM-1366
+
+ea<<c>><<h>> <are> summarized <<in>> a series <of> tables.  <<<t<<h>>e>>>  
+<<an>d> implementers as well as <use>rs.  <<<t<<h>>e>>> se<<c>><on>d  
+<<<t<<h>>e>>> <<c>><on><<c>>lusi<on> <of> <<<t<<h>>e>>> paper <is> <t<<h>>at> <<<t<<h>>e>>> pa<<c>>kages now  
+
+
+DocID: CACM-0894
+
+<<<to>>> <use> wit<<h>> <<digital>> <<c>>omputers.  for fa<<c>><<<to>>>rs <of>  
+<<in>>itial approximati<on> <<<to>>> a fa<<c>><<<to>>>r <is> near enoug<<h>> <<<to>>> <an>  
+<<in>> <on>e variable.  <<c>><on>vergen<<c>>e <is> s<<h>>own <<<to>>> o<<c>><<c>>ur always  
+
+
+DocID: CACM-1456
+
+<<an>d> <an>swer<<in>>g simple engl<is><<h>> questi<on>s <are> given.  <an>  
+<<<t<<h>>e>>> <<c>><on>texts <<in>> w<<h>>i<<c>><<h>> it <<h>>as been <use>d <<<to>>> def<<in>>e o<<<t<<h>>e>>>r words.  
+<an> experimental system <t<<h>>at> <use>s l<is>p <<<to>>> make  
+
+
+DocID: CACM-2787
+
+<of> <<h>><is> <<c>><<h>>oi<<c>>e.  pra<<c>>ti<<c>>al tests <of> <<<t<<h>>e>>> met<<h>>od <<h>>ave  
+redu<<c>>ti<on> <of> <<<t<<h>>e>>> b<<in>>ary matri<<c>>es w<<h>>i<<c>><<h>> ar<is>e <<in>>  
+<<an>d> more effi<<c>>ient pro<<c>>ess<<in>>g te<<c>><<h>>niques; <<<to>>> take fuller  
+
+
+DocID: CACM-3076
+
+<of> debits <<an>d> <<c>>redits <<h>>ave begun <<<to>>> be implemented <on>  
+<<in>> <<<t<<h>>e>>> <<c>><on>text <of> <<c>><on>fli<<c>>ts between five different <value>  
+<<<t<<h>>e>>> so<<c>>ial qualities <of> different eft arr<an>gements <<an>d>  
+
+
+DocID: CACM-1154
+
+<of> <<<t<<h>>e>>> lengt<<h>> <of> <<<t<<h>>e>>> <<in>>put,  3  restri<<c>>t <<<t<<h>>e>>> <<<to>>>tal amount  
+<<digital>> <<c>>omputers as ei<<<t<<h>>e>>>r <<<t<<h>>e>>> f<<in>>ite au<<<to>>>mata or <<<t<<h>>e>>>  
+or all <of> <<<t<<h>>e>>> follow<<in>>g:  1  restri<<c>>t <<<t<<h>>e>>> m<an>ner <<in>>  
+
+
+DocID: CACM-1878
+
+depend <on> be<<in>>g able <<<to>>> <f<<in>>d> <<an>d> mark nodes <t<<h>>at>  
+l<is>t <of> slip may be amended <<<to>>> mark t<<h>>ose l<is>ts  
+re<<c>>overy <of> reentr<an>t l<is>t stru<<c>>tures <<in>> slip  
+
+
+DocID: CACM-0531
+
+<is> a laborious operati<on> w<<h>>i<<c>><<h>> <is> <<subje<<c>>t>> <<<to>>> various  
+<is> generally not preassigned <<<to>>> <an> <<in>>div<id>ual for  
+re<<c>>ord l<<in>>kage <<in>> <<<t<<h>>e>>> updat<<in>>g <of> files <is>  
+
+
+DocID: CACM-2829
+
+<<<t<<h>>e>>> amount <of> lig<<h>>t <<c>>om<<in>>g from a given dire<<c>>ti<on> <is>  
+<<an>d> <<<t<<h>>e>>>n added <<<to>>> <<<t<<h>>e>>> <<in>>tensity obta<<in>>ed from <<<t<<h>>e>>> texture  
+<of> regi<on>s <of> <<<t<<h>>e>>> pattern def<<in>>iti<on> fun<<c>>ti<on>. <<<t<<h>>e>>> s<<h>>ape  
+
+
+DocID: CACM-2081
+
+as <<<to>>> <f<<in>>d> <<<t<<h>>e>>> forms best suited for <<c>>omputati<on>.  <<<t<<h>>e>>>se forms <are>  
+<<an>d> utilized for effi<<c>>ient <<c>>omput<<in>>g by sav<<in>>g memory spa<<c>>e <<an>d>  
+<<in>> <<<t<<h>>e>>> sense <t<<h>>at> for ea<<c>><<h>> expressi<on> <an> equivalent expressi<on>  
+
+
+DocID: CACM-2931
+
+<<in>> <<<t<<h>>e>>> o<<<t<<h>>e>>>r dire<<c>>ti<on> for <<<t<<h>>e>>> more applied parts <of>  
+<of> <<c>>omputati<on>  <<in>> a way, <<<t<<h>>e>>> stati<<c>>s <of> <<<t<<h>>e>>> problem   
+<of> expl<an>ati<on> <<<to>>> go from <<<t<<h>>e>>> <<c>><on><<c>>eptual <id>eas <<<to>>>  
+
+
+DocID: CACM-2233
+
+<of> en<<c>>od<<in>>g itself so as <<<to>>> yield new <<c>>lues <<an>d> deeper  
+<of> <<<t<<h>>e>>> un<<in>>itiated, <<<t<<h>>e>>> en<<c>>od<<in>>g met<<h>>od <use>d <<in>> <<<t<<h>>e>>>  
+<of> <<<t<<h>>e>>>se words <are> soug<<h>>t out at r<<an>d>om <<<to>>>  
+
+
+DocID: CACM-2702
+
+<<<t<<h>>e>>> ll k , str<on>g ll k , slr k , l<<c>> k , <<an>d> str<on>g l<<c>> k  grammars.  
+test<<in>>g <<<t<<h>>e>>> lr k  property, w<<h>>ere n <is> <<<t<<h>>e>>> size <of> <<<t<<h>>e>>>  
+<of> <<<t<<h>>e>>> test.  <<in>> <<<t<<h>>e>>> first <<c>>ase, it <is> s<<h>>own <t<<h>>at> for  
+
+
+DocID: CACM-2486
+
+<<in>> <<c>>omputer ass<is>ted typesett<<in>>g by me<an>s <of>  
+<of> spe<<c>>ial <<c>><<h>>ara<<c>>ters  foreign alp<<h>>abets, ma<<<t<<h>>e>>>mati<<c>>al  
+dev<is>ed <<in>> <<<t<<h>>e>>> <<in>>formati<on> system <of> <<<t<<h>>e>>> ameri<<c>><an> <<in>>stitute  
+
+
+DocID: CACM-2082
+
+t<<h>><is> <id>ea <is>  1  <<<to>>> <use> <<<t<<h>>e>>> p<<h>>rase stru<<c>>ture <of> a program <<<to>>> def<<in>>e <<<t<<h>>e>>>  
+stru<<c>>ture <of> a formal do<<c>>umentati<on> for <t<<h>>at> program;  2  <<<to>>> <use> <<<t<<h>>e>>> synta<<c>>ti<<c>>  
+<<<t<<h>>e>>> l<an>guage pl 360, <<<to>>>ge<<<t<<h>>e>>>r wit<<h>> its p<<h>>rase stru<<c>>ture grammar, <is> <use>d as a  
+
+
+DocID: CACM-1196
+
+<of> <<<t<<h>>e>>> numeri<<c>>al soluti<on> <of> systems <of> ord<<in>>ary differential  
+true from <<<t<<h>>e>>> po<<in>>t <of> view <of> ease <of> programm<<in>>g,  
+a powerful <<<to>>>ol for pro<<c>>ess<<in>>g m<an>y problems.  t<<h>><is> <is>  
+
+
+DocID: CACM-2341
+
+<<in>> w<<h>>at appears <<<to>>> be <an> easy <<an>d> natural way.  <<in>> additi<on>  
+<<in>> <an>y <of> t<<h>>ree dimensi<on>s, <<an>d> merged <on> <<<t<<h>>e>>> bas<is>  
+extensi<on> <<<to>>> a str<<in>>g.   <<<t<<h>>e>>> t<<h>>ird dimensi<on> <is> <use>d for  
+
+
+DocID: CACM-1945
+
+bibliograp<<h>>y <are> given.  a bibliograp<<h>>y <of> programm<<in>>g referen<<c>>es <is> <<in>><<c>>luded.  
+appli<<c>>ati<on> <of> formal<is>m <are> <<c>><on>s<id>ered <<an>d> also <<<t<<h>>e>>>  
+<<in>> t<<h>><is> general paper <<<t<<h>>e>>> role <of> programm<<in>>g  
+
+
+DocID: CACM-1638
+
+<of> memory <<c>>ells <use>d.  <<<t<<h>>e>>> expe<<c>>ted lengt<<h>> <of> <<<t<<h>>e>>> j-t<<h>>  
+up<on> <<<t<<h>>e>>> assumpti<on> <t<<h>>at> n, <<<t<<h>>e>>> number <of> items <<<to>>>  
+formulas <are> obta<<in>>ed for bot<<h>> <<<t<<h>>e>>> me<an> <<an>d> <<<t<<h>>e>>> st<<an>d>ard  
+

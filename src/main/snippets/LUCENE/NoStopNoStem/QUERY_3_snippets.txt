@@ -1,0 +1,700 @@
+LUCENE_NoStopNoStem
+
+Query
+Intermediate languages used in construction of multi-targeted compilers; TCOLL
+
+Top 100 Results (373 millisecs)
+
+
+DocID: CACM-1988
+
+<of> processors for programm<in>g <languages>-<compilers>,  
+such as compiler-<compilers> or extendible <languages>.  
+<in>terpreters, assemblers-and their <in>teractions <in> complex systems  
+
+
+DocID: CACM-2061
+
+ed <in> the light <of> the experience ga<in>ed from its use <in> compiler design.  
+the def<in>ition <of> a context-free grammar and the work<in>g <of> a  
+<in> the second part, the utility <of> the algorithm is discuss  
+
+
+DocID: CACM-2112
+
+expression, context-free <languages>, translation, recognizers,  
+directed <compilers>, f<in>ite state automata  
+the translator consists <of> mealy form f<in>ite-state automata <in>teract<in>g  
+
+
+DocID: CACM-2921
+
+cf grammars.  also <in> troduced is a class <of> parsers,  
+describe the syntax <of> programm<in>g <languages> more  
+pars<in>g, programm<in>g <languages>, language generation,  
+
+
+DocID: CACM-0252
+
+<<in>termediate> and f<in>al results.  
+<of> <in>tegration, both computers do similar process<in>g  
+this paper describes a method <of> duplex-computer  
+
+
+DocID: CACM-1496
+
+<of> the meta-language based on the example <of> a  
+for represent<in>g the mean<in>gs <of> statements <in>  
+a large class <of> computer <languages>.  this meta-language  
+
+
+DocID: CACM-0205
+
+macro <in>struction extensions <of> compiler <languages>  
+macro<in>struction <compilers> constructed from  
+powerful.  <in> particular, conditional assembly, nested  
+
+
+DocID: CACM-2411
+
+semantics <of> programm<in>g <languages>, structured programm<in>g.  
+<in> <compilers>, program documentation, program flow graphs,  
+programm<in>g language design, pro<of> <of> programs,  
+
+
+DocID: CACM-1154
+
+or all <of> the follow<in>g:  1  restrict the manner <in>  
+<of> memory available <in> the same manner.  examples  
+<of> the length <of> the <in>put,  3  restrict the total amount  
+
+
+DocID: CACM-3102
+
+<in>corporation <of> units <in>to programm<in>g <languages>  
+aid <in> keep<in>g track <of> physical units  feet,  
+units, language design, compiler <construction>, language syntax  
+
+
+DocID: CACM-1223
+
+pass <in> essentially the reverse <of> the order  
+important part <of> common subexpression recognition.  
+is applicable to most algebraic <languages>.  
+
+
+DocID: CACM-1387
+
+has been coded <in> lisp and formac and <used>  
+itself, appears <in> appropriate, however, <in> the solution  
+<of> large systems <of> equation due to the explosive  
+
+
+DocID: CACM-1723
+
+computer <construction> <of> project networks  
+project networks are <used> <in> pert and cpm.  
+order<in>g, network <construction> by computer  
+
+
+DocID: CACM-2579
+
+register allocation, <compilers>, programm<in>g  
+<languages>, virtual memory, demand pag<in>g  
+<used> register allocation techniques, and presents evidence  
+
+
+DocID: CACM-0637
+
+<in> programm<in>g time and the improvement <in> documentation  
+completed <in> may, 1961 <in> which the neliac system  
+<compilers> with <compilers>"; <in>deed, it po<in>ted out many advantages  
+
+
+DocID: CACM-3115
+
+segment <of> the natural numbers are placed <in> one-to-one  
+can be <used> as a representation <of> a natural number.  
+form bytes <of> text <of> a data encryption key  
+
+
+DocID: CACM-3030
+
+and <in> the reliability <of> the programs produced.  <in> this  
+recognized as helpful <in> the <construction> <of>  
+programm<in>g <languages> that ease hierarchical  
+
+
+DocID: CACM-1788
+
+lie <in> compiler <construction>.  
+a canonical form <in> terms <of> which a programm<in>g  
+language than by the <construction> <of> a whole new compiler,  
+
+
+DocID: CACM-3130
+
+the undergraduate degree program <in> computer science <of> the  
+computer science undergraduate programs is presented <in> terms <of>  
+undergraduate program <in> computer science  
+
+
+DocID: CACM-1029
+
+<of> these new variables.  the f<in>al step <in> this process  
+function, by <in>troduction <of> <<in>termediate> variables,  
+derivatives <of> arbitrary algebraic functions  
+
+
+DocID: CACM-1787
+
+the type <of> recognizer, <used> <in> a number <of>  
+use <of> transition matrices <in> compil<in>g  
+recognizer for sentences <of> the correspond<in>g language.  
+
+
+DocID: CACM-2684
+
+<of> the syntax <of> programm<in>g <languages> has been  
+<compilers>, formal def<in>ition, pl/i standards  
+<of> syntax.  as a practical illustration,  
+
+
+DocID: CACM-3093
+
+programm<in>g <languages>, error correction, automatic  
+correction, pars<in>g, lr, syntax errors, <compilers>  
+and recover<in>g from syntax errors <in> programs.  
+
+
+DocID: CACM-2939
+
+k<in>ds <of> abstractions <in> program <construction>  
+means <of> programm<in>g examples, the utility <of> the three  
+<in> the programm<in>g process.  <of> these, only the  
+
+
+DocID: CACM-2732
+
+formal derivation <of> programs expressed <in> terms  
+programm<in>g <languages>, sequenc<in>g primitives, program  
+correctness pro<of>, derivation <of> programs,  
+
+
+DocID: CACM-1807
+
+a method <of> optimiz<in>g the computation <of>  
+analysis <of> the def<in>ition po<in>ts <of> the variables  
+has been <used> <in> the development <of> several fortran  
+
+
+DocID: CACM-0799
+
+to the <construction> <of> algol <compilers>.  
+<of> a large subset <of> cobol on a moderately large computer.  
+design <of> a separable transition-diagram compiler*  
+
+
+DocID: CACM-2886
+
+and <compilers>; a formal def<in>ition <of> attribute grammars  
+<of> semantic attributes <in> a few passes from left  
+attribute grammars, semantics <of> programm<in>g <languages>,  
+
+
+DocID: CACM-2867
+
+<used> <in> the <construction> <of> a family <of> operat<in>g  
+<of> the implementation <of> run-time modules at the  
+modularization and hierarchy <in> a family <of> operat<in>g systems  
+
+
+DocID: CACM-1533
+
+<in> one <of> its <compilers>.  further applications <of>  
+a marovian model <of> the university <of> michigan executive system  
+the effects <of> changes <in> the executive system and  
+
+
+DocID: CACM-3099
+
+be thought <of> as generalizations <of> optimality conditions  
+useful for the <construction> <of> difficult <in>teger  
+problem <construction>, kuhn-tucker conditions,  
+
+
+DocID: CACM-1350
+
+grammar each <of> whose rules is <in> standard form, supplemented  
+requirements, complexities <of> the programs  
+algorithm for arbitrary context-free <languages> is compared  
+
+
+DocID: CACM-1852
+
+bootstrapp<in>g, <of> processors for programm<in>g <languages> is  
+been <used> as the base <of> an implementation, by  
+programm<in>g <languages>, implementation techniques  
+
+
+DocID: CACM-3171
+
+<in> either time or space, dur<in>g execution <of> the program.  
+to be <used> for implementations <of> high level <languages>.  under suitable  
+
+
+DocID: CACM-2929
+
+<of> the procedure body.  the general problem <of>  
+<in> programs with a low degree <of> recursion, over 90  
+with little <in>crease <in> the size <of> compiled code and a  
+
+
+DocID: CACM-1134
+
+cases <in> which the assumptions are violated <in> the actual mach<in>e.  
+efficiency.  the subject <of> this paper is the <<in>termediate>  
+<of> simplicity the treatment <of> subscripts is ignored.  
+
+
+DocID: CACM-1947
+
+<compilers>, data flow analysis, dom<in>ance, efficiency,  
+optimizations <in> os/360 fortran h are described.  
+flow <of> programs dur<in>g compilation are applied  
+
+
+DocID: CACM-2138
+
+data structures <in> terms <of> the access algorithm for elements <of> the structure.  
+the def<in>ition <of> the representation <of> all  
+programm<in>g <languages>, implementation language,  
+
+
+DocID: CACM-1402
+
+<of> obta<in><in>g functional values at po<in>ts <<in>termediate>  
+<of> additional <in>formation as <in> <in>terpolation methods.  
+<of> <in>tegration <of> differential equations.  this method  
+
+
+DocID: CACM-0303
+
+term<in>ology <used> <in> work for the university <of>  
+the suggestions <in> this paper are part <of> the  
+mechanical <languages> and their processors  
+
+
+DocID: CACM-2746
+
+<of> keywords.  the algorithm has been <used> to  
+<in> a s<in>gle pass.  <construction> <of> the pattern match<in>g  
+the lengths <of> the keywords.  the number <of> state transitions  
+
+
+DocID: CACM-2603
+
+<languages> and determ<in>istic <languages>  
+the class <of> reduc<in>g transition <languages>  
+simple precedence <languages>.  <in> this paper this  
+
+
+DocID: CACM-2534
+
+<compilers>, debugg<in>g, pl/i, programm<in>g <languages>  
+<of> diagnostic assistance <in> a batch process<in>g environment.  
+<in> spite <of> the diagnostic effort pl/c is  
+
+
+DocID: CACM-3124
+
+level <of> arrays and new operators to assist <in> the  
+arrays <of> numbers and characters.  an extension <of> apl is proposed that  
+representations.  one <of> the approaches is <used> to def<in>e an  
+
+
+DocID: CACM-1484
+
+<used> for this purpose.  the <in>adequacies <of> the  
+standard programm<in>g <languages> for the description <of>  
+and automatic design <of> the system described, <in>  
+
+
+DocID: CACM-1135
+
+<in> the program  e.g. modification <of> only one entry <of> the  
+<of> flowcharts .  here an <in>variant pattern <of> procedure  
+representation <of> process as sets  tables  <of> relations  
+
+
+DocID: CACM-1835
+
+<languages> programm<in>g <languages>, student programm<in>g  
+the iitran language, developed to be <used>  
+are <in>cluded.  a discussion <of> design pr<in>ciples  
+
+
+DocID: CACM-3105
+
+<languages> that support the notion <of> abstract data  
+programm<in>g <languages>, access control, data types,  
+paper shows how to extend programm<in>g <languages>  
+
+
+DocID: CACM-1783
+
+many significant digits are needed <in> the <<in>termediate>  
+conversions the question is considered <of> how  
+number <in> one base is converted <in>to  
+
+
+DocID: CACM-2210
+
+the <in>duction rule <used> and the form <of> the program  
+illustrated by the automatic <construction> <of> both  
+recursion, the pr<in>ciple <of> mathematical <in>duction  
+
+
+DocID: CACM-1003
+
+as one <in> which the physical laws <of> a process  
+<in> the thermal detection <of> rapid biochemical  
+<in> by pass<in>g much <of> the mathematical procedures  
+
+
+DocID: CACM-1392
+
+extraction <of> the skeletal structure <of> an expression.  
+<in> the design <of> algorithms for manipulat<in>g  
+<<in>termediate> expression swell <in> order to m<in>imize  
+
+
+DocID: CACM-1565
+
+<of> the argument str<in>gs.  the program is <used> at the  
+basser comput<in>g department, university <of> sydney,  
+sydney, australia, to process text for eight different <compilers>.  
+
+
+DocID: CACM-0464
+
+description <of> the syntax that is to be <used>.  the  
+language that is <used> to describe syntax and <of>  
+results <of> the syntactic analysis <in> a tabular form.  several  
+
+
+DocID: CACM-1457
+
+<of> data representations which have been <used> to describe  
+the characteristics <of> various process<in>g <languages> are  
+the manipulation <of> a variety <of> different  
+
+
+DocID: CACM-1386
+
+<of> steps.  the algorithm consists <of> factor<in>g  
+factor<in>g <of> any polynomial may be found <in> a f<in>ite number  
+<used> by kronecker <in> a pro<of> that the prime  
+
+
+DocID: CACM-2652
+
+which describes the effect <of> changes <in> the power <of>  
+design <of> programm<in>g <languages>, language contraction,  
+programm<in>g <languages> tailored to particular  
+
+
+DocID: CACM-1572
+
+<used> to assist <in> the design and development <of> new time-shar<in>g  
+<in> the analysis <of> performance characteristics.  the  
+compatible with most fortran iv <compilers>. the use <of>  
+
+
+DocID: CACM-2316
+
+<of> 1972.  key concepts other than specific <languages> are discussed.  
+<of> programm<in>g <languages>  = higher level <languages> .  
+<of> <languages> are given.  the major <languages> are listed  
+
+
+DocID: CACM-0265
+
+<in> symbolic <languages> and for use with<in> fortran  
+
+
+DocID: CACM-2295
+
+<of> programm<in>g <languages>, data structures  
+comment on the composition <of> semantics <in> algol 68  
+programm<in>g primitives, programm<in>g <languages>,  
+
+
+DocID: CACM-1976
+
+be <used> for many comb<in>ations <of> values and a comb<in>ation <of>  
+field appear<in>g <in> a query has very few possible values.  redundancy, <in> some  
+<of> false drops;  3  the elim<in>ation <of> computer time to perform <in>tersection  
+
+
+DocID: CACM-2990
+
+<of> occurrence <of> a query term <in> the documents  
+<of> query term accuracy is <in> troduced as the probability  
+to the frequency <of> occurrence <of> the term <in> the  
+
+
+DocID: CACM-2424
+
+<of> operat<in>g system decisions is <used> on the prime system  
+user gratuitously even <in> the presence <of> a  
+<construction> <of> an operat<in>g system which does not make certa<in>  
+
+
+DocID: CACM-2873
+
+learn and very close to the natural language <used> <in> geometry.  
+<in>teractive programm<in>g, problem oriented <languages>,  
+<of> us<in>g this language to design other  
+
+
+DocID: CACM-2254
+
+detail to be <of> value <in> the design <of> other array <languages>.  
+the value <of> partition<in>g for array <languages>.  
+dynamic partition<in>g for array <languages>  
+
+
+DocID: CACM-2666
+
+for the <construction> <of> school timetables  
+requirements <of> the timetable problem.  
+<in>terpreted as a set <of> timetables, differ<in>g from  
+
+
+DocID: CACM-1456
+
+the contexts <in> which it has been <used> to def<in>e other words.  
+storage and retrieval <of> aspects <of> mean<in>g <in> directed graph structures  
+examples <of> methods <of> <in>putt<in>g <in>formation  
+
+
+DocID: CACM-0070
+
+<in> the determ<in>ation <of> the accuracy <of> rout<in>es for  
+<construction> <of> a set <of> test matrices  
+<of> a set <of> test matrices which are useful  
+
+
+DocID: CACM-1671
+
+l<in>guist <in> the area <of> phonology are presented.  it  
+facility described <in> detail was implemented  
+format-directed list processor embedded <in> lisp.  
+
+
+DocID: CACM-2111
+
+to <compilers> and operat<in>g systems.  these <in>clude the use <of> syntax  
+and symbol tables, and the consideration <of> a limited class <of> spell<in>g  
+<in>corporat<in>g spell<in>g correction algorithms <in>  
+
+
+DocID: CACM-2718
+
+<in>troduced.  <in> this approach the goal <of> design  
+translation, nonprocedural <languages>  
+a set <of> anticipated queries rather than  
+
+
+DocID: CACM-1194
+
+paramount <in> the provision <of> <in>formation services:  
+the history <of> the establishment <of> the acm repository  
+the <in>dex<in>g system is described <in> detail.  
+
+
+DocID: CACM-2372
+
+one to perform much <of> the check<in>g <of> security  
+on the implementation <of> security measures <in> <in>formation systems  
+the security <of> an <in>formation system may be  
+
+
+DocID: CACM-2470
+
+questions <of> local and global environments and <of>  
+data types out <of> simper ones with the operations <of> row<in>g,  
+the abstractions <used> <in>formally <in> the body <of> the paper.  
+
+
+DocID: CACM-2542
+
+s<of>tware evaluation, <compilers>, system programm<in>g,  
+which overcomes many <of> the difficulties  
+a critical failure <of> current s<of>tware system  
+
+
+DocID: CACM-1062
+
+a set <of> subrout<in>es for use <in> fortran are  
+substr<in>g is stored sequentially <in> a block <of> common  
+symbol manipulation <in> fortran-sasp i subrout<in>es  
+
+
+DocID: CACM-1007
+
+extension <of> exist<in>g <compilers> by sophisticated use <of> macros  
+<in> which macros and str<in>g concatenation were  
+a description is presented <of> an application  
+
+
+DocID: CACM-3077
+
+<in> much the same way one transforms equations <in> high  
+ones <in> a style not possible <in> conventional <languages>.  
+classes <of> programs.  a new class <of> comput<in>g systems  
+
+
+DocID: CACM-1348
+
+written <in> "almost any" programm<in>g language.  
+the flowtrace system produces flowcharts <of> programs  
+flowchart any programs <in> the language described.  
+
+
+DocID: CACM-1366
+
+implications <of> this analysis for designers <of> <languages>,  
+<languages>.  the computational characteristics <of>  
+<of> some computer simulation <languages>  
+
+
+DocID: CACM-2871
+
+programs are <in>complete <in> that <<in>termediate>  
+logical analysis <of> programs  
+diagnosis and correction <of> logical errors.  
+
+
+DocID: CACM-2341
+
+<in> what appears to be an easy and natural way.  <in> addition  
+aggregate <of> characters <in> the form <of> a right parallelepiped,  
+little <in> the way <of> specialized syntax and could readily  
+
+
+DocID: CACM-1309
+
+<of> large data banks conta<in><in>g data <in> elementary form.  
+use <of> two special <languages>, extract and matran,  
+and flexible presentation <of> results <in> either tabular  
+
+
+DocID: CACM-1314
+
+<in> the symbol table design was that the recognition <of>  
+important feature <in> the design <of> any compiler.  
+dur<in>g the <construction> <of> the virg<in>ia algol 60 compiler  
+
+
+DocID: CACM-1306
+
+discussed <in> this paper is the concept <of>  
+a class <of> unambiguous computer <languages>  
+means <of> design<in>g computer <languages> which would be completely  
+
+
+DocID: CACM-2705
+
+<of> the history <of> artificial, auxiliary <languages> it  
+<in> programm<in>g. the development <of> natural <languages> toward  
+<of> general utility and studies <of> questions  
+
+
+DocID: CACM-3101
+
+<of> the programmer, permitt<in>g the def<in>ition <of> various  
+methods <of> argument transmission <in> the source  
+procedures, corout<in>es, programm<in>g <languages>,  
+
+
+DocID: CACM-0661
+
+some methods <of> <in>dex<in>g sequentially stored  
+elements <of> sparse multi-dimensional arrays are  
+described <in> the scheme a notation.  
+
+
+DocID: CACM-1098
+
+<of> storage, use <of> pushdown stores, and use <of>  
+<languages>.  important common features <of> list-process<in>g  
+<languages> are reviewed: forms <of> data structures  
+
+
+DocID: CACM-2179
+
+are extendible to cover all <of> the lr k  grammars <of>  
+but also <in> the speed <of> parser <construction> and  
+<in> the size and speed <of> the result<in>g parsers.  
+
+
+DocID: CACM-2320
+
+<of> programs and permits a large class <of> time-dependent  
+representation <of> multiprogramm<in>g <in> a high  
+structured multiprogramm<in>g, programm<in>g <languages>,  
+
+
+DocID: CACM-1678
+
+role <of> each <of> the courses <in> the graduate program  
+a number <of> courses are listed <in> the area  
+science program, automata, formal <languages>,  
+
+
+DocID: CACM-2870
+
+the <construction> <of> mechanisms that enforce security.  
+<of> automatic program certification mechanisms  
+<of> different exist<in>g systems and facilitate  
+
+
+DocID: CACM-1869
+
+and  2  there is a significant sav<in>g <in> the number <of>  
+address<in>g is <used>, as <in> snobol, nam<in>g constra<in>ts  
+programm<in>g <languages> have <in>cluded explicit  
+
+
+DocID: CACM-1682
+
+the implementation <of> a basic system <in> a multiprogramm<in>g environment  
+multiprogramm<in>g, <in>cremental compilation, <compilers>, <in>terpreters  
+this implementation comb<in>es a unique mixture <of>  
+
+
+DocID: CACM-2904
+
+<compilers>, optimization <of> compiled code, program analysis,  
+<in>tegrated package <of> local optimization algorithms.  
+an algorithm for reduction <of> operator strength  
+
+
+DocID: CACM-2551
+
+mutual recursion <in> algol 60 us<in>g restricted <compilers>  
+
+
+DocID: CACM-2658
+
+<in> algol 60 us<in>g restricted <compilers>  
+
+
+DocID: CACM-2423
+
+words <of> 60-bit core memory <of> which 140 words are pars<in>g  
+that syntactic rule is applied <in> the parse <of> a  
+<in> the <in>put translation grammar, each bnf  
+

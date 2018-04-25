@@ -1,0 +1,657 @@
+LUCENE_NoStopNoStem
+
+Query
+Parallel languages; languages for parallel computation
+
+Top 100 Results (372 millisecs)
+
+
+DocID: CACM-2785
+
+<<parallel>> <computation>, <<parallel>> architecture  
+glypnir-a programming language <for> illiac iv  
+of the problems associated with <<parallel>> computer  
+
+
+DocID: CACM-1795
+
+optimal code <for> serial and <<parallel>> <computation>  
+
+
+DocID: CACM-2266
+
+a highly <<parallel>> algorithm <for> approximating  
+is conceptually suitable <for> <<parallel>> <computation>,  
+<<parallel>> numerical algorithms, real polynomials,  
+
+
+DocID: CACM-3075
+
+integer.  the model of <computation> <for> this procedure  
+fast <<parallel>> sorting algorithms  
+a <<parallel>> bucket-sort algorithm is presented  
+
+
+DocID: CACM-2895
+
+<for>mal specifications,program correctness, <<parallel>>  
+a language <for> <for>mal problem specification  
+of communicating <<parallel>> processes is described.  
+
+
+DocID: CACM-3073
+
+program structures, <<parallel>> programming,  
+programming, programming <<languages>>, programming primitives,  
+basic primitives of programming and that <<parallel>>  
+
+
+DocID: CACM-1747
+
+<<parallel>> processing, <<parallel>> programming,  
+programming <<languages>>, programming language  
+explicit criteria <for> accepting or rejecting  
+
+
+DocID: CACM-3059
+
+approximate queueing models <for> internal <<parallel>>  
+models <for> <<parallel>> processing within programs:  
+multiprogramming, <<parallel>> processing, queueing  
+
+
+DocID: CACM-1302
+
+<<parallel>> signaling speeds <for> data transmission  
+
+
+DocID: CACM-2685
+
+methods are developed <for> the <<parallel>> execution  
+<<parallel>> computing, multiprocessor computers,  
+the <<parallel>> execution of do loops  
+
+
+DocID: CACM-2700
+
+<<parallel>> program, semaphore, verification  
+method, process, <computation> sequence  
+halting.  thus correctness proofs of a <<parallel>>  
+
+
+DocID: CACM-1536
+
+it is shown how wengert's procedure <for> <computation>  
+dynamic <computation> of derivatives  
+explicit <for>mulas <for> the derivatives.  
+
+
+DocID: CACM-2514
+
+<<parallel>> .  examples are given involving array <<languages>>  
+
+
+DocID: CACM-2851
+
+two <for>mal models <for> <<parallel>> <computation>  
+<<parallel>> program, correctness, verification,  
+<for>mal verification of <<parallel>> programs  
+
+
+DocID: CACM-1367
+
+<for> <<parallel>>-by-bit data communication in ascii*  
+
+
+DocID: CACM-1828
+
+<<parallel>> accessing, <<parallel>> search, file search,  
+which will maximize the amount of <<parallel>>  
+file system.  methods <for> synchronization of  
+
+
+DocID: CACM-2896
+
+correctness <for> multiprocessing tasks  
+with proving such <<parallel>> programs correct  
+a <<parallel>> program, dijkstra's on-the-fly garbage  
+
+
+DocID: CACM-2973
+
+<<parallel>> computer, <<parallel>> sorting, <<parallel>> merge,  
+sorting on a mesh-connected <<parallel>> computer  
+two algorithms are presented <for> sorting n^2  
+
+
+DocID: CACM-1262
+
+procedure-oriented language statements to facilitate <<parallel>> processing  
+in <<parallel>>.  the statements are do together  
+a range of <<parallel>> operation and partly to  
+
+
+DocID: CACM-1158
+
+constructs <for> organizing and explicating <<parallel>>  
+program structures <for> <<parallel>> processing  
+
+
+DocID: CACM-0249
+
+specification <<languages>> <for> mechanical <<languages>>  
+
+
+DocID: CACM-2316
+
+of <<languages>> are given.  the major <<languages>> are listed  
+of programming <<languages>>  = higher level <<languages>> .  
+programming <<languages>>, higher level <<languages>>,  
+
+
+DocID: CACM-2714
+
+<for> merging a and b with the p <<parallel>> processors,  
+<<parallel>> processing, <<parallel>> merging, <<parallel>> binary insertion  
+merging with <<parallel>> processors  
+
+
+DocID: CACM-1601
+
+<<parallel>> numerical methods <for> the solution of equations  
+classical iterative procedures <for> the numerical  
+measurements are interpreted in a <<parallel>> processing  
+
+
+DocID: CACM-1811
+
+<<parallel>>-processor, <<parallel>>ism, <<parallel>> programming,  
+program <for> the determination of the distribution  
+a case study in programming <for> <<parallel>>-processors  
+
+
+DocID: CACM-2814
+
+roster of programming <<languages>> <for> 1974-75  
+
+
+DocID: CACM-2289
+
+achieved by virtue of the possibilities <for> <<parallel>>  
+<<parallel>> processing, special purpose computers,  
+that exploit the possibilities <for> <<parallel>>ism,  
+
+
+DocID: CACM-2865
+
+and program termination.  techniques <for> verifying  
+an axiomatic method <for> proving a number  
+of properties of <<parallel>> programs is presented.  
+
+
+DocID: CACM-0392
+
+comment on a paper on <<parallel>> processing  
+
+
+DocID: CACM-0141
+
+some thoughts on <<parallel>> processing  
+
+
+DocID: CACM-1468
+
+on labeling techniques using <<parallel>> processing  
+and the <<parallel>> processing simulator mentioned  
+simulator, originally written <for> an ibm 7094  
+
+
+DocID: CACM-2342
+
+operating systems, <<parallel>> processes  
+interference between communicating <<parallel>> processes  
+<<parallel>> processes have been examined by  
+
+
+DocID: CACM-2401
+
+a <<parallel>> processing algorithm <for> shrinking  
+counting binary patterns, shrinking, <<parallel>>  
+window employed  two-by-two elements , the <<parallel>>  
+
+
+DocID: CACM-0950
+
+<<parallel>> methods <for> integrating ordinary differential equations  
+<computation>s of highly <<parallel>> computers as can be  
+in order to take full advantage <for> real-time  
+
+
+DocID: CACM-3156
+
+is permitted <for> fetch instructions but not <for> store instructions.  
+graph theory, <<parallel>> processing, algorithms,  
+computing connected components on <<parallel>> computers  
+
+
+DocID: CACM-2557
+
+minimization, <<parallel>> machine, time minimization  
+as well as <<parallel>> computers is discussed.  algorithms  
+on the time required <for> a sequence of matrix products  
+
+
+DocID: CACM-0651
+
+a survey of <<languages>> and systems <for> in<for>mation retrieval  
+
+
+DocID: CACM-0628
+
+<for> use with algorithmic <<languages>>  
+
+
+DocID: CACM-2705
+
+programming <<languages>>, natural <<languages>>, and mathematics  
+artificial auxiliary <<languages>>, literature, style,  
+avenues <for> further work of wide influence are  
+
+
+DocID: CACM-1366
+
+<for> users, and <for> implementers are developed.  
+evaluations of existing <<languages>> are useful <for> designers  
+implications of this analysis <for> designers of <<languages>>,  
+
+
+DocID: CACM-1569
+
+a method is described <for> implementing the productions  
+in a pl/i procedure whose structure and statements <<parallel>>  
+
+
+DocID: CACM-1703
+
+reliable identification of programming <<languages>>  
+programming <<languages>>, standards which accommodate  
+standardization, programming <<languages>>, trac t-64  
+
+
+DocID: CACM-3077
+
+<for>ms, functional <for>ms, programming <<languages>>,  
+conventional programming <<languages>> are growing  
+properties <for> reasoning about programs. an  
+
+
+DocID: CACM-2081
+
+suitable <for> a high level algorithmic language <for> mathematical programming.  
+as to find the <for>ms best suited <for> <computation>.  these <for>ms are  
+matrix sequences, programming <<languages>>,  
+
+
+DocID: CACM-1306
+
+a class of unambiguous computer <<languages>>  
+means of designing computer <<languages>> which would be completely  
+are also given here <for> the redefinition of algol as a fully nested language.  
+
+
+DocID: CACM-2182
+
+interrupts, supervisors, monitors, debugging, <<parallel>>  
+
+
+DocID: CACM-1098
+
+<<languages>> <for> use in particular problem applications,  
+a comparison of list-processing computer <<languages>>  
+the machine; methods <for> storage allocation;  
+
+
+DocID: CACM-2265
+
+most current programming <<languages>> treat <computation>  
+a model <for> type checking  
+programming <<languages>>, syntax, semantics, compiler  
+
+
+DocID: CACM-1008
+
+any meeting with <<parallel>> sessions.  
+developed <for> faseb can be applied to schedule  
+<for> the 1960 meeting of the federation of  
+
+
+DocID: CACM-1309
+
+a fundamental vehicle <for> accomplishing both manipulation and <computation>.  
+individually tailored reports can be prepared <for> every  
+use of two special <<languages>>, extract and matran,  
+
+
+DocID: CACM-2470
+
+description <<languages>>, models of <computation>  
+<<languages>>, data types, modes, axioms, correctness,  
+fen-an axiomatic basis <for> program semantics  
+
+
+DocID: CACM-3148
+
+of particular <<languages>> and machines.  it appears to be useful <for>  
+high level programming <for> distributed computing  
+programming <for> distributed and other loosely coupled systems  
+
+
+DocID: CACM-1852
+
+bootstrapping, of processors <for> programming <<languages>> is  
+programming <<languages>>, implementation techniques  
+programming <<languages>> whose implementation is based  
+
+
+DocID: CACM-2603
+
+<<languages>> and deterministic <<languages>>  
+context free <<languages>>.  
+reducing transition <<languages>>, syntax controlled  
+
+
+DocID: CACM-2570
+
+a comparison of list schedules <for> <<parallel>> processing systems  
+<<parallel>> processing, precedence graphs, scheduling,  
+solution <for> the case in which execution  
+
+
+DocID: CACM-2433
+
+<<parallel>>ism, array allocation, <<parallel>> control  
+structures suitable <for> exploiting illiac iv <<parallel>>ism.  
+this storage method and express <<parallel>> algorithms are described.  
+
+
+DocID: CACM-1496
+
+a <for>mal semantics <for> computer <<languages>>  
+<for> representing the meanings of statements in  
+complete translator <for> a small language is presented.  
+
+
+DocID: CACM-2727
+
+a method is described which allows <<parallel>>  
+<for> processing small data items such as alphanumeric  
+
+
+DocID: CACM-2195
+
+the method described is suitable <for> <<parallel>>  
+global recognition, <<parallel>> processing, dynamic  
+a technique <for> recognizing systems of lines  
+
+
+DocID: CACM-2406
+
+definition language <for> describing both logical  
+computer language <for> specifying data structures.  
+"generalized" data definition <<languages>> are also  
+
+
+DocID: CACM-1459
+
+requirements <for> real-time <<languages>>  
+real-time <<languages>> have different requirements  
+from other programming <<languages>> because of  
+
+
+DocID: CACM-1923
+
+high level <<languages>>, command language  
+level <<languages>> using basic input/output support  
+<for> programs to communicate with deeply embedded  
+
+
+DocID: CACM-3150
+
+beyond programming <<languages>>  
+programming, programming <<languages>>, programming systems, systems development  
+shortcomings of programming <<languages>> as they now exist,  
+
+
+DocID: CACM-2175
+
+<<parallel>> processing, cache, arithmetic expressions,  
+observation is valid <for> configurations ranging from  
+<<parallel>> exceeds the number of available processors,  
+
+
+DocID: CACM-1846
+
+simulation, <<parallel>> processes, simultaneous events,  
+on simulating networks of <<parallel>> processes  
+solution <for> a majority of commonly encountered  
+
+
+DocID: CACM-1466
+
+discussion summary on graphical <<languages>>  
+
+
+DocID: CACM-2952
+
+
+
+DocID: CACM-2645
+
+processors <for> the two <<languages>> are also  
+two <<languages>> <for> estimating program efficiency  
+programming <<languages>>, syntax-directed translation,  
+
+
+DocID: CACM-1471
+
+programming semantics <for> multiprogrammed <computation>s  
+systems.  these meta-instructions relate to <<parallel>>  
+the semantics are defined <for> a number of meta-instructions  
+
+
+DocID: CACM-1957
+
+in <<parallel>>, rather than evaluating subexpressions and  
+the list set generator: a construct <for> evaluating set expressions  
+<for> its use are given.  the list set generator is  
+
+
+DocID: CACM-1603
+
+a multiprogramming monitor <for> small machines  
+<<parallel>> processing capability.  user programs communicate  
+interface <for> such elements as keyboards graphic input  
+
+
+DocID: CACM-2931
+
+logic and programming <<languages>>  
+logic, programming <<languages>>, automata, denotational  
+computability theory.  programming <<languages>> offer  
+
+
+DocID: CACM-1988
+
+a <for>malism <for> translator interactions  
+of processors <for> programming <<languages>>-compilers,  
+such as compiler-compilers or extendible <<languages>>.  
+
+
+DocID: CACM-2710
+
+<<languages>>, relational completeness  
+database, data sub<<languages>>, relations, query <<languages>>,  
+and suggestions are made <for> alternative syntaxes,  
+
+
+DocID: CACM-1200
+
+<for> their classification.  
+operations, a <<parallel>> nomenclature is suggested  
+
+
+DocID: CACM-3175
+
+letters.  these probabilities are updated in <<parallel>> <for> all  
+
+
+DocID: CACM-1554
+
+a computer technique <for> displaying n-dimensional hyperobjects  
+movies of the three-dimensional <<parallel>> and perspective  
+
+
+DocID: CACM-1216
+
+no use is made of list-processing <<languages>>.  
+obtained by hand <computation>.  a subset may be imbeded  
+
+
+DocID: CACM-2326
+
+<<languages>>, least fix points, recursive programs,  
+fix point approach to the theory of <computation>  
+
+
+DocID: CACM-2112
+
+context-free <<languages>>.  a <for>mal procedure is given <for> deriving from  
+expression, context-free <<languages>>, translation, recognizers,  
+are used to describe the syntax and left-context sensitive semantics <for>  
+
+
+DocID: CACM-3105
+
+programming <<languages>>, access control, data types,  
+language, but is particularly suitable <for> extending  
+paper shows how to extend programming <<languages>>  
+
+
+DocID: CACM-2295
+
+programming primitives, programming <<languages>>,  
+of programming <<languages>>, data structures  
+
+
+DocID: CACM-0990
+
+iteration making use <for> the purpose of a routine <for> <for>mal differentiation.  
+constraint-type statements in programming <<languages>>  
+a proposal is made <for> including in a programming  
+
+
+DocID: CACM-2192
+
+<for> programming <<languages>>.  
+an inductive method <for> proving things about  
+is shown to be useful <for> proving partial functions equivalent  
+
+
+DocID: CACM-1485
+
+the structure of programming <<languages>>  
+with the suggestion that programming <<languages>>  
+frequently from list processing <<languages>>, illustrate  
+
+
+DocID: CACM-2838
+
+suitable <for> measuring the typical behavior of  
+processor in <<parallel>> with list processing operations,  
+algorithms <for> recovering discarded list structures in  
+
+
+DocID: CACM-2317
+
+<<languages>>, operating systems, programming  
+programming systems and <<languages>> 1965-1975  
+and cobol remain the <<languages>> in which most  
+
+
+DocID: CACM-2941
+
+<for> mesa and similar programming <<languages>> are suggested.  
+programming <<languages>>, types, modules,  
+facilities in mesa, an equivalence algorithm <for>  
+
+
+DocID: CACM-1142
+
+an extension of algol-like <<languages>>  
+
+
+DocID: CACM-1102
+
+mechanical <<languages>>: a course specification  
+
+
+DocID: CACM-1138
+
+<for>malism in programming <<languages>>*  
+
+
+DocID: CACM-0463
+
+on ambiguity in phrase structure <<languages>>  
+
+
+DocID: CACM-2842
+
+the denotational semantics of programming <<languages>>  
+and the underlying mathematical theory of <computation>  
+of <computation>, higher-order function, recursive definition, loop, gedanken  
+
+
+DocID: CACM-2305
+
+higher programming <<languages>>, programming,  
+of today's programming <<languages>>  
+in today's programming <<languages>>.  the investigation  
+
+
+DocID: CACM-3171
+
+to be used <for> implementations of high level <<languages>>.  under suitable  
+a technique is described <for> run-time line number administration  
+
+
+DocID: CACM-0265
+
+in symbolic <<languages>> and <for> use within <for>tran  
+low level language subroutines <for> use within <for>tran  
+
+
+DocID: CACM-2060
+
+algorithm <for> computing or accessing its components.  the existence of  
+
+
+DocID: CACM-2126
+
+<for> different categories of users.  
+programming <<languages>>, extensible, compiler, bootstrapping, ambiguity  
+
+
+DocID: CACM-1959
+
+systems, interrupt scheduling, <<parallel>> processing  
+an interrupt based organization <for> management in<for>mation systems  
+bases <for> this organization are a generalized interrupt structure  
+
+
+DocID: CACM-1613
+
+one-pass compilation of arithmetic expressions <for> a <<parallel>> processor  
+a technique is presented here <for> compiling  
+are inadequate <for> such a processor because they  
+

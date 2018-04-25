@@ -1,0 +1,692 @@
+LUCENE_NoStopNoStem
+
+Query
+Fast algorithm for context-free language recognition or parsing
+
+Top 100 Results (23 millisecs)
+
+
+DocID: CACM-2112
+
+<context-free> <language>s.  a <f<or>>mal procedure is given <f<or>> deriving from  
+<recognition> and <parsing> may be treated as special cases of the translation  
+expression, <context-free> <language>s, translation, recognizers,  
+
+
+DocID: CACM-2030
+
+<f<or>> grammars which contain loops.  the <alg<or>ithm> is  
+<f<or>>mal <language> the<or>y, <parsing>, <parsing> <alg<or>ithm>s, <recognition> <alg<or>ithm>s  
+derivations and a <parsing> <alg<or>ithm> which finds  
+
+
+DocID: CACM-2698
+
+<recognition> consists of a least-err<or>s count <f<or>>  
+syntax-directed least-err<or>s analysis <f<or>>  
+arbitrary input strings, <context-free> grammars,  
+
+
+DocID: CACM-2110
+
+<alg<or>ithm> known is described.  it is similar to both knuth's lr k  <alg<or>ithm>  
+a <parsing> <alg<or>ithm> which seems to be the most efficient general <context-free>  
+an efficient <context-free> <parsing> <alg<or>ithm>  
+
+
+DocID: CACM-1265
+
+been made to compare <recognition> efficiencies <f<or>> the  
+that have been proposed <f<or>> <parsing> sentences with  
+is defined by giving an <alg<or>ithm> <f<or>> obtaining a nondeterministic  
+
+
+DocID: CACM-2061
+
+an <alg<or>ithm> is described which accepts an arbitrary <context-free>  
+of a <context-free> grammar are defined.  finally, the <alg<or>ithm> is described;  
+simultaneous design of a <language> and a compiler <f<or>> it.  
+
+
+DocID: CACM-1350
+
+<alg<or>ithm> <f<or>> arbitrary <context-free> <language>s is compared  
+the augmented predictive analyzer <f<or>> <context-free>  
+parse <alg<or>ithm>" and an immediate constituent  
+
+
+DocID: CACM-2836
+
+of a <context-free> grammar.  an <alg<or>ithm> is presented  
+involving probabilistic <parsing> <or> combinat<or>ial  
+<f<or>> constructing the optimal derivation tree having  
+
+
+DocID: CACM-2179
+
+grammar, syntactic analysis, <parsing> <alg<or>ithm>,  
+a class of <context-free> grammars, called the  
+<context-free> grammar, lr k  grammar, precedence  
+
+
+DocID: CACM-2476
+
+<language> the<or>y, <context-free> grammars  
+equivalence between and/<or> graphs and <context-free> grammars  
+
+
+DocID: CACM-2754
+
+a syntactic <alg<or>ithm> <f<or>> peak detection  
+<parsing>, electrocardiogram.  
+approximation, <context-free> grammar, bottom-up  
+
+
+DocID: CACM-1012
+
+imp<or>tant <f<or>> both natural <language> data processing  
+set t.  every <context-free> <language> can be analyzed  
+and of a w<or>king <parsing> <alg<or>ithm>.  the connection  
+
+
+DocID: CACM-1768
+
+an <alg<or>ithm> <f<or>> analyzing any <context-free> phrase  
+which can then parse any sentence in the <language>  <or>  
+a global parser <f<or>> <context-free> phrase structure grammars  
+
+
+DocID: CACM-2794
+
+proving, <language> <recognition>  
+<parsing> <alg<or>ithm> is used as an illustration.  
+<language> <recognition> problem which is based on the cocke  
+
+
+DocID: CACM-1787
+
+recognizer <f<or>> sentences of the c<or>responding <language>.  
+grammar, <context-free> <language>, <f<or>>mal <language>,  
+parsing  
+
+
+DocID: CACM-2739
+
+<f<or>> the computer analysis of natural <language>  
+the restriction <language> <f<or>> computer grammars of natural <language>  
+be useful and adequate <f<or>> computerized natural <language>  
+
+
+DocID: CACM-2703
+
+<f<or>> including the semantics of a <context-free> <language>  
+attribute grammars, circularity problem, <context-free>  
+the circularity problem <f<or>> attribute grammars  
+
+
+DocID: CACM-1399
+
+on top-to-bottom <recognition> and left recursion  
+the <recognition> acc<or>ding to a strongly equivalent,  
+descriptions in a <context-free> grammar by per<f<or>>ming  
+
+
+DocID: CACM-1825
+
+<f<or>> the entire grammar can be constructed <f<or>> them.  
+constructed <f<or>> each part  using knuth's <alg<or>ithm>   
+<language>, syntax-directed compiler, <language>  
+
+
+DocID: CACM-1184
+
+a <fast> st<or>age allocat<or>  
+low-level list <language> , makes available  
+which is particularly appropriate <f<or>> list-structure  
+
+
+DocID: CACM-1836
+
+<parsing>, transition matrix, precedence  
+functions <f<or>> precedence grammars  
+boolean matrices, syntax, precedence grammar <context-free>  
+
+
+DocID: CACM-2340
+
+precedence grammars, <context-free> <parsing>  
+a boolean matrix method <f<or>> the computation  
+method <f<or>> the computation of linear precedence  
+
+
+DocID: CACM-2733
+
+lr <parsing>, ll <parsing>, ambiguous grammars  
+deterministic <parsing> of ambiguous grammars  
+programming <language> specification, parser generation,  
+
+
+DocID: CACM-2301
+
+<alg<or>ithm>ic <language> processing,bottom-up <parsing>,  
+floyd production <language>, <parsing>, syntax  
+a bottom-up scheme <f<or>> <parsing> them, based  
+
+
+DocID: CACM-2702
+
+every k there exists an o n k+2   <alg<or>ithm> <f<or>>  
+computational complexity, <context-free> grammars,  
+<parsing>, lr k  grammars, np-complete problems  
+
+
+DocID: CACM-1527
+
+the grammar <f<or>> this set of sentences, sentence <recognition>  
+when the <recognition> function succeeds, its  
+through questions posed in natural <language>  
+
+
+DocID: CACM-2546
+
+as input to a grammatical inference <alg<or>ithm>.  the <alg<or>ithm>  
+<f<or>> the <language>.  we are proposing an interactive  
+larger class of <context-free> grammars.  
+
+
+DocID: CACM-1855
+
+analysis, <parsing>, analysis procedure, <recognition>  
+syntactic analysis, <language> processing, <language>  
+<f<or>> dynamic application of certain trans<f<or>>mational  
+
+
+DocID: CACM-2581
+
+<parsing> system, designed <f<or>> use in a continuous  
+<parsing>, speech <recognition>, speech understanding,  
+augmented transition netw<or>k, local <parsing>  
+
+
+DocID: CACM-2786
+
+can be learned in an hour <or> so, <f<or>> it has few rules  
+a system <f<or>> typesetting mathematics  
+of a system <f<or>> typesetting mathematics.  
+
+
+DocID: CACM-2084
+
+type 2 <language>, bounded <language>  
+ambiguity, inherent ambiguity, complement, <context-free> <language>,  
+chomsky-<language>, phrase structure <language>, production system,  
+
+
+DocID: CACM-2423
+
+generat<or>" realizable as an assembly <language>,  
+automata, translation grammars, translat<or> optimization, compression <alg<or>ithm>  
+a parser-generating system <f<or>> constructing compressed compilers  
+
+
+DocID: CACM-2921
+
+<parsing>, programming <language>s, <language> generation,  
+this paper in troduces an alternative to <context-free>  
+m symbols to the left of the handle.  a mechanism <f<or>>  
+
+
+DocID: CACM-1453
+
+<f<or>> describing algebraic <language> syntax,  
+include a simplification <alg<or>ithm>.  
+<f<or>> linear systems of algebraic equations,  
+
+
+DocID: CACM-1612
+
+of the top-to-bottom <parsing> <alg<or>ithm> as used in  
+top-to-bottom <parsing> rehabilitated?  
+shown, <f<or>> instance, that retracing of unprofitable  
+
+
+DocID: CACM-1548
+
+<parsing> of decision tables  
+and context relationships.  such <parsing>  
+rests upon some conventions <f<or>> the linkage of decision tables.  
+
+
+DocID: CACM-2113
+
+<recognition>, pattern <recognition>, matching procedures, tree-structure  
+<parsing>, syntactic analysis, natural-<language> analysis, linguistic data  
+the multist<or>e parser <f<or>> hierarchical syntactic structures  
+
+
+DocID: CACM-2310
+
+pattern <recognition>, pattern generation,  
+<language> analysis in the humanities  
+humanities <f<or>> exhaustive listing of detail  
+
+
+DocID: CACM-1665
+
+items <or> of w<or>ds allowable in a <language> given in terms  
+machine, <parsing>, plex structure, regular expressions,sequential  
+analyze the <language> and detect err<or>s, and  
+
+
+DocID: CACM-1683
+
+grammar, simple precedence <language>, operat<or>  
+whether a given <context-free> phrase structure  
+a mechanical procedure is derived <f<or>> determining  
+
+
+DocID: CACM-2060
+
+quasi-parallel process, typeless <language>, applicative <language>,  
+<alg<or>ithm> <f<or>> computing <or> accessing its components.  the existence of  
+lambda calculus, list processing, nondeterministic <alg<or>ithm>  
+
+
+DocID: CACM-1737
+
+a global parser <f<or>> <context-free> phrase structure grammars  
+
+
+DocID: CACM-2643
+
+<parsing>, lexical analysis,scanning,  
+the paper describes a technique <f<or>> compacting  
+<fast> access to individual bits.  it considers the problem  
+
+
+DocID: CACM-1989
+
+natural <language> analysis, <parsing>, semantic interpretation,  
+transition netw<or>k grammars <f<or>> natural <language> analysis  
+experimental <parsing> system <f<or>> transition netw<or>k grammars is briefly  
+
+
+DocID: CACM-1131
+
+on context and ambiguity in <parsing>*  
+
+
+DocID: CACM-2986
+
+of precedence relations <f<or>> a <context-free> grammar, can be  
+operat<or> precedence <or> wirth-weber precedence  
+<or> directed graphs, such as the computation  
+
+
+DocID: CACM-0949
+
+of a <context-free> <language> should be conceived  
+method <f<or>> expressing a meaning, then the grammar  
+
+
+DocID: CACM-1309
+
+rep<or>ts, regardless of computational complexity <or> <f<or>>mat  
+which makes possible <fast> preparation of management  
+a computer <language> system has been developed  
+
+
+DocID: CACM-2195
+
+of the problem is not embedded in the <recognition> <alg<or>ithm>  
+picture processing, picture <recognition>, picture  
+global <recognition>, parallel processing, dynamic  
+
+
+DocID: CACM-1455
+
+procedure, <or> as a name, <or> as text; and <f<or>> printing  
+in the trac <language>, one can write procedures <f<or>>  
+and compiling  <language> and processing <alg<or>ithm>  
+
+
+DocID: CACM-2811
+
+structural pattern <recognition>, <parsing>, wave<f<or>>m analysis, pulse waves  
+to structural pattern <recognition> of carotid  
+structural pattern <recognition> of carotid pulse  
+
+
+DocID: CACM-1668
+
+an algol procedure <f<or>> the <fast> fourier trans<f<or>>m  
+<fast> fourier trans<f<or>>m, multivariate fourier trans<f<or>>m,  
+with arbitrary fact<or>s  <alg<or>ithm> 339 [c6]   
+
+
+DocID: CACM-1669
+
+algol procedures <f<or>> the <fast> fourier trans<f<or>>m  <alg<or>ithm> 338 [c6]   
+<fast> fourier trans<f<or>>m, complex fourier trans<f<or>>m,  
+
+
+DocID: CACM-1917
+
+an algol procedure <f<or>> the <fast> fourier trans<f<or>>m  
+<fast> fourier trans<f<or>>m, complex fourier trans<f<or>>m,  
+with arbitrary fact<or>s  <alg<or>ithm> 339 [c6]   
+
+
+DocID: CACM-3132
+
+central solutions <f<or>> pattern classification  
+linearly separable, relaxation <alg<or>ithm>, accelerated relaxation  
+technique to have an <alg<or>ithm> finding hyperplanes  
+
+
+DocID: CACM-3094
+
+<language>.  
+analyses of deterministic <parsing> <alg<or>ithm>s  
+and bottom-up <parsing>, relative efficiencies.  
+
+
+DocID: CACM-2050
+
+content analysis, <parsing>, syntactic analysis, natural <language> processing,  
+automatic <parsing> <f<or>> content analysis  
+in<f<or>>mation retrieval, <language> analysis, text processing  
+
+
+DocID: CACM-3135
+
+an <alg<or>ithm> <f<or>> detecting occurrences of a three-dimensional pattern of  
+three-dimensional pattern <recognition>, chemical  
+characteristics demanded of candidates <f<or>> matching. this is useful  
+
+
+DocID: CACM-2880
+
+a <fast> division technique <f<or>> constant divis<or>s  
+a <fast> <alg<or>ithm> <f<or>> division by constant divis<or>s  
+mathematical foundations of the <alg<or>ithm> are presented  
+
+
+DocID: CACM-2980
+
+picture processing, pattern <recognition>, segmentation, region editing  
+either on the basis of semantic in<f<or>>mation <or> on the  
+editing is equivalent to <fast> graph operations.  a number of examples are shown.  
+
+
+DocID: CACM-0617
+
+per<f<or>>m its calculations <or> data processing <fast>  
+completely automatic <or> partly human-must  
+enough <f<or>> the results to be available at the required  
+
+
+DocID: CACM-3087
+
+methods are discussed <f<or>> handling vague <or>  
+in programming natural <language> systems <f<or>> limited domains,  
+<f<or>> a large relational database  
+
+
+DocID: CACM-2215
+
+to sequential pattern <recognition>  
+developed <f<or>> searching two-person, strictly  
+sequential pattern <recognition>, game tree searching,  
+
+
+DocID: CACM-0185
+
+such as precedence, urgency, etc.  the <alg<or>ithm>  
+the time <f<or>> executing the entire pending w<or>kload  
+scheduling <alg<or>ithm> is described which tends to minimize  
+
+
+DocID: CACM-1679
+
+<alg<or>ithm>, fourier synthesis <alg<or>ithm>  
+a <fast> fourier trans<f<or>>m <alg<or>ithm> <f<or>> real-valued series  
+fourier trans<f<or>>m <alg<or>ithm> while effecting the two-to-one  
+
+
+DocID: CACM-1335
+
+character set <f<or>> optical character  
+<recognition>  proposed american stand ard   
+
+
+DocID: CACM-1162
+
+<or> from the assembly <language> <f<or>> one machine  
+<language> program, a character stream, <or> whatever else  
+is, from assembly <language> to machine <language>.  
+
+
+DocID: CACM-1988
+
+is presented <f<or>> deciding whether <or> not a given system can  
+<language> process<or>, compiler-compiler  
+a <f<or>>malism <f<or>> translat<or> interactions  
+
+
+DocID: CACM-2402
+
+<f<or>> large structures.  this is significant, <f<or>> crystallography  
+pict<or>ial pattern <recognition> and the  
+pict<or>ial pattern <recognition>, phase problem,  
+
+
+DocID: CACM-2534
+
+pl/c is a compiler <f<or>> a dialect <f<or>> pl/i.  the  
+source <language> is employed, and that  
+explicit user-controlled facilities <f<or>> program testing.  
+
+
+DocID: CACM-2421
+
+a scan conversion <alg<or>ithm> with reduced st<or>age requirements  
+hardware <or> software, must be provided to translate  
+display file.  the scan conversion <alg<or>ithm> described  
+
+
+DocID: CACM-2828
+
+visible surface <alg<or>ithm> in which the computation  
+hierarchical geometric models <f<or>> visible surface <alg<or>ithm>s  
+traditional structure in<f<or>>mation, <or> a geometric hierarchy,  
+
+
+DocID: CACM-1525
+
+in this paper, the <fast> fourier trans<f<or>>m <alg<or>ithm>  
+a power of two, computing time <f<or>> this <alg<or>ithm> is  
+cooley and tukey have proposed a <fast> <alg<or>ithm>  
+
+
+DocID: CACM-3079
+
+that is <fast> and complete <f<or>> ground <f<or>>mulas  
+an <alg<or>ithm> <f<or>> reasoning about equality  
+a simple technique <f<or>> reasoning about equalities  
+
+
+DocID: CACM-1569
+
+of a <context-free> phrase structure grammar  
+a method is described <f<or>> implementing the productions  
+
+
+DocID: CACM-2492
+
+<parsing> of complex decision situations  
+<parsing> based only on syntactical characteristics  
+limits by avoiding, <or> at least minimizing,  
+
+
+DocID: CACM-1902
+
+different <language>s, including assembly <language>.  
+is made <f<or>> testing with programmer-supplied data  
+an automatic grading scheme <f<or>> simple programming exercises  
+
+
+DocID: CACM-2902
+
+<alg<or>ithm> per<f<or>>mance,dynamic mem<or>y allocation, dynamic  
+<or> mem<or>y <or>dered free lists generally per<f<or>>med  
+test cases.  <alg<or>ithm> per<f<or>>mance was measured in  
+
+
+DocID: CACM-2684
+
+almost universally associated with <context-free> requirements.  
+production systems: <or> can we do better than bnf?  
+
+
+DocID: CACM-2886
+
+semantic attributes, left-to-right <parsing>,  
+use <f<or>> the definition of programming <language>s  
+condition <f<or>> an attribute grammar is given which  
+
+
+DocID: CACM-2545
+
+<alg<or>ithm>s <f<or>> implementing the kinds of patterns  
+patterns, snobol4, pattern the<or>y, <parsing>, pattern matching,  
+shown to be a generalization of a <f<or>>mal <language>.  
+
+
+DocID: CACM-2922
+
+proper attitude and programming style <f<or>> <language> allowing  
+two-level control structure <f<or>> nondeterministic programming  
+
+
+DocID: CACM-1179
+
+translat<or> <f<or>> the full <f<or>>tran iv <language>, the <f<or>>tran  
+pufft-the purdue university <fast> <f<or>>tran translat<or>  
+<language> compatibility has been maintained so that  
+
+
+DocID: CACM-3176
+
+why a simpler <alg<or>ithm> used <f<or>> compressing lr <parsing> tables w<or>ks so well.  
+gaussian elimination, <parsing>, searching,  
+computer science.  the standard technique <f<or>> st<or>ing such tables is  
+
+
+DocID: CACM-3198
+
+of <language>. in the areas of <language> investigation we have concentrated first  
+<f<or>> this purpose is <language> and there<f<or>>e we are preoccupied with the subject  
+the problem we have been concerned with is that of converting <language> to  
+
+
+DocID: CACM-1170
+
+<recognition> and learning logic was developed  
+<parsing> each new sentence it encountered.  
+direction of its govern<or> and the same features <f<or>>  
+
+
+DocID: CACM-2925
+
+t<or>oidal graph.  a new <fast> <alg<or>ithm> <f<or>> finding such  
+of the object's structure <or> to facilitate its  
+to execute the <alg<or>ithm>.  an illustrated example which  
+
+
+DocID: CACM-2795
+
+artificial intelligence, natural <language> processing,  
+<language> generation, models of cognitive  
+<language> analyzer and a combined mem<or>y and inference model.  
+
+
+DocID: CACM-1306
+
+are also given here <f<or>> the redefinition of algol as a fully nested <language>.  
+a fully nested computer <language> which may be one  
+
+
+DocID: CACM-1553
+
+ eliza  capable of conversing in natural <language>  
+understanding on the part of either humans <or>  
+
+
+DocID: CACM-1433
+
+consequently there is an improp<or>tionality <fast>  
+<f<or>>mulas are given <f<or>> the moments using  
+mem<or>ized is often put on magnetic tape <or> disk, and  
+
+
+DocID: CACM-2287
+
+contour lines, topology, detection and <recognition>  
+the problem of detection and <recognition> of contour  
+are utilized in developing a new scanning <alg<or>ithm>.  
+
+
+DocID: CACM-1549
+
+this <alg<or>ithm> can be written in the list <language> with  
+an efficient machine-independent procedure <f<or>>  
+<alg<or>ithm> to a number of different list structures  
+
+
+DocID: CACM-2350
+
+clenshaw-curtis quadrature [d1]  <alg<or>ithm> a424   
+quadrature, chebyshev series, cosine trans<f<or>>m, <fast> fourier trans<f<or>>m  
+
+
+DocID: CACM-1910
+
+an <alg<or>ithm> is presented <f<or>> solving a system  
+an <alg<or>ithm> <f<or>> solving a special class  
+method usually suggested <f<or>> solving such systems.  
+
+
+DocID: CACM-2059
+
+a <language> <f<or>> treating graphs  
+by means of a syntax-driven compiler.  application areas <f<or>> this <language> are  
+a <language> <f<or>> the representation of graph is described, and the <f<or>>mulation of  
+
+
+DocID: CACM-1818
+
+<f<or>> real <or> imaginary arguments  <alg<or>ithm> 47  
+function, real <or> imaginary arguments  
+
+
+DocID: CACM-2644
+
+a the<or>em-proving <language> <f<or>> experimentation  
+a <language> especially <or>iented toward automated  
+and instructions of this <language>.  the use  
+
+
+DocID: CACM-2906
+
+sub<language>s <or> components: one <f<or>> defining the business  
+very high level <language>, nonprocedural <language>,  
+a very high level programming <language> <f<or>> data processing applications  
+
+
+DocID: CACM-2481
+
+function.  expressions <f<or>> the distribution  
+a virtual mem<or>y computer system with a <fast>  
+the cost-time integral of primary and <fast> buffer  
+

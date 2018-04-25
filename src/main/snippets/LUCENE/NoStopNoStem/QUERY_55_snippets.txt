@@ -1,0 +1,698 @@
+LUCENE_NoStopNoStem
+
+Query
+Anything dealing with star height of regular languages or regular
+expressions or regular events.
+
+Top 100 Results (3 millisecs)
+
+
+DocID: CACM-1665
+
+range <of> applications outside the area <of> lexical  
+<of> a subset <of> <<<regular>>> <expressions>. the output  
+the practical application <of> the the<<or>>y <of>  
+
+
+DocID: CACM-2112
+
+input limited transduction <expressions>, <<or>> translation equations,  
+expression, context-free <languages>, translation, recognizers,  
+automata, turing machines, <<<regular>>> expression, transduction  
+
+
+DocID: CACM-2650
+
+err<<or>> c<<or>>rection, <<<regular>>> <languages>, <<<regular>>> <events>,  
+<<or>>der-n c<<or>>rection f<<or>> <<<regular>>> <languages>  
+b, belonging to a given <<<regular>>> language l,  
+
+
+DocID: CACM-2921
+
+describe the syntax <of> programming <languages> m<<or>>e  
+and, as a special case, <<<regular>>> <expressions>,  
+finite state machines  automata , <<<regular>>> <expressions>,  
+
+
+DocID: CACM-1898
+
+<<<regular>>> coulomb wave functions  alg<<or>>ithm 292 [s22]   
+coulomb wave functions, wave functions, <<<regular>>> coulomb wave functions  
+
+
+DocID: CACM-1896
+
+<<<regular>>> coulomb wave functions  alg<<or>>ithm 292 s22]   
+coulomb wave functions, wave functions, <<<regular>>> coulomb wave functions  
+
+
+DocID: CACM-1739
+
+an implementation <of> this method in the f<<or>>m <of> a compiler  
+search, match, <<<regular>>> expression  
+<<<regular>>> expression search alg<<or>>ithm  
+
+
+DocID: CACM-1993
+
+<<<regular>>> coulomb wave functions  alg<<or>>ithm 292 $s22    
+coulomb wave functions, wave functions, <<<regular>>> coulomb wave functions  
+
+
+DocID: CACM-1355
+
+<<<regular>>> coulomb wave functions  alg<<or>>ithm 292    
+
+
+DocID: CACM-2051
+
+the <<<regular>>> sound c<<or>>respondences between genetically related <languages>.  
+<of> the total frequency in the data <of> each c<<or>>respondence found  
+in that pair <of> w<<or>>ds.  the output is a list <of> all c<<or>>respondence  
+
+
+DocID: CACM-2838
+
+<<or>> on a single process<<or>> time-shared <with> them.  
+suitable f<<or>> measuring the typical behavi<<or>> <of>  
+process<<or>> in parallel <with> list processing operations,  
+
+
+DocID: CACM-1846
+
+some <of> the problems <of> simulating discrete  
+rules.  following this, the problem <of> <dealing> <with> simultaneous  
+simulating the parallel <events> <<or>> rep<<or>>t that none  
+
+
+DocID: CACM-1453
+
+<languages>, including some sublanguage <of> algol.  
+the use <of> the kleene <<<regular>>> expression notation  
+a hand calculation result <of> the application <of> the alg<<or>>ithm  
+
+
+DocID: CACM-1906
+
+<<<regular>>> pattern <of> lines, pins  terminals , and vias  
+to the control <of> crosstalk between routed  
+interconnections and to the problem <of> obtaining  
+
+
+DocID: CACM-3056
+
+<<or>> s<of>tware used f<<or>> the monit<<or>>ing <of> experiments <<or>> processes.  
+are used to keep track <of> as many as 130,000 <events> <with>  
+<of> the number n <of> <events>.  this relative err<<or>> can  
+
+
+DocID: CACM-3096
+
+<of> magnitude.  this result, coupled <with> earlier  
+<height> which is equal to <<or>> exactly one greater than the  
+<height> <of> its left subtree.  it has an advantage  
+
+
+DocID: CACM-1470
+
+the f<<or>>m <of> commands, requirements, <<or>> implicit  
+influencing the choice <of> a f<<or>>m <of> component  
+the structure <of> programming <languages>  
+
+
+DocID: CACM-1962
+
+variety <of> purposes such as the control <of> machine tools <<or>> sound  
+synthesizers <<or>> <anything> a person n<<or>>mally controls.  the program  
+the computer which can interact <with> already st<<or>>ed functions and  
+
+
+DocID: CACM-1612
+
+essential weakness <of> the method is in <dealing> <with> complicated  
+only sparsely occupied, e.g., arithmetic <expressions>.  
+shown, f<<or>> instance, that retracing <of> unpr<of>itable  
+
+
+DocID: CACM-3034
+
+in the condition stub <of> the decision table  <<or>>  
+a set <of> linear inequalities has <<or>> does not have a  
+detection <of> logical err<<or>>s in decision table programs  
+
+
+DocID: CACM-3198
+
+<of> language. in the areas <of> language investigation we have concentrated first  
+the problem we have been concerned <with> is that <of> converting language to  
+microprogramming, emulat<<or>>s and programming <languages>  
+
+
+DocID: CACM-1366
+
+implications <of> this analysis f<<or>> designers <of> <languages>,  
+<languages>.  the computational characteristics <of>  
+<of> some computer simulation <languages>  
+
+
+DocID: CACM-1469
+
+a family <of> unimplemented computing <languages>  
+<of> programs  <<or>> m<<or>>e generally, their physical representation .  
+the next 700 programming <languages>  
+
+
+DocID: CACM-2078
+
+<of> derivatives <of> the distance between objects <<or>> their arrangement  
+<<or>> three-space where the objective function primarily consists  
+computer graphic <languages>.  four alternative data structures  
+
+
+DocID: CACM-3064
+
+<of> simultaneous <events>; that certain <events> must be created,  
+<of> such "zero-time" <events> are possible  
+when the number <of> scheduled <events> grows large.  
+
+
+DocID: CACM-1886
+
+each <of> which occurs in two <<or>> m<<or>>e other <expressions>  
+the <expressions>, i.e. finding a set <of> sub<expressions>  
+generation <of> optimal code f<<or>> <expressions> via fact<<or>>ization  
+
+
+DocID: CACM-1379
+
+a final solution to the dangling else <of> algol 60 and related <languages>  
+<of> potential ambiguities in algol-like conditional  
+are either ambiguous <<or>> unnecessarily restrictive.  
+
+
+DocID: CACM-1235
+
+trials, the accuracy <of> the coder was 91% to 93%, <with>  
+through the use <of> a small dictionary <of> function  
+class <<or>> part <of> speech.  the program operates at relatively  
+
+
+DocID: CACM-3044
+
+a note on conditional <expressions>  
+evaluation <of> a conditional expression may succeed  
+and the alternatives are rec<<or>>ds  <<or>> nodes  whose fields have different content.  
+
+
+DocID: CACM-3065
+
+class <of> right  <<or>> one-sided  brother trees which  
+deletion alg<<or>>ithm-the reverse <of> what one usually  
+results stems from the close relationship <of> right  
+
+
+DocID: CACM-2398
+
+<with> those <of> guided <<or>> "dual" mode interaction.  preliminary  
+<of> independent <<or>> "solo" mode computing  
+implementation <of> basic, system-level interactive  
+
+
+DocID: CACM-1324
+
+<dealing> <with> ambiguities, translating into f<<or>>mal  
+<languages> and searching large tree structures.  
+questions f<<or>> the advancement <of> general-purpose language  
+
+
+DocID: CACM-2253
+
+a by-product <of> the symbolic manipulation <of> <expressions>  
+manipulation <of> index <expressions> which arise as  
+expressions  
+
+
+DocID: CACM-2002
+
+systems <<or>> other attributes <of> the plot.  this enables plots <of> any  
+<of> its current utility s<of>tware, consisting <of> "macros" to produce  
+transf<<or>>mation, projection, scaling, rotation, <<or>> shifting <of> entire plots <<or>>  
+
+
+DocID: CACM-2644
+
+<of> this language permits easy extension <of> automated  
+because <of> the large number <of> strategies  
+paramodulation, programming <languages>  
+
+
+DocID: CACM-1237
+
+the nature <of> table-<<or>>iented programming <languages>  
+is familiar <with> the nature <of> decision tables  
+conversion <of> decision tables to computer programs  
+
+
+DocID: CACM-2704
+
+languages  
+features f<<or>> <dealing> <with> exceptions in an <<or>>derly  
+
+
+DocID: CACM-2175
+
+in serials, in parallel, <<or>> in a combination <of> these  
+subexpression <<or>>dering in the execution <of> arithmetic <expressions>  
+then execution <of> some <of> these sub<expressions> must  
+
+
+DocID: CACM-3110
+
+instance <of> such an instruction to the operand <of> that  
+<of> minimizing the lengths <of> programs f<<or>> such machines.  
+be m<<or>>e general assembly-time <expressions>, then  
+
+
+DocID: CACM-1259
+
+f<<or>>m <of> expression f<<or>> either a set <of> letters  
+<expressions>, easily translatable to one another,  
+applications <of> binary numbers in computer routines  
+
+
+DocID: CACM-3043
+
+microcomputer netw<<or>>ks <with> distributed st<<or>>age.  
+regions, programming <languages>, process communication  
+<expressions>, and input/output as special cases.  
+
+
+DocID: CACM-2684
+
+<of> the syntax <of> programming <languages> has been  
+almost universally associated <with> context-free requirements.  
+<of> syntax.  as a practical illustration,  
+
+
+DocID: CACM-1084
+
+the inability <of> existing programming <languages>  
+provides f<<or>>: many-to-one encodings, right <<or>> left  
+<of> bits.  from alphabet to alphabet, and arbitrary  
+
+
+DocID: CACM-1988
+
+such as compiler-compilers <<or>> extendible <languages>.  
+<of> process<<or>>s f<<or>> programming <languages>-compilers,  
+be produced from a given set <of> component process<<or>>s.  
+
+
+DocID: CACM-2786
+
+on either a phototypesetter <<or>> on a terminal <with> f<<or>>ward  
+<of> a system f<<or>> typesetting mathematics.  
+and fewer exceptions.  f<<or>> typical <expressions>,  
+
+
+DocID: CACM-2717
+
+<of> the language and should not be confused <with> any  
+utility program, programming <languages>, nonprocedural <languages>  
+other language <<or>> program bearing the same name.  
+
+
+DocID: CACM-3171
+
+in either time <<or>> space, during execution <of> the program.  
+to be used f<<or>> implementations <of> high level <languages>.  under suitable  
+
+
+DocID: CACM-1588
+
+<of> pl/i.  the basic concepts <of> list processing and  
+complete range <of> programming language operations  
+inability to deal directly <with> complex data  
+
+
+DocID: CACM-2931
+
+<with> the method <of> data types as lattices  <<or>> partial  
+<of> computation  in a way, the statics <of> the problem   
+the definition <of> the precise meaning <of> a program  
+
+
+DocID: CACM-2320
+
+<of> programs and permits a large class <of> time-dependent  
+communication, synchronizing <events>.  
+structured multiprogramming, programming <languages>,  
+
+
+DocID: CACM-1488
+
+m<<or>>e than two mutually exclusive states <of> one, two <<or>>  
+table can be done <with> one <<or>> two f<<or>>tran statements,  
+<<or>> <with> two cobol statements, if the compute verb  
+
+
+DocID: CACM-1035
+
+on the complexity <of> the list <of> quantities  
+characteristics <of> the f<<or>>tran cep language  
+the f<<or>>tran cep <languages> differs from f<<or>>tran  
+
+
+DocID: CACM-1152
+
+<of> number representation used <<or>> multiple precision arithmetic.  
+floating-point arithmetic <with> 84-bit numbers  
+presented which is not limited to the size <<or>> type  
+
+
+DocID: CACM-1456
+
+examples <of> methods <of> inputting inf<<or>>mation  
+st<<or>>age and retrieval <of> aspects <of> meaning in directed graph structures  
+other list processing <languages> are ideally suited f<<or>>  
+
+
+DocID: CACM-1223
+
+imp<<or>>tant part <of> common subexpression recognition.  
+is applicable to most algebraic <languages>.  
+high speed compilation <of> efficient object code  
+
+
+DocID: CACM-3040
+
+values f<<or>> a set <of> variables subject to a set <of> constraints.  
+synthesizing constraint <expressions>  
+a the<<or>>y <of> consistency levels in such  
+
+
+DocID: CACM-1216
+
+no use is made <of> list-processing <languages>.  
+continuous elementary function <of> one <<or>> several variables.  
+prints out the symbolic derivative <of> an absolutely  
+
+
+DocID: CACM-2710
+
+<languages>, relational completeness  
+specifying queries as relational <expressions>:  
+users <with> limited mathematical background.  
+
+
+DocID: CACM-2267
+
+<languages>, philosophy <of> language design  
+the radix and number <of> digits <of> the floating-point  
+alg<<or>>ithms to reveal properties <of> floating-point arithmetic  
+
+
+DocID: CACM-3128
+
+examples <of> its use are given.  the relationship <of> the mechanism  
+<of> inf<<or>>mation matters.  an implementation <of> eventcount  
+<<or>>dering <of> <events>.  direct control <of> <<or>>dering seems to simplify  
+
+
+DocID: CACM-3026
+
+<languages>, data management systems,  
+the evolution <of> the sperry univac 1100  
+through a succession <of> eight compatible computer  
+
+
+DocID: CACM-2470
+
+questions <of> local and global environments and <of>  
+data types out <of> simper ones <with> the operations <of> rowing,  
+into <languages> through the mechanism <of> singleton  
+
+
+DocID: CACM-2939
+
+<languages>, through the procedure <<or>> subroutine.  
+means <of> programming examples, the utility <of> the three  
+that three kinds <of> abstractions-procedural,  
+
+
+DocID: CACM-3113
+
+optimal conversion <of> extended-entry  
+decision tables <with> general cost criteria  
+limited, extended, <<or>> mixed entry decision  
+
+
+DocID: CACM-3082
+
+<<or>>der the <events>.  the use <of> the total <<or>>dering  
+is shown to define a partial <<or>>dering <of> the <events>.  
+time, clocks, and the <<or>>dering <of> <events> in a distributed system  
+
+
+DocID: CACM-3158
+
+<with> one <<or>> m<<or>>e central facilities is proposed.  the method employs a  
+st<<or>>e confidential files in the central facility <<or>> transmit confidential  
+f<<or>> his own security and need not rely on the security <of>  
+
+
+DocID: CACM-0944
+
+large quantities <of> data <<or>> to problems where the quantity,  
+to construct numeric, alphabetic <<or>> alphanumeric  
+w<<or>>d length and distribution <of> st<<or>>ed inf<<or>>mation  
+
+
+DocID: CACM-1696
+
+<with> certain sequences <of> stochastic matrices  
+and compared <with> those <of> another recently  
+and in the construction <of> variable length  
+
+
+DocID: CACM-1999
+
+on machine <with> slow <<or>> no division, it is preferable to  
+square root f<<or>> slow <<or>> no divide  
+the classical heron scheme.  the problem <of> optimal initial  
+
+
+DocID: CACM-1551
+
+<of> the arithmetic <expressions> in cases where  
+on compiling alg<<or>>ithms f<<or>> arithmetic <expressions>  
+<expressions> used in a f<<or>>tran iv compiler  
+
+
+DocID: CACM-0719
+
+<<or>> pop them up.  the availability <of> a variety <of> field  
+use <of> machines <of> this class f<<or>> compilation has  
+advantages over machines <with> fixed-length w<<or>>ds.  
+
+
+DocID: CACM-2889
+
+<of> hb[1] trees  avl trees  that is a function <of>  
+per insertion, <with> an average <of> 2.78 nodes  
+trees are independent <of> the size <of> the tree.  
+
+
+DocID: CACM-2767
+
+are tested <with> a set <of> typical stochastic  
+in use <with> current simulation <languages>.  the most  
+a comparison <of> simulation event list alg<<or>>ithms  
+
+
+DocID: CACM-1641
+
+a use <of> fast and slow mem<<or>>ies in list-processing <languages>  
+<with> 32k <of> c<<or>>e mem<<or>>y and disks.  gains in mem<<or>>y space  
+complete scheme has been implemented in connection <with>  
+
+
+DocID: CACM-1309
+
+rep<<or>>ts, regardless <of> computational complexity <<or>> f<<or>>mat  
+use <of> two special <languages>, extract and matran,  
+which makes possible fast preparation <of> management  
+
+
+DocID: CACM-2081
+
+superfluous operations.  sequences <of> matrices  and sequences <of> sequences  
+a matrix calculus is introduced <with> the intention <of> developing data structures  
+are given which use symbol manipulation <of> matrix <expressions> so  
+
+
+DocID: CACM-1162
+
+<languages> generally provide a one-f<<or>>-one translation  
+complete reprogramming <of> compiler language programs  
+into the machine language <of> another.  
+
+
+DocID: CACM-2839
+
+search capabilities at a cost <of> increased  
+
+
+DocID: CACM-3030
+
+programming <languages> that ease hierarchical  
+<<or>> predict substantial increases in productivity  
+recognized as helpful in the construction <of>  
+
+
+DocID: CACM-3138
+
+a column  <<or>> row  is dropped by a f<<or>>mal scaling <with> the  
+updating an <<or>>thogonal decomposition <of> a matrix <of> column  <<or>> row  vect<<or>>s.  
+f<<or>>m.  these ideas are illustrated <with> an implementation  
+
+
+DocID: CACM-2450
+
+in the literature <dealing> <with> resource allocation, there  
+the design <of> scheduling and paging alg<<or>>ithms.  although  
+is a dearth <of> published data on program measurements,  
+
+
+DocID: CACM-1264
+
+perf<<or>>m any <<or>> all <of> the following users specified  
+<<or>> <of> executing programs may be in either english  
+conversion, brailled listings <of> 7040 ibsys  
+
+
+DocID: CACM-2514
+
+consisting <of> simple geometrical patterns, as  
+<of> instance selection schemes  raster,random,  
+well as a language <of> "neuron pictures."  
+
+
+DocID: CACM-1457
+
+the characteristics <of> various processing <languages> are  
+the manipulation <of> a variety <of> different  
+implementation.  advantages <of> these programming <languages>  
+
+
+DocID: CACM-1523
+
+<<or>> to simulate segmentation <<or>> paging.  implementation  
+time was approximately six man-years, <with> the  
+maj<<or>>ity <of> the code being written in f<<or>>tran.  
+
+
+DocID: CACM-1861
+
+higher level <languages> is described.  users <of> the  
+one <of> the first definition facilities f<<or>>  
+how one writes definitions, as well as on much <of>  
+
+
+DocID: CACM-2304
+
+this article rec<<or>>ds the <events> <of> the  
+a western view <of> computer hist<<or>>y  
+technologies, and computers <of> the 1945-55  
+
+
+DocID: CACM-1818
+
+function, real <<or>> imaginary arguments  
+associated legendre functions <of> the first kind  
+f<<or>> real <<or>> imaginary arguments  alg<<or>>ithm 47  
+
+
+DocID: CACM-2534
+
+compilers, debugging, pl/i, programming <languages>  
+characteristic <of> pl/c is its perseverance-it  
+abandoning compatibility <with> ibm compiler pl/c permits  
+
+
+DocID: CACM-1975
+
+two ciphers <of> the divis<<or>>, one <<or>> at most two adjustments to the <<or>>iginal  
+presented.  depending upon the algebraic relationship <of> the first  
+a generalized division alg<<or>>ithm f<<or>> use <with> positive integral operands is  
+
+
+DocID: CACM-1694
+
+<of> evaluating the sums <of> the products <of> all  
+the union <of> a large number <of> <events>  
+compromise, set union, mutually exclusive <events>  
+
+
+DocID: CACM-2265
+
+<of> the type-wise c<<or>>rectness <<or>> inc<<or>>rectness  
+notions <of> abstraction and application <of> functions.  
+programming <languages>, syntax, semantics, compiler  
+
+
+DocID: CACM-2771
+
+<of> easily imagined solidsuite sh<<or>>t sequences  
+the synthesis <of> solids bounded by many faces  
+added together <<or>> subtracted.  two alg<<or>>ithms to  
+
+
+DocID: CACM-2632
+
+f<<or>> <dealing> <with> objects, including the creation <of> new  
+<of> any <of> the operations defined <with> respect to that  
+<of> highly secure systems.  
+
+
+DocID: CACM-2998
+
+static measurements <of> the list structure <of>  
+space-efficient representation <of> list structure  
+<<<regular>>>ity, <<or>> predictability, among poin ters to  
+
+
+DocID: CACM-1727
+
+<of> s ij , where s ij  is the mean value <of> the number  
+the first part <of> the paper, using the the<<or>>y <of> the  
+one way <of> estimating frequencies <of> jumps in a program  
+
+
+DocID: CACM-2316
+
+<of> 1972.  key concepts other than specific <languages> are discussed.  
+<of> programming <languages>  = higher level <languages> .  
+<of> <languages> are given.  the maj<<or>> <languages> are listed  
+
+
+DocID: CACM-1650
+
+the computation <of> main effect <<or>> interaction means  
+f<<or>> some levels <of> a fact<<or>> <<or>> f<<or>> combinations  
+each <with> one degree <of> freedom.  this is so even  
+
+
+DocID: CACM-3077
+
+classes <of> programs.  a new class <of> computing systems  
+associated <with> the functional style <of> programming  
+von neumann computers, von neumann <languages>, models <of>  
+
+
+DocID: CACM-2439
+
+the system executive <<or>> in any <of> the system's compilers <<or>> interpreters.  
+system can communicate <with> many remote  
+

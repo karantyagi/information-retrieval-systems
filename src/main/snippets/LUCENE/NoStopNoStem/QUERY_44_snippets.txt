@@ -1,0 +1,689 @@
+LUCENE_NoStopNoStem
+
+Query
+Texture analysis by computer.	Digitized texture analysis.  Texture
+synthesis. Perception of texture.
+
+Top 100 Results (3 millisecs)
+
+
+DocID: CACM-2829
+
+<<<<texture>>>> and reflection in <computer> generated images  
+<of> regions <of> the pattern definition function. the shape  
+the areas <of> <<<<texture>>>> simulation and lighting models.  
+
+
+DocID: CACM-2523
+
+<by> comparing the region colors with the <<<<texture>>>>s <of>  
+picture processing, scene <<analysis>>, edge detection  
+a region coloring technique for scene <<analysis>>  
+
+
+DocID: CACM-2325
+
+<of> continuous algorithms.  four <of> the components  
+complexity , <synthesis> and <<analysis>> <of> algorithms,  
+<<analysis>> <of> error, programs and program libraries.  
+
+
+DocID: CACM-2494
+
+<by> four methods <of> factor <<analysis>> and two methods <of> cluster <<analysis>>.  
+<of> the elements <of> a data matrix <of> similarities or dissimilarities  
+a <computer> generated aid for cluster <<analysis>>  
+
+
+DocID: CACM-1002
+
+since much <of> the <computer> time spent in time-series  
+implementing both the <synthesis> <of> these filters, and  
+be useful in the on line, real-time <<analysis>> <of> biological  
+
+
+DocID: CACM-2825
+
+<<analysis>> <of> variance, cluster <<analysis>>, contingency  
+tables, data <<analysis>>, discriminant <<analysis>>,  
+the bmd and bmdp series <of> statistical <computer> programs  
+
+
+DocID: CACM-1679
+
+digital spectrum <<analysis>>, fourier <<analysis>>  
+algorithm, fourier <synthesis> algorithm  
+filtering, spectral <<analysis>>, real-time spectrum  
+
+
+DocID: CACM-1260
+
+small <computer>.  the <<analysis>> has been carried out  
+least-squares <<analysis>> <of> resonance spectra on small <computer>s  
+constraints on the functional form <of> the  
+
+
+DocID: CACM-2771
+
+<of> operations suffice to build up complex solids bounded <by> many faces.  
+the <synthesis> <of> solids bounded <by> many faces  
+using a <computer>.  <synthesis> begins with primitive solids  
+
+
+DocID: CACM-1404
+
+between the <<analysis>> <of> covariance and the <<analysis>>  
+<of> variance and <by> introducing a new operator.  the  
+<<analysis>> <of> covariance, in which the basic computations  
+
+
+DocID: CACM-0533
+
+simplify discussion <of> the statistical properties <of> the  
+in terms <of> exact harmonic <<analysis>>.  in practice, discrete  
+digital <synthesis> <of> correlated stationary noise  
+
+
+DocID: CACM-2125
+
+the ordered sequence <of> contour points and the connection graph <of>  
+<digitized> image, connection tree, minimal polygon,  
+contour from a <digitized> image is illustrated.  
+
+
+DocID: CACM-2754
+
+peaks in a <digitized> waveform are detected <by> an  
+peak detection, <digitized> waveform, piecewise linear  
+algorithm is <of> sufficient speed to allow on-line  
+
+
+DocID: CACM-2812
+
+<<analysis>> consists <of> a set <of> procedures and <computer>  
+<<analysis>> for the design and development <of> an  
+<of> applications s<of>tware design, <computer> selection  
+
+
+DocID: CACM-1855
+
+<of> english words and that it pursues all <<analysis>> paths  
+<<analysis>>, parsing, <<analysis>> procedure, recognition  
+techniques for keeping the size <of> the <<analysis>>  
+
+
+DocID: CACM-0464
+
+syntactic <<analysis>> <by> digital <computer>  
+results <of> the syntactic <<analysis>> in a tabular form.  several  
+general questions <of> problem-oriented languages  
+
+
+DocID: CACM-2447
+
+use <of> sard kernels.  numerical results and <computer>  
+an error <<analysis>> for some bivariate cubatures  
+is given.  the remainders are obtained <by> the  
+
+
+DocID: CACM-0525
+
+a <computer> technique for handling <<analysis>> <of> variance  
+
+
+DocID: CACM-0461
+
+coding <of> medical case history data for <computer> <<analysis>>  
+
+
+DocID: CACM-0931
+
+systematic mistake <<analysis>> <of> digital <computer> programs  
+
+
+DocID: CACM-1732
+
+factorial variance <<analysis>>, variance, statistical <<analysis>>  
+factorial <<analysis>> <of> variance  algorithm 330 [g1]   
+
+
+DocID: CACM-1823
+
+factorial variance <<analysis>>, variance, statistical <<analysis>>  
+factorial <<analysis>> <of> variance  algorithm [g1]   
+
+
+DocID: CACM-1809
+
+awareness <of> the problems <of> <computer> implementation  
+numerical <<analysis>> is the study <of> methods and  
+numerical <<analysis>> in a ph. <computer> science program  
+
+
+DocID: CACM-2871
+
+logical <<analysis>> <of> programs <by> using invariants which  
+logical <<analysis>> <of> programs  
+most present systems for verification <of> <computer>  
+
+
+DocID: CACM-1801
+
+<<analysis>> <of> variance, <<analysis>> <of> covariance, regression  
+<<analysis>> <of> variance for balanced experiments  algorithm 367 [g2]   
+<<analysis>>, experimental design, balanced  
+
+
+DocID: CACM-0912
+
+<by> fortran for <<analysis>> <of> variance  
+
+
+DocID: CACM-3149
+
+the cyclic order property <of> vertices as an aid in scene <<analysis>>  
+scene <<analysis>>, cyclic order, artificial intelligence,  
+, picture processing, <computer> graphics, pattern recognition.  
+
+
+DocID: CACM-1916
+
+<by> a combined model.  a transformation <of> the combined  
+<of> sequences <of> <computer> instructions.  such techniques  
+<<analysis>> <of> boolean program models for time-shared, paged environments  
+
+
+DocID: CACM-1325
+
+matched filters, the development <of> three dimensional pattern <<analysis>>,  
+<computer> diagnosis <of> clinical electrocardiograms.  
+the <<analysis>> <of> parallel electrocardiographer-<computer>  
+
+
+DocID: CACM-1045
+
+programming <<analysis>> <of> variance <by> sequences  
+<of> operators and isomorphic mappings  
+a special operator calculus developed <by> hartley  
+
+
+DocID: CACM-2062
+
+the cost <of> <computer> time required to achieve given levels <of>  
+to the <<analysis>> <of> data generated <by> a <computer> simulation  
+<computer> costs <of> fixed sample size procedures versus  
+
+
+DocID: CACM-3078
+
+<<analysis>> <of> the availability <of> <computer>  
+<of> a <computer> system constructed <of> unreliable  
+processes, the potential range <of> application <of> these techniques  
+
+
+DocID: CACM-2560
+
+<by> multiprogramming in the presence <of> this type <of> storage system.  
+a probabilistic model <of> a multiprogrammed <computer>  
+the results are presented <of> an <<analysis>> <of>  
+
+
+DocID: CACM-2719
+
+<<analysis>> <of> programs, performance <<analysis>>, execution  
+program <<analysis>>, describes the operation <of> metric, explains  
+<of> such <<analysis>>, and describes a system,  
+
+
+DocID: CACM-1653
+
+the state <of> the art <of> system performance  
+when using them.  <<analysis>>, simulation, and <synthesis> are  
+perspective.  the appropriateness <of> instruction  
+
+
+DocID: CACM-1003
+
+in <by> passing much <of> the mathematical procedures  
+distribution.  a <computer> <<analysis>> method is here regarded  
+the construction <of> <computer> programs based on the direct  
+
+
+DocID: CACM-1927
+
+first briefly described, followed <by> a listing <of> some desirable  
+data retrieval, language <<analysis>>, information  
+curriculum in the general area <of> information  
+
+
+DocID: CACM-1802
+
+<<analysis>> <of> variance, <<analysis>> <of> covariance,  
+regression <<analysis>>, experimental design, matrix  
+
+
+DocID: CACM-2735
+
+discrimination in the employment <of> women in the <computer> industry  
+programmers, systems <<analysis>>, keypunch operators,  
+
+
+DocID: CACM-2221
+
+comment on the conversion <of> decision tables to <computer> programs  
+decision tables, diagnostic aids, system <<analysis>>, business applications  
+
+
+DocID: CACM-2751
+
+<perception> and the fundamental laws <of> optics are  
+the quality <of> <computer> generated images <of>  
+illumination for <computer> generated pictures  
+
+
+DocID: CACM-1989
+
+the use <of> augmented transition network grammars for the <<analysis>>  
+advantage <of> this model for natural language <<analysis>> are discussed  
+in detail and illustrated <by> examples.  an implementation <of> an  
+
+
+DocID: CACM-0974
+
+<of> long series heart cycles via a digital <computer>.  
+components <of> the electrocardiogram, long series  
+<<analysis>> feasible on the ibm 7090  
+
+
+DocID: CACM-1526
+
+performance  measured <by> the average usage <of>  
+is developed.  <<analysis>> <of> this model is used to predict  
+a model <of> multiprogramming for a particular  
+
+
+DocID: CACM-3055
+
+<by> 1/4 <of> a swap.  the algorithm <of> meyer  
+an improved program <by> refinement.  both <of> the  
+these values differ at most <by> 1/3 <of> a swap and asymptotically  
+
+
+DocID: CACM-1507
+
+some <of> the problems encountered <by> the chosen  
+and characteristics <of> a general data <<analysis>> scheme.  
+<of> large bodies <of> data derived from scientific  
+
+
+DocID: CACM-2286
+
+automatic error <<analysis>> for determining precision  
+error <<analysis>>, interval arithmetic, precision control  
+on a <computer> which performs variable-precision floating-point  
+
+
+DocID: CACM-2210
+
+illustrated <by> the automatic construction <of> both  
+program <synthesis>, mathematical induction  
+toward automatic program <synthesis>  
+
+
+DocID: CACM-2877
+
+can be exposed and codified <by> the static <<analysis>>  
+program optimization, data flow <<analysis>>,  
+a program data flow <<analysis>> procedure  
+
+
+DocID: CACM-2310
+
+language <<analysis>>, humanities, science <of> the humanities,  
+as desirable.  the implications <of> the <computer>  
+the use <of> the <computer> in the language-oriented  
+
+
+DocID: CACM-1365
+
+<of> fortran iv which permits the use <of> the <computer>  
+types <of> <<analysis>>-which arose in the solution <of> specific  
+<of> complicated expressions, expansion <of> truncated  
+
+
+DocID: CACM-1308
+
+<of> gravity, can be computed <by> subprograms and used in  
+model consists <of> a group <of> surface-defining quadric  
+computation.  <by> judicious control <of> man-machine communication  
+
+
+DocID: CACM-2113
+
+<of> examples taken from the fully operational implementation <of> the  
+and the state <of> single bits determines the operational flow <of> the  
+emphasis is given to the system <of> "significant addresses" <by> means  
+
+
+DocID: CACM-2478
+
+<computer> science-seminars for undergraduates  
+<synthesis>, fuzzy educational structure  
+education, <computer> science, curriculum, imprecise  
+
+
+DocID: CACM-1014
+
+to the <computer> to handle the bulk <of> work involved  
+machine controls for <<analysis>> <of> variance  
+a major problem in using the <<analysis>> <of> variance,  
+
+
+DocID: CACM-2999
+
+given to some <of> the general problems <of> multidimensional  
+<by> a summary <of> some recent developments in array processing  
+an approach to multidimensional data array processing <by> <computer>  
+
+
+DocID: CACM-2820
+
+with a <computer> assisted course on introductory <computer> science.  
+edited.  <<analysis>> is performed character <by> character.  
+error correction, interpreters, debugging, <computer>  
+
+
+DocID: CACM-2947
+
+retrieval, literary <<analysis>>, linguistic <<analysis>>, command languages  
+<computer> invoked <by> a crt with microprogrammed  
+and text <<analysis>> system for nontechnical users,  
+
+
+DocID: CACM-2687
+
+<of> such a display is shown <by> deriving the  
+raster scan <computer> graphics displays with  
+described which extends the capabilities <of> this  
+
+
+DocID: CACM-3069
+
+data flow <<analysis>>, global flow <<analysis>>, optimization,  
+a practical interprocedural data flow <<analysis>> algorithm  
+a new interprocedural  data flow <<analysis>> algorithm  
+
+
+DocID: CACM-1435
+
+<of> factor selection,  3  the problem <of> motive  
+<of> data <<analysis>> are considered-multiple ranking procedures,  
+<of> <computer> simulation experiments for industrial  
+
+
+DocID: CACM-2308
+
+this brief survey <of> the use <of> <computer>s in  
+<of> such <computer> usage will outweigh the costs  
+data management, engineering <<analysis>>, information  
+
+
+DocID: CACM-2645
+
+<of> the two languages are included.  the limitations <of>  
+<by> the first processor.  examples <of> the usage  
+on the <<analysis>> <of> algorithms, and some <of> the directions  
+
+
+DocID: CACM-1272
+
+the economy <of> editing as a function <of> the amount <of> condensation  
+<of> a large volume <of> incoming mail or telegrams,  
+<by> the use <of> a concordance in preparing a survey article  
+
+
+DocID: CACM-2798
+
+<by> determining the distribution <of> the number <of> memory  
+and the <<analysis>> <of> the model <by> monte  
+<<analysis>> <of> interleaved memory systems using blockage buffers  
+
+
+DocID: CACM-2181
+
+systems.  an <<analysis>> <of> the minutes <of> the meetings  
+the state <of> <computer> oriented curricula in business schools 1970  
+and the administrators <of> their institutions  
+
+
+DocID: CACM-1709
+
+a modification <of> efroymson's technique for stepwise regression <<analysis>>  
+the storage <of> an n x n matrix <of> data.  when the number  
+additional storage allows the <<analysis>> <of> problems containing  
+
+
+DocID: CACM-2924
+
+<by> cardinal splines.  among the features <of>  
+modification <of> the b-spline representation <of> the  
+<of> a number <of> shapes that have been separately  
+
+
+DocID: CACM-2835
+
+set <of> values.  the most common are parameters <of> variables  
+possible subset <of> values could be assumed <by> variables  
+<of> recursive use <of> procedures is presented for  
+
+
+DocID: CACM-1605
+
+definitive <of> "system effectiveness," and <<analysis>> <of>  
+was assigned to each <of> a group <of> four programming  
+system <by> means <of> a statistically designed  
+
+
+DocID: CACM-0726
+
+a general program for the <<analysis>> <of>  
+may be programmed for any digital <computer>.  
+are given so that the method <of> calculation  
+
+
+DocID: CACM-0633
+
+simulation and <<analysis>> <of> biochemical systems  
+ iii. <<analysis>> and pattern recognition   
+
+
+DocID: CACM-2634
+
+correlation, regression, factor <<analysis>>, one-way <<analysis>> <of> variance  
+several hundred college and university <computer>  
+installations now <of>fer various types <of> statistical  
+
+
+DocID: CACM-1782
+
+and ease <of> usage.  a complete set <of> formulas  
+numerical integration, fourier <<analysis>>, integration  
+for numerical fourier <<analysis>> is given.  
+
+
+DocID: CACM-1160
+
+consists <of> three distinct phases: an assembly <of>  
+the fap program, a comprehensive <<analysis>> <of> the assembled  
+<of> the translated compass language program  
+
+
+DocID: CACM-1686
+
+suggested.  <computer> holograms have been made <of> three-dimensional  
+<computer> <synthesis> <of> holograms for 3-d display  
+and applications <of> <computer> holography are  
+
+
+DocID: CACM-0721
+
+description and <<analysis>> <of> the american standards association  asa .  
+this paper presents the essential contents <of>  
+standard prepared <by> subcommittee x3.6 on problem  
+
+
+DocID: CACM-1307
+
+<of> rewriting rules applied as a result <of> light pen  
+to ease the use <of> a data processing system <by> a  
+<of> data handled <by> the system.  since such a person is  
+
+
+DocID: CACM-2387
+
+<computer>s, <computer> management, economies <of> scale  
+a simple <<analysis>> <of> some <computer>-economic factors  
+centralization, decentralization, economics <of>  
+
+
+DocID: CACM-2556
+
+statement <<analysis>>, syntax <<analysis>>  
+adaptive correction <of> program statements  
+a method <of> analyzing statements in a programming  
+
+
+DocID: CACM-2683
+
+classes <of> loop predicates <by> an evaluation on the weak interpretation.  
+the <synthesis> <of> loop predicates  
+assertions, <synthesis> <of> loop predicates, weak  
+
+
+DocID: CACM-2050
+
+all <of> an unrestricted natural language text, some applications, <of> which  
+object <of> certain verbs for approximately half <of> the relevant occurrences.  
+this provides a degree <of> coverage for content <<analysis>> variables which  
+
+
+DocID: CACM-1517
+
+technique <of> <<analysis>>  possibly not any one <of> the above   
+<by> selecting one <of> five operating plans, where each  
+analyzing data generated <by> <computer> simulations  
+
+
+DocID: CACM-2423
+
+words <of> 60-bit core memory <of> which 140 words are parsing  
+syntactic <<analysis>>, normal-form grammars, pushdown  
+program.  typical one-pass compilers constructed <by> the  
+
+
+DocID: CACM-3022
+
+<of> 1975 to determine the status <of> women and  
+<computer> science faculties: the current status <of> minorities and women  
+<<analysis>> <of> the data indicated that the over-all verdict  
+
+
+DocID: CACM-2188
+
+means <of> a mathematical model <of> a <computer> driven  
+and <of> the computational requirements <of> the graphics application.  
+<of> the capabilities <of> the graphics hardware  
+
+
+DocID: CACM-0643
+
+simulation and <<analysis>> <of> biochemcial systems  
+ ii. solution <of> differential equations   
+
+
+DocID: CACM-1515
+
+logical <<analysis>> <of> large collections <of> factual data.  
+with the use <of> <computer>s as assistants in the  
+a <computer> system for inference execution and data retrieval  
+
+
+DocID: CACM-1366
+
+implications <of> this <<analysis>> for designers <of> languages,  
+that <<analysis>> <of> strengths and weaknesses <of> each  
+<computer> simulation-discussion <of> the  
+
+
+DocID: CACM-2226
+
+gue's paper is corrected.  the utility <of> one <of>  
+further evidence for the <<analysis>> <of> algorithms  
+the purpose <of> this note is to report computational  
+
+
+DocID: CACM-2701
+
+larger classes <of> function spaces and graphs <by> relaxing  
+<<analysis>>, information propagation, flow graph, reducibility,  
+flow <<analysis>>  abstract only--complete paper jacm  
+
+
+DocID: CACM-1034
+
+<<analysis>> and using the results, and the lack <of> a technique  
+data workloads, long span <of> time between  
+<of> explicit directions for conducting data system  
+
+
+DocID: CACM-2643
+
+the minimization <of> spatially-multiplexed character sets  
+<of> minimizing the storage needed to contain  
+character sets in a digital <computer> while retaining  
+
+
+DocID: CACM-1726
+
+the segmentation <of> printed text, the possibility <of>  
+on human demarcation <of> the various regions <of>  
+a rapid prescan <by> a rudimentary form <of> frequency  
+
+
+DocID: CACM-1632
+
+the ease <of> programming the tabular method <of> <<analysis>>  
+orthogonal single degree <of> freedom sums <of> squares;  
+<of> freedom sums <of> squares.  program segments  
+
+
+DocID: CACM-2831
+
+<<analysis>> <of> the pff replacement algorithm  
+
+
+DocID: CACM-0238
+
+simulation and <<analysis>> <of> biochemical systems  
+
+
+DocID: CACM-1271
+
+a complete set <of> addresses <of> primary records relevant  
+and a comparative <<analysis>> is given.  
+the preparation <of> secondary storage lists from  
+
+
+DocID: CACM-3194
+
+<by> native speakers <of> a particular language. parallels between these problems  
+and those <of> chemical <<analysis>> are pointed out.  
+the paper discusses problems involved in designing a device capable <of>  
+
+
+DocID: CACM-2989
+
+be sufficient all <of> the time? most <of> the time? what  
+the methods are based on <<analysis>> <of> traces <of> program  
+<of> features <of> instruction set processors  
+

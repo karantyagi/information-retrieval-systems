@@ -1,0 +1,701 @@
+LUCENE_NoStopNoStem
+
+Query
+Performance evaluation and modelling of computer systems
+
+Top 100 Results (134 millisecs)
+
+
+DocID: CACM-2318
+
+the role <of> <computer> system models in <performance> <evaluation>  
+<computer> system <performance>.  this paper  
+methods for evaluating the <performance> <of> <computer>  
+
+
+DocID: CACM-3119
+
+multiple processor <systems>.  issues considered include the impact <of> cpu  
+service disciplines <and> distributions, level <of> multiprogramming,  
+the impact <of> distributions <and> disciplines  
+
+
+DocID: CACM-2984
+
+system <performance> in terms <of> a cost/utilization  
+<computer> system, <performance> <evaluation>, cost/utilization, system balance  
+factor <and> a measure <of> imbalance.  these coefficients  
+
+
+DocID: CACM-2812
+
+analysis consists <of> a set <of> procedures <and> <computer>  
+<and> <performance> evaluator. the statement <of> requirements  
+<of> applications s<of>tware design, <computer> selection  
+
+
+DocID: CACM-2634
+
+<and> use, tests were made for each <of> these <systems>,  
+<and> the results are summarized as to cost <and> <performance>.  
+several hundred college <and> university <computer>  
+
+
+DocID: CACM-2268
+
+a study comparing the <performance> <of> several <computer>  
+programs for integrating <systems> <of> ordinary  
+a comparative study <of> <computer> programs  
+
+
+DocID: CACM-2319
+
+<of> an operating system, an overall model <of> the total  
+<computer> system, operating system, <performance>  
+<and> design the <performance> aspects <of> an operating system  
+
+
+DocID: CACM-3089
+
+<and> system <performance> <evaluation>  
+<performance> <of> rollback recovery <systems> under intermittent failures  
+principal <performance> measures, including availability,  
+
+
+DocID: CACM-3070
+
+the result <and> computational costs <of> the hybrid model <of>  
+to model the arrival <and> activation <of> jobs, <and> a  
+hybrid simulation models <of> <computer> <systems>  
+
+
+DocID: CACM-1938
+
+makes quantitative <evaluation> <of> time-sharing <systems>  
+<evaluation>.  
+quantitative time-sharing system <performance>  
+
+
+DocID: CACM-2894
+
+been collected <and> analyzed.  a demonstration <of>  
+<of> <computer> <performance>, instead <of> the more  
+<evaluation> <of> results, is included.  
+
+
+DocID: CACM-1653
+
+<evaluation> is reviewed <and> <evaluation> goals <and>  
+<evaluation> <and> in the development <of> <evaluation> methods is explored.  
+the state <of> the art <of> system <performance>  
+
+
+DocID: CACM-2542
+
+analysis <and> simulation routines.  using the <performance>  
+a s<of>tware design <and> <evaluation> system  
+the <performance> <of> a proposed design is not evaluated  
+
+
+DocID: CACM-3136
+
+price/<performance> patterns <of> u. <computer> <systems>  
+econometric models <of> the u. <computer> market have been developed to study  
+the relationships between system price <and> hardware <performance>.  single  
+
+
+DocID: CACM-2741
+
+<systems> is proposed.  it is based on a technique <of> variable  
+paging <systems>  i  unstable regimes <of> operations <and>  ii   
+behavior <and> evaluate the <performance> <of> computing  
+
+
+DocID: CACM-2951
+
+on a network. analytical, simulation, <and> statistical <performance>  
+<systems>, comparative response time, arpa  
+<evaluation> tools are employed to investigate  
+
+
+DocID: CACM-2017
+
+environment characteristic <of> virtual memory machines.  descriptions <of>  
+<of> sorting procedures in the context <of> the dynamic paging  
+the experimental sort programs <and> analysis <of> the <performance>  
+
+
+DocID: CACM-2990
+
+given user query <of> a number <of> automatic indexing <systems>  
+the <performance> <of> information retrieval <systems>  
+ways.  much <of> the published <evaluation> work is based  
+
+
+DocID: CACM-2522
+
+<systems>, resource allocation, s<of>tware <evaluation>,  
+its behavior, <and> indicates future directions <of> research  
+on methods <of> controlling a <computer> system.  
+
+
+DocID: CACM-1728
+
+the frequency <of> page faults, i.e. the frequency <of> those  
+<of> page replacement algorithms <and> for assessing the  
+effects on <performance> <of> changes in the amount  
+
+
+DocID: CACM-2882
+
+retrieval <systems>.  these data retrieval <systems> can  
+list organizations <and> hybrid combinations <of> these  
+<systems>.  effectiveness <of> the methodology is demonstrated  
+
+
+DocID: CACM-2988
+
+<and> job swap time, <and> <performance> measures such as response  
+<of> finite memory size <and> workload memory requirements  
+<of> in teractive <computer> <systems> which use nonpaged memories.  
+
+
+DocID: CACM-1908
+
+a <performance> level equal to that <of> the batch  
+cost for usage <of> the two <computer> <systems>; however,  
+using time-sharing <and> batch-processing <computer>  
+
+
+DocID: CACM-2852
+
+in <computer> science or in information <systems>  
+center management, <computer> system <performance>  
+education, information <systems> administration, <computer>  
+
+
+DocID: CACM-1030
+
+<systems>.  the <evaluation> <of> the boolean functions which  
+the simulation <of> a digital <computer> is an  
+integral part <of> most <computer> design automation  
+
+
+DocID: CACM-1719
+
+<and> industry <of> the criteria for <and> methods <of>  
+number <of> types, <and> cost <of> data processing <systems>  
+<and> <performance>.  real-time data processing <systems>  
+
+
+DocID: CACM-2151
+
+<of> such a system <and> the characteristics <of>  
+s<of>tware <systems> is followed by a description <of>  
+a general discussion <of> the measurement <of>  
+
+
+DocID: CACM-1347
+
+the <evaluation>, by the propagation <of> variance  
+<systems> to initial condition <and> parameter errors, involves  
+further development <of> extremely general <computer>  
+
+
+DocID: CACM-2298
+
+<of> new york at buffalo consisted <of> three phases: the  
+considered; <and> the organization <and> definition <of> goals  
+microprogramming, emulation, <computer> <systems>, language  
+
+
+DocID: CACM-2535
+
+nature <of> the arrival process from a user to the <computer>  
+<and>, consequently, affects the <performance>  
+output process <of> an m/d/1 queue <and> the conditions  
+
+
+DocID: CACM-3048
+
+data streams <of> the real system.  simulation <of> the  
+in the architecture <of> the ibm 360/91 are <of> little  
+<of> the cpu-memory subsystem <of> the ibm 360/91 is  
+
+
+DocID: CACM-1750
+
+<of> the hardware arrangement <and> the s<of>tware components  
+the use <of> large quantities <of> addressable  
+with the traditional configuration <of> separate <and> independent  
+
+
+DocID: CACM-3072
+
+<computer> <systems> are presented.  the basic control variables  
+continuous-flow <and> preempt-resume scheduling  
+in the multiprogramming- multiprocessor <computer>  
+
+
+DocID: CACM-2892
+
+levels <of> protocol hierarchy <and> the characteristics  
+<performance> <evaluation> <and> efficiency, resource sharing  
+the form, extent, <and> effect <of> the communication line  
+
+
+DocID: CACM-2016
+
+an array <of> measuring tools devised to aid in the implementation <of> a prototype  
+<and> recording tools, <and> specialized measurement facilities.  some  
+insight into effectiveness  or lack there <of>  <of> individual tools is provided.  
+
+
+DocID: CACM-1518
+
+s<of>tware, <and> its environment.  the measures <of> system <performance>  
+the problem <of> predicting the <performance> <of>  
+the model is mechanized in simscript <and> consists <of>  
+
+
+DocID: CACM-3028
+
+in these <and> other areas is discussed, <and>  
+context <and> then describes the architecture <and> system  
+the contemporary <performance> <of> the mark i <and> atlas is evaluated.  
+
+
+DocID: CACM-1805
+
+<of> itself <and> its co-residents <and> simulation has  
+equipment  <evaluation>, hardware, <evaluation>,  
+a mode <of> <computer> operation in which two or more  
+
+
+DocID: CACM-1827
+
+recorded, <and> data items are further identified by job <and>  
+<performance>, s<of>tware measurement, time-sharing <performance>,  
+<and> <performance>.  the overall structure <of> mts is outlined  
+
+
+DocID: CACM-1032
+
+<of> the file based on its history <and> past  
+<of> the file with a high probability <of> being  
+to circumvent the scanning <of> nonrelevant material, <and>  
+
+
+DocID: CACM-2859
+
+<of> program behavior <and> simulations <of> <systems>  
+<of> the limiting behavior <of> the system yields approximate  
+results provide a good indication <of> the <performance>  
+
+
+DocID: CACM-2452
+
+<evaluation> <and> selection <of> file organization-a model <and> system  
+<of> data base structure design <and> <evaluation>.  
+total storage costs <and> average access time <of> several  
+
+
+DocID: CACM-2798
+
+interleaved memory <systems>, modular memory <systems>,  
+<and> the analysis <of> the model by monte  
+a model <of> interleaved memory <systems> is presented,  
+
+
+DocID: CACM-0436
+
+<evaluation> <of> polynomials by <computer>  
+
+
+DocID: CACM-2317
+
+<of> the world's production programs are written <and> will  
+system measurement <and> <evaluation> techniques,<and>  
+programming <systems> <and> languages 1965-1975  
+
+
+DocID: CACM-3091
+
+the amount <of> time necessary to create a <computer>  
+<of> programs <and> experience characteristics <of> programmers  
+some basic determinants <of> <computer> programming productivity  
+
+
+DocID: CACM-1267
+
+<of> determination <of> transfer rate <of> information  
+bits  trib , <of> residual errors, <and> <of> st<and>ard measurement  
+orderly arrangement <of> characteristics <and> parameters  
+
+
+DocID: CACM-2106
+
+solution <of> interesting problems;  3  be capable <of> exposing all  
+<computer> education in a graduate school <of> management  
+design <and> <evaluation> <of> management information <systems> requires  
+
+
+DocID: CACM-2344
+
+the size <of> the store, <and> the speed <of> the cpu.  a comparison  
+on the optimization <of> <performance> <of> time-sharing <systems> by simulation  
+effect on system <performance>.  system <performance>  
+
+
+DocID: CACM-3088
+
+to any configuration consisting  <of> sets <of>  
+<computer> <systems>.  the equations are directly applicable  
+blocking, buffering, input/output, overlap, <performance>,  
+
+
+DocID: CACM-1792
+
+<of> on-line <and> <of>f line access to a <computer>.  these  
+online <and> <of>f line programming <performance>  
+<performance> <of> programmers working under conditions  
+
+
+DocID: CACM-2571
+
+<of> the monitor in improving system <performance>.  a  
+for the case <of> task execution in a memory hierarchy <of> varying speeds.  
+hasp, os/360, dispatching, scheduling, modeling, <performance> <evaluation>  
+
+
+DocID: CACM-1931
+
+interval arithmetic determinant <evaluation>  
+mathematical pro<of> by <computer>  
+determinant <evaluation>, chebyshev system,  
+
+
+DocID: CACM-2765
+
+<of> queries, <and> machine timing <and> blocking specifications  
+analysis <and> <performance> <of> inverted data base structures  
+data base <performance> <and> measurement, secondary  
+
+
+DocID: CACM-2375
+
+criteria <of> expected seek time  system oriented <and> expected  
+<performance> including system oriented <and> individual  
+the selection <and> implementation <of> a maximum  
+
+
+DocID: CACM-3153
+
+the possibility <of> giving different quality <of> service to jobs <of> different  
+or <and> paging <and> file devices, with fixed numbers <of> jobs, is studied  
+are obtained.  a way <of> applying the results to <systems> with more  
+
+
+DocID: CACM-0096
+
+the relative merit <and> cost <of> four ways <of>  
+are desk machine <evaluation> <of> a finite series,  
+by a reeves electronic analog <computer> <and> by a  
+
+
+DocID: CACM-0143
+
+a list <of> <computer> <systems> programs for  
+the ibm 650, datatron 205, <and> univac ss-80  
+
+
+DocID: CACM-0893
+
+solution, determinant <evaluation> <and> matrix  
+the results <of> floating-point arithmetic operations.  
+significance arithmetic on a digital <computer>  
+
+
+DocID: CACM-2967
+
+<and> creates, modifies, deletes, stores, <and> retrieves  
+data structures, s<of>tware <evaluation>, hardware <evaluation>,  
+a comparison <of> hardware <and> s<of>tware associative  
+
+
+DocID: CACM-1699
+
+<of> such a system include ease <of> use, learning time, <and>  
+<of> documents.  factors involved in <evaluation>  
+<of> mechanized information retrieval <systems>,  
+
+
+DocID: CACM-2849
+
+kilometer <of> coaxial cable.  a model for estimating <performance>  
+<computer> networks, packet switching, multiprocessing,  
+<computer> networks or loosely coupled multiprocessors.  
+
+
+DocID: CACM-1689
+
+calculation <of> a polynomial <and> its derivative  
+function <evaluation>, polynomial <evaluation>,  
+
+
+DocID: CACM-1940
+
+calculation <of> a polynomial <and> its derivative  
+function, <evaluation>, polynomial <evaluation>,  
+
+
+DocID: CACM-1671
+
+<of> applying rules to the data, <and> to store  
+patterns <of> english by chomsky <and> halle, 1968,  
+the design <and> implementation <of> a system to  
+
+
+DocID: CACM-2314
+
+input <and> output <of> data would facilitate use <of>  
+efficient, <and> run on data.  because <of> this general  
+a wide range <of> applications.  three aspects <of> programming  
+
+
+DocID: CACM-1912
+
+simulation <of> outpatient appointment <systems>  
+<of> appointment <systems>-individual <and> block-can  
+which simulates appointment <systems> employed  
+
+
+DocID: CACM-2902
+
+terms <of> processing time, memory usage, <and> external memory  
+this paper investigates the <performance> <of>  
+dynamic memory allocation in <computer> simulation  
+
+
+DocID: CACM-1341
+
+in this essay some <of> these questions are posed, <and>  
+levels <of> <computer> <systems>  
+programming, <and>, eventually, <systems> which learn.  
+
+
+DocID: CACM-2479
+
+<systems> administration, information <systems>  
+is to prepare the future manager <of> the <computer> activity.  
+management, <computer> management  
+
+
+DocID: CACM-1270
+
+test <of> the reliability <and> efficiency <of> an integration  
+the <computer> <evaluation> <of> student algol programs.  
+properties <of> a <computer> system, in order that  
+
+
+DocID: CACM-0417
+
+<systems> used in business <and> industry can  
+<of> <computer> <systems> involved in legal situations.  
+this paper points out a variety <of> ways <computer>  
+
+
+DocID: CACM-3150
+
+<and> objects with which we build.  this paper analyzes some <of> the  
+<systems> <and> components.  in order to develop such <systems>, we need  
+as <computer> technology matures, our growing ability to create large <systems> is  
+
+
+DocID: CACM-1747
+
+<of> a virtual <computer> are explained.  examples <of> applications  
+<of> the criteria concern the reading <of>  
+<computer> design, <computer> design criteria, <computer>  
+
+
+DocID: CACM-1951
+
+same distribution independent <of> which <of> the four <systems> is being examined.  
+generally are <of> interest in <computer> communications studies can be  
+estimates <of> distributions <of> r<and>om variables  
+
+
+DocID: CACM-2936
+
+which improves on two aspects <of> the best <of> the previously  
+realization <of> event scheduling routines suitable  
+<performance> is quite insensitive to skewed distributions,  
+
+
+DocID: CACM-1071
+
+<systems> requires a revision <of> accounting procedures  
+precise as to the amount <of> <computer> time <and> storage  
+accounting in generalized time-sharing <systems>  
+
+
+DocID: CACM-1196
+
+<of> the numerical solution <of> <systems> <of> ordinary differential  
+ease <of> debugging, <and> minimization <of> <computer> time.  
+true from the point <of> view <of> ease <of> programming,  
+
+
+DocID: CACM-0591
+
+<evaluation> <of> asymptotic expression for the  
+fresnel sine <and> cosine integrals  algorithm 88   
+
+
+DocID: CACM-1670
+
+correspondences <of> 8-bit <and> hollerith codes for  
+punched card <systems>  
+<computer> environments  a usasi tutorial st<and>ard   
+
+
+DocID: CACM-1844
+
+<of> a bank <of> interchangeable <computer>s, each <of> which  
+<and> supervises the collection <and> distribution <of> messages  
+the size <and> power <of> the machines used <and> the  
+
+
+DocID: CACM-2985
+
+<systems> is asserted to be a category <of> organizational  
+for <computer> services  chargeout <systems>  <and>  
+the relationship <of> in ternal pricing <systems>  
+
+
+DocID: CACM-1572
+
+<systems> has raised a number <of> problems for  
+the simulation <of> time sharing <systems>  
+<of> efficiency <and> greater applicability, the model was  
+
+
+DocID: CACM-1620
+
+<evaluation> routines.  although some <of> these methods  
+in function <evaluation> routines  
+methods <of> evaluating polynomial approximations  
+
+
+DocID: CACM-0040
+
+general-purpose <computer>.  the greater simplicity <of>  
+review <of> the significance <of> decimal <and> binary addressing  
+<of> inherently decimal input <and> output data,  
+
+
+DocID: CACM-2669
+
+<and> estimating the amount <of> core memory sharing.  
+a simple linear model <of> dem<and> paging <performance>  
+predicting the <performance> <of> a proposed automatically  
+
+
+DocID: CACM-2863
+
+dem<and> paging, <performance> measurement, multilevel  
+memory <systems>, virtual memory, working set,  
+<and> the page partitioning replacement algorithms  
+
+
+DocID: CACM-2217
+
+<performance> on problems in a specific domain <and>  
+<and> the proving program, <and> for analyzing <and>  
+<of> pp.  a number <of> experiments were performed to test  
+
+
+DocID: CACM-2262
+
+memory <systems>, <and> compares them with traditional  
+garbage collection for virtual memory <computer> <systems>  
+methods by discussion <and> by simulation.  
+
+
+DocID: CACM-3035
+
+<of> instruction, research, <and> administration.  
+<computer> management, <computer> budget,  
+in terms <of> the improvement <of> the delivery  
+
+
+DocID: CACM-2325
+
+<of> continuous algorithms.  four <of> the components  
+analysis <of> error, programs <and> program libraries.  
+complexity , synthesis <and> analysis <of> algorithms,  
+
+
+DocID: CACM-1754
+
+problems <of> storage allocation.  a method <of> characterizing  
+dynamic storage allocation <systems>  
+facilities in several representative <computer>  
+
+
+DocID: CACM-1926
+
+directly on the printer <of> a relatively small  64k  <computer>  
+the editing <and> printing <of> "finished" documents  
+description <of> format, a text-processing program  
+
+
+DocID: CACM-1526
+
+<performance>  measured by the average usage <of>  
+the hardware characteristics <and> the program statistics,  
+a model <of> multiprogramming for a particular  
+
+
+DocID: CACM-1752
+
+<and> the results <of> comparative simulation  
+<of> the task scheduling <and> paging algorithms that were implemented,  
+effects <of> program mix <and> loading variations are also presented.  
+
+
+DocID: CACM-3090
+
+<of> computing, management information <systems>,  
+sociology <of> computing, information <systems> <and>  
+features <of> the <computer>-based system <and> <of> the organizational  
+
+
+DocID: CACM-1247
+
+<of> storage for contiguous blocks <of> arbitrary  
+size, input <and> output for a hierarchy <of> data types,  
+<computer> programming <systems>  
+
+
+DocID: CACM-3117
+
+<and> the relationship <of> this technology to law enforcement <and> society.  
+on the implementation <and> impact <of> police <computer> technology  
+<and> control, <computer> aided dispatch,  
+
+
+DocID: CACM-3078
+
+<systems> can be modeled by markov <and> semi-markov  
+<of> a <computer> system constructed <of> unreliable  
+analysis <of> the availability <of> <computer>  
+
+
+DocID: CACM-1484
+
+<systems> are discussed, <and> a dialect <of> algol which  
+<and> automatic design <of> the system described, in  
+a language for describing the functions <of> synchronous <systems>*  
+

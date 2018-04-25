@@ -1,0 +1,707 @@
+LUCENE_NoStopNoStem
+
+Query
+Dictionary construction and accessing methods for fast retrieval
+of words or lexical items or morphologically related information.
+Hashing or indexing methods are usually applied to English spelling or
+natural language problems.
+
+Top 100 Results (5 millisecs)
+
+
+DocID: CACM-1456
+
+a conceptual <dictionary> is described.  the <dictionary>  
+examples <of> <<methods>> <of> inputting in<f<<<<or>>>>>mation  
+<and> answering simple <english> questions <are> given.  an  
+
+
+DocID: CACM-3087
+
+design <and> implementation <of> this system is described <and>  
+<and> concept case frames; these <are> used <f<<<<or>>>>> judging  
+<<methods>> <are> discussed <f<<<<or>>>>> h<and>ling vague <<<<or>>>>  
+
+
+DocID: CACM-0144
+
+character-transmission <of> non-<dictionary> <w<<<<or>>>>ds> such  
+representations <of> entire <w<<<<or>>>>ds> <<<<or>>>> common phrases  rather  
+as the names <of> people <<<<or>>>> places.  
+
+
+DocID: CACM-1700
+
+<w<<<<or>>>>ds>.  the present st<<<<or>>>>e is made up <of> over 600,000  
+is not equal <to> the question mask, then one <<<<or>>>>  
+<w<<<<or>>>>ds> using the inclusive <<<<or>>>> operation.  if, at search  
+
+
+DocID: CACM-1665
+
+<of> characters <and> combines them in<to> the <items>  
+<to> accomplish the same task.  <lexical> process<<<<or>>>>s  
+range <of> applications outside the <are>a <of> <lexical>  
+
+
+DocID: CACM-2127
+
+but <of> questionable generality with respect either <to> subtle aspects <of>  
+<to> summarize the <<methods>> that have been developed <f<<<<or>>>>> syntactic, semantic,  
+meaning <<<<or>>>> <to> applications over large subsets <of> <english>.  
+
+
+DocID: CACM-2753
+
+<to> it.  it uses the planning process <to> give  
+<<methods>> used <to> achieve it: task-specific in<f<<<<or>>>>>mation,  
+metric constraints <to> be tested <and> the design <to>  
+
+
+DocID: CACM-1235
+
+<to> code additional <w<<<<or>>>>ds>.  finally, the remaining <w<<<<or>>>>ds>  
+about half <of> the w<<<<or>>>>d-events in a testcollection <are> identified  
+<of> the most probable <f<<<<or>>>>>m classes <to> occur within the already  
+
+
+DocID: CACM-1112
+
+a technique <f<<<<or>>>>> computer detection <and> c<<<<or>>>>rection <of> <spelling> err<<<<or>>>>s*  
+each time <to> see if the <w<<<<or>>>>ds> match-assuming  
+input w<<<<or>>>>d is comp<are>d <to> the <dictionary> again, testing  
+
+
+DocID: CACM-2905
+
+<to> give minimal  <<<<or>>>> almost minimal  tables <f<<<<or>>>>>  
+shown <to> be complete in the sense that <f<<<<or>>>>> every  
+directly <to> small sets.  some <<methods>> <to> extend  
+
+
+DocID: CACM-1051
+
+<of> st<and>ard list structures with single-w<<<<or>>>>d <items>, the  
+<and> in the execution time required <to> per<f<<<<or>>>>>m a given  
+<are> given <to> illustrate the use <of> multiw<<<<or>>>>d lists. this  
+
+
+DocID: CACM-2711
+
+<indexing> vocabulary <f<<<<or>>>>> a collection <of> documents.  
+<are> comp<are>d with each other <<<<or>>>> with incoming patterns  
+as a function <of> the density <of> the object space;  
+
+
+DocID: CACM-1855
+
+<to> a trans<f<<<<or>>>>>mational grammar.  the main features <of> the  
+rules <are> described.   a number <of> examples <of> output  
+analyzer <are> that it uses only a limited <dictionary>  
+
+
+DocID: CACM-1725
+
+<w<<<<or>>>>ds> from the mem<<<<or>>>>y.  lewin proves that, <f<<<<or>>>>> the readout  
+<of> his method, unlike those <of> other <<methods>>, is independent  
+<to> retrieve in <<<<or>>>>der a number <of> distinct  
+
+
+DocID: CACM-3041
+
+respect <to> their <lexical> <<<<or>>>>dering  between the left <and>  
+successful search <of> an mst is log n bounded <and>  
+can be built <f<<<<or>>>>> a given key <<<<or>>>>dering <and> set <of>  
+
+
+DocID: CACM-2046
+
+models <of> the data.  in section 1, inadequacies <of> these models <are> discussed.  
+<of> changes in query, update, <and> rep<<<<or>>>>t traffic <and> <natural> growth in the  
+<of> data is changed <and> even when some aspects <of> the external representation  
+
+
+DocID: CACM-0944
+
+<<<<or>>>> similar file is <to> be st<<<<or>>>>ed <and> searched.  
+<to> construct numeric, alphabetic <<<<or>>>> alphanumeric  
+w<<<<or>>>>d length <and> distribution <of> st<<<<or>>>>ed in<f<<<<or>>>>>mation  
+
+
+DocID: CACM-1486
+
+<language> <and> has a library <f<<<<or>>>>> st<<<<or>>>>ing the user's <items>.  
+<items> could help a user <to> solve his <problems>, <and> about  
+detection <of> common parts <<<<or>>>> patterns <of> library  
+
+
+DocID: CACM-2111
+
+<and> symbol tables, <and> the consideration <of> a limited class <of> <spelling>  
+<to> compilers <and> operating systems.  these include the use <of> syntax  
+<and> semantics in<f<<<<or>>>>>mation, the <<<<or>>>>ganization <of> restricted keyw<<<<or>>>>d  
+
+
+DocID: CACM-2484
+
+<and> <f<<<<or>>>>>mulating alg<<<<or>>>>ithms under a given set <of> constraints.  
+<natural> <f<<<<or>>>>> us <to> view the process <of> designing a data  
+subsets <of> a set, <and> an alg<<<<or>>>>ithm <f<<<<or>>>>> selecting an  
+
+
+DocID: CACM-2688
+
+mem<<<<or>>>>y than is typical <of> most inverted file <and> similar  
+key <hashing> which attempts <to> minimize it.  
+specifications <of> this combination <f<<<<or>>>>> a file with given  
+
+
+DocID: CACM-1359
+
+data filtering <applied> <to> in<f<<<<or>>>>>mation st<<<<or>>>>age <and> <retrieval> applications  
+<<<<or>>>> implicitly <related> <to> a <f<<<<or>>>>>mat declaration  
+<and> <retrieval> applications.  data string manipulation  
+
+
+DocID: CACM-2091
+
+<language> <to> solve <and> study partial differential equation <problems>  
+<f<<<<or>>>>> a significant p<<<<or>>>>tion <of> the <language>.  this partial differential  
+equation <language>, pdel, is outlined, <and> the highlights  
+
+
+DocID: CACM-1888
+
+tridiagonal <and> so <are> easily solved by relaxation <<<<or>>>> other st<and>ard <<methods>>.  
+mesh size <and> dynamic mesh size allocation.  <f<<<<or>>>>> uni<f<<<<or>>>>>m  
+spline function <<methods>> <f<<<<or>>>>> nonlinear boundary-value <problems>  
+
+
+DocID: CACM-2437
+
+is <applied> <to> a group <of> trans<f<<<<or>>>>>mation <<methods>>  
+<<methods>>.  using this analysis, <<methods>> with the same overall  
+<hashing>, <hashing> techniques, <hashing> <<methods>>, hash coding,  
+
+
+DocID: CACM-1681
+
+is sent <to> the system.  a macro flowchart <of> easy  
+mode, in<f<<<<or>>>>>mation <retrieval> <language>, symbolic comm<and> <language>  
+designed <to> simplify communication between man <and>  
+
+
+DocID: CACM-1703
+
+with the <language>.  explicit st<and>ardization <of> the <language>  
+<language>, tranemark, public identification <of>  
+<and> <related> services.  one way <of> achieving these goals  
+
+
+DocID: CACM-1457
+
+<of> data representations which have been used <to> describe  
+<and> suggestions <are> made <f<<<<or>>>>> the design <of> programming  
+manipulations <to> be per<f<<<<or>>>>>med in au<to>matic in<f<<<<or>>>>>mation  
+
+
+DocID: CACM-1856
+
+<are> <to> be taught <to> the program as they <are> needed.  
+<to> a general process <f<<<<or>>>>> comprehending <language>, <and>  
+been found <to> relate <to> the new text, adapting <and>  
+
+
+DocID: CACM-1527
+
+<<<<or>>>>, m<<<<or>>>>e c<<<<or>>>>rectly, is grammatical in terms <of>  
+is possible <to> make use <of> a recognition device <of> this  
+the subject <of> this paper is a procedure <f<<<<or>>>>>  
+
+
+DocID: CACM-2307
+
+<of> dynamic library collections in which new <items>  
+re<<<<or>>>>ganization <of> the st<<<<or>>>>ed in<f<<<<or>>>>>mation as a function <of>  
+<are> continually added <and> old ones <are> retired.  
+
+
+DocID: CACM-2846
+
+<of> one key, is <of> the <<<<or>>>>der logm n  <and> the st<<<<or>>>>age  
+a key <<<<or>>>> at least a pointer, the fields in a c-trie <are>  
+<of> the structure, <and> there<f<<<<or>>>>>e updating costs <are> increased.  
+
+
+DocID: CACM-2423
+
+<w<<<<or>>>>ds> <of> 60-bit c<<<<or>>>>e mem<<<<or>>>>y <of> which 140 <w<<<<or>>>>ds> <are> parsing  
+table entries <and> 82 <w<<<<or>>>>ds> <are> links <to> code  
+that syntactic rule is <applied> in the parse <of> a  
+
+
+DocID: CACM-1886
+
+in<f<<<<or>>>>>mation is computed in the c<<<<or>>>>rect sequence <and> fact<<<<or>>>>s  
+<are> also applicable <to> the problem <of> fact<<<<or>>>>ing  
+<applied>, <and> hence global optimal results <are> not  
+
+
+DocID: CACM-2203
+
+<of> accesses required <to> get <to> a rec<<<<or>>>>d <and> the number  
+is <applied> <to> a particular file, load fact<<<<or>>>> <and>  
+<hashing>, <hashing> techniques, <hashing> <<methods>>, hash  
+
+
+DocID: CACM-2523
+
+<<<<or>>>> "map" whose regions c<<<<or>>>>respond <to> differently  
+been <applied> <to> the <construction> <of> cloud cover maps  
+by these  <usually> broken  edges <are> "col<<<<or>>>>ed in" using  
+
+
+DocID: CACM-2060
+
+structures <are> treated as functions.   4  type declarations <are>  
+<of> variables.   2  assignment <and> indirect addressing <are> <f<<<<or>>>>>malized  
+alg<<<<or>>>>ithm <f<<<<or>>>>> computing <<<<or>>>> <accessing> its components.  the existence <of>  
+
+
+DocID: CACM-2265
+
+<to> type checking in algol 60 is made, <and> the attendant  
+activity <of> answering this question is <usually> called  
+<problems> faced <f<<<<or>>>>> any notion <of> type checking  
+
+
+DocID: CACM-2233
+
+<of> encoding itself so as <to> yield new clues <and> deeper  
+<f<<<<or>>>>> example, we have turned the entire process <of>  
+<of> these <w<<<<or>>>>ds> <are> sought out at r<and>om <to>  
+
+
+DocID: CACM-0095
+
+<to> an equivalent set <of> equations which do not contain  
+<<methods>> <are> <applied> can sometimes be exp<and>ed  
+use <of> subroutines <f<<<<or>>>>> numerical solution by electronic  
+
+
+DocID: CACM-0719
+
+<<<<or>>>> pop them up.  the availability <of> a variety <of> field  
+use <of> machines <of> this class <f<<<<or>>>>> compilation has  
+delimiters allows the machine <to> push down <<<<or>>>>  
+
+
+DocID: CACM-1699
+
+<of> such a system include ease <of> use, learning time, <and>  
+<of> the research is that an in<f<<<<or>>>>>mation <retrieval> system  
+<of> the <to>ols which would be available <to> him were  
+
+
+DocID: CACM-2267
+
+two alg<<<<or>>>>ithms <are> presented in the <f<<<<or>>>>>m <of>  
+the radix <and> number <of> digits <of> the floating-point  
+alg<<<<or>>>>ithms <to> reveal properties <of> floating-point arithmetic  
+
+
+DocID: CACM-3101
+
+<of> the programmer, permitting the definition <of> various  
+well suited <to> goal-<<<<or>>>>iented <problems> <and> <to> other <problems>  
+is part <of> the sl5 programming <language>, is  
+
+
+DocID: CACM-1602
+
+pose: a <language> <f<<<<or>>>>> posing <problems> <to> a computer  
+a knowledge <of> numerical <<methods>> <<<<or>>>> the intricacies  
+operations now required <f<<<<or>>>>> <f<<<<or>>>>>tran programming  
+
+
+DocID: CACM-2705
+
+avenues <f<<<<or>>>>> further w<<<<or>>>>k <of> wide influence <are>  
+<of> general utility <and> studies <of> questions  
+analogies <related> <to> social aspects,pure <and> <applied>  
+
+
+DocID: CACM-1402
+
+<of> additional in<f<<<<or>>>>>mation as in interpolation <<methods>>.  
+<f<<<<or>>>>> use with the adams <<<<or>>>> adams-bash<f<<<<or>>>>>th method  
+<to> the integration <and> does not require st<<<<or>>>>ing  
+
+
+DocID: CACM-1976
+
+<of> false drops;  3  the elimination <of> computer time <to> per<f<<<<or>>>>>m intersection  
+<of> secondary index values in "buckets," it is possible <to> retrieve  
+<of> false drops, combining indexes, query, multi-attribute <retrieval>  
+
+
+DocID: CACM-2050
+
+all <of> an unrestricted <natural> <language> text, some applications, <of> which  
+although au<to>matic syntactic <and> semantic analysis is not yet possible <f<<<<or>>>>>  
+<to> manual <<methods>>, in which only a sample <of> the <to>tal available text is  
+
+
+DocID: CACM-2998
+
+regularity, <<<<or>>>> predictability, among poin ters <to>  
+<to> lists <usually> poin t <to> a location physically  
+a<to>ms <and> especially among poin ters <to> lists.  pointers  
+
+
+DocID: CACM-2931
+
+<of> explanation <to> go from the conceptual ideas <to>  
+<of> computation  in a way, the statics <of> the problem   
+with the method <of> data types as lattices  <<<<or>>>> partial  
+
+
+DocID: CACM-2991
+
+<to> locate a rec<<<<or>>>>d.  the combined effects <of> these techniques  
+<hashing>, <hashing> techniques, <hashing> <<methods>>, hash  
+lead <to> improved file per<f<<<<or>>>>>mance <f<<<<or>>>>> secondary  
+
+
+DocID: CACM-3046
+
+method <are> similar <to> those <of> wallace's <<<<or>>>> tadikamalla's  
+<<methods>>.  the computational times <f<<<<or>>>>> the proposed  
+ahrens <and> dieter's method <f<<<<or>>>>> all values <of> a.  the  
+
+
+DocID: CACM-0028
+
+request <f<<<<or>>>>> <<methods>> <<<<or>>>> programs  
+
+
+DocID: CACM-1926
+
+capitalization, aids <f<<<<or>>>>> index <construction>, <and> a  
+the editing <and> printing <of> "finished" documents  
+minimum <of> nontext <items>.  it is written entirely  
+
+
+DocID: CACM-2953
+
+<of> recursion removal involves the use <of> one  
+<<<<or>>>> m<<<<or>>>>e stacks, <and> the solutions <are> comp<are>d  
+various <<methods>> <of> recursion elimination <are>  
+
+
+DocID: CACM-2646
+
+<of> programs with predictable behavi<<<<or>>>>.  while the <<methods>>  
+<<<<or>>>> drum.  it discusses the anticipat<<<<or>>>>y input <and> output  
+<of> blocks <of> data <to> buffer <and> primary mem<<<<or>>>>ies  
+
+
+DocID: CACM-1483
+
+different from, <<<<or>>>> have been added <to> <f<<<<or>>>>>tran ii  
+a comparison <of> the <f<<<<or>>>>>tran <language>  
+in each implementation.  only those <items> which <are>  
+
+
+DocID: CACM-2059
+
+a <language> <f<<<<or>>>>> the representation <of> graph is described, <and> the <f<<<<or>>>>>mulation <of>  
+by means <of> a syntax-driven compiler.  application <are>as <f<<<<or>>>>> this <language> <are>  
+<are> represented by linked lists.  the <language> is syntactically defined  
+
+
+DocID: CACM-2494
+
+<of> the elements <of> a data matrix <of> similarities <<<<or>>>> dissimilarities  
+by four <<methods>> <of> fact<<<<or>>>> analysis <and> two <<methods>> <of> cluster analysis.  
+scheme <of> cluster analysis, is described <and> illustrated.  
+
+
+DocID: CACM-3138
+
+an efficient <and> numerically stable method is presented <f<<<<or>>>>> the problem <of>  
+alg<<<<or>>>>ithm <are> mentioned.  a simple means <of> constructing  
+ <<<<or>>>> row .  the elimination process <f<<<<or>>>>> the procedure is successive  
+
+
+DocID: CACM-2210
+
+must be <applied>. the relation between the version <of>  
+recursive <and> iterative programs operating on <natural>  
+numbers,lists, <and> trees,  in <<<<or>>>>der <to> construct  
+
+
+DocID: CACM-2989
+
+the <<methods>> <are> based on analysis <of> traces <of> program  
+used <<<<or>>>> saved by having <<<<or>>>> not having the feature.  
+be sufficient all <of> the time? most <of> the time? what  
+
+
+DocID: CACM-3099
+
+pure <and> mixed integer programming <problems>.  some <of>  
+<problems> may then be used <to> test <and>/<<<<or>>>> "benchmark"  
+new class <of> sufficient optimality conditions <f<<<<or>>>>>  
+
+
+DocID: CACM-2906
+
+sub<language>s <<<<or>>>> components: one <f<<<<or>>>>> defining the business  
+<and> one <f<<<<or>>>>> writing calculations.  
+very high level <language>, nonprocedural <language>,  
+
+
+DocID: CACM-1272
+
+editing <are> described, chief among them being interpretation <and>  
+<of> a large volume <of> incoming mail <<<<or>>>> telegrams,  
+the economy <of> editing as a function <of> the amount <of> condensation  
+
+
+DocID: CACM-2572
+
+externally  <of> what is proposed;  2  project <and> perhaps  
+on man <and> his w<<<<or>>>>ld view.  current proposals <f<<<<or>>>>>  
+<and> decentralized approach <to> the question <of> the  
+
+
+DocID: CACM-1711
+
+in<f<<<<or>>>>>mation is given on patents, copyrights <and>  
+<are> discussed, <and> legal complications <are>  
+<of> using copyrighted material in in<f<<<<or>>>>>mation st<<<<or>>>>age  
+
+
+DocID: CACM-3065
+
+<and> deletion can be  carried out in o  log n  time <f<<<<or>>>>>  
+insertion <and> deletion <are> provided <f<<<<or>>>>> the  
+deletion alg<<<<or>>>>ithm-the reverse <of> what one <usually>  
+
+
+DocID: CACM-2828
+
+techniques <are> possible.  first, the range <of> complexity  
+<and> environments is used not just <to> define their relative  
+motion <and> placement, but also <to> assist in  
+
+
+DocID: CACM-2486
+
+i.e. <w<<<<or>>>>ds> <<<<or>>>> <f<<<<or>>>>>mulas placed partly at the end <of>  
+<<<<or>>>> on the pho<to>composer; the generation <of> such symbols,  
+one line <and> partly at the beginning <of> the next;  
+
+
+DocID: CACM-2795
+
+<language> analyzer <and> a combined mem<<<<or>>>>y <and> inference model.  
+<language> generation, models <of> cognitive  
+ 2  in<f<<<<or>>>>>mation relating conceptual <to> syntactic  
+
+
+DocID: CACM-0078
+
+devices <to> particular <problems>.  the purpose <of> this  
+note is <to> establish a mathematical framew<<<<or>>>>k <<<<or>>>>  
+<of> course, the n<<<<or>>>>mal activity <of> the numerical analyst.   
+
+
+DocID: CACM-1930
+
+needed <f<<<<or>>>>> which moderate quality <and> efficiency  
+<to> the probability function <f<<<<or>>>>> the consecutive  
+which <are> not entirely universal <<<<or>>>> <are> not used in a  
+
+
+DocID: CACM-1929
+
+<f<<<<or>>>>> producing images with a continuous gray scale <<<<or>>>> "half <to>nes."  
+<f<<<<or>>>>>m <are> there<f<<<<or>>>>>e much needed.  one <of> the most commonly  
+processing <of> in<f<<<<or>>>>>mation <and> data <of> all kinds,  
+
+
+DocID: CACM-1307
+
+c<<<<or>>>>rect comm<and>s <to> the system.  he does not have <to> learn  
+<of> rewriting rules <applied> as a result <of> light pen  
+<<<<or>>>> remember the vocabulary <of> the <language> because  
+
+
+DocID: CACM-2310
+
+<are> necessary  e.g. analyzing literature <<<<or>>>> teaching  
+<are>as <of> the humanities <f<<<<or>>>>> which rig<<<<or>>>> <and> precision  
+ as in indices <and> conc<<<<or>>>>dances  is widespread <and> accepted  
+
+
+DocID: CACM-3100
+
+<of> interference matching <are> discussed, <and> directions  
+<of> the training examples <and> the adequacy  
+<f<<<<or>>>>> future research <are> considered.  
+
+
+DocID: CACM-2153
+
+<<<<or>>>> lesson is divided in<to> three modes <of> instruction  
+acceptance, <and> operational cost <are> the result <of> testing  
+<of> study, <and> has been used <f<<<<or>>>>> two semesters  
+
+
+DocID: CACM-1184
+
+<of> blocks that <are> fixed in size <and> location.  
+if <and> when their parts <are> simultaneously  
+splitting larger ones in half, <and> the larger blocks <are> reconstituted  
+
+
+DocID: CACM-0185
+
+ <<<<or>>>> any subset <of> it , subject <to> external constraints  
+which programs <are> <to> be run concurrently <and> which sequentially  
+is applicable <to> a wide class <of> machines.  
+
+
+DocID: CACM-2229
+
+<and> it is shown how the convergence properties <of>  
+<of> a series can be constructed.  there <are> basically two  
+<<methods>>.  both <<methods>> <are> described here, <and> the relationship  
+
+
+DocID: CACM-1629
+
+flexibility <of> input <and> detail <of> output  
+the maj<<<<or>>>> design criteria <of> ease <of> use, ease <of> modification,  
+a package <of> <f<<<<or>>>>>tran statistical programs <f<<<<or>>>>> use  
+
+
+DocID: CACM-2032
+
+<and> their relation <to> trees studied in the past is explainedesults <f<<<<or>>>>> the  
+function <to> define tree structure.  two types <of> such trees <are> examined,  
+a general method <of> file structuring is proposed which uses a <hashing>  
+
+
+DocID: CACM-0096
+
+the relative merit <and> cost <of> four ways <of>  
+spherical bessel functions <are> investigated.  these <<methods>>  
+<are> desk machine evaluation <of> a finite series,  
+
+
+DocID: CACM-2683
+
+ 2  extraction <<methods>> which use input predicates <and>  
+<of> techniques <are> considered:  1  heuristic  
+current <<methods>> <f<<<<or>>>>> mechanical program verification  
+
+
+DocID: CACM-3053
+
+<are> depth-limited approximations <to> an enumerative  
+from recursive entry displacements, cut<of>fs <f<<<<or>>>>>  
+with conventional <<methods>>, the new techniques  
+
+
+DocID: CACM-1408
+
+<of> the efficacy <of> the drum scheme is then raised.  <to>  
+<accessing> <f<<<<or>>>>> drums so defined.  this is shown <to>  
+enable a system <to> per<f<<<<or>>>>>m a job by employing fewer <<<<or>>>>  
+
+
+DocID: CACM-1197
+
+<f<<<<or>>>>> the existence <of> the q-d scheme <are>  
+values <f<<<<or>>>>> a new<to>n <<<<or>>>> a bairs<to>w alg<<<<or>>>>ithm <f<<<<or>>>>>  
+it will <usually> find a maj<<<<or>>>>ity <of> them.  
+
+
+DocID: CACM-1470
+
+getting inputs <f<<<<or>>>>> routines <are>  1  by referring <to>  
+<of> variables <<<<or>>>> functions.  names <are> useful  
+<f<<<<or>>>>>ms <of> each <of> these components <are> described,  
+
+
+DocID: CACM-2787
+
+<of> his choice.  practical tests <of> the method have  
+<and> m<<<<or>>>>e efficient processing techniques; <to> take fuller  
+shown it <to> be a good basis <f<<<<or>>>>> a realistic timetabling alg<<<<or>>>>ithm.  
+
+
+DocID: CACM-1331
+
+code structures <f<<<<or>>>>> protection <and> manipulation <of> variable-length <items>  
+can lead <to> serious trouble, <<methods>> <of> protecting  
+<of> bits, certain control in<f<<<<or>>>>>mation  partition symbols   
+
+
+DocID: CACM-2258
+
+<hashing>, <hashing> techniques, <hashing> <<methods>>, hash  
+file search, scatter st<<<<or>>>>age, in<f<<<<or>>>>>mation <retrieval>  
+
+
+DocID: CACM-2990
+
+documents <of> a collection it is possible <to> give <f<<<<or>>>>>mal  
+pro<of>s <of> the effectiveness with respect <to> a  
+given user query <of> a number <of> au<to>matic <indexing> systems  
+
+
+DocID: CACM-0070
+
+<of> a set <of> test matrices which <are> useful  
+in the determination <of> the accuracy <of> routines <f<<<<or>>>>>  
+<construction> <of> a set <of> test matrices  
+
+
+DocID: CACM-3002
+
+one <of> the main objectives in the design <of>  
+<and> the distribution <of> each data-item's length <are> assumed  
+that <are> st<<<<or>>>>ed on different devices.  one <of> the subrec<<<<or>>>>ds  
+
+
+DocID: CACM-2196
+
+<<<<or>>>> <f<<<<or>>>>> <problems> with a moderate number <of> points can  
+point <problems>.  this technique takes advantage <of>  
+point <to> new directions in the field <of> man-machine interaction  
+
+
+DocID: CACM-2517
+
+tables <and> their conversion <to> computer programs  
+<and> the single-rule  <<<<or>>>> action set  convention in decision tale usage.  
+<of> these <<methods>> under various possible conventions  
+
+
+DocID: CACM-0695
+
+interruption <of> the arithmetic unit.  dumps on disk <are>  
+disk <and> c<<<<or>>>>e st<<<<or>>>>age with minimum delaying <and>  
+<f<<<<or>>>>> the st<<<<or>>>>age <of> systems programs <and> the  
+
+
+DocID: CACM-1487
+
+identification <of> key <w<<<<or>>>>ds>,  2  the discovery <of>  
+<of> key <w<<<<or>>>>ds>, <and>  5  the provision <of> an editing capability  
+kinds <of> <natural> <language> conversation between man <and>  
+

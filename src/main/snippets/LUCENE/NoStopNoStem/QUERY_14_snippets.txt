@@ -1,0 +1,706 @@
+LUCENE_NoStopNoStem
+
+Query
+find all discussions of optimal implementations of sort algorithms for
+database management applications
+
+Top 100 Results (66 millisecs)
+
+
+DocID: CACM-2679
+
+402 .  <algorithms> 271 and 402 are refinements <<of>> algorithm  
+claims.  <<of>> <all> these <algorithms>, quicker<sort> requires  
+<for> six acm <algorithms>: quick<sort>  no. 64 ,  
+
+
+DocID: CACM-3112
+
+virtual memory, file or <database> <management>,  
+classical <implementations> <<of>> list processing systems  
+many <applications>.  
+
+
+DocID: CACM-3164
+
+<<of>> actions. two pad <algorithms> are presented; one uses a simple  
+progressive acyclic digraphs-a tool <for> <database> integrity  
+this process is important in certain areas <<of>> <database> implementation  
+
+
+DocID: CACM-3131
+
+character <<of>> floating-point numbers with a uni<for>mity <<of>> state distributions  
+<for> 8-bit and 16-bit <implementations> <<of>> focus are included.  
+speed with hardware arithmetic <for> many <applications>.  <algorithms>  
+
+
+DocID: CACM-3087
+
+<for> a large relational <database>  
+<<of>> system components and examples <<of>> over<all> system  
+<database>, and optimize the order <<of>> searching relations.  
+
+
+DocID: CACM-2674
+
+and the other to interactive <applications>.  the <algorithms>  
+scan conversion <algorithms> <for> a cell organized raster display  
+that the noninteractive <algorithms> can significantly  
+
+
+DocID: CACM-3067
+
+<database> referencing, memory <management>, <optimal>  
+<for> the entire class <<of>> demand-fetching memory  
+that reference segments <<of>> different sizes.  
+
+
+DocID: CACM-2819
+
+substrings <<of>> the file.  four new <algorithms> <for> this  
+to <find> an <optimal> set <<of>> codes <for> representing  
+a system <for> the compression <<of>> data files,  
+
+
+DocID: CACM-2289
+
+solution <<of>> graph problems is the determination <<of>> <algorithms>  
+<algorithms> are presented <for> the solution <<of>> certain  
+<<of>> many graph problems.  <for> example, the adjacency  
+
+
+DocID: CACM-2716
+
+optimizing the per<for>mance <<of>> a relational algebra <database> interface  
+relational <database>, <database> optimization, inverted  
+<algorithms> <for> implementing the operators  
+
+
+DocID: CACM-3037
+
+a new algorithm is presented <for> <find>ing <all>  
+factorization <<of>> <all> integers between 2 and n in time proportional to n.  
+primes, <algorithms>, data structures  
+
+
+DocID: CACM-2181
+
+<for> improving computer education <for> <management>,  
+with background in<for>mation <for> the ongoing task <<of>> course  
+the committee with material <for> its study <<of>>  
+
+
+DocID: CACM-3075
+
+par<all>el processing, <sort>ing, <algorithms>, bucket <sort>  
+integer.  the model <<of>> computation <for> this procedure  
+fast par<all>el <sort>ing <algorithms>  
+
+
+DocID: CACM-3057
+
+is to <find> a trans<for>med digital picture <<of>>  
+this paper investigates the problem <<of>> <optimal>  
+boxes <<of>> as<sort>ed sizes, such that the  
+
+
+DocID: CACM-3011
+
+nature <<of>> these systems, <management> use <<of>> computing is  
+<management> practices where top <management> is supportive  
+<management> utilization <<of>> computers in american local governments  
+
+
+DocID: CACM-1752
+
+<<of>> the task scheduling and paging <algorithms> that were implemented,  
+are given by tracing the development <<of>> the <algorithms>  
+resource <management> <for> a medium scale time-sharing operating system  
+
+
+DocID: CACM-2816
+
+in most <database> organizations, the cost <<of>> accessing  
+<optimal> reorganization <<of>> distributed space disk files  
+the <database> will increase due to structural  
+
+
+DocID: CACM-3058
+
+search strategies, <database> structures, index  
+jump searching, sequential files, file <management>,  
+variants <<of>> the classic jump searching scheme  
+
+
+DocID: CACM-2964
+
+an approach to <optimal> design <<of>> storage parameters in <database>s  
+<database> organization, storage parameter  
+
+
+DocID: CACM-2890
+
+conditions <for> an <optimal> routing,  adaptive routing tends  
+on quadratic adaptive routing <algorithms>  
+network are constructed, one to <find>  
+
+
+DocID: CACM-1724
+
+<sort> by nagler. the power <<of>> the <sort> is tabulated <for>  
+various sizes <<of>> input file and number <<of>> work  
+the design <<of>> a partial pass block <sort> with  
+
+
+DocID: CACM-2691
+
+comments on the <algorithms> <<of>> verhelst <for> the  
+conversion <<of>> limited-entry decision tables to  
+decision table, flowcharting, preprocessor, <optimal> programs, search  
+
+
+DocID: CACM-3085
+
+o n  algorithm to <find> an order <<of>> computation which  
+computation order <<of>> matrix chain products  
+are computed affects the number <<of>> operations.  
+
+
+DocID: CACM-2812
+
+<<of>> program modules and logical <database> structures.  
+analysis <for> the design and development <<of>> an  
+program <for> the generation <<of>> alternative specifications  
+
+
+DocID: CACM-1886
+
+<<of>> operations, detection <<of>> common subexpressions,  
+generation <<of>> <optimal> code <for> expressions via factorization  
+factorization <<of>> boolean expressions  
+
+
+DocID: CACM-2017
+
+environment characteristic <<of>> virtual memory machines.  descriptions <<of>>  
+<<of>> <sort>ing procedures in the context <<of>> the dynamic paging  
+the experimental <sort> programs and analysis <<of>> the per<for>mance  
+
+
+DocID: CACM-2902
+
+<algorithms>.  simple <algorithms> operating on memory ordered  
+free space lists <for> each size <<of>> memory block used  
+memory <management>, programming techniques, simulation,  
+
+
+DocID: CACM-2931
+
+<<of>> computation  in a way, the statics <<of>> the problem   
+in the other direction <for> the more applied parts <<of>>  
+the definition <<of>> the precise meaning <<of>> a program  
+
+
+DocID: CACM-2863
+
+page replacement <algorithms>, <optimal> page replacement  
+realizable variable space <algorithms>.  
+vmin-an <optimal> variable-space page replacement algorithm  
+
+
+DocID: CACM-2959
+
+<<of>> in<for>mation in two-dimensional pictures <<of>> tables,  
+the in<for>mation.  the query-by-example <database> language  
+data flow, <for>ms flow, data abstraction, <database>,  
+
+
+DocID: CACM-2750
+
+in such a situation, we must <find> a set <<of>> assumptions  
+still provide a basis <for> considering <all> significant  
+significant detailed costs <<of>> system utilization,  
+
+
+DocID: CACM-2174
+
+<all> the conditions <<of>> the problem.  algorithm 411  
+the algorithm derived <for> <find>ing <all>  
+has been extended to <find> <all> the stable marriage assignments.  
+
+
+DocID: CACM-2856
+
+permitting generation <<of>> <optimal> programs <for> decision  
+<<of>> <all> possible decision trees using a technique such  
+an <optimal> program is increased substanti<all>y,  
+
+
+DocID: CACM-1412
+
+<management> use.  both kinds <<of>> processing draw upon a  
+more complex combinations <<of>> in<for>mation <for>  
+<applications> already existing within the bank.  
+
+
+DocID: CACM-2263
+
+two new <algorithms> <for> deriving <optimal> and  
+one <<of>> the <algorithms>, c<all>ed the optimum-<find>ing algorithm,  
+algorithms  
+
+
+DocID: CACM-2146
+
+logic are presented.  <<of>> the simple dispersion <algorithms>  
+close estimate <<of>> the total number <<of>> unit strings be<for>e the dispersion begins.  
+various dispersion <algorithms> <for> the polyphase  
+
+
+DocID: CACM-2337
+
+<algorithms> is given.  one new algorithm <for>  
+a technique <for> proving min-max norms <<of>> <sort>ing  
+fewest comparisons is proved <optimal> with this  
+
+
+DocID: CACM-1873
+
+phase <<of>> lp <algorithms>.  other lp <applications> are indicated.  
+accelerating lp <algorithms>  
+it is shown how a novel method <for> computing  
+
+
+DocID: CACM-0717
+
+<<of>> the given set,  2  <all> partitions <<of>> the given set  
+partitioning <algorithms> <for> finite sets  
+by certain n-tuples <<of>> positive integers.  
+
+
+DocID: CACM-2314
+
+<for> extended data <for>ms, storage <management>, and extensibility  
+input and output <<of>> data would facilitate use <<of>>  
+a wide range <<of>> <applications>.  three aspects <<of>> programming  
+
+
+DocID: CACM-2876
+
+intentional resolution <<of>> privacy protection in <database> systems  
+it appears to be necessary <for> the <database> to  
+<<of>> privacy, interaction with <database>s  
+
+
+DocID: CACM-3032
+
+nodes <<of>> a network.  <algorithms> <for> accomplishing  
+a broadcast packet is <for> delivery to <all>  
+this list <<of>> <algorithms> we add  6  reverse path  
+
+
+DocID: CACM-1961
+
+circuits <<of>> a graph.  the algorithm can be easily modified to <find> <all>  
+<<of>> arcs.  the speed is also related to the number <<of>> circuits  
+the speed <<of>> the algorithm to the number <<of>> vertices and the number  
+
+
+DocID: CACM-2900
+
+<<of>> <find>ing the <optimal> set <<of>> network sites at  
+included in an <optimal> <all>ocation.  
+file <all>ocation, computer networks, distributed data <management>  
+
+
+DocID: CACM-2997
+
+planar set <<of>> poin ts, spatial set <<of>>  
+proposed <algorithms> is <optimal> within a multiplicative  
+convex hulls <<of>> finite sets <<of>> poin ts in two and three dimensions  
+
+
+DocID: CACM-2522
+
+dependent upon the <algorithms> employed to <all>ocate  
+principle, presents data to permit analysis <<of>>  
+on methods <<of>> controlling a computer system.  
+
+
+DocID: CACM-2924
+
+means <for> man-machine communication, and s<<of>>tware <for>  
+routines <for> structural, medical and graphical <applications>.  
+developed <for> the rapid generation <<of>> arbitrary  
+
+
+DocID: CACM-2481
+
+<<of>> a program which maximizes the useful fraction <<of>>  
+storage are obtained <for> swapping and nonswapping buffer <management> policies.  
+function.  expressions <for> the distribution  
+
+
+DocID: CACM-3156
+
+is permitted <for> fetch instructions but not <for> store instructions.  
+graph theory, par<all>el processing, <algorithms>,  
+the algorithm can be used to <find> the transitive closure  
+
+
+DocID: CACM-1197
+
+values <for> a newton or a bairstow algorithm <for>  
+<for> the existence <<of>> the q-d scheme are  
+it will usu<all>y <find> a majority <<of>> them.  
+
+
+DocID: CACM-3171
+
+to be used <for> <implementations> <<of>> high level languages.  under suitable  
+a technique is described <for> run-time line number administration  
+in either time or space, during execution <<of>> the program.  
+
+
+DocID: CACM-2450
+
+the design <<of>> scheduling and paging <algorithms>.  although  
+the working set model <for> program behavior  
+is a dearth <<of>> published data on program measurements,  
+
+
+DocID: CACM-3151
+
+an algorithm is described <for> the construction in real-time <<of>> the  
+an <optimal> real-time algorithm <for> planar convex hulls  
+points, real-time <algorithms>, on-line <algorithms>.  
+
+
+DocID: CACM-3177
+
+<<of>> robust key <management> schemes <for> cryptographic systems  
+half the pieces and security breaches expose <all> but one <<of>> the  
+cryptography, key <management>, interpolation  
+
+
+DocID: CACM-3166
+
+"accuracy."  each <<of>> the four <algorithms> is analyzed <for> the conditions  
+<algorithms> will provide accurate answers <for> many problems, but two  
+<<of>> the standard deviation <<of>>  unweighted  sampled data  
+
+
+DocID: CACM-3006
+
+two paging <algorithms>, are examined in terms <<of>> their  
+a redefined.  one type <<of>> anomaly, <for> example, concerns  
+fault frequency, paging <algorithms>  
+
+
+DocID: CACM-0677
+
+length <<of>> strings <for> a merge <sort>  
+first  internal <sort>  phase <<of>> a merge <sort> onto tapes.  
+slight modification <<of>> the read-backward polyphase  
+
+
+DocID: CACM-2650
+
+in a.  the method should <find> <applications> in in<for>mation  
+order-n correction <for> regular languages  
+a method is presented <for> calculating a string  
+
+
+DocID: CACM-2406
+
+and physical aspects <<of>> data.  <applications> <<of>> these  
+definition language <for> describing both logical  
+data translation, data base <management> systems,  
+
+
+DocID: CACM-2308
+
+this brief survey <<of>> the use <<of>> computers in  
+found in any city.  the future scope <<of>> <applications> is  
+data <management>, engineering analysis, in<for>mation  
+
+
+DocID: CACM-2081
+
+suitable <for> a high level algorithmic language <for> mathematical programming.  
+superfluous operations.  sequences <<of>> matrices  and sequences <<of>> sequences  
+as to <find> the <for>ms best suited <for> computation.  these <for>ms are  
+
+
+DocID: CACM-2748
+
+amenable to machine independent <implementations>.  
+an efficient arrangement <for> interpretive code  
+<<of>> threaded code but requires less space and is more  
+
+
+DocID: CACM-1566
+
+<optimal> starting values <for> newton-raphson calculation <<of>> sqrt x   
+the problem <<of>> obtaining starting values <for>  
+the problem <<of>> obtaining <optimal> starting values.  
+
+
+DocID: CACM-2882
+
+<database> architecture, <database> per<for>mance and  
+a stochastic evaluation model <for> <database>  
+list, in<for>mation retrieval, <database> organizations,  
+
+
+DocID: CACM-1423
+
+<<of>> the concept <<of>> an inverse which applies to <all> matrices.  
+a simple algorithm <for> computing the generalized inverse <<of>> a matrix  
+<algorithms> are fairly complicated and require  
+
+
+DocID: CACM-0860
+
+<sort> techniques is developed <for> computer  
+required <for> various number <<of>> input strings  
+and tape drives <for> the two techniques.  
+
+
+DocID: CACM-2324
+
+<algorithms> to demonstrate which techniques are best <for> specific problems.  
+<<of>> standard test problems, construction <<of>> user oriented  
+programming, <management> science, operations research, <algorithms>  
+
+
+DocID: CACM-1462
+
+the basic s<<of>>tware <for> <all> newer computers  
+system.  large <applications> require supervisory  
+operating systems. this implies that <all> <applications>-no  
+
+
+DocID: CACM-1999
+
+<optimal> starting approximations <for> generating  
+the classical heron scheme.  the problem <<of>> <optimal> initial  
+square root, newton-raphson iteration, <optimal> approximants  
+
+
+DocID: CACM-2627
+
+which extend and generalize the <algorithms> known <for>  
+time, sequencing <algorithms>, <optimal> scheduling  
+<algorithms>, deterministic scheduling models  
+
+
+DocID: CACM-3038
+
+<<of>> authenticated connections, <for> the <management>  
+and public-key encryption <algorithms> are considered as the basis <for> protocols.  
+using encryption <for> authentication in large networks <<of>> computers  
+
+
+DocID: CACM-2106
+
+solution <<of>> interesting problems;  3  be capable <<of>> exposing <all>  
+outstanding issues <<of>> significance, capable <<of>> exposing <all> outstanding  
+computer education in a graduate school <<of>> <management>  
+
+
+DocID: CACM-3157
+
+a common tool <for> proving the termination <<of>> programs is the well-founded  
+are difficult to <find> and are <<of>> a complexity out  
+programs defined in terms <<of>> sets <<of>> rewriting rules.  
+
+
+DocID: CACM-2142
+
+picture.  three <algorithms> are described  <all> using  
+reconstruction <<of>> pictures from their projections  
+and varied number <<of>> fields.  the most important  
+
+
+DocID: CACM-3049
+
+components <<of>> the system.  the design <<of>> sembegs is founded  
+graphical data files, <for> displaying the contents <<of>>  
+the descriptions <<of>> graphical entities  
+
+
+DocID: CACM-1098
+
+<<of>> storage, use <<of>> pushdown stores, and use <<of>>  
+languages <for> use in particular problem <applications>,  
+<applications>.  
+
+
+DocID: CACM-2973
+
+n .  the <algorithms> <<of>> this paper are shown to be <optimal>  
+two <algorithms> are presented <for> <sort>ing n^2  
+
+
+DocID: CACM-1483
+
+different <implementations> <<of>> <for>tran iv representing  
+implementation <for> several computers  
+a comparison <<of>> the <for>tran language  
+
+
+DocID: CACM-0630
+
+<<of>> the many requirements <<of>> an autocode, the  
+<all> the advantages <<of>> readability and compatibility.  
+enjoy the utmost economy <<of>> expression, while <for>  
+
+
+DocID: CACM-1594
+
+application generates <all> permutations <<of>> k  
+in this manner, <applications> <<of>> the algorithm will generate  
+an algorithm <for> generating permutations  
+
+
+DocID: CACM-2715
+
+<for> this purpose are described.  
+<database>, data structure, data organization  
+query.  the optimization <algorithms> designed  
+
+
+DocID: CACM-2833
+
+storage <management>, garbage collection, lisp  
+this paper describes a new way <<of>> solving  
+or accessible.  a reference count scheme <for>  
+
+
+DocID: CACM-3103
+
+<for> abstract types from a library <<of>> <implementations>  
+a system <for> automatic<all>y choosing efficient <implementations>  
+the use <<of>> several levels <<of>> abstraction has  
+
+
+DocID: CACM-3033
+
+which can be used to <find> both <optimal> and quasi <optimal>  
+<optimal> decision table conversion has been  
+decision table, <optimal> decision table conversion,  
+
+
+DocID: CACM-1905
+
+standard computer <implementations> <<of>> dantzig's  
+computed with row interchanges, <<of>> the  
+these <implementations> have bad round-<<of>>f error properties.  
+
+
+DocID: CACM-3163
+
+an <optimal> insertion algorithm <for> one-sided  
+more complicated than the corresponding <algorithms> <for> avl trees.  
+the insertion and deletion <algorithms> <for> oshb trees appear much  
+
+
+DocID: CACM-2963
+
+<<of>> length n have had a best-case running time <<of>> o n^2 .  
+is the total number <<of>> ordered pairs <<of>> positions  
+n .  however, <for> those <applications> where most positions  
+
+
+DocID: CACM-2227
+
+<<of>> logical errors.  the pro<<of>> <<of>> termination is treated  
+pro<<of>> <<of>> a program: <find>  
+a pro<<of>> is given <<of>> the correctness <<of>> the  
+
+
+DocID: CACM-1878
+
+one consequence <<of>> the reference-count-based  
+recovery <<of>> reentrant list structures in slip  
+<for> which the programmer wishes to assume responsibility.  
+
+
+DocID: CACM-2860
+
+rules <<of>> thumb which have been suggested <for> the  
+design <<of>> record addressing <algorithms>, and discusses  
+<<of>> common heuristics <for> determining primary or secondary  
+
+
+DocID: CACM-0867
+
+<for> any type <<of>> closed area.  fin<all>y, <applications>  
+over certain types <<of>> subareas <<of>> the  x,y -space.  
+that provides successive approximations to <optimal> fits  
+
+
+DocID: CACM-3132
+
+set.  the traditional methods <find> a hyperplane which separates <all>  
+experiments with some <algorithms> that <find>  
+than a noncentral hyperplane.  six <algorithms> <for> <find>ing central  
+
+
+DocID: CACM-2051
+
+in that pair <<of>> words.  the output is a list <<of>> <all> correspondence  
+<<of>> the total frequency in the data <<of>> each correspondence found  
+separate listing <<of>> each correspondence with <all> word-pairs showing  
+
+
+DocID: CACM-0865
+
+be applicable <for> the first stage <<of>> a generalized <sort>  
+a general technique <for> sequencing un<sort>ed  
+program  the <for>mation <<of>> initial strings  as  
+
+
+DocID: CACM-2834
+
+to the generation <<of>> the combinations <<of>> n things  
+efficient generation <<of>> the binary  
+reflected gray code and its <applications>  
+
+
+DocID: CACM-2266
+
+<all> zeros <<of>> a polynomial with only real zeros  
+par<all>el numerical <algorithms>, real polynomials,  
+a highly par<all>el algorithm <for> approximating  
+
+
+DocID: CACM-2188
+
+means <<of>> a mathematical model <<of>> a computer driven  
+and <<of>> the computational requirements <<of>> the graphics application.  
+<<of>> the capabilities <<of>> the graphics hardware  
+
+
+DocID: CACM-1932
+
+measure <<of>> goodness <<of>> fit, <optimal> results are not  
+problem <<of>> determining the <optimal> initial approximation.  
+fit is <optimal> <for> both types <<of>> error.  moreover, use  
+
+
+DocID: CACM-2957
+
+methodology <for> <database> design is described which separates  
+<database> abstractions: aggregation  
+certain criteria <<of>> "well-definedness," specifies  
+
+
+DocID: CACM-3040
+
+values <for> a set <<of>> variables subject to a set <<of>> constraints.  
+<all> solutions.  
+backtrack, combinatorial <algorithms>, constraint  
+

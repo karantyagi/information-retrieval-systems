@@ -1,0 +1,709 @@
+LUCENE_NoStopNoStem
+
+Query
+The application of fuzzy subset theory to clustering and information
+retrieval problems.  This includes performance evaluation and automatic
+indexing considerations.
+
+Top 100 Results (5 millisecs)
+
+
+DocID: CACM-2990
+
+<to> <the> frequency <of> occurrence <of> <the> term in <the>  
+<to> construct for <the> average case.  in <the> present  
+<of> query term accuracy is in troduced as <the> probability  
+
+
+DocID: CACM-2711
+
+<indexing> vocabulary for a collection <of> documents.  
+au<to>matic <information> <retrieval>, au<to>matic  
+<the> usefulness <of> <the> model.  
+
+
+DocID: CACM-1032
+
+<of> <information> <<and>> tagging it for effective <retrieval>,  
+<the> nonrelevant, <<and>> penalizes <the> system for <the>  
+<to> circumvent <the> scanning <of> nonrelevant material, <<and>>  
+
+
+DocID: CACM-0329
+
+<<and>> linguistic techniques for <the> solution <of> <problems> <of> au<to>matic analysis.  
+<indexing> <<and>> au<to>matic abstracting.  included in <the>  
+<the> relative-frequency approach <to> measuring  <the> significance  
+
+
+DocID: CACM-1457
+
+<of> data representations which have been used <to> describe  
+<<and>> suggestions are made for <the> design <of> programming  
+<<and>> tree or list structures.  <the> main data  
+
+
+DocID: CACM-2451
+
+<of> such a model <this> paper considers <the> design <of>  
+<the> optimal tree cannot be implemented by means <of> practical  
+<of> data <<and>> shows that essentially <the>  
+
+
+DocID: CACM-2631
+
+<of> <this> <subset> are <the>n used as index keys for <retrieval>.  
+<this> method treats text as a string <of> characters ra<the>r  
+<retrieval>, namely, <the> maintenance <<and>> use <of> large  
+
+
+DocID: CACM-1653
+
+<the> state <of> <the> art <of> system <performance>  
+<problems> are examined.  throughput, turnaround, <<and>>  
+<the> central role <of> measurement in <performance>  
+
+
+DocID: CACM-1976
+
+<of> false drops;  3  <the> elimination <of> computer time <to> perform intersection  
+<of> secondary index values in "buckets," it is possible <to> retrieve  
+<of> multiple accesses in many cases;  2  <the> elimination  
+
+
+DocID: CACM-1236
+
+<<and>> search requests.  <this> feature is used in <the> <retrieval>  
+<of> analysis procedures can in general be relied upon <to>  
+operating on <the> ibm 7094 is described.  <the> system  
+
+
+DocID: CACM-2140
+
+<of> file <indexing> named combined indices.  <this> technique  
+<of> increased s<to>rage space.  <this> paper examines combined  
+curves are developed <to> show minimal cost <of> file  
+
+
+DocID: CACM-2991
+
+<to> remove <the> effect <of> sequential properties in <the>  
+<to> locate a record.  <the> combined effects <of> <the>se techniques  
+by adding shadow buckets <to> an open chaining file.  <the>  
+
+
+DocID: CACM-2307
+
+reorganization <of> <the> s<to>red <information> as a function <of>  
+<the> current role <of> computers in au<to>matic  
+au<to>matic <indexing>, au<to>matic search <<and>> <retrieval>,  
+
+
+DocID: CACM-2984
+
+indicate <the> extent <to> which <the> <to>tal system  
+system <performance> in terms <of> a cost/utilization  
+technique for <the> visual representation <of> system  
+
+
+DocID: CACM-2882
+
+<to> its difficulty <<and>> prohibitive cost. <this> paper  
+by using <the> model <to> study <the> effect <of>  
+<retrieval> systems.  <the>se data <retrieval> systems can  
+
+
+DocID: CACM-1675
+
+in <this> paper <the> effect <of> iterating <the> improvement  
+<application>s <of> <the> improvement fac<to>r beyond <the> first  
+<information> <retrieval>, relevance, <indexing>, classification  
+
+
+DocID: CACM-2542
+
+analysis <<and>> simulation routines.  using <the> <performance>  
+<the> reasons for <this> failure are explored, <<and>> a new methodology  
+feedback, <the> <problems> which adversely affect <performance>  
+
+
+DocID: CACM-0944
+
+<the> purpose <of> <this> paper is <to> examine  
+large quantities <of> data or <to> <problems> where <the> quantity,  
+<the> s<to>rage <<and>> search properties <of> a tree-organized  
+
+
+DocID: CACM-2568
+
+<application> <of> <this> algorithm <to> <the> solution <of>  
+limit is <this> size plus one.  one logical extension <of>  
+<the> previous work is <the> introduction <of> variable  
+
+
+DocID: CACM-2265
+
+<to> type checking in algol 60 is made, <<and>> <the> attendant  
+solution <to> <the> type checking problem based on <the>  
+<<and>> eliminates all o<the>r <information>.  <the> determination  
+
+
+DocID: CACM-2959
+
+<the> user <of> sba views his <application> as manipulation  
+<of> <information> in two-dimensional pictures <of> tables,  
+<the> <information>.  <the> query-by-example database language  
+
+
+DocID: CACM-2561
+
+<of> a similarity structure which is imposed on <the>  
+a heuristic approach <to> inductive inference in fact <retrieval> systems  
+<the> system can infer <the> correct response under  
+
+
+DocID: CACM-0891
+
+<to> many different types <of> <retrieval> <problems>.  fur<the>r,<the>  
+<retrieval> program as expensive <<and>> difficult  
+<to> install an <information> <retrieval> program in less than  
+
+
+DocID: CACM-1627
+
+<retrieval> systems.  <the> concept <of> level  
+s<to>rage capacities <of> certain data management <<and>> <information>  
+changing is introduced <<and>> its <application> <to> <the> multilevel  
+
+
+DocID: CACM-1267
+
+involving <information> rate can best be expressed as <the>  
+<of> determination <of> transfer rate <of> <information>  
+<information> thruput as a characteristic <of>  
+
+
+DocID: CACM-2217
+
+<of> pp.  a number <of> experiments were performed <to> test  
+<<and>> <the> proving program, <<and>> for analyzing <<and>>  
+<performance> on <problems> in a specific domain <<and>>  
+
+
+DocID: CACM-1665
+
+<of> <the> nature <of> <the> items being evaluated.  if <the>  
+<<and>> character count in <the> item.  <the> processors  
+<the> practical <application> <of> <the> <the>ory <of>  
+
+
+DocID: CACM-1652
+
+<the> system user.  <the> code has direct <application>  
+rate <of> <the> <information> channel linking <the> system <<and>>  
+<to> <problems> in area such as <information> <retrieval>, document  
+
+
+DocID: CACM-1935
+
+<<and>> variance <of> <the> number <of> trials <to> recover  
+<<and>> <of>fers new potential for <information> <retrieval> systems.  
+binary pattern, file examination, graph <the>ory, <information>  
+
+
+DocID: CACM-2454
+
+<<and>> quite simple <to> implement.  implementation <considerations>  
+order <of> <evaluation> are examined in some detail.  
+queueing <the>ory, queueing networks, equilibrium  
+
+
+DocID: CACM-1948
+
+groups <of> finite groups, character tables, <<and>> commuta<to>r  
+<the> most important areas <of> <application> at present are  
+diverse range <of> <problems> in group <the>ory.  
+
+
+DocID: CACM-1926
+
+including up <to> eight columns per page, au<to>matic  
+<the> editing <<and>> printing <of> "finished" documents  
+directly on <the> printer <of> a relatively small  64k  computer  
+
+
+DocID: CACM-2835
+
+set <of> values.  <the> most common are parameters <of> variables  
+<this> analysis can also be used <to> determine what  
+are discussed, <<and>> a modification <of> <the>  
+
+
+DocID: CACM-1699
+
+<of> such a system include ease <of> use, learning time, <<and>>  
+<of> <the> research is that an <information> <retrieval> system  
+<of> documents.  fac<to>rs involved in <evaluation>  
+
+
+DocID: CACM-0675
+
+how <the> codes were developed <<and>> presents a listing <of> <the>  
+<the> next ten years could witness <the> emergence <of> a practical  
+<the> codes are outlined <<and>> <the> problem <of> multiple-synonymous  
+
+
+DocID: CACM-2318
+
+<the> role <of> computer system models in <performance> <evaluation>  
+examines <the> interrelationships between models <<and>> o<the>r  
+computer system <performance>.  <this> paper  
+
+
+DocID: CACM-1194
+
+<the> main catalog is used <to> describe <the> documents,  
+<<and>> inverted lists are provided by <the> reposi<to>ry  
+<the> his<to>ry <of> <the> establishment <of> <the> acm reposi<to>ry  
+
+
+DocID: CACM-2598
+
+<of> <the> noiseless coding literature are used <to>  
+<to> <the> <information> algorithm in extending <the> depth  
+<the> two <problems> is also used <to> develop improvements  
+
+
+DocID: CACM-0696
+
+<to> be used as input <to> <the> company's conventional  
+<of> data on <the> disk files, <the> system au<to>matically  
+<to> s<to>re <information> required <to> provide up-<to>-date  
+
+
+DocID: CACM-1272
+
+<the> economy <of> editing as a function <of> <the> amount <of> condensation  
+in au<to>matic abstracting, citation <indexing>,  
+something <to> be desired.  <this> paper discusses  
+
+
+DocID: CACM-1108
+
+<to> <the> center <of> a partially illuminated moon.  <the>  
+<the> tracker system.  <the> system basically consists <of>  
+<of> <the> best technique selected was conducted <to> define  
+
+
+DocID: CACM-3089
+
+<information> processing.  <the> model is used <to> derive <the>  
+<<and>> system <performance> <evaluation>  
+<the> system is assumed <to> operate with a checkpointing  
+
+
+DocID: CACM-2437
+
+<this> paper presents a new approach <to> <the> analysis  
+all <this> can be done analytically.  <the> approach  
+a file are assumed <to> have been selected from <the>  
+
+
+DocID: CACM-2699
+
+sets <of> ordered n-tuples usable as mappings.  <this>  
+<of> very high level whose reper<to>ire <of> semantic  
+ tabulated  mappings <to> be proved.  once facts <of> <this>  
+
+
+DocID: CACM-1415
+
+by <the> harvard multipath analysis program.  <the> basic  
+<to> select <the> preferred syntactic interpretation <of> a sentence.  
+on <the> tree structure output <of> <the> analyzer,  
+
+
+DocID: CACM-2389
+
+<<and>> <includes> means <to> represent spaces <<and>> objects, <to> manipulate  
+<problems>.  <the> language is an extension <of> algol  
+according <to> a variety <of> constraints.  <the> algorithms  
+
+
+DocID: CACM-2033
+
+ space , <the> time required <to> identify a message as a nonmember <of> <the>  
+are intended <to> reduce <the> amount <of> space required <to> contain <the> hash-coded  
+<the> computational fac<to>rs considered are <the> size <of> <the> hash area  
+
+
+DocID: CACM-2842
+
+<this> paper is a tu<to>rial introduction <to> <the>  
+by d. scott <<and>> c. strachey.  <the> <application> <of> <the> <the>ory  
+<the> paper presents a formal definition <of> <the> language gedanken.  
+
+
+DocID: CACM-1516
+
+for all <information> be kept <to> a minimum.  a fully au<to>matic  
+for <the> au<to>matic compression <of> "any" <information>,  
+<<and>> iopak for fur<the>r compression <of> <information> <to> be s<to>red on tape or cards.  
+
+
+DocID: CACM-2669
+
+a model <of> <the> patterns by which programs refer <to> <the>  
+<to> manipulate, <<and>> is applicable <to> such diverse  
+model combines <the> effect <of> <the> <information>  
+
+
+DocID: CACM-1029
+
+<of> <the>se new variables.  <the> final step in <this> process  
+<to> <the> method is <the> decomposition <of> <the> given  
+derivation <of> analytical derivatives is laborious <<and>>  
+
+
+DocID: CACM-2094
+
+type <of> a general nonlinear algorithm due <to> osborne <<and>> watson  
+<the>ir solution.  in <this> paper <the> <application> <to> <problems> <of> <this>  
+successfully solve <problems> which lead <to> difficulties  
+
+
+DocID: CACM-2812
+
+was translated <to> <the> form necessary for use by <the>  
+<this> paper describes <the> use <of> computer-aided  
+<<and>> <performance> evalua<to>r. <the> statement <of> requirements  
+
+
+DocID: CACM-1911
+
+<to> <the> syntactic analysis problem for <this>  
+<<and>> its inverse is given in <the> form <of> lisp function definitions.  
+<of> both <the> generative procedure <of> <this> paper  
+
+
+DocID: CACM-2059
+
+a language for <the> representation <of> graph is described, <<and>> <the> formulation <of>  
+by means <of> a syntax-driven compiler.  <application> areas for <this> language are  
+operation research, network <problems>, control <the>ory, traffic <problems>, etc.  
+
+
+DocID: CACM-3134
+
+<this> paper describes a method for <the> organization <<and>> <retrieval> <of> attribute  
+<the> normal multiplication table method yields far more rapid <retrieval>  
+<the> appropriateness <of> <the> above approach <to> a given <information> system  
+
+
+DocID: CACM-2253
+
+<the> paper is <the>refore preoccupied with "<indexing>  
+ra<the>r than <the> machine code.  <the> goal is <to> au<to>matically  
+in <the> matrix calculi described by <the> authors  
+
+
+DocID: CACM-3059
+
+<<and>> applied <to> <the> analysis <of> <the>se <problems>.  
+<application> <to> cpu:i/o <<and>> i/o:i/o overlap  
+low degrees <of> multiprogramming.  <the> percentage  
+
+
+DocID: CACM-2050
+
+all <of> an unrestricted natural language text, some <application>s, <of> which  
+<to> manual methods, in which only a sample <of> <the> <to>tal available text is  
+object <of> certain verbs for approximately half <of> <the> relevant occurrences.  
+
+
+DocID: CACM-1048
+
+<<and>> ideal fluid flow, <<and>> stress concentration <the>ory  
+dirichlet-type <problems> associated with <this>  
+approximate solution <of> axially symmetric <problems>  
+
+
+DocID: CACM-1827
+
+<the> dcf.  events in <the> system are identified <<and>> recorded  
+recorded, <<and>> data items are fur<the>r identified by job <<and>>  
+in <the> michigan terminal system  mts  for <the>  
+
+
+DocID: CACM-2765
+
+<to> estimate average access time  read only  <<and>>  
+<of> queries, <<and>> machine timing <<and>> blocking specifications  
+criteria <to> determine <the> optimum set <of> index keys.  
+
+
+DocID: CACM-3119
+
+<the> impact <of> distributions <<and>> disciplines  
+simple queueing models are used <to> study <the> <performance> trade<of>fs <of>  
+service disciplines <<and>> distributions, level <of> multiprogramming,  
+
+
+DocID: CACM-1572
+
+<the> simulation is demonstrated by a study <of> <the>  
+in <the> analysis <of> <performance> characteristics.  <the>  
+used <to> assist in <the> design <<and>> development <of> new time-sharing  
+
+
+DocID: CACM-1934
+
+<to> a specific problem under <the> <the>ory <of> graphs.  
+<the> choice <of> <the> best order <of> computation  
+a description is given <of> how a tree representing <the>  
+
+
+DocID: CACM-2518
+
+<of> decision table programming <<and>> general purpose  
+<the> elements <of> <the> approach are discussed  
+for a significant class <of> large scale <problems>.  
+
+
+DocID: CACM-2547
+
+<the> neighboring boundaries <to> a point <<and>> <the>  
+intersection <of> two closed boundaries; <<and>> determine  
+representation <to> h<<and>>ling terrain <information>  
+
+
+DocID: CACM-2484
+
+element from <the> given set <of> objects.  <the> use <of>  
+<<and>> formulating algorithms under a given set <of> constraints.  
+in <this> general construction method; namely, a set <of>  
+
+
+DocID: CACM-2046
+
+<of> changes in query, update, <<and>> report traffic <<and>> natural growth in <the>  
+future users <of> large data banks must be protected from having <to> know how <the>  
+<of> data is changed <<and>> even when some aspects <of> <the> external representation  
+
+
+DocID: CACM-3041
+
+respect <to> <the>ir lexical ordering  between <the> left <<and>>  
+successful search <of> an mst is log n bounded <<and>>  
+value <to> force <the> search tree <to> be perfectly  
+
+
+DocID: CACM-2722
+
+<of> <the> search space  as a data structure for s<to>rage <of>  
+<the> root, o  n^ k-1 /k ; deletion <of> a r<<and>>om node,  
+<the> k-d tree is defined <<and>> examples are given. it  
+
+
+DocID: CACM-1855
+
+<to> a transformational grammar.  <the> main features <of> <the>  
+<<and>> an outline account is given <of> <the> analysis procedure.  
+produced by <the> program are given.  <the> output  
+
+
+DocID: CACM-2452
+
+<evaluation> <<and>> selection <of> file organization-a model <<and>> system  
+<of> data base structure design <<and>> <evaluation>.  
+structures <<and>> <to> facilitate as much as possible <the> process  
+
+
+DocID: CACM-2198
+
+<of> generalized data base management systems.  <this> introduction  
+<the> art in <the>se systems <<and>> discusses <the> differences  
+<to> a main report which analyzes <the> features  
+
+
+DocID: CACM-1087
+
+are discussed.  <the> purpose is <to> a general view <of>  
+<<and>> operation <of> an au<to>matic abstracting system  
+<to> discuss details or <to> indicate preferences among alternative solutions.  
+
+
+DocID: CACM-2092
+
+detail.  <the> system is written in lisp 1.5 <<and>> operates on <the> q-32  
+from question <to> answer enables effective use <to> be made <of> <this>  
+<information>.  it is concluded that <the> development <of> pro<to>syn<the>x  
+
+
+DocID: CACM-2082
+
+<this> idea is  1  <to> use <the> phrase structure <of> a program <to> define <the>  
+structure <of> a formal documentation for that program;  2  <to> use <the> syntactic  
+types <<and>> identifiers in <the> resulting structure <to> trigger <the> au<to>matic  
+
+
+DocID: CACM-1527
+
+is possible <to> make use <of> a recognition device <of> <this>  
+<the> au<to>matic <retrieval> <of> certain segments <of>  
+questions in <the> normal situation.  since <the> recognition  
+
+
+DocID: CACM-1856
+
+<the> same format as that <of> <the> memory.  in <this>  
+<to> "comprehend" english text.  when text which <the> program  
+<to> a general process for comprehending language, <<and>>  
+
+
+DocID: CACM-2889
+
+<of> hb[1] trees  avl trees  that is a function <of>  
+<the> cost <of> maintaining hb[k] trees drops sharply as <the>  
+<of> <the> size <of> <the> tree except for <the> average  
+
+
+DocID: CACM-2453
+
+<to> <the> optimal algorithm <of> reinwald <<and>> sol<<and>>,  
+<this> algorithm is easy <to> code <<and>> takes a much smaller  
+<information> <the>ory applied <to> <the> conversion  
+
+
+DocID: CACM-1651
+
+in <the> code itself, but from an efficiency <evaluation>:  
+inability <to> write subscripts, etc. .  <the> input interpreter  
+<the> article <includes> examples <of> input, output from a  
+
+
+DocID: CACM-1858
+
+<the> algorithm <includes> an au<to>matic error control  
+an analysis <of> <the> round-<of>f <<and>> truncation errors.  
+considerable attention has been devoted <to>  
+
+
+DocID: CACM-1792
+
+<of> on-line <<and>> <of>f line access <to> a computer.  <the>se  
+online <<and>> <of>f line programming <performance>  
+in programmer <performance>.  methodological <problems> encountered  
+
+
+DocID: CACM-2684
+
+declaration <of> an identifier <<and>> its uses, <the> correspondence  
+since <the> development <of> bnf, <the> definition  
+notably <the> compatibility between <the>  
+
+
+DocID: CACM-2494
+
+<the> plots, applied <to> a data matrix before <clustering>  
+<<and>> <to> <the> rearranged matrix after <clustering>,  
+<of> <the> elements <of> a data matrix <of> similarities or dissimilarities  
+
+
+DocID: CACM-3093
+
+after that <of> levy <<and>> graham <<and>> rhodes, appears <to>  
+by <information> which is directly <<and>> au<to>matically  
+obtainable from <the> <information> that is already present  
+
+
+DocID: CACM-2288
+
+<this> paper.  conditions under which <the> consecutive <retrieval>  
+<retrieval> system based on <the> consecutive  
+set.  its existence enables <the> design <of> an <information>  
+
+
+DocID: CACM-2870
+
+<of> secure <information> flow among security classes. <the>  
+<of> <the>m according <to> security objectives, <<and>>  
+<the> model provides a unifying view <of> all systems  
+
+
+DocID: CACM-2592
+
+<<and>> have a wide range <of> numerical characteristics.  
+<of> test <problems> that are <of> arbitrary size  
+<this> failure <to> adequately test <the> codes is that  
+
+
+DocID: CACM-2319
+
+<of> an operating system, an overall model <of> <the> <to>tal  
+<<and>> design <the> <performance> aspects <of> an operating system  
+with respect <to> operating system <performance>  
+
+
+DocID: CACM-1398
+
+criteria for <the> acceptance <of> a variable as well as <the>  
+type <problems> in <the> biological <<and>> social sciences  
+<of> <the> type <of> multivariate problem that is  
+
+
+DocID: CACM-2616
+
+on <the> conversion <of> programs <to> decision tables: method <<and>> objectives  
+<the> <problems> <of> converting programs <to> decision  
+in practice.  extensions <to> <the> <the>ory <of> computation  
+
+
+DocID: CACM-3012
+
+<<and>> <retrieval> system.  a moni<to>r built in<to> <the> computer  
+<the> use <of> <this> system.  <the> implications  
+<the> use <of> an interactive <information> s<to>rage  
+
+
+DocID: CACM-1681
+
+is sent <to> <the> system.  a macro flowchart <of> easy  
+designed <to> simplify communication between man <<and>>  
+<the> prin<to>ut <of> a <retrieval> demonstration.  
+
+
+DocID: CACM-2741
+
+in<to> states <of> saturation.  <this> analysis leads <to> a  
+behavior <<and>> evaluate <the> <performance> <of> computing  
+aggregation <<and>> <the> concept <of> nearly decomposable  
+
+
+DocID: CACM-0661
+
+<indexing> <<and>> <the> lambda-notation  
+some methods <of> <indexing> sequentially s<to>red  
+elements <of> sparse multi-dimensional arrays are  
+
+
+DocID: CACM-1769
+
+<the> onward sweep <of> au<to>matic processing <of>  
+are basic <to> all progress with <the> computer.  <this> complex  
+<the> <problems> being created by <the> population  
+
+
+DocID: CACM-0619
+
+<this> paper discusses <the> limited problem <of>  
+an au<to>matic scoring technique which matches <the> names  
+<<and>> operated on <the> telefile  a s<to>red-program  
+
+
+DocID: CACM-1602
+
+ <<and>> actually contains fortran vi as a <subset> .  
+with <the> translation from equation form <to> computer  
+a knowledge <of> numerical methods or <the> intricacies  
+

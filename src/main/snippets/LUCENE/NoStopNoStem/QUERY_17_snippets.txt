@@ -1,0 +1,702 @@
+LUCENE_NoStopNoStem
+
+Query
+Optimization of intermediate and machine code
+
+Top 100 Results (8 millisecs)
+
+
+DocID: CACM-1223
+
+<optimization> such as the effective use <of> index  
+high speed compilation <of> efficient object <code>  
+important part <of> common subexpression recognition.  
+
+
+DocID: CACM-1658
+
+over several test problems <of> small <and> <intermediate>  
+requirements <of> several <of> the algorithms are compared  
+is summarized.  the <machine> time <and> storage  
+
+
+DocID: CACM-1947
+
+<and> loop identification.  implementation <of> these <and> other  
+methods <of> analyzing the control flow <and> data  
+object <code> <optimization>  
+
+
+DocID: CACM-1795
+
+<code> <optimization>, sequencing <of> operations,  
+optimal <code> for serial <and> parallel computation  
+detection <of> common subexpressions  
+
+
+DocID: CACM-2491
+
+<and> s<of>tware realizations <of> it are given.  in s<of>tware  
+the concept <of> "threaded <code>" is presented as  
+an alternative to <machine> language <code>.  hardware  
+
+
+DocID: CACM-2253
+
+a by-product <of> the symbolic manipulation <of> expressions  
+rather than the <machine> <code>.  the goal is to automatically  
+languages, program <optimization>, range operations, symbolic  
+
+
+DocID: CACM-2748
+
+<of> threaded <code> but requires less space <and> is more  
+threaded <code>, snobol4, interpretors, <code> generation  
+indirect threaded <code>  
+
+
+DocID: CACM-2897
+
+for most contexts <of> the concatenate statement, the <code>  
+lower level <code> by a sequence <of> steps.  each  
+expansion-the task <of> tailoring this <code> to take  
+
+
+DocID: CACM-1134
+
+efficiency.  the subject <of> this paper is the <intermediate>  
+<of> simplicity the treatment <of> subscripts is ignored.  
+compilations <of> a series <of> arithmetic statements are  
+
+
+DocID: CACM-3080
+
+<of> memory in terms <of> program <and> stack sizes.  
+<and> pinpointing <of> a wide class <of> errors in the low  
+that <optimization> <of> the genre <of> this paper can result  
+
+
+DocID: CACM-1676
+
+<and> do-loop <and> <machine>-dependent <optimization> in  
+compiler, compiler-compiler, <machine> independence,  
+common subsegments, tree representation, <optimization>  
+
+
+DocID: CACM-3054
+
+quicksort, analysis <of> algorithms, <code> <optimization>, sorting  
+various <code> <optimization> techniques.  a detailed  
+results describing the performance <of> the programs  
+
+
+DocID: CACM-3005
+
+size by a factor <of> 3.  unlike a huffman <code>,  
+implications <of> structured programming for <machine> architecture  
+decoding time is minimized, <and> the <machine> is  
+
+
+DocID: CACM-2929
+
+<of> the procedure body.  the general problem <of>  
+with little increase in the size <of> compiled <code> <and> a  
+program <optimization>, compilers, structured  
+
+
+DocID: CACM-1154
+
+<of> the length <of> the input,  3  restrict the total amount  
+to a finite-state <machine> <and> then performing any  
+unrestricted turing <machine>s.  <intermediate> <machine>s  
+
+
+DocID: CACM-1807
+
+<and> the branching <and> do loop structure <of> the program.  
+a method <of> optimizing the computation <of>  
+analysis <of> the definition points <of> the variables  
+
+
+DocID: CACM-1564
+
+indexing <and> also by outputting the <code> as it is generated,  
+description <of> basic algorithm in detab/65 preprocessor  
+generator analyzes a decision table <and> produces  
+
+
+DocID: CACM-1523
+
+a <machine> with only one relocation <and> memory bound register.  
+majority <of> the <code> being written in fortran.  
+editing, compilation, <and> conversational execution.  
+
+
+DocID: CACM-2904
+
+compilers, <optimization> <of> compiled <code>, program analysis,  
+integrated package <of> local <optimization> algorithms.  
+an algorithm for reduction <of> operator strength  
+
+
+DocID: CACM-2423
+
+table entries <and> 82 words are links to <code>  
+words <of> 60-bit core memory <of> which 140 words are parsing  
+automata, translation grammars, translator <optimization>, compression algorithm  
+
+
+DocID: CACM-2495
+
+object-<code> <optimization>, register assignment,  
+arithmetic expressions, <code> generation, compilers,  
+adapting optimal <code> generation for arithmetic  
+
+
+DocID: CACM-1886
+
+<of> operations, detection <of> common subexpressions,  
+efficiency <of> the object <code> produced by first factoring  
+generation <of> optimal <code> for expressions via factorization  
+
+
+DocID: CACM-2433
+
+<code> structuring is the crucial illiac <optimization>  
+as part <of> an effort to design <and> implement  
+<of> the illiac <and> singles out unconventional features  
+
+
+DocID: CACM-2858
+
+program structure <and> a choice <of> <optimization>  
+<of> instruction addresses <and> formats under the  
+as a function <of> the distance <of> the instruction  
+
+
+DocID: CACM-2138
+
+data structures in terms <of> the access algorithm for elements <of> the structure.  
+the definition <of> the representation <of> all  
+the host <machine>, <and> to provide a rational means  
+
+
+DocID: CACM-1389
+
+the user to get much closer to <machine> <code> in  
+<of> linked data structures.  
+a programmer's description <of> l^6  
+
+
+DocID: CACM-2944
+
+deutsch <and> bobrow, the necessary features <of> which are  
+<optimization>, reference counts, storage  
+<of> cells can be deduced.  this information is  
+
+
+DocID: CACM-2835
+
+set <of> values.  the most common are parameters <of> variables  
+are discussed, <and> a modification <of> the  
+<of> recursive use <of> procedures is presented for  
+
+
+DocID: CACM-2968
+
+<and> extensions , weight-balance  i.e. bb <and> wb ,  
+use <of> the methods.  if insertion <and> subsequent  
+storage <and> retrieval  
+
+
+DocID: CACM-1670
+
+correspondences <of> 8-bit <and> hollerith <code>s for  
+<code>, hole-patterns, hole-patterns assignment,  
+usa st<and>ard, card <code>, punched card, punched card  
+
+
+DocID: CACM-0252
+
+<intermediate> <and> final results.  
+<of> integration, both computers do similar processing  
+this paper describes a method <of> duplex-computer  
+
+
+DocID: CACM-1402
+
+<of> obtaining functional values at points <intermediate>  
+<of> integration <of> differential equations.  this method  
+<of> additional information as in interpolation methods.  
+
+
+DocID: CACM-2701
+
+larger classes <of> function spaces <and> graphs by relaxing  
+global flow analysis, data flow, <code> <optimization>,  
+the time bound.  examples are given <of> <code>  
+
+
+DocID: CACM-1542
+
+<and> main storage space required <and> compiler <and> interpreter  
+<and> results are given in terms <of> microprogram  
+<of> interpretive <code>.  the structure <and> content  
+
+
+DocID: CACM-3053
+
+ exhaustive  <optimization>, although packing costs  
+unsuccessful searches, <and> auxiliary cost functions.  compared  
+access arrays.  introduction <of> frequency weights further  
+
+
+DocID: CACM-3150
+
+<and> objects with which we build.  this paper analyzes some <of> the  
+intricacies <of> a <machine>'s order <code>, higher level programming systems  
+algorithms, towards the description <of> the properties <of> the packages  
+
+
+DocID: CACM-1757
+
+data <code> for calendar date for <machine>-to-<machine>  
+usa st<and>ard, data <code>, calendar date, <machine>-to-<machine>  
+
+
+DocID: CACM-1231
+
+peephole <optimization>  
+optimizing technique called peephole <optimization>.  
+the method is described <and> examplesare given.  
+
+
+DocID: CACM-3171
+
+line number administration, diagnostic messages, abstract <machine> <code>  
+in either time or space, during execution <of> the program.  
+to be used for implementations <of> high level languages.  under suitable  
+
+
+DocID: CACM-1392
+
+extraction <of> the skeletal structure <of> an expression.  
+various facets <of> the design <and> implementation  
+is made to stress principles <and> ideas <of> general relevance  
+
+
+DocID: CACM-2616
+
+on the conversion <of> programs to decision tables: method <and> objectives  
+conversions are mainly program debugging <and> <optimization>  
+<and> computability are suggested.  
+
+
+DocID: CACM-2834
+
+binary reflected gray <code> <and> <code>words <of>  
+to the generation <of> the combinations <of> n things  
+taken k at a time, the compositions <of> integers, <and>  
+
+
+DocID: CACM-1275
+
+<code> structures for protection <and> manipulation  
+<of> variable length items  corrigendum   
+
+
+DocID: CACM-1783
+
+base.  for all combinations <of> rounding <and> truncation  
+conversions the question is considered <of> how  
+many significant digits are needed in the <intermediate>  
+
+
+DocID: CACM-1726
+
+the segmentation <of> printed text, the possibility <of>  
+on human demarcation <of> the various regions <of>  
+operation, <and> the facsimile reproduction <of> illustrations, are discussed.  
+
+
+DocID: CACM-1665
+
+range <of> applications outside the area <of> lexical  
+the practical application <of> the theory <of>  
+analyze the language <and> detect errors, <and>  
+
+
+DocID: CACM-1362
+
+in the <code>.  the manner <of> use <of> these  
+<and> suggests a corollary set <of> doctrines for the  
+are drawn between <code> extension <and> such  
+
+
+DocID: CACM-0048
+
+the <code> to be employed without punctuation, each <of>  
+<of> the <code> in some detail <and> the finding  
+<code>  with 64 10-bit <code> words to be employed  
+
+
+DocID: CACM-2107
+
+secondary clustering as a cause <of> hash <code> inefficiency is discussed, <and> a  
+<code> eliminating secondary clustering  
+previous methods are made both analytically <and> empirically.  
+
+
+DocID: CACM-3115
+
+complete enumeration <of> all 2 x 2 <and> 3 x 3 nonsingular  
+form bytes <of> text <of> a data encryption key  
+orderly enumeration <of> nonsingular binary  
+
+
+DocID: CACM-2233
+
+<of> encoding itself so as to yield new clues <and> deeper  
+<of> the beale cyphers <and> various types <of> simulations.  
+<machine> <and> analyzed the signatures <of> these synthetic  
+
+
+DocID: CACM-1652
+
+rate <of> the information channel linking the system <and>  
+<code> , is an 8-bit <code> set constructed  
+on the basis <of> the requirements <of> local environments.  
+
+
+DocID: CACM-1029
+
+derivation <of> analytical derivatives is laborious <and>  
+function, by introduction <of> <intermediate> variables,  
+derivatives <of> arbitrary algebraic functions  
+
+
+DocID: CACM-1387
+
+<of> large systems <of> equation due to the explosive  
+solution <of> systems <of> polynomial equations by elimination  
+growth in the <intermediate> equations <and> the hazards  
+
+
+DocID: CACM-1973
+
+a new method <of> hash coding is presented <and>  
+the linear quotient hash <code>  
+hashing, hash <code>, scatter storage, calculated  
+
+
+DocID: CACM-0210
+
+<and> their computation by <machine>, part i  
+recursive functions <of> symbolic expressions  
+
+
+DocID: CACM-3066
+
+errors <and> that the most effective methods  in terms <of>  
+<and> that the ability to detect certain types <of>  
+errors found <and> cost  employed pairs <of> subjects  
+
+
+DocID: CACM-3130
+
+elementary level topics <and> courses, <and> <intermediate> level courses.  
+staff, <and> articulation are presented.  
+the undergraduate degree program in computer science <of> the  
+
+
+DocID: CACM-2871
+
+diagnosis <and> correction <of> logical errors.  
+logical analysis <of> programs  
+programs are incomplete in that <intermediate>  
+
+
+DocID: CACM-2527
+
+<of> the apl operations on scalars, vectors, <and> arrays.  
+whose "<machine> language" is apl.  the <machine> is fully  
+implementation <of> high level language <machine>  
+
+
+DocID: CACM-2344
+
+manner <and> would not benefit from <optimization>.  features  
+the size <of> the store, <and> the speed <of> the cpu.  a comparison  
+on the <optimization> <of> performance <of> time-sharing systems by simulation  
+
+
+DocID: CACM-1062
+
+for <intermediate> manipulations, which are performed  
+a set <of> subroutines for use in fortran are  
+substring is stored sequentially in a block <of> common  
+
+
+DocID: CACM-1331
+
+<code> structures for protection <and> manipulation <of> variable-length items  
+<and> variable-length item manipulation is shown.  
+<of> alphanumeric characters for fixed word-length  
+
+
+DocID: CACM-0123
+
+as a countess program, generated <machine> <code>  
+versions <of> neliac accepted essentially identical  
+was used to generate a version <of> itself which, running  
+
+
+DocID: CACM-2746
+
+<machine> takes time proportional to the sum <of>  
+the lengths <of> the keywords.  the number <of> state transitions  
+number <of> keywords in a string <of> text.  the algorithm  
+
+
+DocID: CACM-3173
+
+configurations <of> prestatements corresponding to several lines <of> <code>.  
+to a line <of> <code>,  3  chunks are frequently occurring  
+a psychology <of> learning basic  
+
+
+DocID: CACM-2680
+
+the assignment <of> files to disk packs, <and> packs to either  
+facility, <and> reducing the number <of> mounts thus decreases  
+disk analysis, disk <optimization>, disk files,file  
+
+
+DocID: CACM-0406
+
+algol <and> <machine>-like assembly processor  
+the use <of> threaded lists in constructing a combined  
+
+
+DocID: CACM-0537
+
+a <machine> program for theorem-proving  
+connection with trial runs <and> possible improvements.  
+the program <of> a pro<of> procedure is discussed in  
+
+
+DocID: CACM-0124
+
+between solution time <and> the size <of> the  
+the assignment problem is formulated <and> briefly  
+solution is presented in algol <code>.  an empirical relation  
+
+
+DocID: CACM-2246
+
+object <machine>.  the design <of> the <machine>-independent  
+portable s<of>tware, level <of> language, <machine>  
+designed <machine>-independent language <and>  
+
+
+DocID: CACM-1167
+
+automatic translation <of> <machine> language  
+on the translation <of> <machine> language programs  
+primarily <of> a semantic nature.  a semi-automatic  
+
+
+DocID: CACM-3175
+
+<of> the alphabet has one fixed substitute, <and> the word divisions  
+every <code> letter is assigned probabilities <of> representing plain text  
+<code> letters, using joint letter probabilities.  iterating the updating  
+
+
+DocID: CACM-2106
+
+solution <of> interesting problems;  3  be capable <of> exposing all  
+<machine> language level.  any <machine> used for exposition  
+issues <of> significance, within the chosen <machine>;  4  be  
+
+
+DocID: CACM-2533
+
+gray <code> <and> the +- sign sequence when  
+gray <code>, sign sequences, ordering, positive  
+
+
+DocID: CACM-2053
+
+decision tables <and> clarifies the importance <of> proper coding  
+are simplicity <of> implementation <and> detection <of> ambiguities at  
+resulting in storage economy.  a comparison <of> the algorithms <and> others  
+
+
+DocID: CACM-2537
+
+minimum space, text storage, <optimization>,  
+common phrases <and> minimum-space text storage  
+<optimization> problem: determine how each message should  
+
+
+DocID: CACM-1066
+
+<of> problem statement in terms <of> basic data to linear  
+a computer <code>.  an advanced <code> must cope with  
+<of> the components <of> such a system are: translation  
+
+
+DocID: CACM-2877
+
+<and> h<and>les reducible <and> irreducible graphs indistinguishably.  
+<of> the program <and> all the definitions that are  
+program <optimization>, data flow analysis,  
+
+
+DocID: CACM-0241
+
+minimum <of> n multiplication, 2n additions, <and> 2n references  
+<machine> <of> the moments <of> a probability distribution,  
+<machine> calculation <of> moments <of> a probability distribution  
+
+
+DocID: CACM-2979
+
+<and> learning processes on the one h<and>, <and> <machine>  
+<of> game learning, poker, gambling <and> bluffing  
+studies in <machine> cognition using the game <of> poker  
+
+
+DocID: CACM-1786
+
+an improved hash <code> for scatter storage  
+hash <code>, hash table, scatter storage, searching  
+method <of> h<and>ling collisions is discussed.  known as  
+
+
+DocID: CACM-1915
+
+<of> concave points <and> automatically recognizes if only  
+increases roughly as the square <of> the number <of> edges.  
+perspective view, <machine> rendering <of> solids, automatic  
+
+
+DocID: CACM-2812
+
+<and> performance evaluator. the statement <of> requirements  
+analysis consists <of> a set <of> procedures <and> computer  
+<of> program modules <and> logical database structures.  
+
+
+DocID: CACM-2969
+
+<and> a possible application <of> the model.  
+<of> program <and> data files in a computer network  
+an <optimization> procedure for the allocation  
+
+
+DocID: CACM-1486
+
+detection <of> common parts or patterns <of> library  
+reprogramming <machine> <and> human intelligent behavior.  
+a reprogramming <machine>  
+
+
+DocID: CACM-2953
+
+<of> recursion removal involves the use <of> one  
+recursion elimination, <optimization> <of> programs,  
+various methods <of> recursion elimination are  
+
+
+DocID: CACM-2185
+
+a sequence <of> shifts, additions,<and> subtractions,  
+constant.  the most significant characteristics <of>  
+determines if the algorithm should be applied <and>  
+
+
+DocID: CACM-2699
+
+<of> very high level whose repertoire <of> semantic  
+above <and> below, <and> the single-valuedness <of>  
+are based upon, <and> extend, known techniques <of>  
+
+
+DocID: CACM-1603
+
+buffering, <and> task scheduling <and> provides  
+additions provide a uniform device to <machine>  
+which consists mostly <of> <machine>-language subroutine calls.  
+
+
+DocID: CACM-2801
+
+<of> the cases the compressed <code> results from the conventional  
+bcd <code> by simple removal <of> redundant  
+three-digit blocks, <and> separately compressed;  
+
+
+DocID: CACM-1770
+
+reasons for <and> against adoption <of> ethical rules  
+are considered, <and> several sections <of> the acm guidelines  
+ethics, pr<of>essional conduct, <code> <of> ethics, acm  
+
+
+DocID: CACM-2134
+
+operations research, <optimization> theory, assignment  
+solution time <and> problem size is given.  
+an extension <of> the munkres algorithm for  
+
+
+DocID: CACM-1719
+
+<and> industry <of> the criteria for <and> methods <of>  
+<and> optimizing is outlined; <and> the method is  
+number <of> types, <and> cost <of> data processing systems  
+
+
+DocID: CACM-0731
+
+<of> calling functions <and> subroutines <code>d in <machine> language.  
+finally, a set <of> field, particularly character,  
+<machine> language subroutines which are also defined.  
+
+
+DocID: CACM-0719
+
+<of> variable width stacks.  single <machine> comm<and>s may  
+or pop them up.  the availability <of> a variety <of> field  
+use <of> <machine>s <of> this class for compilation has  
+
+
+DocID: CACM-2195
+
+<of> stages is equal to the length n <of> the curves  or  
+between the structure <of> the figure <of> merit <and>  
+the complexity <of> the <optimization> process is then discussed.  
+
+
+DocID: CACM-1621
+
+spending valuable time <and> power on typographic considerations <and> pro<of>reading.  
+planning <of> typographical lay-out <and> computerized control  
+<of> a typesetting <machine>.  the point is made  
+
+
+DocID: CACM-3020
+
+<and> to obtain measurements <of> the cost <of> procedure  
+example <and> the final result <of> the process is  
+by strong <and> walker is amplified <and> applied to  
+
+
+DocID: CACM-1308
+
+<of> gravity, can be computed by subprograms <and> used in  
+<and> designers, will describe the part <and> specify the  
+drafting <machine>s <and> numerical controlled <machine> tools.  
+

@@ -1,0 +1,694 @@
+LUCENE_NoStopNoStem
+
+Query
+Articles on text formatting systems, including "what you see is what you
+get" systems.  Examples: t/nroff, scribe, bravo.
+
+Top 100 Results (106 millisecs)
+
+
+DocID: CACM-2876
+
+<<what>> informati<on> a given user can <get> from a database.  
+<is> d<is>cussed.  it <is> shown that intenti<on>al  
+resoluti<on> <is> dem<on>strated by several <examples>, and its realizati<on>  
+
+
+DocID: CACM-2341
+
+mathematical-equati<on> formati<on>, and <text> justificati<on>  
+character manipulati<on>, output <formatting>, string  
+language independenthat <is>, blocks require  
+
+
+DocID: CACM-3142
+
+<<what>> type of errors occur?  how easily are they corrected?  <<what>>  
+errors, <<systems>> errors, billing errors, management <<systems>>, c<on>sumers  
+agement packages <including> poor software <is> indicated.  while most  
+
+
+DocID: CACM-1926
+
+<text> editing, <formatting>, frequency dicti<on>ary,  
+<text> processing, indexing, printing, documentati<on>,  
+free-form input, very flexible <formatting> capabilities  
+
+
+DocID: CACM-2871
+
+express <<what>> <is> actually occurring in the program.  
+user, terminati<on> <is> not proven, and incorrect  
+to check simultaneously for correctness  <including>  
+
+
+DocID: CACM-2572
+
+<<what>> <is> proposed;  5  take steps to involve a representative  
+externally  of <<what>> <is> proposed;  2  project and perhaps  
+arguments for a moratorium <on> the c<on>structi<on>  
+
+
+DocID: CACM-0195
+
+<<what>> <is> a code?  
+
+
+DocID: CACM-1908
+
+<<systems>> c<on>ducted at mit <is> de<scribe>d in th<is> paper.  
+two such <<systems>> for <<what>> may well be the predominant user  
+th<is> study <is> the first known attempt to evaluate  
+
+
+DocID: CACM-3011
+
+nature of these <<systems>>, management use of computing <is>  
+governments.  <<what>> ex<is>ts <is> management-oriented  
+management practices where top management <is> supportive  
+
+
+DocID: CACM-2864
+
+<is> supported by <examples> taken from actual  
+through a formal definiti<on> of <<what>> c<on>stitutes  
+algol 60 programs <is> used to d<is>play d<is>tributi<on>s  
+
+
+DocID: CACM-0248
+
+a panel d<is>cussi<on> <on> "<<what>> <is> proprietary  
+<<what>> <is> proprietary in mathematical programming?-impressi<on>s  
+special interest committee <on> mathematical programming  
+
+
+DocID: CACM-1248
+
+having any knowledge of <<what>> it <is> supposed to do.  
+<on> the automatic simplificati<on> of computer programs  
+presented in th<is> paper <is> the problem of writing  
+
+
+DocID: CACM-1470
+
+programs, organizing <<systems>>, and referencing  
+subroutine call <is> syntactically ind<is>tingu<is>hable from  
+must understand <<what>> acti<on>s will be taken  
+
+
+DocID: CACM-0084
+
+and management c<on>trol <<systems>> of the federal government,  
+as of december 1957-ii  part 2 <see> ca590406   
+
+
+DocID: CACM-2312
+
+a pessim<is>tic forecast <is> given of <<what>> can be  
+<on> the present and future of scientific computati<on>  
+
+
+DocID: CACM-1112
+
+<text>, correct identificati<on>s were made for  
+each time to <see> if the words match-assuming  
+input word <is> compared to the dicti<on>ary again, testing  
+
+
+DocID: CACM-2541
+
+new c<on>cept for operating <<systems>>: separati<on>  
+and the system's addressing structure, and centralized the  
+<on>e of these domains to another has had <on> the  
+
+
+DocID: CACM-2931
+
+<<what>> <is> a computable process?  how  or how  
+mathematical answers to these queries:  <<what>> <is> a machine?  
+<on> implementati<on>s.  nevertheless much remains  
+
+
+DocID: CACM-1518
+
+modern computer <<systems>> <is> formidable.  <on>e general  
+of system/360 jobs that <get> simulated.  
+th<is> paper reports <on> the applicability  
+
+
+DocID: CACM-1616
+
+coordinate <<systems>> are l<is>ted.  
+tensor calculati<on>s <on> computer: appendix  
+which <is> capable of calculating various quantities  
+
+
+DocID: CACM-0718
+
+verificati<on>, and <<what>> <is> the cost of th<is>  
+how effective <is> a compiler at replacing explicit  
+
+
+DocID: CACM-2987
+
+<examples>.  it <is> shown that the poin ts of intersecti<on>  
+of two polyg<on>al lines can be located by <<what>> <is> essentially  
+lines <is> de<scribe>d which allows sets of c<on>secutive  
+
+
+DocID: CACM-2786
+
+<on> either a phototypesetter or <on> a terminal with forward  
+interfaces directly with <text> <formatting> programs, so  
+graphics, printing, <text> processing.  
+
+
+DocID: CACM-1828
+
+processes are examined; their validity <is>  
+the following problem <is> c<on>sidered:  given  
+activity allowed.  it <is> assumed that the data base  
+
+
+DocID: CACM-0724
+
+<is> attributed primarily to poor management-salary <is>  
+vary with functi<on>, <<systems>> programmers differing  
+attitude toward programmers and programming <on> the part  
+
+
+DocID: CACM-2988
+
+methodology for <including> accurately the effects  
+network models, in teractive computer <<systems>>  
+in queueing network models of computer <<systems>>.  
+
+
+DocID: CACM-2519
+
+<is> examined.  the problem <is> analyzed in terms of  
+<on> the problem of communicating complex informati<on>  
+<is> de<scribe>d.  these include ways of augmenting written  
+
+
+DocID: CACM-2314
+
+semantics, advanced programming <<systems>>  
+<<systems>> are highlighted: good interactive  
+programming languages, interactive <<systems>>, c<on>trol  
+
+
+DocID: CACM-3173
+
+th<is> paper addresses the questi<on>: <<what>> does a pers<on> know  
+occurs in the computer and involves some operati<on> <on> some object  
+structures are identified:  1  a transacti<on> <is> an event that  
+
+
+DocID: CACM-2764
+
+based <on> <<what>> we call "semantic density."  the system  
+<is> c<on>trasted:  1  with syntax oriented lingu<is>tic  
+paragraph length input.  its core <is> a system of preferential  
+
+
+DocID: CACM-2835
+
+algorithm <is> given to further improve optimizati<on>.  
+of recursive use of procedures <is> presented for  
+th<is> analys<is> can also be used to determine <<what>>  
+
+
+DocID: CACM-2344
+
+<on> the optimizati<on> of performance of time-sharing <<systems>> by simulati<on>  
+n<on>preemptive time-sharing <<systems>>.  the compar<is><on>  
+it <is> shown that significant improvements  
+
+
+DocID: CACM-2947
+
+additi<on>al features. it <is> implemented <on> a pdp/11 time-sharing  
+informati<on> retrieval, <text> editing, minicomputers,  
+and <text> analys<is> system for n<on>technical users,  
+
+
+DocID: CACM-3179
+
+and <<what>> research <is> needed in the future.  
+<<what>> <is> currently known about eft impacts in society  
+it <is> increasingly recognized that large-scale technologies such as eft  
+
+
+DocID: CACM-2629
+
+operating <<systems>>, <including>:  1  a hierarchical file system  
+unix <is> a general-purpose, multi-user, interactive  
+100 sub<<systems>> <including> a dozen languagesh<is>  
+
+
+DocID: CACM-1698
+
+execute?  <<what>> bounds can be set <on> overall buffer  
+input?  <<what>> <is> the maximum rate at which a process can  
+based <on> the properties of th<is> community  
+
+
+DocID: CACM-2631
+
+<text> searching in direct access <<systems>>  
+<text> searching, informati<on> theory, file organizati<on>,  
+more suited to implementati<on> <on> storage devices.  
+
+
+DocID: CACM-2989
+
+programs running <on> the dec system 10 <is>p.  
+executi<on>s.  the c<on>cept of a reg<is>ter life <is>  
+were reduced? <<what>> are reg<is>ters used for during their  
+
+
+DocID: CACM-1001
+
+<<what>> c<on>stitutes infringement of a copyright <on>  
+<is> fed into a computer and <is> indexed, analyzed,  
+<on> programs <is> also d<is>cussed.  the paper  
+
+
+DocID: CACM-0397
+
+machine <<systems>>, abbreviati<on>s, etc., it  
+books, <articles>, programming terms, hardware terms, equipment,  
+for the reference material <is> flexible, while the  
+
+
+DocID: CACM-2582
+
+<is> particularly suited to those <<systems>> where primary memory  
+it <is> based <on> the c<on>cept of critical working set, a  
+via restructuring <is> de<scribe>d.  the method  
+
+
+DocID: CACM-1393
+
+div<is>ors.  pm <is> based <on> the refco iii l<is>t processing  
+calculati<on> <is> menti<on>ed, and exaples are  
+system, which <is> de<scribe>d and compared with  
+
+
+DocID: CACM-1625
+
+<on> the automatic simplificati<on> of source-language programs  
+faster than the original.  sure <is> de<scribe>d,  
+program <is> supposed to do.  these methods have  
+
+
+DocID: CACM-2580
+
+<on> the producti<on>s deciding when and to <<what>> extent  
+a method <is> de<scribe>d for composing musical  
+<is> not needed for rounds--all the hardware required  
+
+
+DocID: CACM-3089
+
+principal performance measures, <including> availability,  
+database reliability, file <<systems>>, checkpoints, recovery  
+system under intermittent failures <is> proposed.  
+
+
+DocID: CACM-1457
+
+data structures, <including> linear <text>, sparse matrices,  
+<<systems>> are first briefly reviewed.  a variety  
+
+
+DocID: CACM-0300
+
+store, "e. language bros., inc.", <is> programming  
+potential users of computing <<systems>>.  a mythical department  
+in the cobol language <on>e of the many runs <on> its computer.  
+
+
+DocID: CACM-2927
+
+given an integer n, <<what>> <is> the computati<on>al  
+some new upper bounds <on> the generati<on> of prime numbers  
+complexity.  th<is> upper bound <is> shown to be equivalent  
+
+
+DocID: CACM-1413
+
+will become the actual and, if so, <on> <<what>> time  
+educati<on>al technology <is> currently quite  
+or inventi<on>s.  the unknown <is> whether the potential  
+
+
+DocID: CACM-3065
+
+deleti<on> algorithm-the reverse of <<what>> <on>e usually  
+algorithm <is> inherently much more difficult than the  
+
+
+DocID: CACM-1267
+
+<<systems>> performance <is> d<is>cussed.  th<is> d<is>cussi<on>  
+that affect informati<on> thruput, and some <examples>  
+performance of <<systems>> used for data transm<is>si<on>  
+
+
+DocID: CACM-2479
+
+it <is> important for two reas<on>s:  1  the <<systems>> designer  
+<<systems>> admin<is>trati<on>, informati<on> <<systems>>  
+<is> proposed. the proposed addendum <is> to include in the curriculum  
+
+
+DocID: CACM-1383
+
+definiti<on> of <<what>> <is> interesting in mathematics.  
+the importance of applied logic in human affairs <is>  
+the result <is> that <on>e should no l<on>ger think in terms  
+
+
+DocID: CACM-1324
+
+<<systems>> which are programmed and operating  
+into logical calculi.  <<systems>> are classified  
+about pictures and <<systems>> which translate from engl<is>h  
+
+
+DocID: CACM-1196
+
+a number of <examples> are d<is>cussed in detail.  
+routine for the soluti<on> of such <<systems>> furn<is>hes  
+of the numerical soluti<on> of <<systems>> of ordinary differential  
+
+
+DocID: CACM-2165
+
+algebra <<systems>> to problems of general relativity  
+<including> the derivati<on> of the field equati<on>s, the  
+general relativity and the applicati<on> of algebraic manipulative <<systems>>  
+
+
+DocID: CACM-2375
+
+<<systems>>, resp<on>se time, rotati<on>al delay,  
+units, time-sharing <<systems>>, waiting time  
+performance <including> system oriented and individual  
+
+
+DocID: CACM-2882
+
+<<systems>>.  effectiveness of the methodology <is> dem<on>strated  
+retrieval <<systems>>.  these data retrieval <<systems>> can  
+organizati<on> in data retrieval <<systems>>  
+
+
+DocID: CACM-2356
+
+<is> illustrated by means of a variety of <examples> from a tutorial system.  
+main goal <is> to provide specificati<on>s sufficiently  
+a technique for software module specificati<on> with <examples>  
+
+
+DocID: CACM-2859
+
+<including> those more nearly like real <<systems>>  
+of program behavior and simulati<on>s of <<systems>>  
+interference in multiprocessor computer <<systems>> with interleaved memory  
+
+
+DocID: CACM-3150
+
+<<systems>> and comp<on>ents.  in order to develop such <<systems>>, we need  
+programming, programming languages, programming <<systems>>, <<systems>> development  
+as computer technology matures, our growing ability to create large <<systems>> <is>  
+
+
+DocID: CACM-1739
+
+the <text> matches the given regular expressi<on>.  <examples>,  
+embedded in character <text> <is> de<scribe>d and  
+<is> d<is>cussed.  the compiler accepts a regular  
+
+
+DocID: CACM-1644
+
+polynomial <is> de<scribe>d.  
+<on> the computati<on> of least squares polynomials  
+the c<on>stant term of the computed polynomial to <get>  
+
+
+DocID: CACM-2622
+
+<is> unable to invert.  th<is> functi<on> <is> applied to the  
+scheme <is> presented which does not require secrecy  
+table which <is> available to <on>ly the authenticati<on>  
+
+
+DocID: CACM-1435
+
+<<systems>>.  although major emphas<is> <is> placed <on> analys<is>  
+informati<on> <on> the ex<is>ting literature <on> experimental  
+design of computer simulati<on> experiments for industrial <<systems>>  
+
+
+DocID: CACM-1097
+
+c<on>versi<on> between number <<systems>> <is> presented  
+
+
+DocID: CACM-2343
+
+<is> briefly d<is>cussed, and it <is> noted that many  
+many computer <<systems>> solve executable storage  
+a proposal <is> presented which utilizes  
+
+
+DocID: CACM-1461
+
+d<is>cussi<on> summary <on> operating <<systems>>  
+
+
+DocID: CACM-2396
+
+<text>, resolves ambiguities, adds informati<on>  
+natural language processing, semantic memory, <text>  
+processing, based <on> a semantic memory network  
+
+
+DocID: CACM-2909
+
+<<what>> can we do about the unnecessary diversity  
+
+
+DocID: CACM-2501
+
+<text> editing, time-sharing, <on>-line <text> editing,  
+method for addressing <text> by c<on>tent <is> provided.  th<is>  
+interactive <text> editing, terminal, remote terminal,  
+
+
+DocID: CACM-2739
+
+<on> ten years' experience parsing <text> sentences with  
+grammar <is> increased, an efficient representati<on>  
+sentences have been based <on> augmented c<on><text>-free  
+
+
+DocID: CACM-3112
+
+which c<on>tinuously reclaims garbage, <including>  
+classical implementati<on>s of l<is>t processing <<systems>>  
+a real-time l<is>t processing system <is> <on>e  
+
+
+DocID: CACM-2852
+
+<is> a report <on> a course entitled, "the technology  
+adding a course <on> informati<on> <<systems>> admin<is>trati<on>  
+educati<on>, informati<on> <<systems>> admin<is>trati<on>, computer  
+
+
+DocID: CACM-1341
+
+<on> the usefulness of future <<systems>>, particularly  
+problem further <is> d<is>cussed.  
+levels of computer <<systems>>  
+
+
+DocID: CACM-1711
+
+informati<on> <is> given <on> patents, copyrights and  
+problems. focus <is> also <on> trouble spots in c<on>tracting  
+and retrieval <<systems>>, <including> the pending  
+
+
+DocID: CACM-1099
+
+various occupati<on>s through computer use <including>  
+planning. also of immediate interest <is> the  
+that of programmer, <is> important for future rehabilitati<on>  
+
+
+DocID: CACM-2390
+
+the drawbacks that th<is> places <on> research, it <is> suggested  
+them from <<what>> they already know to the background  
+an updated file of their current knowledge, and <on> selecting  
+
+
+DocID: CACM-2358
+
+<is> rather limited, it <is> then shown how the multics  
+since the size of main memory <on> c<on>temporary <<systems>>  
+many c<on>temporary <<systems>> permit some degree of  
+
+
+DocID: CACM-1164
+
+emulati<on> <is> developed and includes secti<on>s <on> both the  
+<<systems>> <on> ibm system/360.  
+emulati<on> of large <<systems>>  
+
+
+DocID: CACM-2203
+
+performance study <on> large ex<is>ting formatted  
+method take <on> different values.  the performance of  
+each method <is> summarized in terms of the number  
+
+
+DocID: CACM-1652
+
+applicati<on>s in <on>line <<systems>>  
+code , <is> an 8-bit code set c<on>structed  
+<on> the bas<is> of the requirements of local envir<on>ments.  
+
+
+DocID: CACM-1046
+
+in a number of <articles> publ<is>hed during the  
+the purpose of th<is> paper <is> purely expository.  
+of their system. it expands <on> some points that the original  
+
+
+DocID: CACM-2372
+
+<on> the implementati<on> of security measures in informati<on> <<systems>>  
+management informati<on> <<systems>>  
+operating <<systems>>, access management, data banks,  
+
+
+DocID: CACM-3128
+
+<<systems>>.  the mechan<is>m <is> defined formally, and then several  
+<<systems>>, security models, mutual exclusi<on>, semaphores  
+a new synchr<on>izati<on> mechan<is>m <is> proposed, using  
+
+
+DocID: CACM-2002
+
+basic syntax of amesplot <is> outlined, and a brief descripti<on> <is> given  
+elements may be combined into a system based <on> simple modules <is> dem<on>strated.  
+of plots from multiple, independent, self-c<on>tained subplots <is> de<scribe>d.  
+
+
+DocID: CACM-1453
+
+for linear <<systems>> of algebraic equati<on>s,  
+languages, <including> some sublanguage of algol.  
+terms, as far as its c<on><text>-free porti<on> <is>  
+
+
+DocID: CACM-1854
+
+which <is> available in most modern computers <is>  
+scheme <is> presented which avoids the c<on>cept  
+<on> multiprogramming, machine coding, and computer organizati<on>  
+
+
+DocID: CACM-1170
+
+the system <is> operati<on>al and available <on>  
+<including> 300 used earlier by knowlt<on> in  
+a dependency analys<is> system based <on> pattern  
+
+
+DocID: CACM-1681
+
+command language, which <is> briefly de<scribe>d.  
+easy engl<is>h <is> a natural command language  
+engl<is>h <is> included, and an appendix provides  
+
+
+DocID: CACM-2407
+
+<<systems>> in organizati<on>s <is> d<is>cussed, and a  
+informati<on> <<systems>>, informati<on> analys<is>,  
+programs in informati<on> <<systems>>  
+
+
+DocID: CACM-2583
+
+<<systems>>, regulati<on>s, social and behavioral  
+<<systems>>: a report from stanley house  
+
+
+DocID: CACM-1748
+
+systems  
+<<systems>> <is> explained.  some aspects of time-oriented  
+design and analys<is> of multiprocessing <<systems>>.  
+
+
+DocID: CACM-2030
+
+for grammars which c<on>tain loops.  the algorithm <is>  
+grammars and general rewriting <<systems>>, and the difference between  
+versi<on> of the basic algorithm <is> presented which blocks infinite analyses  
+
+
+DocID: CACM-2198
+
+codasyl <<systems>> committee  
+generalized data base management <<systems>>"  
+and update functi<on>s acting <on> network  
+
+
+DocID: CACM-2522
+
+operating <<systems>>, superv<is>ory <<systems>>  
+<<systems>>, resource allocati<on>, software evaluati<on>,  
+recent research in time-sharing paging <<systems>>  
+
+
+DocID: CACM-1462
+
+<is> built <on> the well-establ<is>hed need for standard  
+multilevel operating <<systems>>  
+operating <<systems>>. th<is> implies that all applicati<on>s-no  
+
+
+DocID: CACM-2730
+
+interactive programming, time-sharing <<systems>>, natural  
+interactive programming <<systems>> often c<on>tain  
+instructi<on> regarding the use of the various <<systems>>  
+
+
+DocID: CACM-2537
+
+minimum space, <text> storage, optimizati<on>,  
+comm<on> phrases and minimum-space <text> storage  
+strings, such as compiler diagnostic messages, <is>  
+
+
+DocID: CACM-1856
+
+new <text>.  by th<is> means, the meaning of all <text>  
+<is>, <on>ce such an asserti<on> or capability <is> put  
+to "comprehend" engl<is>h <text>.  when <text> which the program  
+

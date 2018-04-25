@@ -1,0 +1,712 @@
+LUCENE_NoStopNoStem
+
+Query
+Articles describing the relationship between data types and concurrency
+(e.g. what is the type of a process?  when is a synchronization attempt 
+between two processes "type correct"?  in a message-passing system is there
+any notion of the types of messages?--i.e. any way to check that the sender
+of the message and the receiver are both treating the bit stream as some
+particular type)
+
+Top 100 Results (24 millisecs)
+
+
+DocID: CACM-2265
+
+<to> <<<type>>> <check><in>g <in> <<<a>>>lgol 60 <<<is>>> m<<<a>>>de, <<<<a>>>nd> <<<<<<<the>>>>>>> <<<a>>>ttend<<<a>>>nt  
+<<<<<<<the>>>>>>> <notion> <<<<of>>>> <<<type>>> <check><in>g <<<<a>>>nd> presents <<<a>>> p<<<a>>>rti<<<a>>>l  
+solution <to> <<<<<<<the>>>>>>> <<<type>>> <check><in>g problem b<<<a>>>sed on <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-2956
+
+over <<<<<<<the>>>>>>> elements <<<<of>>>> <<<a>>>ny f<in>ite set  <in>ste<<<a>>>d <<<<of>>>> <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> dom<<<a>>><in> <<<<of>>>> <<<a>>>n <<<a>>>rr<<<a>>>y <<<a>>>s <<<a>>> <d<<<a>>>t<<<a>>>> <<<type>>>, <<<<<<<the>>>>>>> need for  
+<<<a>>> number <<<<of>>>> <<<is>>>sues <<<a>>>re explored concern<in>g <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-2632
+
+<<<<of>>>> <<<a>>>ny <<<<of>>>> <<<<<<<the>>>>>>> oper<<<a>>>tions def<in>ed with respect <to> th<<<a>>>t  
+<to> <<<a>>> given <<<type>>>, sh<<<a>>>r<in>g, <<<<a>>>nd> protection <<<<of>>>> <<<a>>>ny reference  
+<<<type>>> <<<<of>>>> object.  <<<<<<<the>>>>>>> mech<<<a>>>n<<<is>>>ms provide <<<a>>> coherent  
+
+
+DocID: CACM-3105
+
+<<<a>>> l<<<a>>>ngu<<<a>>>ge extension for express<in>g constr<<<a>>><in>ts on <d<<<a>>>t<<<a>>>> <<<a>>>ccess  
+<<<<<<<the>>>>>>> <<<a>>>ppro<<<a>>>ch c<<<a>>>n be used <to> extend <<<a>>>ny strongly-<<<type>>>d  
+such <<<a>>>s b<<<a>>>nk <<<a>>>ccount records <in> <<<a>>> b<<<a>>>nk's <d<<<a>>>t<<<a>>>> b<<<a>>>se.  
+
+
+DocID: CACM-2060
+
+<<between>> <some> reference <<<<a>>>nd> its v<<<a>>>lue,   3  <<<a>>>ll compound <d<<<a>>>t<<<a>>>>  
+structures <<<a>>>re tre<<<a>>>ted <<<a>>>s functions.   4  <<<type>>> decl<<<a>>>r<<<a>>>tions <<<a>>>re  
+<<<<of>>>> v<<<a>>>ri<<<a>>>bles.   2  <<<a>>>ssignment <<<<a>>>nd> <in>direct <<<a>>>ddress<in>g <<<a>>>re form<<<a>>>lized  
+
+
+DocID: CACM-3142
+
+<wh<<<a>>>t> <<<type>>> <<<<of>>>> errors occur?  how e<<<a>>>sily <<<a>>>re <<<<<<<the>>>>>>>y <correct>ed?  <wh<<<a>>>t>  
+<<<is>>> <<<<<<<the>>>>>>> re<<<a>>>ction <<<<of>>>> consumers <to> errors-<to> <<<a>>> f<<<a>>>ilure <to> <correct>  
+<<<<<<<the>>>>>>> prev<<<a>>>lence with which errors m<<<a>>>y be encountered by <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-2560
+
+<system> with <<<a>>> <two>-level s<to>r<<<a>>>ge <system> <in> which <<<<<<<the>>>>>>>re  
+<<<<<<<the>>>>>>> results <<<a>>>re presented <<<<of>>>> <<<a>>>n <<<a>>>n<<<a>>>lys<<<is>>> <<<<of>>>>  
+by multiprogr<<<a>>>mm<in>g <in> <<<<<<<the>>>>>>> presence <<<<of>>>> th<<<is>>> <<<type>>> <<<<of>>>> s<to>r<<<a>>>ge <system>.  
+
+
+DocID: CACM-3031
+
+thrust <<<<of>>>> <<<<<<<the>>>>>>> p<<<a>>>per <<<is>>> tw<<<<of>>>>old.  first, it <<<is>>> shown how  
+<to>ols <<<a>>>re described which c<<<a>>>n be used <both> <to> <<<a>>>u<to>m<<<a>>>te  
+<<<<<<<the>>>>>>> <process> <<<<of>>>> prov<in>g <<<<<<<the>>>>>>> <correct>ness <<<<of>>>> <<<a>>>n implement<<<a>>>tion  
+
+
+DocID: CACM-2341
+
+<in> <wh<<<a>>>t> <<<a>>>ppe<<<a>>>rs <to> be <<<a>>>n e<<<a>>>sy <<<<a>>>nd> n<<<a>>>tur<<<a>>>l w<<<a>>>y.  <in> <<<a>>>ddition  
+<in> <<<a>>>ny <<<<of>>>> three dimensions, <<<<a>>>nd> merged on <<<<<<<the>>>>>>> b<<<a>>>s<<<is>>>  
+<<<<a>>>nd> prep<<<a>>>r<<<a>>>tion  h<<<a>>>ve been progr<<<a>>>mmed on <<<a>>> pr<in>ter  
+
+
+DocID: CACM-2651
+
+<<<<a>>>nd> very flexible <d<<<a>>>t<<<a>>>> <<<type>>> beh<<<a>>>vior, <in> <<<a>>> context th<<<a>>>t  
+<<<a>>> number <<<<of>>>> fe<<<a>>>tures specific<<<a>>>lly designed <to>  
+set <<<<of>>>> <d<<<a>>>t<<<a>>>> <<<<type>>>s> <<<<a>>>nd> <<<a>>>ssoci<<<a>>>ted oper<<<a>>>tions <in> <<<a>>> m<<<a>>>nner  
+
+
+DocID: CACM-2342
+
+s' <in> <<<a>>>ccord<<<a>>>nce with <<<a>>> tr<<<a>>>nsition rule s --> s'.  <<<a>>>  
+<<<<<<<the>>>>>>> <correct>ness <<<<of>>>>   or d<<<is>>>credit  prove <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> form<<<a>>>tion <<<<of>>>> p<<<a>>>rti<<<a>>>l rules <<<<a>>>nd> <<<<<<<the>>>>>>> c<<<a>>>lcul<<<a>>>tion <<<<of>>>>  
+
+
+DocID: CACM-2912
+
+<to> <<<<<<<the>>>>>>> gener<<<a>>>l problem <in> which <<<a>>> re<<<a>>>d <<<is>>> repe<<<a>>>ted if  
+<process> <<<is>>> considered.  it <<<is>>> <<<a>>>ssumed th<<<a>>>t only  
+<to> illustr<<<a>>>te <<<<<<<the>>>>>>>ir use.  <<<<<<<the>>>>>>>se <in>clude <<<a>>> solution  
+
+
+DocID: CACM-3021
+
+<<<<<<<the>>>>>>> rem<<<a>>><in>der <when> <<<<<<<the>>>>>>> result <<<is>>> divided by <<<<<<<the>>>>>>> publicly  
+<<<a>>> mess<<<a>>>ge c<<<a>>>n be "signed" us<in>g <<<a>>> priv<<<a>>>tely held  
+<<<a>>> method for obt<<<a>>><in><in>g digit<<<a>>>l sign<<<a>>>tures <<<<a>>>nd> public-key cryp<to><system>s  
+
+
+DocID: CACM-3103
+
+<<<is>>> d<<<is>>>cussed.  th<<<is>>> <process> <<<is>>> d<<<is>>>cussed <in> det<<<a>>>il for  
+proved <to> be very helpful <in> construct<in>g <<<<a>>>nd>  
+<in> low-level implement<<<a>>>tion det<<<a>>>ils.  <in> <<<<<<<the>>>>>>> p<<<a>>>st,  
+
+
+DocID: CACM-2184
+
+r<eg><<<a>>>rded <<<a>>>s <<<<<<<the>>>>>>> <<<a>>>bstr<<<a>>>ction b<<<a>>>sed upon <<<<<<<the>>>>>>> first <two> terms <<<<of>>>>  
+<to> which <<<<<<<the>>>>>>>y overl<<<a>>>p. it <<<is>>> suggested th<<<a>>>t <<<<<<<the>>>>>>>re  
+<<<<<<<the>>>>>>> <two> functions <<<a>>>re d<<<is>>>cussed <in> terms <<<<of>>>> <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-2957
+
+<<<is>>> shown th<<<a>>>t <<<<<<<the>>>>>>>se <notion>s <<<a>>>re complement<<<a>>>ry <<<<a>>>nd> <both> <<<a>>>re  
+<<<a>>>s collections <<<<of>>>> <<<a>>>ggr<eg><<<a>>>tes <<<a>>>re structured <<<a>>>s  
+<d<<<a>>>t<<<a>>>> <<<a>>>bstr<<<a>>>ction, rel<<<a>>>tion<<<a>>>l <d<<<a>>>t<<<a>>>>b<<<a>>>se, <d<<<a>>>t<<<a>>>> <<<type>>>,  
+
+
+DocID: CACM-2850
+
+<<<<of>>>> condition<<<a>>>l br<<<a>>>nch <<<type>>> st<<<a>>>tements.  <<<a>>>  
+expressions, <<<a>>> simple progr<<<a>>>m test<in>g m<<<a>>>n<<<a>>>ger, <<<<a>>>nd> <<<a>>> progr<<<a>>>m  
+<<between>> symbolic execution <<<<a>>>nd> progr<<<a>>>m prov<in>g <<<is>>> <<<a>>>lso <in>cluded.  
+
+
+DocID: CACM-1828
+
+<process>es <<<a>>>re ex<<<a>>>m<in>ed; <<<<<<<the>>>>>>>ir v<<<a>>>lidity <<<is>>>  
+file <system>.  methods for synchroniz<<<a>>>tion <<<<of>>>>  
+by more th<<<a>>>n one <process>, <wh<<<a>>>t> <<<a>>>re <<<<<<<the>>>>>>> rules for synchroniz<<<a>>>tion  
+
+
+DocID: CACM-2321
+
+sub<system> designs.  <<<a>>> focus on <some> <<<<of>>>> <<<<<<<the>>>>>>> problems <<<is>>>  
+synchroniz<<<a>>>tion, error control, sign<<<a>>>l<in>g, stre<<<a>>>m  
+multiplex<in>g, <<<<a>>>nd> switch control, <in> <<<a>>>ddition <to> m<in>imiz<in>g  
+
+
+DocID: CACM-2958
+
+<<<<of>>>> <<<a>>> symbol t<<<a>>>ble for <<<a>>> block structured l<<<a>>>ngu<<<a>>>ge; <<<a>>> d<<<is>>>cussion  
+<<<<<<<the>>>>>>> p<<<a>>>per <<<a>>>lso cont<<<a>>><in>s <<<a>>> brief d<<<is>>>cussion <<<<of>>>> <<<<<<<the>>>>>>> problems  
+<<<<of>>>> <<<<<<<the>>>>>>> pro<<<<of>>>> <<<<of>>>> its <correct>ness <<<is>>> given.  
+
+
+DocID: CACM-2233
+
+<to> m<<<a>>>tch <<<<<<<the>>>>>>> letters <<<<of>>>> <<<<<<<the>>>>>>> cle<<<a>>>r text or mess<<<a>>>ge.  
+<<<<of>>>> encod<in>g itself so <<<a>>>s <to> yield new clues <<<<a>>>nd> deeper  
+<<<<of>>>> <<<<<<<the>>>>>>> un<in>iti<<<a>>>ted, <<<<<<<the>>>>>>> encod<in>g method used <in> <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-2941
+
+<<<<type>>>s> <<<<a>>>nd> <<<type>>> coercions, <<<<<<<the>>>>>>> benefits <<<<of>>>> <<<<<<<the>>>>>>> <<<type>>> <system>  
+<<<<a>>>nd> why it <<<is>>> bre<<<a>>>ched occ<<<a>>>sion<<<a>>>lly, <<<<a>>>nd> <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> specific <to>pics <<<a>>>ddressed <<<a>>>re: module structure  
+
+
+DocID: CACM-2003
+
+<<<<<<<the>>>>>>> design <process>, <<<a>>>re presented.  <<<<<<<the>>>>>>> m<<<a>>><in> emph<<<a>>>s<<<is>>> <<<is>>> given <to> <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> functions needed <in> computer-<<<a>>>ided circuit design.  <<<<<<<the>>>>>>> second one <<<is>>>  
+so th<<<a>>>t <<<<<<<the>>>>>>> designer who <<<is>>> f<<<a>>>mili<<<a>>>r with fortr<<<a>>>n need not le<<<a>>>rn <<<a>>> new  
+
+
+DocID: CACM-3128
+
+<to> protection mech<<<a>>>n<<<is>>>ms <in> <<<<<<<the>>>>>>> <system> <<<is>>> expl<<<a>>><in>ed; <in> p<<<a>>>rticul<<<a>>>r,  
+ex<<<a>>>mples <<<<of>>>> its use <<<a>>>re given.  <<<<<<<the>>>>>>> <rel<<<a>>>tionship> <<<<of>>>> <<<<<<<the>>>>>>> mech<<<a>>>n<<<is>>>m  
+s <<<<a>>>nd> sequencers <in> <<<a>>> <system> with sh<<<a>>>red memory <<<is>>> described.  
+
+
+DocID: CACM-2376
+
+<<<<<<<the>>>>>>> s<<<a>>>me mess<<<a>>>ge fr<<<a>>>me <in> <<<<<<<the>>>>>>> buffer nor will <<<<<<<the>>>>>>>y run <in><to> <<<a>>> de<<<a>>>dlock.  
+from th<<<a>>>t buffer.  <<<<<<<the>>>>>>> form<<<a>>>l description <<<<of>>>> <<<<<<<the>>>>>>> synchroniz<<<a>>>tion  
+th<<<is>>> <<<is>>> demonstr<<<a>>>ted for <<<a>>> <system> cons<<<is>>>t<in>g <<<<of>>>>  
+
+
+DocID: CACM-1847
+
+<in> <<<<<<<the>>>>>>> <process> <<<is>>> <to> t<<<a>>>ke <<<<<<<the>>>>>>> <to>p element v <<<<of>>>> <<<<<<<the>>>>>>>  
+g <<<is>>> bounded below by 2 <<<<a>>>nd> <<<a>>>bove by 3, <<<<a>>>nd> it <<<is>>> shown  
+n, <<<<<<<the>>>>>>> s<to>re required <in> cre<<<a>>>ses <<<a>>>s n^2 <<<<a>>>nd> <<<<<<<the>>>>>>> time <<<a>>>s  
+
+
+DocID: CACM-2794
+
+<in> th<<<is>>> m<<<a>>>nner.  <<<a>>> represent<<<a>>>tion <<<<of>>>> <<<<<<<the>>>>>>>  
+<in> such <<<a>>> w<<<a>>>y th<<<a>>>t <<<<<<<the>>>>>>> <in>ference <system> employed  
+<<<<<<<the>>>>>>> set <<<<of>>>> cl<<<a>>>uses <<<is>>> <in>terpreted <in> <<<<<<<the>>>>>>> st<<<a>>>te-sp<<<a>>>cer  
+
+
+DocID: CACM-2369
+
+<<<<a>>>nd> provides <<<a>>> me<<<a>>>ns <<<<of>>>> r<<<a>>>pidly determ<in><in>g <<<<<<<the>>>>>>> v<<<is>>>ible  
+how <<<<<<<the>>>>>>> <rel<<<a>>>tionship> <<<is>>> ch<<<a>>>nged for e<<<a>>>ch p<<<a>>>ir <<<<of>>>> polygons  
+<some> <<<a>>>x<<<is>>>.  th<<<is>>> p<<<a>>>per describes <<<a>>> polygon comp<<<a>>>r<<<is>>>on  
+
+
+DocID: CACM-1003
+
+<<<<<<<the>>>>>>> re<<<a>>>ct<<<a>>>nts <<<<a>>>nd> <<<<<<<the>>>>>>> flow <<<<of>>>> he<<<a>>>t p<<<a>>>ckets, <in> such <<<a>>>  
+<<<a>>>s one <in> which <<<<<<<the>>>>>>> physic<<<a>>>l l<<<a>>>ws <<<<of>>>> <<<a>>> <process>  
+<<<<<<<the>>>>>>> progr<<<a>>>m <<<is>>> b<<<a>>>sed on <<<a>>> direct st<<<a>>>tement <<<<of>>>>  
+
+
+DocID: CACM-0867
+
+over <<<a>>> grid <in> <<<<<<<the>>>>>>>  x,y -sp<<<a>>>ce.  it <<<is>>> <<<<<<<the>>>>>>>n shown how  
+models <<<a>>>re developed <to> extend <<<<<<<the>>>>>>> method <to> <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> constr<<<a>>><in>t th<<<a>>>t <<<<<<<the>>>>>>> pl<<<a>>>ne s<eg>ments <<<a>>>re def<in>ed  
+
+
+DocID: CACM-1455
+
+<<<<<<<the>>>>>>> <<<a>>>bility <<<<of>>>> tr<<<a>>>c <to> <<<a>>>ccept <<<<a>>>nd> s<to>re def<in>itions <<<<of>>>>  
+<<<is>>> given.  <<<<<<<the>>>>>>> tr<<<a>>>c l<<<a>>>ngu<<<a>>>ge w<<<a>>>s developed <<<a>>>s <<<<<<<the>>>>>>> b<<<a>>>s<<<is>>>  
+from <<<<<<<the>>>>>>> <<<type>>>writer; for modify<in>g <<<a>>>ny str<in>g <in> <<<a>>>ny w<<<a>>>y;  
+
+
+DocID: CACM-1844
+
+<<<<<<<the>>>>>>> size <<<<a>>>nd> power <<<<of>>>> <<<<<<<the>>>>>>> m<<<a>>>ch<in>es used <<<<a>>>nd> <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> r<<<a>>>tio <<<<of>>>> users <to> computers <<<is>>> dependent on <both>  
+<process> term<in><<<a>>>l jobs <<<a>>>s <<<<<<<the>>>>>>>y <<<a>>>rrive.  one <<<<of>>>> <<<<<<<the>>>>>>> computers  
+
+
+DocID: CACM-1626
+
+<<<<of>>>> virtu<<<a>>>l memory <to> <<<a>>>llow <<<a>>>ddress <<<a>>>rithmetic for <<<type>>>  
+<<<<a>>>nd> progr<<<a>>>ms.  described <in> th<<<is>>> p<<<a>>>per <<<a>>>re <<<a>>> number  
+<<<<of>>>> techniques th<<<a>>>t h<<<a>>>ve been used <to> build <<<a>>> l<<<is>>>p  
+
+
+DocID: CACM-1474
+
+<<<a>>>re <in> gener<<<a>>>l very good.  d<<<is>>>crep<<<a>>>ncies <<<a>>>re  
+v<<<a>>>lidity <<<<of>>>> <<<<<<<the>>>>>>>se models.  it <<<is>>> concluded th<<<a>>>t <<<<<<<the>>>>>>> models  
+errors <<<is>>> <in> <some> sense st<<<a>>>t<<<is>>>tic<<<a>>>l.  <<<<<<<the>>>>>>> purpose <<<<of>>>> th<<<is>>>  
+
+
+DocID: CACM-2194
+
+p<<<a>>>per demonstr<<<a>>>tes th<<<a>>>t <<<a>>> wide cl<<<a>>>ss <<<<of>>>> problems <<<<of>>>>  
+<<<<<<<the>>>>>>> current loc<<<a>>>tion; "short," o<<<<<<<the>>>>>>>rw<<<is>>>e , <<<<a>>>nd>  2   
+<<<a>>>s m<<<a>>>ny <<<<of>>>> <<<<<<<the>>>>>>> <<<a>>>ddresses short <<<a>>>s possible.  th<<<is>>>  
+
+
+DocID: CACM-2229
+
+<<<<of>>>> <<<a>>> series c<<<a>>>n be constructed.  <<<<<<<the>>>>>>>re <<<a>>>re b<<<a>>>sic<<<a>>>lly <two>  
+<<<<a>>>nd> it <<<is>>> shown how <<<<<<<the>>>>>>> convergence properties <<<<of>>>>  
+<<<is>>> shown th<<<a>>>t, with <<<<<<<the>>>>>>> use <<<<of>>>> <<<<<<<the>>>>>>> three element<<<a>>>ry  
+
+
+DocID: CACM-0243
+
+<<<is>>> <in>cre<<<a>>>sed by <in>troduc<in>g <<<a>>> "<system> <check> <bit>",  
+<to> higher-dimension<<<a>>>l codes with gre<<<a>>>ter <correct>ion power <<<is>>> str<<<a>>>ightforw<<<a>>>rd.  
+<<<a>>> b<in><<<a>>>ry-coded mess<<<a>>>ge.  <<<<<<<the>>>>>>> mess<<<a>>>ge itself <<<is>>> <<<a>>>rr<<<a>>>nged  
+
+
+DocID: CACM-3153
+
+<<<<<<<the>>>>>>> response times <in> <<<a>>>n open <system> with extern<<<a>>>l <<<a>>>rriv<<<a>>>ls <<<a>>>re  
+<<<<<<<the>>>>>>> possibility <<<<of>>>> giv<in>g different qu<<<a>>>lity <<<<of>>>> service <to> jobs <<<<of>>>> different  
+or <<<<a>>>nd> p<<<a>>>g<in>g <<<<a>>>nd> file devices, with fixed numbers <<<<of>>>> jobs, <<<is>>> studied  
+
+
+DocID: CACM-1135
+
+<in> <<<<<<<the>>>>>>> progr<<<a>>>m  e.g. modific<<<a>>>tion <<<<of>>>> only one entry <<<<of>>>> <<<<<<<the>>>>>>>  
+<<<a>>> <process>  e.g. ch<<<a>>>nges <<<a>>>ffect<in>g only one <<<<of>>>> <<<<<<<the>>>>>>> output  
+<<<<of>>>> flowch<<<a>>>rts .  here <<<a>>>n <in>v<<<a>>>ri<<<a>>>nt p<<<a>>>ttern <<<<of>>>> procedure  
+
+
+DocID: CACM-2911
+
+th<<<a>>>t m<<<a>>>y be viol<<<a>>>ted frequently.  on <<<<<<<the>>>>>>> b<<<a>>>s<<<is>>> <<<<of>>>> <<<<<<<the>>>>>>> simul<<<a>>>tion  
+<<<<<<<the>>>>>>> 50 percent rule.  <<<a>>> new deriv<<<a>>>tion <<<is>>> given, <<<<a>>>nd> it  
+<<<<a>>>nd> <in> <both> directions from <<<<<<<the>>>>>>> predictions <<<<of>>>>  
+
+
+DocID: CACM-1591
+
+<in> simul<<<a>>>tion <<<<a>>>nd> g<<<a>>>m<in>g could <<<a>>>lso be provided.  <<<<<<<the>>>>>>>  
+<<<is>>> described.  <<<<<<<the>>>>>>> model tr<<<a>>>nsferred control <to> <<<<<<<the>>>>>>>  
+<<<a>>>s well <<<a>>>s <<<a>>>c<<<a>>>demic educ<<<a>>>tion <<<a>>>re d<<<is>>>cussed.  <in>  
+
+
+DocID: CACM-1625
+
+by <<<a>>> <process>or, without <<<a>>>ny underst<<<<a>>>nd><in>g <<<<of>>>> <wh<<<a>>>t> <<<<<<<the>>>>>>>  
+<<<<a>>>nd> fur<<<<<<<the>>>>>>>r <<<<type>>>s> <<<<of>>>> <<<a>>>u<to>m<<<a>>>tic progr<<<a>>>m improvement <<<a>>>re suggested.  
+on <<<<<<<the>>>>>>> form <<<<of>>>> <<<<<<<the>>>>>>> progr<<<a>>>m <<<<a>>>nd> <<<<<<<the>>>>>>> knowledge obt<<<a>>><in>ed  
+
+
+DocID: CACM-2002
+
+<d<<<a>>>t<<<a>>>> <<<a>>>s simple, p<<<a>>><in>less, <<<<a>>>nd> ne<<<a>>>t <<<a>>>s possible.  <<<<<<<the>>>>>>> <system> described <<<is>>>  
+d <in> <<<a>>> w<<<a>>>y such th<<<a>>>t <<<<<<<the>>>>>>> user could supply <<<<<<<the>>>>>>> m<in>imum <<<<of>>>> <in>form<<<a>>>tion,  
+<<<a>>>mesplot <<<is>>> <<<a>>>n extensible s<<<<of>>>>tw<<<a>>>re <system> designed <to> m<<<a>>>ke <<<<<<<the>>>>>>> d<<<is>>>pl<<<a>>>y <<<<of>>>>  
+
+
+DocID: CACM-3048
+
+<d<<<a>>>t<<<a>>>> stre<<<a>>>ms <<<<of>>>> <<<<<<<the>>>>>>> re<<<a>>>l <system>.  simul<<<a>>>tion <<<<of>>>> <<<<<<<the>>>>>>>  
+<<<<of>>>> <<<<<<<the>>>>>>> cpu-memory sub<system> <<<<of>>>> <<<<<<<the>>>>>>> ibm 360/91 <<<is>>>  
+<in> <<<<<<<the>>>>>>> <system> <<<a>>>re <<<<<<<the>>>>>>> memory unit <<<<a>>>nd> <<<<<<<the>>>>>>> fixed  
+
+
+DocID: CACM-1768
+
+<<<<of>>>> <<<a>>>rtifici<<<a>>>l gr<<<a>>>mm<<<a>>>rs <<<<a>>>nd> on <<<a>>> subset <<<<of>>>> <<<a>>>lgol.  <<<a>>>  
+<<<<of>>>> <in>terest <<<a>>>p<<<a>>>rt from <<<<<<<the>>>>>>>ir <<<a>>>pplic<<<a>>>tion <in> th<<<is>>> p<<<a>>>rticul<<<a>>>r context.  
+<in>dic<<<a>>>te th<<<a>>>t <<<<<<<the>>>>>>> given sentence <<<is>>> <in>v<<<a>>>lid  <<<is>>>  
+
+
+DocID: CACM-2513
+
+<in> <<<<<<<the>>>>>>> l<<<is>>>t.  <<<<<<<the>>>>>>> orig<in><<<a>>>l l<<<is>>>t structure <<<is>>> destroyed <<<a>>>s it <<<is>>> moved.  
+<<<<<<<the>>>>>>> <<<a>>>lgorithm requires no s<to>r<<<a>>>ge o<<<<<<<the>>>>>>>r th<<<a>>>n <<<<<<<the>>>>>>> new  
+runs <in> time proportion<<<a>>>l <to> <<<<<<<the>>>>>>> number <<<<of>>>> nodes  
+
+
+DocID: CACM-1398
+
+<<<<of>>>> <<<<<<<the>>>>>>> <<<type>>> <<<<of>>>> multiv<<<a>>>ri<<<a>>>te problem th<<<a>>>t <<<is>>>  
+criteri<<<a>>> for <<<<<<<the>>>>>>> <<<a>>>ccept<<<a>>>nce <<<<of>>>> <<<a>>> v<<<a>>>ri<<<a>>>ble <<<a>>>s well <<<a>>>s <<<<<<<the>>>>>>>  
+well <<<a>>>s <in> medic<in>e.  th<<<is>>> <<<a>>>ppro<<<a>>>ch uses <<<a>>> "logic<<<a>>>l"  
+
+
+DocID: CACM-2931
+
+<in> <<<<<<<the>>>>>>> o<<<<<<<the>>>>>>>r direction for <<<<<<<the>>>>>>> more <<<a>>>pplied p<<<a>>>rts <<<<of>>>>  
+<<<<of>>>> comput<<<a>>>tion  <in> <<<a>>> w<<<a>>>y, <<<<<<<the>>>>>>> st<<<a>>>tics <<<<of>>>> <<<<<<<the>>>>>>> problem   
+<<<<of>>>> expl<<<a>>>n<<<a>>>tion <to> go from <<<<<<<the>>>>>>> conceptu<<<a>>>l ide<<<a>>>s <to>  
+
+
+DocID: CACM-2080
+
+th<<<a>>>t c<<<a>>>n be extended with <<<a>>> hier<<<a>>>rchy <<<<of>>>> oper<<<a>>>t<in>g <system>s <to> suit diverse  
+requirements <<<<of>>>> progr<<<a>>>m schedul<in>g <<<<a>>>nd> resource <<<a>>>lloc<<<a>>>tion.  <<<<<<<the>>>>>>> <system>  
+es.  <<<a>>> fund<<<a>>>ment<<<a>>>l set <<<<of>>>> primitives <<<a>>>llows <<<<<<<the>>>>>>> dyn<<<a>>>mic cre<<<a>>>tion <<<<a>>>nd> control  
+
+
+DocID: CACM-1748
+
+<<<is>>> considered.  <some> <<<<of>>>> <<<<<<<the>>>>>>> connections <<between>> <process>es  
+<<<<<<<the>>>>>>> schedul<in>g mech<<<a>>>n<<<is>>>m <<<is>>> <<<a>>>n<<<a>>>lyzed <in> det<<<a>>>il <<<<a>>>nd> <<<<<<<the>>>>>>>  
+<<<<a>>>nd> <<<<<<<the>>>>>>> n<<<a>>>ture <<<<of>>>> b<<<a>>>sic oper<<<a>>>tions on <process>es  
+
+
+DocID: CACM-2470
+
+<d<<<a>>>t<<<a>>>> <<<<type>>>s> out <<<<of>>>> simper ones with <<<<<<<the>>>>>>> oper<<<a>>>tions <<<<of>>>> row<in>g,  
+<<<a>>>re <to>uched upon. <<<<<<<the>>>>>>> <<<<<<<the>>>>>>>ory <<<is>>> <<<a>>>pplied <to> <<<<<<<the>>>>>>>  
+with <<<<<<<the>>>>>>> use <<<<of>>>> <<<<<<<the>>>>>>> p<<<a>>>r<<<a>>>doxic<<<a>>>l comb<in><<<a>>><to>r, y.  <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-1426
+
+<<<<of>>>> d<<<is>>>ch<<<a>>>rge r<<<a>>>tes, d<<<is>>>ch<<<a>>>rge r<<<a>>>tes plus or m<in>us <<<a>>>  
+m<<<a>>><in>t<<<a>>><in><in>g <<<a>>> re<<<a>>>son<<<a>>>bly full hospit<<<a>>>l.  <<<<<<<the>>>>>>>re <<<<type>>>s> <<<<of>>>>  
+const<<<a>>>nt, <<<<a>>>nd> fixed <<<a>>>uthoriz<<<a>>>tions <in>dependent <<<<of>>>>  
+
+
+DocID: CACM-2033
+
+<<<a>>>re <in>tended <to> reduce <<<<<<<the>>>>>>> <<<a>>>mount <<<<of>>>> sp<<<a>>>ce required <to> cont<<<a>>><in> <<<<<<<the>>>>>>> h<<<a>>>sh-coded  
+<<<a>>> sm<<<a>>>ll number <<<<of>>>> test mess<<<a>>>ges <to> be f<<<a>>>lsely identified <<<a>>>s  
+ sp<<<a>>>ce , <<<<<<<the>>>>>>> time required <to> identify <<<a>>> mess<<<a>>>ge <<<a>>>s <<<a>>> nonmember <<<<of>>>> <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-1646
+
+<<<is>>> given <to> <<<<<<<the>>>>>>> design <<<<a>>>nd> implement<<<a>>>tion <<<<of>>>> ditr<<<a>>>n  
+<<<<a>>>nd> dur<in>g execution <<<<of>>>> <<<a>>> progr<<<a>>>m.  <<<<<<<the>>>>>>> need for  
+<<<<<<<the>>>>>>> di<<<a>>>gnostic fe<<<a>>>tures.  <<<<<<<the>>>>>>> h<<<<a>>>nd>l<in>g <<<<of>>>> error mess<<<a>>>ges  
+
+
+DocID: CACM-1543
+
+c<<<a>>>p<<<a>>>bility <to> do non-numeric work <<<<a>>>nd> <to> <<<a>>>ss<<<is>>>t <in> <<<<<<<the>>>>>>>  
+<<<<type>>>s> <<<<of>>>> computer problems.  by <<<<<<<the>>>>>>> use <<<<of>>>> tensor c<<<a>>>lculus  
+<<<<of>>>> <<<<<<<the>>>>>>> m<<<a>>><<<<<<<the>>>>>>>m<<<a>>>tic<<<a>>>l techniques employed.  with <<<<<<<the>>>>>>> progr<<<a>>>m  
+
+
+DocID: CACM-1589
+
+<system> control l<<<a>>>ngu<<<a>>>ge h<<<a>>>s been prevented, <<<<a>>>nd> <<<<<<<the>>>>>>>re  
+<<<type>>> or dimension decl<<<a>>>r<<<a>>>tions.  moreover, <in> <<<<<<<the>>>>>>> onl<in>e  
+<<<<a>>>nd> s<to>r<<<a>>>ge, <<<<a>>>nd> h<<<a>>>rd copy present<<<a>>>tion <<<<of>>>>  
+
+
+DocID: CACM-2051
+
+<<<<type>>>s> with <<<<<<<the>>>>>>>ir frequency <<<<of>>>> occurrence <in> <<<<<<<the>>>>>>> <d<<<a>>>t<<<a>>>>, <<<<a>>>nd> <<<a>>>  
+<in> th<<<a>>>t p<<<a>>>ir <<<<of>>>> words.  <<<<<<<the>>>>>>> output <<<is>>> <<<a>>> l<<<is>>>t <<<<of>>>> <<<a>>>ll correspondence  
+e<<<a>>>ch p<<<a>>>ir <<<<of>>>> words <<<is>>> <<<<<<<the>>>>>>>n <<<a>>>ssigned <<<a>>> rel<<<a>>>tive v<<<a>>>lue th<<<a>>>t <<<is>>> <<<a>>> function  
+
+
+DocID: CACM-2178
+
+<<<<of>>>> <<<<<<<the>>>>>>> def<in>ition <<<<of>>>> <<<a>>> l<<<a>>>ngu<<<a>>>ge <in> terms <<<<of>>>> its sem<<<a>>>ntics <<<a>>>re d<<<is>>>cussed.  
+<<<is>>> pl<<<a>>>ced <both> on gr<<<a>>>spe itself <<<<a>>>nd> on its method <<<<of>>>>  
+<<<<of>>>> <<<<<<<the>>>>>>> me<<<a>>>n<in>g <to> be <<<a>>>ssigned <<<<<<<the>>>>>>>m  <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-3164
+
+<<<a>>> progressive <<<a>>>cyclic digr<<<a>>>ph  p<<<a>>>d  <<<a>>>lgorithm <<<a>>>ccepts <<<a>>>re requests <<<<a>>>nd>  
+m<<<a>>><in>t<<<a>>><in>s <<<a>>> gr<<<a>>>ph <in> <<<a>>>n <<<a>>>cyclic st<<<a>>>te.  <when> <<<a>>> request cre<<<a>>>tes <<<a>>> cycle,  
+<<<<of>>>> <<<a>>>ctions. <two> p<<<a>>>d <<<a>>>lgorithms <<<a>>>re presented; one uses <<<a>>> simple  
+
+
+DocID: CACM-0409
+
+<<<a>>>s well <<<a>>>s <<<a>>>lgorithms def<in>ed on <<<<<<<the>>>>>>>se <d<<<a>>>t<<<a>>>> sets.  <both>  
+<<<<of>>>> d<<<is>>>t<in>ct <d<<<a>>>t<<<a>>>> descriptions <<<<a>>>nd> <<<<<<<the>>>>>>> content <<<<a>>>nd>  
+<d<<<a>>>t<<<a>>>> <<<<a>>>nd> <<<a>>>lgorithms m<<<a>>>y be expressed <in> <<<a>>> f<<<a>>>mily  
+
+
+DocID: CACM-1637
+
+<<<<<<<the>>>>>>> v<<<a>>>ri<<<a>>>nce <<<<of>>>> <<<<<<<the>>>>>>> s<<<a>>>mple me<<<a>>>n rel<<<a>>>tes <to> <<<<<<<the>>>>>>> spectrum  
+<<<<of>>>> <<<<<<<the>>>>>>> gener<<<a>>>t<in>g <process>, <<<<a>>>nd> estim<<<a>>>tion <<<<of>>>>  
+<<<<of>>>> <two> experiments <<<is>>> suggested.  it <<<is>>> shown how  
+
+
+DocID: CACM-2083
+
+<<<<a>>>nd> <<<type>>> decl<<<a>>>r<<<a>>>tions for e<<<a>>>ch <<<<of>>>> <<<<<<<the>>>>>>> user's rout<in>es.  <<<<<<<the>>>>>>> def<in>ition  
+<<<a>>> method <<<is>>> described for <<<<<<<the>>>>>>> def<in>ition <<<<of>>>> <<<a>>> user's common structure  
+cdc 6000 series, <<<<a>>>nd> <<<<<<<the>>>>>>> ibm 360.  <<<<<<<the>>>>>>> method h<<<a>>>s proved <to> be <in>v<<<a>>>lu<<<a>>>ble  
+
+
+DocID: CACM-1719
+
+<<<<a>>>nd> <in>dustry <<<<of>>>> <<<<<<<the>>>>>>> criteri<<<a>>> for <<<<a>>>nd> methods <<<<of>>>>  
+<<<a>>>s typified by <<<<<<<the>>>>>>> <<<a>>>u<to>m<<<a>>>ted <<<a>>>irl<in>e reserv<<<a>>>tion <system>  
+<<<<a>>>nd> optimiz<in>g <<<is>>> outl<in>ed; <<<<a>>>nd> <<<<<<<the>>>>>>> method <<<is>>>  
+
+
+DocID: CACM-1062
+
+<<<a>>> set <<<<of>>>> subrout<in>es for use <in> fortr<<<a>>>n <<<a>>>re  
+<<<is>>> dyn<<<a>>>mic<<<a>>>lly <<<a>>>lloc<<<a>>>ted for th<<<a>>>t purpose, <<<a>>>re d<<<is>>>cussed.  
+<in> <<<a>>>ny w<<<a>>>y.  function-<<<type>>> subrout<in>es <<<a>>>re <in>cluded  
+
+
+DocID: CACM-2749
+
+th<<<a>>>n <<<<<<<the>>>>>>> clock pulse method <<<a>>>t low levels <<<<of>>>> <system>  
+<<<a>>>s ex<<<a>>>mples <two> <<<a>>>u<to>mobile tr<<<a>>>ffic models.  <<<<<<<the>>>>>>>  
+th<<<a>>>t <<<<<<<the>>>>>>> signific<<<a>>>nt event method c<<<a>>>n be <<<<of>>>> v<<<a>>>lue  
+
+
+DocID: CACM-3002
+
+<<<a>>> request for <<<a>>> record <<<is>>> m<<<a>>>de, <<<<<<<the>>>>>>> prim<<<a>>>ry record <<<is>>>  
+<<<<<<<the>>>>>>> file <system> uses one or more s<to>r<<<a>>>ge devices, <<<<a>>>nd>  
+<<<a>>> file <system> <<<is>>> <<<<<<<the>>>>>>> reduction <<<<of>>>> s<to>r<<<a>>>ge <<<<a>>>nd> <d<<<a>>>t<<<a>>>>  
+
+
+DocID: CACM-2289
+
+<in> <<<<<<<the>>>>>>> effective use <<<<of>>>> cellul<<<a>>>r <<<a>>>rr<<<a>>>ys for <<<<<<<the>>>>>>>  
+<<<<of>>>> m<<<a>>>ny gr<<<a>>>ph problems.  for ex<<<a>>>mple, <<<<<<<the>>>>>>> <<<a>>>dj<<<a>>>cency  
+<<<<a>>>nd> typic<<<a>>>l row <<<<a>>>nd> column oper<<<a>>>tions <<<a>>>re re<<<a>>>dily  
+
+
+DocID: CACM-1143
+
+<d<<<a>>>t<<<a>>>> <<<<of>>>> <<<<<<<the>>>>>>> dec<<<a>>>y <<<type>>> by forms <in>volv<in>g <<<<<<<the>>>>>>> sums <<<<of>>>>  
+<<<a>>> comp<<<a>>>r<<<a>>>tive study h<<<a>>>s been m<<<a>>>de <<<<of>>>> <<<a>>> v<<<a>>>riety  
+<<<<<<<the>>>>>>> experiments <<<<a>>>nd> for <<<a>>>n<<<a>>>lyz<in>g <<<<<<<the>>>>>>> <d<<<a>>>t<<<a>>>>, <<<<a>>>nd> <<<<<<<the>>>>>>>n  
+
+
+DocID: CACM-1698
+
+<<<a>>>re needed <in> cert<<<a>>><in> <<<a>>>spects <<<<of>>>> oper<<<a>>>t<in>g <system>  
+like <<<a>>>ny <<<a>>>ctu<<<a>>>l console, but <<<<<<<the>>>>>>> entire collection <<<<of>>>>  
+<in>put?  <wh<<<a>>>t> <<<is>>> <<<<<<<the>>>>>>> m<<<a>>>ximum r<<<a>>>te <<<a>>>t which <<<a>>> <process> c<<<a>>>n  
+
+
+DocID: CACM-2046
+
+<<<<of>>>> ch<<<a>>>nges <in> query, upd<<<a>>>te, <<<<a>>>nd> report tr<<<a>>>ffic <<<<a>>>nd> n<<<a>>>tur<<<a>>>l growth <in> <<<<<<<the>>>>>>>  
+<<<a>>>re ch<<<a>>>nged.  ch<<<a>>>nge <in> <d<<<a>>>t<<<a>>>> represent<<<a>>>tion will <<<<of>>>>ten be needed <<<a>>>s <<<a>>> result  
+<d<<<a>>>t<<<a>>>> <<<is>>> org<<<a>>>nized <in> <<<<<<<the>>>>>>> m<<<a>>>ch<in>e  <<<<<<<the>>>>>>> <in>tern<<<a>>>l represent<<<a>>>tion .  <<<a>>> prompt<in>g  
+
+
+DocID: CACM-3039
+
+<<<a>>>ll <<<<of>>>> <<<<<<<the>>>>>>> <<<a>>>ctivity needed for g<<<a>>>rb<<<a>>>ge detection <<<<a>>>nd> collection  
+<<<a>>>s <<<a>>>n ex<<<a>>>mple <<<<of>>>> cooper<<<a>>>tion <<between>> sequenti<<<a>>>l  
+despite frequent m<<<a>>>nipul<<<a>>>tions <<<<of>>>> <<<a>>> l<<<a>>>rge sh<<<a>>>red <d<<<a>>>t<<<a>>>>  
+
+
+DocID: CACM-2939
+
+<in> <<<<<<<the>>>>>>> progr<<<a>>>mm<in>g <process>.  <<<<of>>>> <<<<<<<the>>>>>>>se, only <<<<<<<the>>>>>>>  
+mech<<<a>>>n<<<is>>>ms th<<<a>>>t support <<<<<<<the>>>>>>> use <<<<of>>>> <d<<<a>>>t<<<a>>>> <<<<a>>>nd>  
+clu <<<is>>> <<<a>>> new progr<<<a>>>mm<in>g l<<<a>>>ngu<<<a>>>ge designed <to> support  
+
+
+DocID: CACM-1410
+
+<<<is>>> <<<a>>>ssumed <to> be st<<<a>>>tion<<<a>>>ry, <<<<a>>>nd> <to> be def<in>ed by <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> <d<<<a>>>t<<<a>>>> do not <<<a>>>ppe<<<a>>>r <to> justify, except <<<a>>>s <<<a>>> very  
+time-sh<<<a>>>r<in>g <system>  tss .  <<<<<<<the>>>>>>> <in>put <process>  
+
+
+DocID: CACM-0695
+
+<in>terruption <<<<of>>>> <<<<<<<the>>>>>>> <<<a>>>rithmetic unit.  dumps on d<<<is>>>k <<<a>>>re  
+<<<<<<<the>>>>>>> p<<<a>>>per b<eg><in>s by briefly <describ<in>g> <<<<<<<the>>>>>>>  
+d<<<is>>>k <<<<a>>>nd> core s<to>r<<<a>>>ge with m<in>imum del<<<a>>>y<in>g <<<<a>>>nd>  
+
+
+DocID: CACM-2113
+
+th<<<a>>>t <<<a>>>re presented <to> <<<<<<<the>>>>>>> <<<a>>>n<<<a>>>lyzer <in> <<<<<<<the>>>>>>> form <<<<of>>>> l<in>e<<<a>>>r str<in>gs.  p<<<a>>>rticul<<<a>>>r  
+th<<<a>>>t <<<<<<<the>>>>>>> <in>dividu<<<a>>>l loc<<<a>>>tions <<<<of>>>> bytes <<<<a>>>nd> <bit>s come <to> represent <<<<<<<the>>>>>>>  
+<<<<a>>>nd> <<<<<<<the>>>>>>> st<<<a>>>te <<<<of>>>> s<in>gle <bit>s determ<in>es <<<<<<<the>>>>>>> oper<<<a>>>tion<<<a>>>l flow <<<<of>>>> <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-2519
+
+<<<is>>> ex<<<a>>>m<in>ed.  <<<<<<<the>>>>>>> problem <<<is>>> <<<a>>>n<<<a>>>lyzed <in> terms <<<<of>>>>  
+<wh<<<a>>>t> turns out <to> be <<<a>>> vicious circle <<<<of>>>> effects  
+devices, <<<<<<<the>>>>>>> exhi<bit>ion <<<<of>>>> <<<<<<<the>>>>>>> structure <in>herent <in> <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-1827
+
+<in> <<<<<<<the>>>>>>> michig<<<a>>>n term<in><<<a>>>l <system>  mts  for <<<<<<<the>>>>>>>  
+<<<<<<<the>>>>>>> dcf.  events <in> <<<<<<<the>>>>>>> <system> <<<a>>>re identified <<<<a>>>nd> recorded  
+<<<<a>>>nd> perform<<<a>>>nce.  <<<<<<<the>>>>>>> over<<<a>>>ll structure <<<<of>>>> mts <<<is>>> outl<in>ed  
+
+
+DocID: CACM-3015
+
+<<<a>>> <system> <<<<of>>>> l<in>e<<<a>>>r <in>equ<<<a>>>lities.  <<<<<<<the>>>>>>> size <<<<a>>>nd>  
+<in> th<<<is>>> p<<<a>>>per, it <<<is>>> shown th<<<a>>>t, for <<<a>>> cons<<<is>>>tent  
+<<<a>>> sequence <<<<of>>>> vec<to>rs which converges <to> <<<a>>> solution.  
+
+
+DocID: CACM-1614
+
+<<<<of>>>> <<<<<<<the>>>>>>> progr<<<a>>>m <<<<a>>>nd> <<<a>>>re not fixed <in> <<<<<<<the>>>>>>> l<<<a>>>ngu<<<a>>>ge.  even  
+new <d<<<a>>>t<<<a>>>> <<<<type>>>s> <<<<a>>>nd> oper<<<a>>><to>rs <to> <<<<<<<the>>>>>>> l<<<a>>>ngu<<<a>>>ge.  
+<<<a>>> propos<<<a>>>l for def<in>itions <in> <<<a>>>lgol  
+
+
+DocID: CACM-1630
+
+set <<<is>>> <<<a>>> sort <<<<of>>>>"skele<to>n" <<<<of>>>> <<<<<<<the>>>>>>> r<eg>ion.  <<<<<<<the>>>>>>>  
+<<<a>>>ny r<eg>ion c<<<a>>>n be r<eg><<<a>>>rded <<<a>>>s <<<a>>> union <<<<of>>>> m<<<a>>>xim<<<a>>>l  
+s<to>r<<<a>>>ge required <to> represent <<<a>>> r<eg>ion <in> th<<<is>>> w<<<a>>>y <<<is>>>  
+
+
+DocID: CACM-2218
+
+<system>.  <in><<<a>>>smuch <<<a>>>s <<<<<<<the>>>>>>> b6500 <system> <<<is>>>  
+b<<<a>>>sed upon <<<<<<<the>>>>>>> use <<<<of>>>> v<<<a>>>ri<<<a>>>ble sized s<eg>ments <<<<a>>>nd> <<<a>>>  
+which provides <some> <in>dic<<<a>>>tion <<<<of>>>> <<<<<<<the>>>>>>> effectiveness <<<<of>>>> th<<<is>>>  
+
+
+DocID: CACM-1482
+
+<<<<<<<the>>>>>>> m<<<a>>><in> concept <<<<of>>>> <<<<<<<the>>>>>>> <system> <<<is>>> <<<<<<<the>>>>>>> use <<<<of>>>>  
+<system> th<<<a>>>t depends upon <<<a>>> pic<to>ri<<<a>>>l <in>put <to>  
+<<<<type>>>s> <<<<of>>>> <<<a>>>pplic<<<a>>>tions.  <in> p<<<a>>>rticul<<<a>>>r, <<<<<<<the>>>>>>> <<<a>>>uthors  
+
+
+DocID: CACM-1571
+
+<<<<of>>>> <<<<<<<the>>>>>>> <in>stitute with <<<<<<<the>>>>>>> <<<a>>>bility <to> <in>ter<<<a>>>ct directly  
+<<<<<<<the>>>>>>> <d<<<a>>>t<<<a>>>> <process><in>g l<<<a>>>bor<<<a>>><to>ry <<<<of>>>> <<<<<<<the>>>>>>> br<<<a>>><in>  
+<<<a>>> user-oriented time-sh<<<a>>>red onl<in>e <system>  
+
+
+DocID: CACM-1488
+
+th<<<a>>>t <<<<<<<the>>>>>>> method <<<is>>> <<<a>>>pplic<<<a>>>ble even <when> <<<<<<<the>>>>>>>re <<<a>>>re  
+<<<<of>>>> conditions <<<a>>>re considered.  it <<<is>>> shown th<<<a>>>t  
+<<<<a>>>nd> presented.  with <in>puts <in> st<<<<a>>>nd><<<a>>>rd form, <<<a>>>s def<in>ed  
+
+
+DocID: CACM-1415
+
+<<<is>>> described <in> th<<<is>>> p<<<a>>>per, which w<<<a>>>s designed <to> oper<<<a>>>te  
+<to> select <<<<<<<the>>>>>>> preferred synt<<<a>>>ctic <in>terpret<<<a>>>tion <<<<of>>>> <<<a>>> sentence.  
+<<<a>>> step, <<<<<<<the>>>>>>> <<<a>>>uthors <<<a>>>ttempted <in> 1963 <to> prep<<<a>>>re  
+
+
+DocID: CACM-2622
+
+<<<<<<<the>>>>>>> user.  <<<<<<<the>>>>>>> <in>truder m<<<a>>>y know <<<a>>>ll <<<a>>>bout h <<<<a>>>nd>  
+<<<is>>> un<<<a>>>ble <to> <in>vert.  th<<<is>>> function <<<is>>> <<<a>>>pplied <to> <<<<<<<the>>>>>>>  
+<in> <<<<<<<the>>>>>>> computer.    <<<a>>>ll <<<a>>>spects <<<<of>>>> <<<<<<<the>>>>>>> <system>, <in>clud<in>g  
+
+
+DocID: CACM-2177
+
+<<<<of>>>> gr<<<a>>>ph, 1 <= g <= 2, <<<<a>>>nd> <both> bounds <<<a>>>re <<<a>>>tt<<<a>>><in>ed.  
+<<<<of>>>> <<<<<<<the>>>>>>> web gr<<<a>>>mm<<<a>>>r <<<a>>>ppro<<<a>>>ch.  <<<<<<<the>>>>>>> <<<a>>>lgorithm <<<is>>> comp<<<a>>>red  
+<two> edges f<in><<<a>>>lly be<<<a>>>r<in>g different l<<<a>>>bels if <<<<a>>>nd>  
+
+
+DocID: CACM-1198
+
+moment one <<<<a>>>nd> only one <<<<of>>>> <<<<<<<the>>>>>>>m <<<is>>> eng<<<a>>>ged <in> <<<<<<<the>>>>>>>  
+<process>es with restricted me<<<a>>>ns <<<<of>>>> communic<<<a>>>tion  
+with e<<<a>>>ch o<<<<<<<the>>>>>>>r c<<<a>>>n be m<<<a>>>de <in> such <<<a>>> w<<<a>>>y th<<<a>>>t <<<a>>>t <<<a>>>ny  
+
+
+DocID: CACM-1181
+
+<<<a>>> method h<<<a>>>s evolved for tr<<<a>>>nsmitt<in>g <d<<<a>>>t<<<a>>>> <<<<of>>>>  
+<<<a>>> simple <d<<<a>>>t<<<a>>>> tr<<<a>>>nsm<<<is>>>sion <system> us<in>g <<<<<<<the>>>>>>> <<<<of>>>>fice telephone  
+direct <to> <<<a>>> centr<<<a>>>l computer.  <<<<<<<the>>>>>>> method requires <<<a>>>lmost  
+
+
+DocID: CACM-1908
+
+<two> such <system>s for <wh<<<a>>>t> m<<<a>>>y well be <<<<<<<the>>>>>>> predom<in><<<a>>>nt user  
+<<<a>>> perform<<<a>>>nce level equ<<<a>>>l <to> th<<<a>>>t <<<<of>>>> <<<<<<<the>>>>>>> b<<<a>>>tch  
+who, <<<a>>>s nonprogr<<<a>>>mmers, <<<a>>>re us<in>g <<<<<<<the>>>>>>> computer <<<a>>>s <<<a>>>n  
+
+
+DocID: CACM-1856
+
+<<<a>>>re <to> be t<<<a>>>ught <to> <<<<<<<the>>>>>>> progr<<<a>>>m <<<a>>>s <<<<<<<the>>>>>>>y <<<a>>>re needed.  
+<<<<<<<the>>>>>>> s<<<a>>>me form<<<a>>>t <<<a>>>s th<<<a>>>t <<<<of>>>> <<<<<<<the>>>>>>> memory.  <in> th<<<is>>>  
+<in> its over<<<a>>>ll <<<a>>>bility <to> comprehend text.  <<<<<<<the>>>>>>>  
+
+
+DocID: CACM-2032
+
+<<<<a>>>nd> <<<<<<<the>>>>>>>ir rel<<<a>>>tion <to> trees studied <in> <<<<<<<the>>>>>>> p<<<a>>>st <<<is>>> expl<<<a>>><in>edesults for <<<<<<<the>>>>>>>  
+<<<a>>> gener<<<a>>>l method <<<<of>>>> file structur<in>g <<<is>>> proposed which uses <<<a>>> h<<<a>>>sh<in>g  
+function <to> def<in>e tree structure.  <two> <<<<type>>>s> <<<<of>>>> such trees <<<a>>>re ex<<<a>>>m<in>ed,  
+
+
+DocID: CACM-2859
+
+th<<<a>>>t <<<<<<<the>>>>>>> results <<<a>>>re v<<<a>>>lid for <<<a>>> much l<<<a>>>rger cl<<<a>>>ss <<<<of>>>> models,  
+th<<<a>>>t should be expected from re<<<a>>>l <system> <<<<of>>>> th<<<is>>> <<<type>>>.  
+<<<a>>> simple model <<<<of>>>> such <<<a>>> <system>.   <<<<<<<the>>>>>>> limit<in>g  
+
+
+DocID: CACM-2705
+
+m<<<a>>><<<<<<<the>>>>>>>m<<<a>>>tics <<<<a>>>nd> n<<<a>>>tur<<<a>>>l l<<<a>>>ngu<<<a>>>ges.  <<<<<<<the>>>>>>> split <<between>>  
+<<<<of>>>> gener<<<a>>>l utility <<<<a>>>nd> studies <<<<of>>>> questions  
+<some> soci<<<a>>>l <<<a>>>spects <<<<of>>>> progr<<<a>>>mm<in>g <<<a>>>re illum<in><<<a>>>ted  
+
+
+DocID: CACM-2864
+
+<<<<<<<the>>>>>>> term "loc<<<a>>>lity" h<<<a>>>s been used <to> denote th<<<a>>>t  
+<<<<of>>>> loc<<<a>>>lity sizes <<<<a>>>nd> lifetimes, <<<<a>>>nd> <<<<<<<the>>>>>>>se results <<<a>>>re  
+<<<a>>> ph<<<a>>>se <<<<of>>>> loc<<<a>>>lized reference beh<<<a>>>vior, <<<<a>>>nd> by <<<a>>> correspond<in>g  
+
+
+DocID: CACM-2868
+
+<<<a>>>t berkeley <<<a>>>re presented, <<<<a>>>nd> its good <<<<a>>>nd> b<<<a>>>d po<in>ts <<<a>>>re  
+<in><to> <<<a>>> sequence <<<<of>>>> l<<<a>>>yers, e<<<a>>>ch build<in>g on <<<<<<<the>>>>>>> f<<<a>>>cilities  
+fe<<<a>>>tures <<<<of>>>> <<<<<<<the>>>>>>> design were <<<<<<<the>>>>>>> use <<<<of>>>> c<<<a>>>p<<<a>>>bilities  
+
+
+DocID: CACM-2371
+
+<system> <<<is>>> extended so th<<<a>>>t it m<<<a>>>y be used <<between>> <process>es  
+<<<<<<<the>>>>>>> hypo<<<<<<<the>>>>>>>tic<<<a>>>l <<<a>>>pplic<<<a>>>tion <<<<of>>>> <<<<<<<the>>>>>>> <system> <to> <<<a>>>n ex<<<is>>>t<in>g ne<two>rk <<<is>>> d<<<is>>>cussed.  
+<<<a>>> <system> <<<<of>>>> communic<<<a>>>tion <<between>> <process>es <in> <<<a>>>  
+
+
+DocID: CACM-1098
+
+<some> heur<<<is>>>tics <to> <<<a>>>id <in> <<<<<<<the>>>>>>> selection <<<<of>>>> one <<<<of>>>> <<<<<<<the>>>>>>>se  
+<<<<of>>>> s<to>r<<<a>>>ge, use <<<<of>>>> pushdown s<to>res, <<<<a>>>nd> use <<<<of>>>>  
+conclud<in>g th<<<a>>>t no one <<<<of>>>> <<<<<<<the>>>>>>> l<<<a>>>ngu<<<a>>>ges considered <<<is>>>  
+
+
+DocID: CACM-2353
+
+<<<a>>> <system> <<<<of>>>> <two> second order equ<<<a>>>tions <<<<a>>>nd> <<<a>>> simple  
+sett<in>g <<<<<<<the>>>>>>> reynolds number equ<<<a>>>l <to> zero, <in>  
+<<<a>>> method for solv<in>g <<<<<<<the>>>>>>> n<<<a>>>vier-strokes equ<<<a>>>tions  
+
+
+DocID: CACM-2379
+
+<in> th<<<is>>> p<<<a>>>per <<<<<<<the>>>>>>> development <<<<of>>>> <<<<<<<the>>>>>>> <system> <<<is>>>  
+<<<a>>> comb<in><<<a>>>tion <<<<of>>>> microprogr<<<a>>>ms <<<<a>>>nd> s<<<<of>>>>tw<<<a>>>re.  <<<<<<<the>>>>>>>  
+<to> def<in>e <<<<<<<the>>>>>>> oper<<<a>>>t<in>g <system> <<<a>>>s simply <<<a>>>s possible.  
+

@@ -1,0 +1,700 @@
+LUCENE_NoStopNoStem
+
+Query
+Languages and compilers for parallel processors, especially highly
+horizontal microcoded machines; code compaction
+
+Top 100 Results (13 millisecs)
+
+
+DocID: CACM-2138
+
+<for> use in writing production software systems <for> a  
+ability to produce <highly> efficient object <code>,  
+programming <languages>, implementation language,  
+
+
+DocID: CACM-1988
+
+of <processors> <for> programming <languages>-<compilers>,  
+a <for>malism <for> translator interactions  
+such as compiler-<compilers> or extendible <languages>.  
+
+
+DocID: CACM-2112
+
+context-free <languages>.  a <for>mal procedure is given <for> deriving from  
+are used to describe the syntax <and> left-context sensitive semantics <for>  
+expression, context-free <languages>, translation, recognizers,  
+
+
+DocID: CACM-0249
+
+specification <languages> <for> mechanical <languages>  
+<and> their <processors>*-a baker's dozen  
+
+
+DocID: CACM-1811
+
+<parallel>-processor, <parallel>ism, <parallel> programming,  
+between cooperating <processors> is by  
+<parallel>-processor computing system, <and> execution  
+
+
+DocID: CACM-3075
+
+n  using n 1 + 1/k <processors>, <for> k an arbitrary  
+fast <parallel> sorting algorithms  
+a <parallel> bucket-sort algorithm is presented  
+
+
+DocID: CACM-2896
+
+correctness <for> multiprocessing tasks  
+with proving such <parallel> programs correct  
+a <parallel> program, dijkstra's on-the-fly garbage  
+
+
+DocID: CACM-2685
+
+methods are developed <for> the <parallel> execution  
+design of <compilers> <for> such computers is discussed.  
+<parallel> computing, multiprocessor computers,  
+
+
+DocID: CACM-1795
+
+optimal <code> <for> serial <and> <parallel> computation  
+<code> optimization, sequencing of operations,  
+
+
+DocID: CACM-0670
+
+<and>, hence, is subject to many statutes <and> regulations.  
+to identify <and> provide <for> many legal aspects right  
+relating to off-premises <processors>, particularly  
+
+
+DocID: CACM-1852
+
+bootstrapping, of <processors> <for> programming <languages> is  
+programming <languages>, implementation techniques  
+programming <languages> whose implementation is based  
+
+
+DocID: CACM-1665
+
+<and> character count in the item.  the <processors>  
+analyze the language <and> detect errors, <and>  
+<for> aed-o <and> mad are among the many which have been  
+
+
+DocID: CACM-2175
+
+<parallel> exceeds the number of available <processors>,  
+compilers  
+<parallel> processing, cache, arithmetic expressions,  
+
+
+DocID: CACM-2714
+
+<for> merging a <and> b with the p <parallel> <processors>,  
+|b|=n, m<=n, <and> p, p<=m, <parallel> <processors>  
+<parallel> processing, <parallel> merging, <parallel> binary insertion  
+
+
+DocID: CACM-3110
+
+<code> generation, assemblers, <compilers>,  
+assembling <code> <for> <machines> with span-dependent instructions  
+of minimizing the lengths of programs <for> such <machines>.  
+
+
+DocID: CACM-2266
+
+a <highly> <parallel> algorithm <for> approximating  
+is conceptually suitable <for> <parallel> computation,  
+<parallel> numerical algorithms, real polynomials,  
+
+
+DocID: CACM-2921
+
+parsing, programming <languages>, language generation,  
+<for>mal definition, <compilers>, translators, scanners  
+<and> provides the same advantages.  in<for>mally,  
+
+
+DocID: CACM-2495
+
+arithmetic expressions, <code> generation, <compilers>,  
+adapting optimal <code> generation <for> arithmetic  
+
+
+DocID: CACM-2897
+
+<for> most contexts of the concatenate statement, the <code>  
+a case study of a new <code> generation technique <for> <compilers>  
+lower level <code> <and> then per<for>ms optimizations  
+
+
+DocID: CACM-2929
+
+with little increase in the size of compiled <code> <and> a  
+programming <languages>, run-time statistics  
+program optimization, <compilers>, structured  
+
+
+DocID: CACM-1223
+
+is applicable to most algebraic <languages>.  
+high speed compilation of efficient object <code>  
+to remove locally constant expressions <and> recursively  
+
+
+DocID: CACM-3148
+
+of particular <languages> <and> <machines>.  it appears to be useful <for>  
+programming <for> distributed <and> other loosely coupled systems  
+program of development in advanced programming <languages>, <and> relations  
+
+
+DocID: CACM-2785
+
+goals <and> philosophy of the language, <and> discusses some  
+<parallel> computation, <parallel> architecture  
+glypnir-a programming language <for> illiac iv  
+
+
+DocID: CACM-1163
+
+techniques to other source <and> object <languages>.  
+<highly> successful encouraging application of the  
+philco/ibm translation at problem-oriented, symbolic <and> binary levels  
+
+
+DocID: CACM-0303
+
+mechanical <languages> <and> their <processors>  
+pennsylvania's office of computer research <and> education.  
+terminology used in work <for> the university of  
+
+
+DocID: CACM-1463
+
+<machines>  em  is the facility <for> providing  
+more on extensible <machines>  
+concerning program-to-program <and> program-to-data  
+
+
+DocID: CACM-2644
+
+paramodulation, programming <languages>  
+a theorem-proving language <for> experimentation  
+<and> inference rules presently under consideration  
+
+
+DocID: CACM-0637
+
+neliac systems <for> several different <machines>  
+<compilers> with <compilers>"; indeed, it pointed out many advantages  
+in using a pol <for> constructing programming  
+
+
+DocID: CACM-1159
+
+programs, <and> <especially> <compilers>, from  
+machine independence: its technology <and> economics  
+"bootstrap" technique is singled out <for> detailed  
+
+
+DocID: CACM-3156
+
+is permitted <for> fetch instructions but not <for> store instructions.  
+we present a <parallel> algorithm which uses n2 <processors> to find the connected  
+graph theory, <parallel> processing, algorithms,  
+
+
+DocID: CACM-2570
+
+a comparison of list schedules <for> <parallel> processing systems  
+<parallel> processing, precedence graphs, scheduling,  
+solution <for> the case in which execution  
+
+
+DocID: CACM-1603
+
+buffering, <and> task scheduling <and> provides  
+a multiprogramming monitor <for> small <machines>  
+<parallel> processing capability.  user programs communicate  
+
+
+DocID: CACM-2723
+
+<and> one or more garbage collection <processors> are also briefly discussed.  
+<and> interlocks. complete procedures <for> garbage  
+collection <and> <for> st<and>ard list processing primitives  
+
+
+DocID: CACM-2423
+
+table entries <and> 82 words are links to <code>  
+a parser-generating system <for> constructing compressed <compilers>  
+program <and> its tables currently occupy 288  
+
+
+DocID: CACM-3005
+
+call, return, <and> if statements together account <for>  
+only fixed length  1-byte  op <code> <and> address  
+efficiently.  a <highly> compact instruction  
+
+
+DocID: CACM-3080
+
+<compilers>, correctness, <code> optimization,  
+proving the correctness of heuristically optimized <code>  
+a system <for> proving that programs written  
+
+
+DocID: CACM-3175
+
+letters.  these probabilities are updated in <parallel> <for> all  
+every <code> letter is assigned probabilities of representing plain text  
+<code> letters, using joint letter probabilities.  iterating the updating  
+
+
+DocID: CACM-2298
+
+an environment <for> research in microprogramming <and> emulation  
+considered; <and> the organization <and> definition of goals  
+<processors>, input-output systems, nano-program,  
+
+
+DocID: CACM-1389
+
+language <for> list structure manipulations.  it contains  
+more efficiently <and> to build a wider variety  
+<processors> as ipl, lisp, comit ad snobol, but permits  
+
+
+DocID: CACM-0243
+
+a four-dimensional <code>, correcting three <and> detecting  
+<for> detecting <and> correcting multiple errors in  
+n-dimensional <code>s <for> detecting <and> correcting multiple errors  
+
+
+DocID: CACM-2497
+
+in the repertoire of the <processors> <and> a special "read-interlock"  
+interrupts,supervisors, monitors, debugging, <parallel>  
+synchronizing <processors> with memory-content-generated interrupts  
+
+
+DocID: CACM-2567
+
+<highly> stiff systems.  
+an explicit, coupled, single-step method <for>  
+an exponential method <for> the solution of  
+
+
+DocID: CACM-2433
+
+this storage method <and> express <parallel> algorithms are described.  
+<parallel>ism, array allocation, <parallel> control  
+structures suitable <for> exploiting illiac iv <parallel>ism.  
+
+
+DocID: CACM-2064
+
+storage control, subscripting, <compilers>  
+all needed descriptive in<for>mation <for> hyperstructures of any <for>m.  
+an efficient system has been devised <and> implemented which allows  
+
+
+DocID: CACM-2717
+
+utility program, programming <languages>, nonprocedural <languages>  
+which provides very powerful <and> <highly> flexible data  
+definition language <for> data conversion  
+
+
+DocID: CACM-1548
+
+tables with regard to <horizontal> <and> vertical  
+<and> context relationships.  such parsing  
+data structures, job identity, hardware <and> job priorities,  
+
+
+DocID: CACM-1099
+
+fact that the blind may be <especially> suited <for> programming  
+professional computer work <for> the blind  
+new professional opportunities <for> the intelligent  
+
+
+DocID: CACM-3150
+
+<and> lays out some possible directions <for> future research.  
+language concepts will not be adequate <for> building <and> maintaining  
+intricacies of a machine's order <code>, higher level programming systems  
+
+
+DocID: CACM-2289
+
+<and> typical row <and> column operations are readily  
+algorithms <for> distance <and> spanning tree problems  
+achieved by virtue of the possibilities <for> <parallel>  
+
+
+DocID: CACM-3093
+
+after that of levy <and> graham <and> rhodes, appears to  
+programming <languages>, error correction, automatic  
+automatic error recovery <for> lr parsers  
+
+
+DocID: CACM-2645
+
+<processors> <for> the two <languages> are also  
+two <languages> <for> estimating program efficiency  
+programming <languages>, syntax-directed translation,  
+
+
+DocID: CACM-1738
+
+<for> the pdp-5/8 <and> the sds-930.  the compromise  
+be simple, flexible, <and> <highly> efficient to use.  
+debugging, utility program, programming <languages>  
+
+
+DocID: CACM-0082
+
+is examined <and> a feasible method <for> doing so is presented.  
+substitution of computer-oriented symbols <for>  
+programmer-oriented symbols in language <processors>  
+
+
+DocID: CACM-2748
+
+of threaded <code> but requires less space <and> is more  
+threaded <code>, snobol4, interpretors, <code> generation  
+an efficient arrangement <for> interpretive <code>  
+
+
+DocID: CACM-1923
+
+high level <languages>, comm<and> language  
+facilities such as comm<and> language <processors>.  
+level <languages> using basic input/output support  
+
+
+DocID: CACM-3066
+
+testing, <code> walkthroughs, <code> inspections,  
+<and> <code> walkthroughs/inspections  
+testing, employing 59 <highly> experienced data  
+
+
+DocID: CACM-0950
+
+<parallel> methods <for> integrating ordinary differential equations  
+computations of <highly> <parallel> computers as can be  
+in order to take full advantage <for> real-time  
+
+
+DocID: CACM-2633
+
+methods <for> the compact representation of contour  
+contour plotting, data transmission, remote terminal, data <compaction>  
+plots are described <and> tested.  these are  
+
+
+DocID: CACM-0799
+
+to the construction of algol <compilers>.  
+versions of the same compiler <for> smaller  
+<machines> require only two working tapes plus a compiler  
+
+
+DocID: CACM-1324
+
+<and> inferential.  principles <and> methods  
+<languages> <and> searching large tree structures.  
+systems which are programmed <and> operating  
+
+
+DocID: CACM-3074
+
+a time- <and> space- efficient garbage <compaction> algorithm  
+garbage collection, <compaction>, compact ification,  
+<and> terminating with the pointed-to location's transplanted contents.  
+
+
+DocID: CACM-2579
+
+register allocation, <compilers>, programming  
+<languages>, virtual memory, dem<and> paging  
+algorithms that eliminate redundant computations, <and>  
+
+
+DocID: CACM-1591
+
+<compilers>, library <and> user's programs   
+of flexibility <for> industrial <and> executive training  
+programming <and> operation are also considered.  
+
+
+DocID: CACM-2252
+
+comm<and>s has been received; <and>  4  the parsing <and>  
+which applies <especially> to programming <languages>  
+<languages> with nested statement structure  
+
+
+DocID: CACM-1680
+
+iv  g  <for> the ibm system/360, model 40, <and> the ibm 2250  
+solution techniques, stored data, <and> all other library <and>  
+<and> <compilers>, simulation models, mathematical  
+
+
+DocID: CACM-2886
+
+use <for> the definition of programming <languages>  
+<and> <compilers>; a <for>mal definition of attribute grammars  
+attribute grammars, semantics of programming <languages>,  
+
+
+DocID: CACM-2341
+
+<and> their operations are mainly used <for> composing  
+most programming <languages>.  
+output <for>mation mechanism <especially> suitable  
+
+
+DocID: CACM-2820
+
+<for> implementation <and> to increase the flexibility  
+interactive programming, table driven <compilers>,  
+caps is a <highly> interactive diagnostic compiler/interpreter  
+
+
+DocID: CACM-1367
+
+<for> <parallel>-by-bit data communication in ascii*  
+character structure <and> character parity sense  
+
+
+DocID: CACM-1747
+
+<parallel> processing, <parallel> programming,  
+programming <languages>, programming language  
+explicit criteria <for> accepting or rejecting  
+
+
+DocID: CACM-1154
+
+turing <machines> is presented.  it is felt that the <machines>  
+unrestricted turing <machines>.  intermediate <machines>  
+multi-tape <and> infinite-state automata -- a survey  
+
+
+DocID: CACM-2534
+
+design <and> implementation of a diagnostic compiler <for> pl/i  
+<compilers>, debugging, pl/i, programming <languages>  
+pl/c is a compiler <for> a dialect <for> pl/i.  the  
+
+
+DocID: CACM-1613
+
+<for> such a processor should produce object <code> to take  
+one-pass compilation of arithmetic expressions <for> a <parallel> processor  
+a technique is presented here <for> compiling  
+
+
+DocID: CACM-1947
+
+<and> loop identification.  implementation of these <and> other  
+object <code> optimization  
+instructions, object <code>, optimization, redundancy  
+
+
+DocID: CACM-0205
+
+macroinstruction <compilers> constructed from  
+definitions, <and> parenthetical notation serve  
+macro instruction extensions of compiler <languages>  
+
+
+DocID: CACM-2253
+
+generate <code> <for> h<and>ling the tedious address  
+index ranges <for> matrix calculi  
+<languages>, program optimization, range operations, symbolic  
+
+
+DocID: CACM-1670
+
+correspondences of 8-bit <and> hollerith <code>s <for>  
+<code>, hole-patterns, hole-patterns assignment,  
+usa st<and>ard, card <code>, punched card, punched card  
+
+
+DocID: CACM-1409
+
+time <and> provides possibilities <for> an associative  
+to large <parallel> <machines>, <and> uses flip-flop  
+effective man-machine interaction <and> low cost.  
+
+
+DocID: CACM-1844
+
+<and> has the potential of a <highly> available  
+the size <and> power of the <machines> used <and> the  
+<and> supervises the collection <and> distribution of messages  
+
+
+DocID: CACM-2904
+
+<compilers>, optimization of compiled <code>, program analysis,  
+an algorithm <for> reduction of operator strength  
+
+
+DocID: CACM-1158
+
+constructs <for> organizing <and> explicating <parallel>  
+program structures <for> <parallel> processing  
+to algol 60.  the constructs serve as meta-comm<and>s <and>  
+
+
+DocID: CACM-1828
+
+<parallel> accessing, <parallel> search, file search,  
+discussed <and> their per<for>mance compared.  
+which will maximize the amount of <parallel>  
+
+
+DocID: CACM-2767
+
+immediate replacement <for> the algorithm  
+scheduling distributions <especially> chosen to show  
+the advantages <and> limitations of the algorithms.  
+
+
+DocID: CACM-2681
+
+<and> the operating conditions that lead  
+an expression is derived <for> the maximum  
+
+
+DocID: CACM-3107
+
+simplicity over previous methods, <especially> <for>  
+previously published methods both theoretically <and> through  
+a new rejection method is described <for> generating  
+
+
+DocID: CACM-2973
+
+<parallel> computer, <parallel> sorting, <parallel> merge,  
+routing <and> comparison steps, perfect shuffle.  
+sorting on a mesh-connected <parallel> computer  
+
+
+DocID: CACM-1262
+
+a range of <parallel> operation <and> partly to  
+procedure-oriented language statements to facilitate <parallel> processing  
+in <parallel>.  the statements are do together  
+
+
+DocID: CACM-3171
+
+to be used <for> implementations of high level <languages>.  under suitable  
+line number administration, diagnostic messages, abstract machine <code>  
+a technique is described <for> run-time line number administration  
+
+
+DocID: CACM-3073
+
+basic primitives of programming <and> that <parallel>  
+program structures, <parallel> programming,  
+programming, programming <languages>, programming primitives,  
+
+
+DocID: CACM-3127
+
+with quite different architectures.  both the system <and> application  
+application programs which use thoth are  <highly> portable.  thoth  
+over a large set of <machines>.  it is currently running on two minicomputers  
+
+
+DocID: CACM-1275
+
+<code> structures <for> protection <and> manipulation  
+
+
+DocID: CACM-2989
+
+sets, op <code> utilization, register structures,  
+of features of instruction set <processors>  
+this paper presents methods <for> empirical evaluation  
+
+
+DocID: CACM-1807
+
+<and> the branching <and> do loop structure of the program.  
+<for>tran, optimization, expressions, <compilers>,  
+<code> without significantly reducing the compilation  
+
+
+DocID: CACM-1425
+
+flow diagrams, turing <machines> <and>  
+the two <machines> l <and> r.  that family is a proper  
+<languages> with only two <for>mation rules  
+
+
+DocID: CACM-2819
+
+text compression, data file <compaction>, huffman  
+two algorithms <for> encoding a string differ  
+operation are described <and> compared.  various  
+
+
+DocID: CACM-2146
+
+various dispersion algorithms <for> the polyphase  
+approximately one-fourth to one <and> one-half percent  
+less reading <and> writing than most algorithms in  
+
+
+DocID: CACM-2651
+
+allows efficient compiled <code> <and> compact data  
+coercion, generic functions, extensible <languages>,  
+treatment of data types includes provision <for>  
+
+
+DocID: CACM-1825
+
+<for> the entire grammar can be constructed <for> them.  
+a practical method <for> constructing lr k  <processors>  
+is developed.  these <processors> are capable  
+
+
+DocID: CACM-2316
+
+of <languages> are given.  the major <languages> are listed  
+of programming <languages>  = higher level <languages> .  
+programming <languages>, higher level <languages>,  
+
+
+DocID: CACM-1135
+
+the requirements set by codasyl <for> such <languages>,  
+of other business-oriented <languages> <and> fully meets  
+programs, even <for> comparatively complex applications,  
+

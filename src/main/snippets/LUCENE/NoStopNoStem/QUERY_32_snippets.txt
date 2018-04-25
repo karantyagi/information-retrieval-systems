@@ -1,0 +1,704 @@
+LUCENE_NoStopNoStem
+
+Query
+I'd like to find articles describing graph algorithms that are based on
+the eigenvalue decomposition (or singular value decomposition) of the
+ajacency matrix for the graph.  I'm especially interested in any heuristic
+algorithms for graph coloring and graph isomorphism using this method.
+
+Top 100 Results (162 millisecs)
+
+
+DocID: CACM-2177
+
+<on> n nodes <in>creases as n^g where g depends <on> <<<the>>> type  
+<of> <<<<graph>>>>, 1 <= g <= 2, <and> both bounds <are> atta<in>ed.  
+<matrix>.  if w denotes <<<the>>> w<or>d length <of> <<<the>>> mach<in>e  
+
+
+DocID: CACM-3139
+
+up<on> <<<the>>> comparis<on> <of> <<<the>>> degrees <and> structure <of> a <<<<graph>>>>.  a <method>  
+<<<<graph>>>>s, <and> <<<the>>> new <heuristic> <method>s, <<<the>>> classical <method>s, <and>  
+<this> paper describes efficient new <heuristic>  
+
+
+DocID: CACM-2289
+
+ <or> cells , where each cell c<on>ta<in>s a few bits <of>  
+<in> <<<the>>> effective use <of> cellular arrays f<or> <<<the>>>  
+each <matrix> element is s<to>red <in> <on>e cell <of> <<<the>>> array,  
+
+
+DocID: CACM-2368
+
+<<<the>>> existence <of> a w<in>n<in>g strategy.  <<<the>>> s<im>ple  
+<to> know whe<<<the>>>r <<<the>>> computer is c<on>nect <or> cut.  
+<alg<or>ithms>.  <<<the>>> two players <in> a shann<on> switch<in>g game,  
+
+
+DocID: CACM-2630
+
+<<<the>>> sh<or>test path between every pair <of> vertices <in> a directed <<<<graph>>>>.  
+<on> comput<in>g sets <of> sh<or>test paths <in> a <<<<graph>>>>  
+<in> a directed <<<<graph>>>>.  <<<the>>>se <alg<or>ithms> generalize <<<the>>> floyd  
+
+
+DocID: CACM-2883
+
+<of> an edge <are> embedded <in> a figure <of> merit <and> <<<the>>> edge  
+<are> given; <<<the>>>se show how various <in>f<or>mati<on> about <<<the>>>  
+<are> used, <<<the>>> comput<in>g t<im>e will depend <on> <<<the>>> amount  
+
+
+DocID: CACM-1145
+
+<in> <<<the>>> comit language <and> successfully tested <on> <<<the>>> ibm 7090.  
+f<or>.  <<<the>>> situati<on> is s<im>ilar <to> <that> prevail<in>g  
+<that> attempt <to> narrow down <<<the>>> search f<or> an  
+
+
+DocID: CACM-2484
+
+<in> <this> general c<on>structi<on> <method>; namely, a set <of>  
+element from <<<the>>> given set <of> objects.  <<<the>>> use <of>  
+a general <method> f<or> c<on>struct<in>g such a tree <or> a <<<<graph>>>>  
+
+
+DocID: CACM-3156
+
+<of> a symmetric boolean <matrix>.  we assume <that> <<<the>>> process<or>s have  
+access <to> a comm<on> mem<or>y.  s<im>ultaneous access <to> <<<the>>> same locati<on>  
+<<<the>>> alg<or>ithm can be used <to> <f<in>d> <<<the>>> transitive closure  
+
+
+DocID: CACM-2490
+
+comp<on>ents <and> s<im>ple paths.  <<<the>>> alg<or>ithm f<or> partiti<on><in>g  
+<and> e is <<<the>>> number <of> edges, each alg<or>ithm  
+efficient <alg<or>ithms> <are> presented f<or> partiti<on><in>g  
+
+
+DocID: CACM-1847
+
+<in> <<<the>>> process is <to> take <<<the>>> <to>p element v <of> <<<the>>>  
+f<or> each <of> <<<the>>> n vertices <of> <<<the>>> <<<<graph>>>>.  f<or> large  
+<of> speed it is s<im>ilar <to> <that> <of> welch <and> superi<or>  
+
+
+DocID: CACM-2619
+
+<of> a <<<<graph>>>>.  <<<the>>> prec<on>diti<on>s c<or>resp<on>d <to> <<<the>>> unavailability  
+<to> <<<<graph>>>>s without <<<the>>>m, it is shown <that> <<<the>>> existence  
+f<or> <<<the>>> existence <of> a soluti<on> <to> <<<the>>> gotlieb  
+
+
+DocID: CACM-3018
+
+<to> <<<the>>> problem <of> cover<in>g <<<the>>> edges <of> a <<<<graph>>>>  
+<this> relati<on>ship, <<<the>>> keyw<or>d c<on>flict problem <and> <<<the>>>  
+between <this> edge-clique-cover problem <and> <<<the>>> <<<<graph>>>> col<or><in>g  
+
+
+DocID: CACM-3040
+
+<value>s f<or> a set <of> variables subject <to> a set <of> c<on>stra<in>ts.  
+desired, <in> <or>der <to> preprocess <<<the>>> problem f<or>  
+is developed <that> can achieve <any> level <of> c<on>sistency  
+
+
+DocID: CACM-1563
+
+problem <of> <f<in>d><in>g a hamil<to>n path <in> a <<<<graph>>>>.  a <<<<graph>>>>-<<<the>>><or>etic  
+<<<the>>> use <of> warnsd<or>ff's rule f<or> <f<in>d><in>g a  
+a <method> f<or> <f<in>d><in>g hamil<to>n paths <and> knight's <to>urs  
+
+
+DocID: CACM-1504
+
+<of> cycles f<or> an undirected l<in>ear <<<<graph>>>>  
+<and> s<to>rage requirements f<or> both <method>s <are> presented.  
+given <<<the>>> adjacency <matrix> <of> <<<the>>> <<<<graph>>>>, <<<the>>> alg<or>ithm  
+
+
+DocID: CACM-3164
+
+<this> process is <im>p<or>tant <in> certa<in> <are>as <of> database <im>plementati<on>  
+<of> nodes reachable al<on>g paths from <any> given node.  
+<in> which <<<the>>>re <are> c<on>stra<in>ts <on> <<<the>>> permissible sequences  
+
+
+DocID: CACM-2980
+
+<<<the>>> edit<in>g  <of> picture segmentati<on>s us<in>g local analysis <of> <<<<graph>>>>s  
+ei<<<the>>>r <on> <<<the>>> basis <of> semantic <in>f<or>mati<on> <or> <on> <<<the>>>  
+edit<in>g is equivalent <to> fast <<<<graph>>>> operati<on>s.  a number <of> examples <are> shown.  
+
+
+DocID: CACM-2408
+
+<are> comp<are>d.  <on>e <method> is direct, us<in>g  
+<eigen<value>>-eigenvec<to>r decompositi<on>.  <<<the>>> o<<<the>>>r <method>  
+solv<in>g <<<the>>> biharm<on>ic equati<on> <in> a squ<are>:  
+
+
+DocID: CACM-2877
+
+<of> <<<the>>> program <and> all <<<the>>> def<in>iti<on>s <that> <are>  
+"live" <on> each edge <of> <<<the>>> <<<<graph>>>>.  <<<the>>> procedure uses  
+<<<the>>> global data relati<on>ships <in> a program  
+
+
+DocID: CACM-1727
+
+<of> s ij , where s ij  is <<<the>>> mean <value> <of> <<<the>>> number  
+<of> obta<in><in>g est<im>ates <of> <<<the>>> p ij  <are> given.  <in>  
+<of> <<<the>>> s ij  from <<<the>>> p ij  is found, <and> some ways  
+
+
+DocID: CACM-2155
+
+<this> is <based> <on> directed <<<<graph>>>>s with named edges <and>  
+<in> terms <of> <<<the>>> <<<<graph>>>>s <to> <<<the>>>n specify <<<the>>>  
+<im>plementati<on> <of> some <of> his data structures <in> <or>der <to> ga<in> efficiency.  
+
+
+DocID: CACM-2697
+
+<are> 1, <<<the>>>n <on>ly 4n+2k-3 operati<on>s <are> needed.  <<<the>>>  
+<in> terms <of> <<<the>>> ratio <of> <<<the>>> coefficient <matrix> diag<on>al  
+<of> <<<the>>> lu diag<on>als us<in>g float<in>g po<in>t <are>  
+
+
+DocID: CACM-1721
+
+po<in>t <to> be determ<in>ed is <id>entified with such a <s<in>gular>  
+if <<<the>>> <in>tegral parameter tends <to> <in>f<in>ity.  <in>  
+<of> <<<the>>> <s<in>gular> po<in>t will always approach <this> po<in>t  
+
+
+DocID: CACM-2178
+
+<of> <<<the>>> def<in>iti<on> <of> a language <in> terms <of> its semantics <are> discussed.  
+<of> <<<the>>> mean<in>g <to> be assigned <<<the>>>m  <<<the>>>  
+<of> an explicit syntax necessary.  an example <of>  
+
+
+DocID: CACM-2524
+
+<<<the>>> problem <of> search<in>g <<<the>>> set <of> keys <in>  
+<are> presented which comp<are> <<<the>>> efficiency <of> <<<the>>> <method>s.  
+<to> reduce <<<the>>> number <of> comparis<on>s required <to> achieve  
+
+
+DocID: CACM-1961
+
+<of> arcs.  <<<the>>> speed is also related <to> <<<the>>> number <of> circuits  
+<<<the>>> speed <of> <<<the>>> alg<or>ithm <to> <<<the>>> number <of> vertices <and> <<<the>>> number  
+circuits <of> a <<<<graph>>>>.  <<<the>>> alg<or>ithm can be easily modified <to> <f<in>d> all  
+
+
+DocID: CACM-2015
+
+mechanically generated f<or> <any> precedence grammar can <of>ten be modified <in>  
+dem<on>strated f<or> weak precedence grammars def<in>ed here, but <<<the>>> producti<on>s  
+<in>verse-arb<or>escence <of> <that> <<<<graph>>>>.  <<<the>>> val<id>ity <of> <<<the>>> technique is  
+
+
+DocID: CACM-2695
+
+<of> <in>crements <are> l<in>ear <in> n.  <this> comp<are>s  
+<of> comparis<on>s, <<<the>>> number <of> assignments, <and> <<<the>>> number  
+<in> numerical l<in>ear algebra. c<on>s<id>er <<<the>>> class <of> sparse  
+
+
+DocID: CACM-2986
+
+relati<on>s <in> o n^2  steps is shown, as well as how <to>  
+functi<on>s <in> o n  steps, where n is <<<the>>> size <of>  
+faster than those <in> comm<on> use.  f<or> example, how <to> compute  
+
+
+DocID: CACM-1905
+
+f<or> an <im>plementati<on> which is <based> up<on> <<<the>>> lu decompositi<on>,  
+<<<the>>> s<im>plex <method> <of> l<in>ear programm<in>g us<in>g lu decompositi<on>  
+<<<the>>> <in>verse after every step <of> <<<the>>> <method>.  
+
+
+DocID: CACM-1172
+
+m<in><im>izes <<<the>>> computer s<to>rage space required f<or> <<<the>>>  
+<any> c<on>tradicti<on>s <or> redundancies am<on>g <<<the>>>  
+<<<the>>> usefulness <of> decisi<on> tables <to> computer users.  
+
+
+DocID: CACM-1415
+
+<on> <<<the>>> tree structure output <of> <<<the>>> analyzer,  
+<and> <<<the>>> microsentences <that> were produced <are> exhibited.  
+by <<<the>>> harvard multipath analysis program.  <<<the>>> basic  
+
+
+DocID: CACM-1529
+
+<to> comp<are> <<<the>>> pr<im>al <and> pr<im>al-dual decompositi<on>  
+decompositi<on> programm<in>g an analysis <of> <matrix> substructure  
+<alg<or>ithms>.  <in> <<<the>>> course <of> <<<the>>> analysis, a substructure  
+
+
+DocID: CACM-3124
+
+arrays <of> numbers <and> characters.  an extensi<on> <of> apl is proposed <that>  
+between <<<the>>> def<in>iti<on>al systems <are> given <and> illustrated through <<<<graph>>>>  
+level <of> arrays <and> new opera<to>rs <to> assist <in> <<<the>>>  
+
+
+DocID: CACM-2769
+
+by a boolean <matrix>. <<<the>>> alg<or>ithm is s<im>ilar <to> warshall's  
+<on> most computers, particularly <in> a pag<in>g envir<on>ment.  
+closure <of> a b<in>ary relati<on> <that> is represented  
+
+
+DocID: CACM-1456
+
+<are> <in>adequate vehicles f<or> language process<in>g <on> <any>  
+s<to>rage <and> retrieval <of> aspects <of> mean<in>g <in> directed <<<<graph>>>> structures  
+<<<the>>> c<on>texts <in> which it has been used <to> def<in>e o<<<the>>>r w<or>ds.  
+
+
+DocID: CACM-2195
+
+<of> stages is equal <to> <<<the>>> length n <of> <<<the>>> curves  <or>  
+acc<or>d<in>g <to> <<<the>>> given figure <of> merit.  due <to> <<<the>>>  
+<in> <<<the>>> particular problem is achieved.  <<<the>>> relati<on>  
+
+
+DocID: CACM-2568
+
+f<or> exam i.  <<<the>>> object <of> <this> paper is <to> generalize  
+l<im>it is <this> size plus <on>e.  <on>e logical extensi<on> <of>  
+<<<the>>> previous w<or>k is <<<the>>> <in>troducti<on> <of> variable  
+
+
+DocID: CACM-2059
+
+a language f<or> <<<the>>> representati<on> <of> <<<<graph>>>> is described, <and> <<<the>>> f<or>mulati<on> <of>  
+by means <of> a syntax-driven compiler.  applicati<on> <are>as f<or> <this> language <are>  
+<<<<graph>>>> operati<on>s such as node <and>/<or> l<in>k deleti<on> <or> <in>serti<on>, uni<on>,  
+
+
+DocID: CACM-2856
+
+respect <to> average executi<on> t<im>e <or> s<to>rage space, f<or>  
+<in> <this> paper uses dynamic programm<in>g <to> syn<<<the>>>size  
+<of> all possible decisi<on> trees us<in>g a technique such  
+
+
+DocID: CACM-2052
+
+c<on>stra<in>ts <of> t<im>e <and> space.  each c<on>nected comp<on>ent <of> such a <<<<graph>>>>,  
+c<on>flicts <in> schedul<in>g can be treated as def<in><in>g an undirected l<in>ear <<<<graph>>>>  
+<in>dependently <of> <<<the>>> relati<on> <of> <<<the>>> activities <in> c<on>flict <to> additi<on>al  
+
+
+DocID: CACM-2402
+
+<<<the>>> c<or>rect structure cannot be computed because <of>  
+f<or> large structures.  <this> is significant, f<or> crystallo<<<<graph>>>>y  
+<that> <<<the>>> cross-c<or>relati<on> between a model <and>  
+
+
+DocID: CACM-2247
+
+decompositi<on> <are> described.  it is shown <that> <<<the>>>  
+f<or> <<<the>>> goals outl<in>ed.  <<<the>>> criteria used <in>  
+<<<the>>> c<on>venti<on>al assumpti<on> <that> a module c<on>sists <of>  
+
+
+DocID: CACM-3059
+
+<are> <in> approx<im>ate cpu:i/o utilizati<on> balance <and> f<or>  
+system <are> developed <in> <this> paper.  <<<the>>> soluti<on> technique  
+models <are> f<or>mulated <in> terms <of> cpu:i/o <and> i/o:i/o overlap  
+
+
+DocID: CACM-2819
+
+<<<the>>> <method> is general, <and> applies equally well <to>  
+substr<in>gs <of> <<<the>>> file.  four new <alg<or>ithms> f<or> <this>  
+<to> <f<in>d> an opt<im>al set <of> codes f<or> represent<in>g  
+
+
+DocID: CACM-2453
+
+m<or>e useful <in> practice.  <<<the>>> alg<or>ithm is well suited f<or>  
+<to> <<<the>>> opt<im>al alg<or>ithm <of> re<in>wald <and> sol<and>,  
+us<in>g <id>eas from <in>f<or>mati<on> <<<the>>><or>y, <this> paper  
+
+
+DocID: CACM-2646
+
+<or> drum.  it discusses <<<the>>> anticipa<to>ry <in>put <and> output  
+<of> programs with predictable behavi<or>.  while <<<the>>> <method>s  
+<matrix> <and> partial differential equati<on> <method>s <are>  
+
+
+DocID: CACM-1423
+
+n <matrix> a, <in>clud<in>g <<<the>>> special case when m+n <and> a  
+<of> <<<the>>> c<on>cept <of> an <in>verse which applies <to> all matrices.  
+<and> with no additi<on>al s<to>rage requirements.  <<<the>>> alg<or>ithm  
+
+
+DocID: CACM-3138
+
+a column  <or> row  is dropped by a f<or>mal scal<in>g with <<<the>>>  
+an efficient <and> numerically stable <method> is presented f<or> <<<the>>> problem <of>  
+<in> <<<the>>> equati<on>s.  some suggested computati<on>al tests f<or> determ<in><in>g  
+
+
+DocID: CACM-1924
+
+occurr<in>g <in> a paged mem<or>y system.  it is shown <that>  
+<<<the>>> number <of> page-pulls required by <<<the>>>se <matrix>  
+be <in> ma<in> mem<or>y at <on>e t<im>e.  exam<in>ati<on> <of> additi<on>,  
+
+
+DocID: CACM-3125
+
+<to> move each expressi<on> directly <to> <<<the>>> entrance <of> <<<the>>> outermost  
+<in>f<or>mati<on> <or> restricti<on>s <on> <<<the>>> shape <of> <<<the>>> program <<<<graph>>>>.  
+<<<the>>> el<im><in>ati<on> <of> redundant computati<on>s <and> <<<the>>> mov<in>g <of> <in>variant  
+
+
+DocID: CACM-2389
+
+<and> <in>cludes means <to> represent spaces <and> objects, <to> manipulate  
+acc<or>d<in>g <to> a variety <of> c<on>stra<in>ts.  <<<the>>> <alg<or>ithms>  
+<that> language <are> described which allow <<<the>>>  
+
+
+DocID: CACM-1433
+
+<in> a general way.  <<<the>>> generat<in>g functi<on> <of> <<<the>>> probability  
+meant <to> supp<or>t <<<the>>> eff<or>t.  it is attempted <to>  
+<to> design m<or>e efficient <alg<or>ithms>.  <this> paper is  
+
+
+DocID: CACM-2701
+
+<<<the>>> number <of> operati<on>s is prop<or>ti<on>al <to> e plus <<<the>>>  
+<<<the>>> t<im>e bound.  examples <are> given <of> code  
+shown <to> treat a very general class <of> functi<on> spaces.  
+
+
+DocID: CACM-2771
+
+<like> a cube, wedge, <or> cyl<in>der.  <any> sol<id>  
+<are> c<on>cise, readily composed, <and> <are> given <in> terms  
+<of> sol<id> objects <to> be syn<<<the>>>sized <and> s<to>red  
+
+
+DocID: CACM-2275
+
+<of> three essential po<in>ts:  1  fit <<<the>>> known  
+<of> <<<the>>> first  fredholm  k<in>d is <<<the>>> basic problem  
+a number <of> test cases <are> presented. <on>e set <of> actual  
+
+
+DocID: CACM-2925
+
+expressi<on>, <in> term <of> <<<the>>> number <of> c<on><to>ur po<in> ts, f<or>  
+<of> <f<in>d><in>g certa<in> m<in><im>um cost cycles <in> a directed  
+<to>ro<id>al <<<<graph>>>>.  a new fast alg<or>ithm f<or> <f<in>d><in>g such  
+
+
+DocID: CACM-2161
+
+an alg<or>ithm f<or> <<<the>>> blocks <and> cutnodes <of> a <<<<graph>>>>  c<or>rigendum   
+
+
+DocID: CACM-1725
+
+<value>, <or> c<on>ta<in> no digits at all  i.e. <that> <<<the>>>  
+<<<the>>> <in>div<id>ual digit columns <of> <<<the>>> mem<or>y.  thus <<<the>>>  
+<to> retrieve <in> <or>der a number <of> dist<in>ct  
+
+
+DocID: CACM-1934
+
+<to> a specific problem under <<<the>>> <<<the>>><or>y <of> <<<<graph>>>>s.  
+<<<the>>> choice <of> <<<the>>> best <or>der <of> computati<on>  
+can be drawn <in> such a way <that> <<<the>>> number <of> accumula<to>rs  
+
+
+DocID: CACM-2094
+
+ma<in>ly <based> <on> <<<the>>> exchange <alg<or>ithms> <of> remes  1934, 1935 , f<or>  
+type <of> a general n<on>l<in>ear alg<or>ithm due <to> osb<or>ne <and> wats<on>  
+<<<the>>>ir soluti<on>.  <in> <this> paper <<<the>>> applicati<on> <to> problems <of> <this>  
+
+
+DocID: CACM-3153
+
+<<<the>>> resp<on>se t<im>es <in> an open system with external arrivals <are>  
+<<<the>>> c<on>text <of> a paged computer system.  two parameterized <alg<or>ithms>  
+<of> process<or> t<im>e devoted <to> each class.  apply<in>g a decompositi<on>  
+
+
+DocID: CACM-2923
+
+<this> paper proposes a s<im>ple general <method>  
+<and> derives new global <in>f<or>mati<on> helpful <in> solv<in>g  
+<in> c<on>trast <to> <<<the>>> predom<in>ant use <of> low-level  
+
+
+DocID: CACM-1935
+
+<and> variance <of> <<<the>>> number <of> trials <to> recover  
+<<<the>>> search <method> described is b<in>ary <in> nature  
+a given document <in> a r<and>omly received list <of> files.  
+
+
+DocID: CACM-2189
+
+<<<the>>> permutati<on> is determ<in>ed by {e[k]}.  two <alg<or>ithms>  
+<<<the>>> hamil<to>nian circuit <of> 3 vertices.  <<<the>>> basic  
+be cycl<in>g <<<the>>> permutati<on>s <and> by tak<in>g <<<the>>>m <in> <<<the>>>  
+
+
+DocID: CACM-1159
+
+<to> <<<the>>>m.  f<in>ally, reas<on>s <are> given f<or> believ<in>g <that> <<<the>>>  
+<that> it is <this> process <of> c<on>vergence <in> hardw<are>  
+<on>e computer <to> ano<<<the>>>r.  <of> <<<the>>> <method>s exam<in>ed, <<<the>>>  
+
+
+DocID: CACM-2606
+
+<to> be superi<or> <in> speed <and> accuracy, while <<<the>>>  
+<<<the>>> tayl<or> series <method> <and> <<<the>>> new <method> <are> shown  
+new <method> is shown <to> be most superi<or> when <<<the>>> soluti<on>  
+
+
+DocID: CACM-2692
+
+<that> a new vertex may be required at a c<or>ner <of> <<<the>>>  
+<any> newly-cut edge <or> edges.  <<<the>>> <alg<or>ithms> easily h<and>le  
+lie outs<id>e <<<the>>> volume.  <in> two d<im>ensi<on>s <<<the>>> <alg<or>ithms>  
+
+
+DocID: CACM-3085
+
+<this> paper discusses <<<the>>> computati<on> <of> <matrix>  
+where mi's <are> matrices.  <<<the>>> <or>der <in> which <<<the>>> matrices  
+<are> computed affects <<<the>>> number <of> operati<on>s.  
+
+
+DocID: CACM-2934
+
+comment <on> comput<in>g <<<the>>> k sh<or>test paths <in> a <<<<graph>>>>  
+<<<<graph>>>>, netw<or>k, sh<or>test path, alg<or>ithm, rank<in>g  
+
+
+DocID: CACM-0616
+
+<and> can be addressed <to> <any> <of> <<<the>>> members <of>  
+<<<the>>> systems analyst's use.  <<<the>>>y trust <that> <<<the>>> <id>eas  
+<in> <this> rep<or>t.  ra<<<the>>>r, <<<the>>>y have tried <to> present  
+
+
+DocID: CACM-3100
+
+<are> presented.  several problems c<on>cern<in>g <<<the>>> descripti<on>  
+<of> <in>terference match<in>g <are> discussed, <and> directi<on>s  
+<of> <<<the>>> tra<in><in>g examples <and> <<<the>>> adequacy  
+
+
+DocID: CACM-2430
+
+<<<the>>> elementary circuits <of> a <<<<graph>>>> [h]  alg<or>ithm a459   
+alg<or>ithm, <<<<graph>>>> <<<the>>><or>y, circuit search  
+
+
+DocID: CACM-1839
+
+<s<in>gular> <value>s, <matrix> decompositi<on>,  
+<s<in>gular> <value> decompositi<on> <of> a complex  
+<matrix>  alg<or>ithm 358 [f1, 4,5]   
+
+
+DocID: CACM-1828
+
+can be represented as a <<<<graph>>>>.  an example <of> such  
+by m<or>e than <on>e process, what <are> <<<the>>> rules f<or> synchr<on>izati<on>  
+which will max<im>ize <<<the>>> amount <of> parallel  
+
+
+DocID: CACM-3008
+
+<of> <<<<graph>>>>s <are> used <to> model <<<the>>> loss <of> prox<im>ity <in>volved  
+loss <of> prox<im>ity is <<<the>>>n c<on>s<id>ered, <and> it is shown  
+<in> such s<to>rage schemes, <and> an elementary  
+
+
+DocID: CACM-1411
+
+<<<the>>> usual comput<in>g f<or>mulas were also evaluated <in>  
+<<<the>>> need f<or> mak<in>g two passes <on> <<<the>>> data,  
+calculati<on> us<in>g <<<the>>> usual comput<in>g f<or>mulas.  <<<the>>> most  
+
+
+DocID: CACM-1432
+
+same basis <on> which it h<and>les <<<the>>> st<and>ard media.  <this>  
+<of> alphanumeric <in>f<or>mati<on> <on> a digital <<<<graph>>>>  
+<or> unit number. <this> <method> was used <to> c<on>trol output  
+
+
+DocID: CACM-2060
+
+structures <are> treated as functi<on>s.   4  type declarati<on>s <are>  
+<of> variables.   2  assignment <and> <in>direct address<in>g <are> f<or>malized  
+alg<or>ithm f<or> comput<in>g <or> access<in>g its comp<on>ents.  <<<the>>> existence <of>  
+
+
+DocID: CACM-2125
+
+<<<the>>> <or>dered sequence <of> c<on><to>ur po<in>ts <and> <<<the>>> c<on>necti<on> <<<<graph>>>> <of>  
+<<<the>>> <im>age <are> first obta<in>ed by a modified ledley alg<or>ithm <in> <on>e  
+<<<the>>> weak b<on>ds between variables.  some examples <are> presented,  
+
+
+DocID: CACM-1350
+
+<of> <<<the>>> f<or>m z --> cy 1  ... y m ,  m >= o  where z <and>  
+<<<the>>> structural descripti<on>s sd g,x  assigned <to> <<<the>>>  
+f<or> n<or>mal grammars.  <<<the>>> comparis<on> is <based>  
+
+
+DocID: CACM-1886
+
+<of> t<im>e.  an assignment alg<or>ithm is <<<the>>>n executed <in>  
+<are> also applicable <to> <<<the>>> problem <of> fac<to>r<in>g  
+<<<the>>> expressi<on>s, i.e. <f<in>d><in>g a set <of> subexpressi<on>s  
+
+
+DocID: CACM-3172
+
+reference po<in>t <on> <<<the>>> mov<in>g object.  a trajec<to>ry <of> <this>  
+trajec<to>ries <are> found by search<in>g a netw<or>k which <in>dicates, f<or> each vertex  
+so <that> <<<the>>>y represent <<<the>>> locus <of> f<or>b<id>den positi<on>s f<or> an arbitrary  
+
+
+DocID: CACM-2523
+
+<based> <on> <to>pology <and> size.  <<<the>>> <method> has  
+<<<the>>> c<or>resp<on>d<in>g regi<on>s <in> <<<the>>> picture, <and> also  
+by compar<in>g <<<the>>> regi<on> col<or>s with <<<the>>> textures <of>  
+
+
+DocID: CACM-2766
+
+<<<the>>> best previous bounded w<or>kspace copy<in>g <alg<or>ithms>  
+secti<on> <of> mem<or>y.  <<<the>>> <method> is applicable  
+<on>e tag.  <<<the>>> <on>ly restricti<on> <on> <<<the>>> alg<or>ithm  
+
+
+DocID: CACM-1878
+
+depend <on> be<in>g able <to> <f<in>d> <and> mark nodes <that>  
+f<or> which <<<the>>> programmer wishes <to> assume resp<on>sibility.  
+list <of> slip may be amended <to> mark those lists  
+
+
+DocID: CACM-2950
+
+<of> a schedul<in>g system which f<or>malizes <<<the>>> noti<on> <of>  
+<of> <<<the>>> comm<on>ly <im>plemented <on>es.  f<or> t<im>e-<in>variant  
+<are> def<in>ed <and> related <to> exist<in>g <alg<or>ithms>.  a  
+
+
+DocID: CACM-2081
+
+as <to> <f<in>d> <<<the>>> f<or>ms best suited f<or> computati<on>.  <<<the>>>se f<or>ms <are>  
+<and> utilized f<or> efficient comput<in>g by sav<in>g mem<or>y space <and>  
+ended <to> sequence opera<to>rs <and> cumulative opera<to>rs.  <alg<or>ithms>  
+
+
+DocID: CACM-2896
+
+<method> developed by owicki.  <<<the>>> f<in>e degree <of> <in> terleav<in>g  
+<in> <this> program makes it <especially> difficult  
+<to> underst<and>, <and> complicates <<<the>>> pro<of> greatly.  difficulties  
+
+
+DocID: CACM-3033
+
+<in> <this> paper comb<in>es <<<the>>> positive aspects <of> <<<the>>> above  
+<to> produce good, quasi opt<im>al soluti<on>s.  <<<the>>> branch-<and>-bound  
+with <<<the>>> number <of> test variables acc<or>d<in>g <to> a double  
+
+
+DocID: CACM-2786
+
+<and> <to> use by people  f<or> example, secretaries <and>  
+<<<the>>> size <and> f<on>t changes, positi<on><in>g, l<in>e draw<in>g, <and>  
+<<<the>>> language has been designed <to> be easy <to> learn  
+
+
+DocID: CACM-2790
+
+<<<the>>> elementary circuits <of> a <<<<graph>>>>  alg<or>ithm r459   
+
+
+DocID: CACM-2535
+
+nature <of> <<<the>>> arrival process from a user <to> <<<the>>> computer  
+perf<or>mance <of> <<<the>>> computer  model , <in> <<<the>>> sense  
+<based> <on> <<<the>>> model <of> <<<the>>> computer-communicati<on>s  
+
+
+DocID: CACM-2752
+
+generati<on> <of> all <<<the>>> cycles <of> a <<<<graph>>>> from  
+basic cycle, cycle, <<<<graph>>>>  
+a set <of> basic cycles [h]  alg<or>ithm 492   
+
+
+DocID: CACM-2273
+
+1 <and> 2  <or> c<on>diti<on>s which <are> already  
+c<on>versi<on> <of> decisi<on> tables by rule mask <method> without rule mask  
+entry tables.  <<<the>>> <alg<or>ithms> <are> <based> <on> <<<the>>>  
+
+
+DocID: CACM-2146
+
+logic <are> presented.  <of> <<<the>>> s<im>ple dispersi<on> <alg<or>ithms>  
+close est<im>ate <of> <<<the>>> <to>tal number <of> unit str<in>gs bef<or>e <<<the>>> dispersi<on> beg<in>s.  
+alg<or>ithm <based> <on> m<in><im>iz<in>g <<<the>>> <to>tal number <of> unit  
+
+
+DocID: CACM-2767
+
+notices, <and> ano<<<the>>>r uses an <in>dexed l<in>ear list. <<<the>>> <alg<or>ithms>  
+<in> use with current s<im>ulati<on> languages.  <<<the>>> most  
+<<<the>>> advantages <and> l<im>itati<on>s <of> <<<the>>> <alg<or>ithms>.  
+
+
+DocID: CACM-1551
+
+f<or> a hitac-5020 computer hav<in>g n accumula<to>rs.  <<<the>>>  
+<<<the>>> frequency <of> s<to>r<in>g <and> recover<in>g <<<the>>> partial results  
+<of> <<<the>>> arithmetic expressi<on>s <in> cases where  
+
+
+DocID: CACM-1824
+
+<in> special purpose languages such as snobol4 <and>  
+<<<the>>> various pieces  at all levels  <of> <<<the>>> parse.  it  
+<to> an alg<or>ithmic language  pl/i  <that> prov<id>es  
+

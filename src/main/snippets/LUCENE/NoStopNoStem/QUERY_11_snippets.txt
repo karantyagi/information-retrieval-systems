@@ -1,0 +1,571 @@
+LUCENE_NoStopNoStem
+
+Query
+SETL, Very High Level Languages
+
+Top 100 Results (171 millisecs)
+
+
+DocID: CACM-2699
+
+<languages>, set-theoretic <languages>, data  
+of <very> <high> <level> whose repertoire of semantic  
+automatic data structure choice in a language of <very> <high> <level>  
+
+
+DocID: CACM-2906
+
+in recent years, <very> <high>-<level> <languages>  
+<very> <high> <level> language, nonprocedural language,  
+a <very> <high> <level> programming language for data processing applications  
+
+
+DocID: CACM-2782
+
+<high>-<level> <languages>, philosophy of language design  
+
+
+DocID: CACM-2717
+
+utility program, programming <languages>, nonprocedural <languages>  
+convert: a <high> <level> translation  
+this paper describes a <high> <level> and nonprocedural  
+
+
+DocID: CACM-2647
+
+<languages>, philosophy of language design  
+
+
+DocID: CACM-1923
+
+<high> <level> <languages>, command language  
+<level> <languages> using basic input/output support  
+an approach to system interfaces for <high>  
+
+
+DocID: CACM-0724
+
+work, and mostfind their jobs offer <high> <level> of professional  
+by participants: <languages>, personnel, various specific  
+<high> percentage of programmers have apparently  
+
+
+DocID: CACM-3148
+
+<high> <level> programming for distributed computing  
+program of development in advanced programming <languages>, and relations  
+<languages>.  based on primitive notions of module, message,  
+
+
+DocID: CACM-3171
+
+to be used for implementations of <high> <level> <languages>.  under suitable  
+
+
+DocID: CACM-3150
+
+as <high> <level> <languages> enabled the programmer to escape from the  
+beyond programming <languages>  
+programming, programming <languages>, programming systems, systems development  
+
+
+DocID: CACM-2267
+
+<languages>, philosophy of language design  
+
+
+DocID: CACM-1835
+
+<languages> programming <languages>, student programming  
+systems, language design, <high> school programs,  
+
+
+DocID: CACM-1872
+
+formulas of <very> <high> degree  errata   
+
+
+DocID: CACM-2198
+
+programming <languages>.  the problem of <high> <level> interrogation  
+data base management systems, programming <languages>,  
+problem of catering to a <high> volume of transactions  
+
+
+DocID: CACM-2716
+
+data manipulation language, <very> <high> <level> language  
+refines the <high> <level> query specification supplied by  
+
+
+DocID: CACM-2956
+
+data types, generic procedures, programming <languages>  
+some ideas on data types in <high>-<level> <languages>  
+
+
+DocID: CACM-2091
+
+convenient, easy to learn and to use, <high> <level> problem oriented  
+differential equations are <very> time-consuming and cumbersome.  a  
+
+
+DocID: CACM-3077
+
+use <high> <level> programs to build still <high>er <level>  
+forms, functional forms, programming <languages>,  
+conventional programming <languages> are growing  
+
+
+DocID: CACM-2320
+
+structured multiprogramming, programming <languages>,  
+representation of multiprogramming in a <high>  
+<level> language.  the notation used explicitly associates  
+
+
+DocID: CACM-2081
+
+suitable for a <high> <level> algorithmic language for mathematical programming.  
+matrix sequences, programming <languages>,  
+
+
+DocID: CACM-1903
+
+chebyshev interpolation and quadrature formulas of <very> <high> degree  
+
+
+DocID: CACM-2923
+
+deals with programs essentially at source <level> and  
+
+
+DocID: CACM-1043
+
+
+
+DocID: CACM-2316
+
+of <languages> are given.  the major <languages> are listed  
+of programming <languages>  = <high>er <level> <languages> .  
+programming <languages>, <high>er <level> <languages>,  
+
+
+DocID: CACM-2003
+
+description of the features of the two <high> <level> user oriented  
+<languages>, operating at different <level>s, on which the interaction  
+criteria provide sufficient generality to extend the use of the two <languages>  
+
+
+DocID: CACM-2527
+
+implementation of <high> <level> language machine  
+computer architecture, <high> <level> language machine,  
+the statements of a <high> <level> language have been  
+
+
+DocID: CACM-2815
+
+
+
+DocID: CACM-0281
+
+family of <very> fast, <high> precision and eminently  
+
+
+DocID: CACM-3080
+
+in a <high> <level> language are correctly translated  
+<level> language programs.  the examples demonstrate  
+generation.  the low <level> language programs need not  
+
+
+DocID: CACM-2705
+
+programming <languages>, natural <languages>, and mathematics  
+artificial auxiliary <languages>, literature, style,  
+of the history of artificial, auxiliary <languages> it  
+
+
+DocID: CACM-1627
+
+satisfying the requirements for <very> large  
+retrieval systems.  the concept of <level>  
+application of <level> changing to a multi<level> storage organization  
+
+
+DocID: CACM-0205
+
+macro instruction extensions of compiler <languages>  
+to make a compiler capable of accepting <very>  
+
+
+DocID: CACM-1860
+
+a <high> <level> programming language for large,  
+
+
+DocID: CACM-0265
+
+in symbolic <languages> and for use within fortran  
+low <level> language subroutines for use within fortran  
+
+
+DocID: CACM-2246
+
+this language at a <high> <level> or a low <level>, and  
+portable software, <level> of language, machine  
+
+
+DocID: CACM-1861
+
+<high>er <level> <languages> is described.  users of the  
+mad, definitions, operators, macros, <high>er <level> language  
+
+
+DocID: CACM-2317
+
+<languages> may <very> well become the most important  
+<languages>, operating systems, programming  
+programming systems and <languages> 1965-1975  
+
+
+DocID: CACM-3185
+
+stick to modest and elegant programming <languages>, provided that we respect  
+the intrinsic limitations of the human mind and approach the task as <very>  
+
+
+DocID: CACM-2954
+
+
+
+DocID: CACM-1358
+
+
+
+DocID: CACM-2787
+
+in the <high> <level> or low <level> programming language  
+
+
+DocID: CACM-3026
+
+<languages>, data management systems,  
+
+
+DocID: CACM-2398
+
+in education, extended <languages>, interactive  
+at the system <level> shows how students can mix the advantages  
+
+
+DocID: CACM-2873
+
+interactive programming, problem oriented <languages>,  
+user oriented <languages>.  lg has been specifically designed  
+learn and <very> close to the natural language used in geometry.  
+
+
+DocID: CACM-1179
+
+language programs are processed at <very> <high> speeds.  
+
+
+DocID: CACM-0731
+
+for imbeding in <high>er <level> <languages> capable  
+
+
+DocID: CACM-2034
+
+programming <languages>, implementation techniques  
+stage2 is the second <level> of a bootstrap sequence which  
+
+
+DocID: CACM-2826
+
+a <high> <level> of interaction during the design stage.  
+
+
+DocID: CACM-1676
+
+written in a <high> <level> language, which minimizes machine  
+
+
+DocID: CACM-2938
+
+
+
+DocID: CACM-1552
+
+<high> <level> functions automatically, but also allow  
+
+
+DocID: CACM-2898
+
+a conceptual framework for a <high> <level> programming  
+
+
+DocID: CACM-3027
+
+
+
+DocID: CACM-2593
+
+which accepts commands  in a relatively <high> <level> language  
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-0321
+
+imposed by other compiling <languages> have finally  
+seems to describe a <very> complex language which  
+parts of algol present in other compiler <languages>: how  
+
+
+DocID: CACM-3103
+
+proved to be <very> helpful in constructing and  
+
+
+DocID: CACM-1223
+
+is applicable to most algebraic <languages>.  
+<high> speed compilation of efficient object code  
+
+
+DocID: CACM-2651
+
+coercion, generic functions, extensible <languages>,  
+and <very> flexible data type behavior, in a context that  
+
+
+DocID: CACM-2842
+
+the denotational semantics of programming <languages>  
+considered, loop, is <very> elementary and its  
+
+
+DocID: CACM-1710
+
+list structure, set <languages>, modeling, graphics  
+<very> useful for drawing asp structures on paper.  
+
+
+DocID: CACM-3101
+
+procedures, coroutines, programming <languages>,  
+three separate components at the source-language <level>.  
+
+
+DocID: CACM-1788
+
+way of implementing a <high>er <level> programming  
+toward a general processor for programming <languages>  
+
+
+DocID: CACM-1769
+
+problem-oriented <languages>, data communication,  
+<languages> are particularly effective over the entire  
+front.  online computers and time-sharing also rate <high>  
+
+
+DocID: CACM-1641
+
+<level> a nonhomogeneous store composed of fast  core   
+a use of fast and slow memories in list-processing <languages>  
+
+
+DocID: CACM-3041
+
+of the tree and <high> search speed.  unlike  
+<very> stable around minimal values.  further, an mst  
+
+
+DocID: CACM-1145
+
+might require 40 years of running time on a <very> <high>  
+
+
+DocID: CACM-0048
+
+a <high> degree of redundancy is used, permitting  
+of <very> low probability  it has been called.  
+
+
+DocID: CACM-2542
+
+this system is based on a simple, <high> <level> language  
+
+
+DocID: CACM-0074
+
+
+
+DocID: CACM-0081
+
+
+
+DocID: CACM-0198
+
+
+
+DocID: CACM-1425
+
+<languages> with only two formation rules  
+diagrams, this becomes true at a semantical <level> due  
+
+
+DocID: CACM-2957
+
+into programming <languages>.  
+
+
+DocID: CACM-2931
+
+logic and programming <languages>  
+logic, programming <languages>, automata, denotational  
+computability theory.  programming <languages> offer  
+
+
+DocID: CACM-2603
+
+<languages> and deterministic <languages>  
+context free <languages>.  
+reducing transition <languages>, syntax controlled  
+
+
+DocID: CACM-0249
+
+specification <languages> for mechanical <languages>  
+
+
+DocID: CACM-0232
+
+
+
+DocID: CACM-1466
+
+discussion summary on graphical <languages>  
+
+
+DocID: CACM-2002
+
+amesplot-a <high>er <level> data plotting software system  
+in most conventional <high>er <languages>.  the functions of positioning,  
+
+
+DocID: CACM-3123
+
+employment characteristics of doctoral <level> computer scientists  
+
+
+DocID: CACM-0795
+
+debugging systems at the source language <level>  
+
+
+DocID: CACM-2208
+
+memory hierarchy.  the first storage <level>,  
+
+
+DocID: CACM-2295
+
+programming primitives, programming <languages>,  
+of programming <languages>, data structures  
+
+
+DocID: CACM-1142
+
+an extension of algol-like <languages>  
+
+
+DocID: CACM-1102
+
+mechanical <languages>: a course specification  
+
+
+DocID: CACM-1138
+
+formalism in programming <languages>*  
+
+
+DocID: CACM-2814
+
+roster of programming <languages> for 1974-75  
+
+
+DocID: CACM-0463
+
+on ambiguity in phrase structure <languages>  
+
+
+DocID: CACM-1472
+
+description of a <high> capacity, fast  
+because of the low turnaround times achieved, the <high>  
+
+
+DocID: CACM-1642
+
+storage: <level> 1, several times larger than  
+many times larger and slower than <level> 1.  
+the main memory and quite fast; and <level> 2,  
+
+
+DocID: CACM-2489
+
+
+
+DocID: CACM-3057
+
+of a given gray <level> i to another gray <level>  
+optimal his togram matching, gray <level> transformation,  
+his togram matching using monotone gray <level>  
+
+
+DocID: CACM-1703
+
+reliable identification of programming <languages>  
+programming <languages>, standards which accommodate  
+standardization, programming <languages>, trac t-64  
+
+
+DocID: CACM-0651
+
+a survey of <languages> and systems for information retrieval  
+
+
+DocID: CACM-0762
+
+some remarks on the syntax of symbolic programming <languages>  
+
+
+DocID: CACM-0628
+
+for use with algorithmic <languages>  
+
+
+DocID: CACM-0920
+
+toward better documentation of programming <languages>  
+
+
+DocID: CACM-1366
+
+technique and comparison of <languages>  
+of some computer simulation <languages>  
+<languages> and packages can be improved.  
+
+
+DocID: CACM-1713
+
+

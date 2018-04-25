@@ -1,0 +1,556 @@
+LUCENE_NoStopNoStem
+
+Query
+Applied stochastic processes
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-0020
+
+accelerating convergence of iterative <processes>  
+a technique is discussed which, when <applied>  
+
+
+DocID: CACM-1410
+
+requires the description of the <stochastic>  
+<processes> governing the user inputs and the program activity.  
+
+
+DocID: CACM-0268
+
+<stochastic> evaluation of a static storage allocation  
+
+
+DocID: CACM-1696
+
+<stochastic> matrix, ergodic, chain identification  
+with certain sequences of <stochastic> matrices  
+and transient states of a <stochastic> matrix  
+
+
+DocID: CACM-1194
+
+and <stochastic> search through linked index terms  
+of the ir system <applied> to its operation  
+
+
+DocID: CACM-0942
+
+piece of <applied> statistical research, involving extensive  
+<processes> that were required could be built  
+
+
+DocID: CACM-3120
+
+and <processes>.  the work of the compiler-writer becomes easier both  
+this technique has been <applied> to the construction of an algol  
+
+
+DocID: CACM-3043
+
+concurrent programming, distributed <processes>,  
+a language concept for concurrent <processes>  
+distributed <processes>: a concurrent programming concept  
+
+
+DocID: CACM-0412
+
+recursive <processes> and algol translation  
+
+
+DocID: CACM-1540
+
+is more <stochastic> than monte carlo in nature.  
+
+
+DocID: CACM-2342
+
+<processes> as well as to software <processes>, and  
+operating systems, parallel <processes>  
+interference between communicating parallel <processes>  
+
+
+DocID: CACM-2931
+
+enter in giving descriptions of <processes>.  
+in the other direction for the more <applied> parts of  
+
+
+DocID: CACM-2740
+
+sequential <processes>.  the <processes> synchronize by  
+structuring, buffering, parallel <processes>, synchronizing  
+cooperating <processes>, operating system, semaphores,  
+
+
+DocID: CACM-2882
+
+query complexity, <stochastic> model, monte carlo  
+a <stochastic> evaluation model for database  
+
+
+DocID: CACM-0293
+
+the <applied> mathematics laboratory of the david w. taylor model basin  
+
+
+DocID: CACM-0927
+
+linear programming <applied> to ultraviolet absorption spectroscopy  
+
+
+DocID: CACM-2844
+
+heaps <applied> to event driven mechanisms  
+
+
+DocID: CACM-1749
+
+sequential <processes>.  these sequential <processes> are placed  
+sequential <processes>, system levels, input-output  
+
+
+DocID: CACM-3141
+
+in circular configurations of <processes>  
+numbered <processes> arranged in a circle, in which no central  
+controller exists and the number of <processes> is not known a priori.  
+
+
+DocID: CACM-2504
+
+models of cognitive <processes>, computer music,  
+
+
+DocID: CACM-2376
+
+synchronization of communicating <processes>  
+running <processes> of a system communicate correctly.  
+and many receiving <processes> which remove messages  
+
+
+DocID: CACM-2672
+
+of cognitive <processes>, computer music, computer  
+
+
+DocID: CACM-2255
+
+models of cognitive <processes>, computer music,  
+
+
+DocID: CACM-2371
+
+a system of communication between <processes> in a  
+system is extended so that it may be used between <processes>  
+
+
+DocID: CACM-2742
+
+such as slow <stochastic> convergence.  however, an additional  
+
+
+DocID: CACM-1435
+
+problem of <stochastic> convergence,  2  the problem  
+
+
+DocID: CACM-1748
+
+of independent <processes> are presented and compared.  
+and the nature of basic operations on <processes>  
+is considered.  some of the connections between <processes>  
+
+
+DocID: CACM-3128
+
+ordering of events in the <processes>.  
+synchronization of concurrent <processes> requires controlling the relative  
+abstract objects called eventcounts and sequencers, that allows <processes>  
+
+
+DocID: CACM-2320
+
+operating systems, concurrent <processes>, shared  
+a data structure shared by concurrent <processes>  
+competing <processes> to any degree desired.  these  
+
+
+DocID: CACM-1753
+
+virtual memory, <processes>, and sharing in multics  
+multics concepts of <processes>, address space, and virtual  
+
+
+DocID: CACM-2228
+
+the situation where certain <processes> never receive their  
+state from which resource allocations to certain <processes>  
+
+
+DocID: CACM-3073
+
+communicating sequential <processes>  
+composition of communicating sequential <processes> is  
+
+
+DocID: CACM-2080
+
+multiprogramming, operating systems, parallel <processes>, process concept,  
+of a hierarchy of <processes> as well as the communication among them.  
+
+
+DocID: CACM-1846
+
+simulation, parallel <processes>, simultaneous events,  
+events in separate <processes> is introduced.  
+on simulating networks of parallel <processes>  
+
+
+DocID: CACM-0618
+
+man-man-machine <processes> are characterized in five  
+
+
+DocID: CACM-3184
+
+a large class of numerical <processes> in a form sufficiently concise for  
+
+
+DocID: CACM-1198
+
+<processes> with restricted means of communication  
+
+
+DocID: CACM-2535
+
+time division multiplexing changes the <stochastic>  
+
+
+DocID: CACM-1892
+
+a simple <stochastic> model is described which  
+
+
+DocID: CACM-1235
+
+a <stochastic> approach to the grammatical coding of english  
+
+
+DocID: CACM-2767
+
+are tested with a set of typical <stochastic>  
+
+
+DocID: CACM-1563
+
+knight's tour is generalized and <applied> to the  
+
+
+DocID: CACM-1438
+
+number, is developed and <applied> to the problem  
+
+
+DocID: CACM-2912
+
+two techniques for transmitting messages between <processes>.  
+by one process and read by other <processes>.  
+
+
+DocID: CACM-2920
+
+priori information about the <processes>, resources, operating  
+as a game between the operating system and the <processes>  
+
+
+DocID: CACM-2150
+
+independent <processes> from simultaneous access  
+there are two distinct classes of <processes> known  
+
+
+DocID: CACM-3039
+
+between sequential <processes> with minimized  
+<processes> with very little mutual interference  
+
+
+DocID: CACM-3078
+
+of obtaining analytical solutions to markov <processes>  
+<processes>, the potential range of application of these techniques  
+
+
+DocID: CACM-2895
+
+of communicating parallel <processes> is described.  
+
+
+DocID: CACM-1541
+
+systems containing highly interactive <processes>  
+
+
+DocID: CACM-2378
+
+time-sharing, cooperating <processes>  
+active <processes> and manages memory, handle errors, and  
+small supervisor and a set of independent <processes>  
+
+
+DocID: CACM-3020
+
+by strong and walker is amplified and <applied> to  
+removal is then <applied> to the two major parts of this  
+
+
+DocID: CACM-1441
+
+methods of numerical integration <applied> to  
+when <applied> to a particular system of ordinary  
+
+
+DocID: CACM-2210
+
+same technique is <applied> to transform recursively  
+must be <applied>. the relation between the version of  
+
+
+DocID: CACM-2705
+
+pure and <applied> mathematics is found similarly  
+analogies related to social aspects,pure and <applied>  
+
+
+DocID: CACM-1631
+
+recommended that suitable tests be <applied> to all  
+
+
+DocID: CACM-1673
+
+the ease with which the method can be <applied>.  
+
+
+DocID: CACM-1110
+
+<applied> to a certain class of parabolic partial  
+
+
+DocID: CACM-1707
+
+which, when <applied> to a particular upper triangular  
+
+
+DocID: CACM-2185
+
+determines if the algorithm should be <applied> and  
+
+
+DocID: CACM-1383
+
+the importance of <applied> logic in human affairs is  
+
+
+DocID: CACM-1233
+
+systems.  the conventions are <applied> to the use  
+
+
+DocID: CACM-1008
+
+developed for faseb can be <applied> to schedule  
+
+
+DocID: CACM-2409
+
+wiener-hopf technique may be <applied>.  it is furthermore  
+
+
+DocID: CACM-1135
+
+into a compiler the aspects common to all <processes>  
+of all batch file <processes>.  this new philosophy has  
+the structural analysis of the class of <processes> to be represented  
+
+
+DocID: CACM-1587
+
+applicable to iterative <processes> in which input  
+
+
+DocID: CACM-2581
+
+speech recognizer.  lpars <processes> a string of phonemes  
+
+
+DocID: CACM-2519
+
+psychological and information-processing <processes>, and  
+
+
+DocID: CACM-1828
+
+<processes> are examined; their validity is  
+
+
+DocID: CACM-0825
+
+an operating computer program that <processes>  
+
+
+DocID: CACM-1960
+
+<processes> using system primitive operations, the file-memory relationship,  
+
+
+DocID: CACM-3140
+
+social <processes> and proofs of theorems and programs  
+
+
+DocID: CACM-1199
+
+center in terms of information nets, decision <processes>,  
+
+
+DocID: CACM-0224
+
+of certain optimizing <processes> such as recursive  
+
+
+DocID: CACM-1458
+
+changes in the <processes> related to producing and checking  
+
+
+DocID: CACM-2327
+
+of how the brain <processes> information.  
+
+
+DocID: CACM-2848
+
+<processes> to be automated.  the result of such an interview  
+
+
+DocID: CACM-1272
+
+such <processes> as factor analysis.  applications  
+<processes> as factor analysis.  applications are described,  
+
+
+DocID: CACM-2866
+
+these two techniques are defined, discussed, and <applied>  
+
+
+DocID: CACM-1216
+
+the chain rule is <applied> and the result is edited to  
+
+
+DocID: CACM-2953
+
+<applied> to the schematic recursive procedure:  
+
+
+DocID: CACM-2836
+
+is established.  the method may be <applied> to problems  
+
+
+DocID: CACM-1535
+
+may be <applied> independently.  
+
+
+DocID: CACM-0298
+
+above and below the mean were <applied> to one-half  
+
+
+DocID: CACM-1554
+
+and <applied> to any n-dimensional hyperobject  
+
+
+DocID: CACM-0095
+
+methods are <applied> can sometimes be expanded  
+
+
+DocID: CACM-1809
+
+need for a solid background in <applied> mathematics.  
+
+
+DocID: CACM-0111
+
+can be <applied> with great reliability.  both a high degree  
+
+
+DocID: CACM-3068
+
+program verification <applied> to kernel architectures  
+
+
+DocID: CACM-2062
+
+four different sequential sampling procedures are <applied>  
+
+
+DocID: CACM-1947
+
+flow of programs during compilation are <applied>  
+
+
+DocID: CACM-1678
+
+catalog description of each course is <applied> and the  
+
+
+DocID: CACM-1382
+
+<applied> mathematicians over the next several years,  
+
+
+DocID: CACM-2900
+
+three theorems which can be <applied> a priori to indicate  
+
+
+DocID: CACM-1886
+
+ascertained, a sequencing procedure is <applied> which  
+<applied>, and hence global optimal results are not  
+
+
+DocID: CACM-2203
+
+key-to-address transformation methods <applied> to  
+is <applied> to a particular file, load factor and  
+
+
+DocID: CACM-2522
+
+the system resources to the <processes> competing for them.  
+
+
+DocID: CACM-2580
+
+models of cognitive <processes>, computer music,  
+
+
+DocID: CACM-3056
+
+or software used for the monitoring of experiments or <processes>.  
+
+
+DocID: CACM-2379
+
+<processes>, process communication, virtual devices,  
+

@@ -1,0 +1,670 @@
+LUCENE_NoStopNoStem
+
+Query
+Parallel processors in information retrieval
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-1811
+
+means of data <in> storage shared by all <processors>.  a  
+<parallel>-processor, <parallel>ism, <parallel> programm<in>g,  
+between cooperat<in>g <processors> is by  
+
+
+DocID: CACM-3075
+
+fast <parallel> sort<in>g algorithms  
+a <parallel> bucket-sort algorithm is presented  
+<parallel> process<in>g, sort<in>g, algorithms, bucket sort  
+
+
+DocID: CACM-3156
+
+we present a <parallel> algorithm which uses n2 <processors> to f<in>d the connected  
+graph theory, <parallel> process<in>g, algorithms,  
+comput<in>g connected components on <parallel> computers  
+
+
+DocID: CACM-2714
+
+<parallel> process<in>g, <parallel> merg<in>g, <parallel> b<in>ary <in>sertion  
+merg<in>g with <parallel> <processors>  
+|b|=n, m<=n, and p, p<=m, <parallel> <processors>  
+
+
+DocID: CACM-0634
+
+manipulation of trees <in> <in>formation <retrieval>*  
+
+
+DocID: CACM-1680
+
+<in>formation <retrieval>.  it is written <in> fortran  
+programm<in>g, simulation, model<in>g, <in>formation  
+<retrieval> operat<in>g systems, graphics, displays, man-mach<in>e  
+
+
+DocID: CACM-0891
+
+to <in>stall an <in>formation <retrieval> program <in> less than  
+everyman's <in>formation <retrieval> system  
+the <in>formation <retrieval> problem whose solution  
+
+
+DocID: CACM-2288
+
+the consecutive <retrieval> property are proved <in>  
+<retrieval>, <in>formation <retrieval>, record organization,  
+<retrieval> property is also discussed.  
+
+
+DocID: CACM-2967
+
+memory, graphics, <in>formation <retrieval>,  
+<parallel> process<in>g, database management  
+memories <in> the context of computer graphics  
+
+
+DocID: CACM-1927
+
+curriculum <in> the general area of <in>formation  
+data <retrieval>, language analysis, <in>formation  
+science, <in>formation organization, <in>formation <retrieval>,  
+
+
+DocID: CACM-2570
+
+<parallel> process<in>g, precedence graphs, schedul<in>g,  
+solution for the case <in> which execution  
+<in> execution time and that the b-schedule  
+
+
+DocID: CACM-1457
+
+<in> automatic <in>formation <retrieval>  
+facilities to aid <in> <in>formation <retrieval>.  
+manipulations to be performed <in> automatic <in>formation  
+
+
+DocID: CACM-2140
+
+<in> a paper <in> the november 1970 communications  
+files, <in>formation <retrieval>, query, multi-attribute  
+<retrieval>, file update  
+
+
+DocID: CACM-1699
+
+<in> their design, were conducted at the moore school <in>formation  
+<in>formation <retrieval> test<in>g,  <in>formation system  
+of mechanized <in>formation <retrieval> systems,  
+
+
+DocID: CACM-1601
+
+measurements are <in>terpreted <in> a <parallel> process<in>g  
+<in> a <parallel> process<in>g environment.  convergence is  
+<in>sured by extract<in>g the "best <in>formation" at  
+
+
+DocID: CACM-2497
+
+<in> the repertoire of the <processors> and a special "read-<in>terlock"  
+of synchroniz<in>g <processors> <in> a multiprocessor  
+<in>terrupts,supervisors, monitors, debugg<in>g, <parallel>  
+
+
+DocID: CACM-3169
+
+query, boolean expression, optimal evaluation, <in>formation <retrieval>  
+<in> an onl<in>e query system."  
+
+
+DocID: CACM-3168
+
+query, boolean expression, <in>formation <retrieval>, file organization  
+expressions <in> an onl<in>e query system."  
+
+
+DocID: CACM-2965
+
+query, boolean expression, <in>formation <retrieval>, file organization  
+an optimal evaluation of boolean expressions <in> an onl<in>e query system  
+
+
+DocID: CACM-2530
+
+<in>formation <retrieval>, cod<in>g, text compression  
+an algorithm for extract<in>g phrases <in>  
+
+
+DocID: CACM-2976
+
+and measurement, <in>formation <retrieval>,  
+approximat<in>g block accesses <in> database organizations  
+
+
+DocID: CACM-1935
+
+and offers new potential for <in>formation <retrieval> systems.  
+<retrieval>, mathematical model, partition<in>g,  
+b<in>ary pattern, file exam<in>ation, graph theory, <in>formation  
+
+
+DocID: CACM-2175
+
+<parallel> exceeds the number of available <processors>,  
+<in> serials, <in> <parallel>, or <in> a comb<in>ation of these  
+<parallel> process<in>g, cache, arithmetic expressions,  
+
+
+DocID: CACM-2519
+
+complex <in>formation, <in>formation, communication,  
+us<in>g a computer based <in>formation <retrieval> system  
+<in>formation we are communicat<in>g, and a sophisticated  
+
+
+DocID: CACM-3012
+
+implementation, system use, <in>formation storage and <retrieval> system  
+and <retrieval> system <in> medical research  
+the use of an <in>teractive <in>formation storage  
+
+
+DocID: CACM-2278
+
+b<in>ary trees, search trees, <in>formation storage, <in>formation <retrieval>  
+on foster's <in>formation storage and <retrieval> us<in>g avl trees  
+
+
+DocID: CACM-1681
+
+query expressed <in> the <retrieval> system's orig<in>al symbolic  
+remote console communication, <in>formation <retrieval>,  
+mode, <in>formation <retrieval> language, symbolic command language  
+
+
+DocID: CACM-2114
+
+a formal system for <in>formation <retrieval> from files  
+lists, prime keyword, <parallel> process<in>g of lists  
+file structure, directory decod<in>g, and record <retrieval> are def<in>ed  
+
+
+DocID: CACM-2865
+
+an aid to prov<in>g it correct.  the <in>formation <in> a partial  
+of properties of <parallel> programs is presented.  
+is <in> some sense complete for partial correctness.  
+
+
+DocID: CACM-1937
+
+data display, <in>formation <retrieval>, graphic display,  
+a user-oriented data <retrieval> and display system.  
+with an easy means for specify<in>g data <retrieval>  
+
+
+DocID: CACM-2882
+
+<retrieval> systems.  these data <retrieval> systems can  
+database organizations <in> data <retrieval> systems.  <in> particular,  
+organization <in> data <retrieval> systems  
+
+
+DocID: CACM-2990
+
+<in>formation <retrieval>, automatic <in>dex<in>g, content  
+the performance of <in>formation <retrieval> systems  
+effective <in>formation <retrieval> us<in>g term accuracy  
+
+
+DocID: CACM-2516
+
+hierarchical storage <in> <in>formation <retrieval>  
+<in>formation <retrieval>, hierarchical storage  
+on <in>formation <retrieval> operations.  the data storage  
+
+
+DocID: CACM-1675
+
+<in>formation <retrieval>, relevance, <in>dex<in>g, classification  
+<in> this paper the effect of iterat<in>g the improvement  
+
+
+DocID: CACM-2307
+
+for <in>formation <retrieval> and for the control  
+automatic <in>dex<in>g, automatic search and <retrieval>,  
+environment is then outl<in>ed <in> which clustered  
+
+
+DocID: CACM-0082
+
+programmer-oriented symbols <in> language <processors>  
+handl<in>g identifiers as <in>ternal symbols <in> language <processors>  
+
+
+DocID: CACM-1846
+
+simulation, <parallel> processes, simultaneous events,  
+<in> which simultaneous events may occur  
+events <in> separate processes is <in>troduced.  
+
+
+DocID: CACM-2455
+
+avl trees, balanced trees, <in>formation storage and <retrieval>  
+a generalization of avl trees is proposed <in>  
+imbalances of up to five units, the <retrieval> time  
+
+
+DocID: CACM-1725
+
+ordered lists, ordered <in>formation <retrieval>,  
+access frequency, ordered <retrieval> efficiency,  
+access frequency proof, <retrieval> theorem proof  
+
+
+DocID: CACM-2631
+
+direct access, <in>formation <retrieval>, character  
+text search<in>g, <in>formation theory, file organization,  
+text search<in>g <in> direct access systems  
+
+
+DocID: CACM-1032
+
+of <in>formation and tagg<in>g it for effective <retrieval>,  
+<in>formation storage and <retrieval> systems are composed  
+theoretical considerations <in> <in>formation <retrieval> systems  
+
+
+DocID: CACM-1959
+
+systems, <in>terrupt schedul<in>g, <parallel> process<in>g  
+management <in>formation systems, <in>tegrated data process<in>g,  
+an <in>terrupt based organization for management <in>formation systems  
+
+
+DocID: CACM-1830
+
+<in>formation <retrieval>, direct access memory, data base, <in>verted list  
+<retrieval> times for a packed direct access <in>verted file  
+
+
+DocID: CACM-1359
+
+data filter<in>g applied to <in>formation storage and <retrieval> applications  
+process<in>g function <in> <in>formation storage  
+and <retrieval> applications.  data str<in>g manipulation  
+
+
+DocID: CACM-1236
+
+and search requests.  this feature is used <in> the <retrieval>  
+a fully automatic document <retrieval> system  
+the smart automatic document <retrieval> system-an illustration  
+
+
+DocID: CACM-2711
+
+<in> a document <retrieval>, or other pattern match<in>g  
+<in> particular, <retrieval> performance may correlate <in>versely  
+automatic <in>formation <retrieval>, automatic  
+
+
+DocID: CACM-1747
+
+<parallel> process<in>g, <parallel> programm<in>g,  
+<in>formation security, <in>formation privacy, comput<in>g  
+processes, protection <in> multiprogrammed systems,  
+
+
+DocID: CACM-0651
+
+a survey of languages and systems for <in>formation <retrieval>  
+
+
+DocID: CACM-2532
+
+str<in>g, substr<in>g, hash<in>g, <in>formation storage and <retrieval>  
+
+
+DocID: CACM-2070
+
+a formal system for <in>formation <retrieval> from files  
+
+
+DocID: CACM-1831
+
+<in>formation <retrieval>, file search<in>g, tree structures, double cha<in><in>g  
+
+
+DocID: CACM-0239
+
+for <in>formation <retrieval> systems  
+
+
+DocID: CACM-0275
+
+dynamic storage allocation for an <in>formation <retrieval> system  
+
+
+DocID: CACM-2561
+
+are implemented <in> a model fact <retrieval> system  
+a heuristic approach to <in>ductive <in>ference <in> fact <retrieval> systems  
+<in>ference, <in>ductive <in>ference, cluster<in>g, fact <retrieval>, heuristics  
+
+
+DocID: CACM-2493
+
+data base, reorganization, files, <in>formation <retrieval>  
+<in> certa<in> data base organization schemes the  
+
+
+DocID: CACM-2032
+
+tables, hash<in>g functions, <in>formation <retrieval>  
+and their relation to trees studied <in> the past is expla<in>edesults for the  
+
+
+DocID: CACM-1960
+
+takes <in>to account recent <in>formation about user behavior.  
+process management and resource shar<in>g <in> the multiaccess system esope  
+<in>clude the ability given to any user to schedule his own <parallel>  
+
+
+DocID: CACM-1976
+
+field appear<in>g <in> a query has very few possible values.  redundancy, <in> some  
+multi-attribute <retrieval> with comb<in>ed <in>dexes  
+<retrieval>, data management, access method, secondary  
+
+
+DocID: CACM-2846
+
+improvement <in> storage requirements and <retrieval> time  
+<retrieval> time, measured <in> terms of bit <in>spections  
+<in>formation <retrieval> systems.  it has the same underly<in>g  
+
+
+DocID: CACM-3134
+
+<in>formation <retrieval>, <in>verted files, multiattribute <retrieval>,  
+for <in>formation storage and <retrieval>  
+d <retrieval> of <in>formation are described.  this method is particularly  
+
+
+DocID: CACM-2896
+
+an exercise <in> prov<in>g <parallel> programs correct  
+with prov<in>g such <parallel> programs correct  
+a <parallel> program, dijkstra's on-the-fly garbage  
+
+
+DocID: CACM-2160
+
+file organization, <in>formation <retrieval>, <in>verted  
+canonical structure <in> attribute based file organization  
+thus, for example, the structure for <retrieval>  
+
+
+DocID: CACM-1367
+
+for <parallel>-by-bit data communication <in> ascii*  
+
+
+DocID: CACM-2795
+
+the program employs both the <in>formation <retrieval> and  
+<in> generat<in>g sentences from mean<in>g structures,  
+grammatical knowledge, stored <in> a formal grammar.  
+
+
+DocID: CACM-1262
+
+<in> <parallel>.  the statements are do together  
+writ<in>g <in> a procedure-oriented language  
+procedure-oriented language statements to facilitate <parallel> process<in>g  
+
+
+DocID: CACM-2973
+
+<parallel> computer, <parallel> sort<in>g, <parallel> merge,  
+processor <in> terconnection pattern  
+sort<in>g on a mesh-connected <parallel> computer  
+
+
+DocID: CACM-2723
+
+semaphores, <parallel> process<in>g, compactification, relocation,  
+complex cases <in>volv<in>g several list <processors>  
+the simple case of two <processors>, one perform<in>g lisp-like  
+
+
+DocID: CACM-0670
+
+relat<in>g to off-premises <processors>, particularly  
+now, before systems and practices crystallize, <in>  
+<in>vest <in> the new facilities, either directly or  
+
+
+DocID: CACM-0440
+
+these rules are described, and the ways <in> which <in>formation  
+special difficulties are encountered <in> devis<in>g  
+systems have been developed <in> a methodological  
+
+
+DocID: CACM-1652
+
+to problems <in> area such as <in>formation <retrieval>, document  
+applications <in> onl<in>e systems  
+the <in>ternal <in>formation process<in>g operations  
+
+
+DocID: CACM-1828
+
+<parallel> access<in>g, <parallel> search, file search,  
+synchronization <in> a <parallel>-accessed data base  
+which will maximize the amount of <parallel>  
+
+
+DocID: CACM-2543
+
+a new method for enter<in>g and retriev<in>g <in>formation  
+reduc<in>g the <retrieval> time of scatter storage techniques  
+<in> a hash table is described.  the method  
+
+
+DocID: CACM-2141
+
+data compression, map storage, <in>formation <retrieval>,  
+codes-by three methods and <in> four directions.  
+
+
+DocID: CACM-2781
+
+method, randomiz<in>g <in>formation <retrieval>  
+
+
+DocID: CACM-0292
+
+an <in>formation <retrieval> language for legal studies  
+
+
+DocID: CACM-2552
+
+hash code, open hash, cha<in><in>g, <in>formation <retrieval>, collision  
+
+
+DocID: CACM-2412
+
+hash<in>g, <in>formation storage and <retrieval>,  
+
+
+DocID: CACM-2947
+
+is <in> many ways comparable to <in> teractive bibliographical  
+<in>formation <retrieval>, text edit<in>g, m<in>icomputers,  
+search and <retrieval> systems, but has several  
+
+
+DocID: CACM-1456
+
+storage and <retrieval> of aspects of mean<in>g <in> directed graph structures  
+examples of methods of <in>putt<in>g <in>formation  
+associates with each english word the syntactic <in>formation,  
+
+
+DocID: CACM-2623
+
+file ma<in>tenance, <in>formation <retrieval>, utility  
+of other symbols <in> groups of fixed size as  
+<in> most cases, decrease storage size by a factor of  
+
+
+DocID: CACM-2484
+
+data base, data-base management, <in>formation <retrieval>,  
+<in>formation structure, file organization,  
+<in>formation structures, as list, tree, r<in>g,  
+
+
+DocID: CACM-3135
+
+structure search, <in>formation <retrieval>, crystal  
+of atoms <in> molecules possess<in>g similar biological activities;  
+detection of three-dimensional patterns of atoms <in> chemical structures  
+
+
+DocID: CACM-2451
+
+tree file, <in>formation storage and <retrieval>, cluster<in>g,  
+a standard <in>formation <retrieval> operation is  
+poses an optimization problem <in> the design of  
+
+
+DocID: CACM-1988
+
+of <processors> for programm<in>g languages-compilers,  
+<in>terpreters, assemblers-and their <in>teractions <in> complex systems  
+be produced from a given set of component <processors>.  
+
+
+DocID: CACM-2722
+
+attribute, <in>formation <retrieval> system, nearest  
+associative <retrieval>, b<in>ary search trees, key,  
+their proven average runn<in>g times <in> an  
+
+
+DocID: CACM-2575
+
+the best-match problem <in> document <retrieval>  
+document <retrieval>, best match, cluster<in>g, file  
+
+
+DocID: CACM-2645
+
+about the program written <in> the first  
+<in> the first language, a go-to-less programm<in>g  
+<processors> for the two languages are also  
+
+
+DocID: CACM-1527
+
+value represents the requested <in>formation.  
+through questions posed <in> natural language  
+stored <in>formation, either explicitly or implicitly represented,  
+
+
+DocID: CACM-1665
+
+and character count <in> the item.  the <processors>  
+lexical <processors> is dealt with <in> this tutorial article  
+items or of words allowable <in> a language given <in> terms  
+
+
+DocID: CACM-2991
+
+cluster<in>g, <in>formation <retrieval>, open address<in>g, open  
+reduce the effect of nonuniformity <in> file load<in>g,  
+cluster<in>g <in> the key set is decreased by  
+
+
+DocID: CACM-1194
+
+paramount <in> the provision of <in>formation services:  
+system for <retrieval> by concept coord<in>ation.  
+as guides <in> mechaniz<in>g the acm repository.  
+
+
+DocID: CACM-2650
+
+<in> a.  the method should f<in>d applications <in> <in>formation  
+<retrieval>, artificial <in>telligence, and spell<in>g  
+which is "nearest"  <in> number of edit operations  to a  
+
+
+DocID: CACM-2746
+
+search, <in>formation <retrieval>, text-edit<in>g,  
+made by the pattern match<in>g mach<in>e <in>  
+<in> a s<in>gle pass.  construction of the pattern match<in>g  
+
+
+DocID: CACM-2388
+
+retriev<in>g <in>formation from b<in>ary trees, global  
+the average <retrieval> time by restructur<in>g the tree to  
+make the branches as uniform <in> length as possible.  
+
+
+DocID: CACM-1825
+
+is developed.  these <processors> are capable  
+<processors> are satisfied, then an lr k  processor  
+a practical method for construct<in>g lr k  <processors>  
+
+
+DocID: CACM-2895
+
+formal specifications,program correctness, <parallel>  
+of communicat<in>g <parallel> processes is described.  
+a language for specify<in>g the <in> tended behavior  
+
+
+DocID: CACM-2266
+
+<parallel> numerical algorithms, real polynomials,  
+a highly <parallel> algorithm for approximat<in>g  
+is conceptually suitable for <parallel> computation,  
+
+
+DocID: CACM-2785
+
+<parallel> computation, <parallel> architecture  
+of the problems associated with <parallel> computer  
+to specify the <parallel>ism of his algorithm <in> terms of 64-word  
+
+
+DocID: CACM-2046
+
+of changes <in> query, update, and report traffic and natural growth <in> the  
+redundancy, consistency, composition, jo<in>, <retrieval>  
+of redundancy and consistency <in> the user's model.  
+
+
+DocID: CACM-2050
+
+<in>formation <retrieval>, language analysis, text process<in>g  
+compares favorably to manual methods, <in> variables which compares favorably  
+to manual methods, <in> which only a sample of the total available text is  
+

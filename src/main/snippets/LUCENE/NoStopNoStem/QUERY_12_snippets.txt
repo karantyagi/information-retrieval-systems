@@ -1,0 +1,636 @@
+LUCENE_NoStopNoStem
+
+Query
+portable operating systems
+
+Top 100 Results (5 millisecs)
+
+
+DocID: CACM-3127
+
+thoth isa real-time <operating> system which is designed to be <portable>  
+thoth, a <portable> real-time <operating> system  
+portability, real time, <operating> <systems>, minicomputer  
+
+
+DocID: CACM-1461
+
+discussion summary on <operating> <systems>  
+
+
+DocID: CACM-3068
+
+<operating> <systems>, security, protection, program verification  
+here in terms of a general model for <operating> <systems>.  
+a model for verification of data security in <operating> <systems>  
+
+
+DocID: CACM-2111
+
+<operating> <systems>, diagnostics, error detection,  
+to compilers and <operating> <systems>.  these include the use of syntax  
+misspelling, lexical analysis <systems> programming  
+
+
+DocID: CACM-2069
+
+<operating> <systems>, memory management  
+
+
+DocID: CACM-2740
+
+of <operating> <systems>.  the project management  
+<operating> system structure, asynchronous  
+co<operating> processes, <operating> system, semaphores,  
+
+
+DocID: CACM-1728
+
+<operating> <systems>, supervisor simulation, machine  
+behavior, virtual memory <systems>, single-level  
+storage, one-level storage, <operating> system simulation,  
+
+
+DocID: CACM-1462
+
+multilevel <operating> <systems>  
+<operating> <systems>. this implies that all applications-no  
+the <operating> <systems>, but at a different level.  
+
+
+DocID: CACM-2597
+
+monitors, <operating> <systems>, scheduling, mutual  
+monitors: an <operating> system structuring concept  
+a monitor as a method of structuring an <operating>  
+
+
+DocID: CACM-2246
+
+levels of language for <portable> software  
+<portable> software, level of language, machine  
+implemented in a <portable> form.  a popular way of  
+
+
+DocID: CACM-1750
+
+<operating> <systems>, control data corporation 6600, <operating> system with ecs  
+multiprogrammed <operating> <systems>, multiprocessor  
+multiple computer <systems>, extended core storage,  
+
+
+DocID: CACM-2372
+
+<operating> <systems>, access management, data banks,  
+system implementation within today's languages and <operating> <systems>.  
+management information <systems>  
+
+
+DocID: CACM-2867
+
+modularization and hierarchy in a family of <operating> <systems>  
+used in the construction of a family of <operating>  
+<systems>. it is shown that the concepts of module and  
+
+
+DocID: CACM-1247
+
+computer programming <systems>  
+an <operating> environment for dynamic-recursive  
+<systems>.  the available services include dynamic allocation  
+
+
+DocID: CACM-2482
+
+deadlocks, resource allocation, <operating> <systems>,  
+multiprogramming, hierarchical <systems>  
+based on the concept of the hierarchical <operating>  
+
+
+DocID: CACM-2080
+
+multiprogramming, <operating> <systems>, parallel processes, process concept,  
+that can be extended with a hierarchy of <operating> <systems> to suit diverse  
+
+
+DocID: CACM-2379
+
+<operating> <systems>, system design, levels of abstraction,  
+the design of the venus <operating> system  
+the venus <operating> system is an experimental  
+
+
+DocID: CACM-1680
+
+retrieval <operating> <systems>, graphics, displays, man-machine  
+computer-assisted instruction, tutorial <systems>,  
+display unit under <operating> system/360.  adept  
+
+
+DocID: CACM-2319
+
+<operating> system performance  
+and computer <systems>.  
+computer system, <operating> system, performance  
+
+
+DocID: CACM-2840
+
+protection in <operating> <systems>  
+protection, protection system, <operating>  
+<systems> is presented and its appropriateness  
+
+
+DocID: CACM-3025
+
+minicomputer/microcomputer <systems>.  
+sharing computing <systems>; transferring hardware  
+computer structures, architecture, <operating> system, timesharing  
+
+
+DocID: CACM-2621
+
+<operating> <systems>, time sharing <systems>, security, cryptography  
+the protection of time sharing <systems> from  
+
+
+DocID: CACM-2541
+
+new concept for <operating> <systems>: separation  
+design of the language, <operating> system,  
+and the system's addressing structure, and centralized the  
+
+
+DocID: CACM-2629
+
+<operating> <systems>, including:  1  a hierarchical file system  
+<operating> system for the digital equipment  
+time-sharing, <operating> system, file system, command language, pdp-11  
+
+
+DocID: CACM-2632
+
+of highly secure <systems>.  
+<operating> system, kernel, nucleus, protection, security  
+hydra: the kernel of a multiprocessor <operating> system  
+
+
+DocID: CACM-1747
+
+<systems>, computer <systems> design, input equipment,  
+input equipment design, <operating> <systems>, <operating>  
+<systems> design, multiprogramming, multiprogrammed  
+
+
+DocID: CACM-2317
+
+languages, <operating> <systems>, programming  
+<systems>, multiprogramming, history  
+programming <systems> and languages 1965-1975  
+
+
+DocID: CACM-2424
+
+<operating> <systems>, data security, fault tolerance,  
+verification, modular computer <systems>  
+dynamic verification of <operating> system decisions  
+
+
+DocID: CACM-2138
+
+<systems> programming, data structures  
+bliss: a language for <systems> programming  
+specific machine  the pdp-10 : compilers, <operating>  
+
+
+DocID: CACM-2151
+
+<operating> <systems>, multiprogramming <systems>, time-sharing  
+<systems>, software measurement, user program  
+software <systems> is followed by a description of  
+
+
+DocID: CACM-2320
+
+<operating> <systems>, concurrent processes, shared  
+<operating> <systems> but also within user programs.  
+
+
+DocID: CACM-2950
+
+in real <operating> <systems>.  the policy-driven scheduler  
+<operating> <systems>,processor sharing, implementation  
+
+
+DocID: CACM-1751
+
+multiprogramming, <operating> <systems>, program  
+general <operating> system concepts, multiprocessing,  
+in modern computer <systems> is an adequate model for  
+
+
+DocID: CACM-3196
+
+is preferred. the reactive typewriter should be <portable>. the reactive  
+
+
+DocID: CACM-3174
+
+<operating> <systems>, passwords, computer security  
+
+
+DocID: CACM-1923
+
+<operating> <systems>, interfaces input-output,  
+
+
+DocID: CACM-1930
+
+extremely <portable> random number generator  
+extremely <portable> subroutines are sometimes  
+<portable> 8-line fortran program is provided which based  
+
+
+DocID: CACM-1226
+
+be critical to the system's <operating> efficiency.  
+system.  in many <systems>, the selection  
+this paper provides the <systems> designer with an information  
+
+
+DocID: CACM-3141
+
+decentralized algorithms, distributed <systems>, <operating> <systems>  
+
+
+DocID: CACM-2522
+
+<operating> <systems>, supervisory <systems>  
+<systems>, resource allocation, software evaluation,  
+recent research in time-sharing paging <systems>  
+
+
+DocID: CACM-1324
+
+<systems> which are programmed and <operating>  
+into logical calculi.  <systems> are classified  
+about pictures and <systems> which translate from english  
+
+
+DocID: CACM-1951
+
+<operating> <systems>, optimization models  
+by the exponential distribution are discussed for the <systems> studied.  
+from four operational multiaccess <systems>, and the model is shown to  
+
+
+DocID: CACM-1752
+
+time-sharing, <operating> <systems>, resource management,  
+resource management for a medium scale time-sharing <operating> system  
+
+
+DocID: CACM-1236
+
+<systems> operations and evaluation procedures.  
+<operating> on the ibm 7094 is described.  the system  
+the system is used not only to simulate an actual <operating>  
+
+
+DocID: CACM-2777
+
+<operating> <systems>, co-<operating> processes,process  
+
+
+DocID: CACM-0322
+
+the problem of <operating> a computer efficiently in  
+view of the growing number of programming <systems>  
+available.  each of these programming <systems> has been  
+
+
+DocID: CACM-3026
+
+languages, data management <systems>,  
+large-scale main frame computer <systems>.  beginning  
+the 1100 series <systems> are sperry univac's  
+
+
+DocID: CACM-2624
+
+<operating> system, third generation architecture,  
+virtual machine <systems> have been implemented  
+generation computer <systems>, e.g. the dec pdp-10, cannot  
+
+
+DocID: CACM-2358
+
+<operating> system, multics, virtual memory, segmentation,  
+many contemporary <systems> permit some degree of  
+as experience with use of on-line <operating>  
+
+
+DocID: CACM-2374
+
+and <operating> efficiency over fixed partitioning.  
+<systems>.  the storage requirement of programs is modeled  
+
+
+DocID: CACM-3137
+
+a methodology for the design of distributed information <systems>  
+various design and <operating> parameters on overall cost per transaction.  
+
+
+DocID: CACM-2378
+
+<operating> <systems>, supervisors, multiprogramming,  
+an <operating> system which is organized as a  
+an <operating> system based on the concept of a supervisory computer  
+
+
+DocID: CACM-2036
+
+conditional job control, <operating> <systems>  
+existing time-sharing <systems> is given.  
+
+
+DocID: CACM-3028
+
+storage, extra codes, compilers, <operating> <systems>,  
+two <systems> stand out: the mark i  developed  
+
+
+DocID: CACM-2622
+
+in many computer <operating> <systems> a user authenticates  
+<operating> system security, security, authentication,  
+
+
+DocID: CACM-2184
+
+file, <operating> system, programming language, functions,  
+on the meaning of names in programming <systems>  
+language and the file names of an <operating> system.  
+
+
+DocID: CACM-2297
+
+paging machines, demand paging, <operating> <systems>  
+computer system <operating> under demand paging.  in  
+
+
+DocID: CACM-1892
+
+strategies, <operating> <systems>, memory management  
+degree of multiprogramming in page-on-demand <systems>  
+<systems>.  the model preserves, as a key feature, the  
+
+
+DocID: CACM-2625
+
+information sharing, <operating> <systems>, computer  
+<systems> on the basis of protection, simplicity of  
+these <systems>.  the direct use of a capability as  
+
+
+DocID: CACM-2095
+
+distributions of segment sizes measured under routine <operating> con  
+should be relevant to the design of new computer <systems>,  
+
+
+DocID: CACM-3105
+
+in <operating> <systems> by access control mechanisms.  this  
+
+
+DocID: CACM-3006
+
+occur in paged virtual memory <operating> <systems>  
+
+
+DocID: CACM-2972
+
+the method can be applied to large programs, such as <operating> <systems>.  
+
+
+DocID: CACM-1647
+
+compatibility with other available compiling <systems>,  
+<operating> system.  fortran iv was selected as the source  
+
+
+DocID: CACM-3050
+
+<systems> design education: a gaming approach  
+and a simulated run of the center <operating> under  
+
+
+DocID: CACM-0696
+
+stations which collect and transmit company <operating>  
+edp <systems> are used to record and control the  
+
+
+DocID: CACM-2582
+
+of an <operating> system have shown its substantial superiority  
+is particularly suited to those <systems> where primary memory  
+
+
+DocID: CACM-1877
+
+a well-known problem in the design of <operating>  
+<systems> is the selection of a resource allocation  
+
+
+DocID: CACM-2542
+
+supervisory <systems>, debugging, program maintenance,  
+<operating> system development, language processing  
+
+
+DocID: CACM-2535
+
+scheduling algorithms, <operating> <systems>  
+
+
+DocID: CACM-1810
+
+even though it is <operating> across a memory-to-storage  
+will probably become a normal part of most computing <systems>.  
+
+
+DocID: CACM-2342
+
+<operating> <systems>, parallel processes  
+dictate the system's behavior.  the mutual exclusion problem  
+
+
+DocID: CACM-1517
+
+by selecting one of five <operating> plans, where each  
+of economic <systems>.  we first turn to a hypothetical firm,  
+
+
+DocID: CACM-2849
+
+with an <operating> ethernet of 100 nodes along a  
+used to build <systems> which can be viewed as either local  
+
+
+DocID: CACM-3002
+
+library routines' storage at a large scale <operating>  
+one; several types of file <systems> may be derived from  
+
+
+DocID: CACM-1854
+
+a basis for the construction of <operating> <systems>,  
+
+
+DocID: CACM-2796
+
+monitors: an <operating> system structuring concept  corrigendum   
+
+
+DocID: CACM-1755
+
+proceedings of the acm symposium on <operating> system principles  
+
+
+DocID: CACM-1069
+
+a method for comparing the internal <operating> speeds of computers  
+
+
+DocID: CACM-1050
+
+on <operating> program using these techniques.  
+
+
+DocID: CACM-1472
+
+throughput achieved and the lack of an <operating>  
+the <operating> system for the univac 1107 at case  
+
+
+DocID: CACM-1591
+
+<operating> system to execute functions other than  
+into an <operating> system of a large computer  
+written in any language processed by the <operating> system.  
+
+
+DocID: CACM-2357
+
+multiplexer, implementation effort, <operating> overhead,  
+user reactions, remote terminals, <operating> system  
+an on-line system <operating> as part of a normal  
+
+
+DocID: CACM-2920
+
+<operating> system, multiprogramming, time-sharing,  
+priori information about the processes, resources, <operating>  
+as a game between the <operating> system and the processes  
+
+
+DocID: CACM-2868
+
+<operating> system, protection, capabilities,  
+reflections on an <operating> system design  
+<operating> system developed for the cdc 6400  
+
+
+DocID: CACM-2407
+
+information <systems>, information analysis,  
+programs in information <systems>  
+system design, <systems> analysis  
+
+
+DocID: CACM-2311
+
+<systems>, software <systems>, <systems> development  
+process, functional <systems>, management <systems>  
+
+
+DocID: CACM-2345
+
+management information <systems>, information <systems>  
+education, management <systems>, <systems> analysis,  
+professional programs in information <systems>  
+
+
+DocID: CACM-2583
+
+<systems>, regulations, social and behavioral  
+<systems>: a report from stanley house  
+
+
+DocID: CACM-1912
+
+which simulates appointment <systems> employed  
+simulation of outpatient appointment <systems>  
+appointment <systems> in a given clinical environment.  
+
+
+DocID: CACM-0597
+
+modular data processing <systems> written in cobol  
+
+
+DocID: CACM-0018
+
+simple automatic coding <systems>  
+
+
+DocID: CACM-0652
+
+use of semantic structure in information <systems>  
+
+
+DocID: CACM-0025
+
+general purpose programming <systems>  
+
+
+DocID: CACM-1360
+
+description of <systems> used for data transmission*  an asa tutorial   
+
+
+DocID: CACM-2479
+
+<systems> administration, information <systems>  
+education, management information <systems>, information  
+addendum on information <systems> administration  
+
+
+DocID: CACM-3150
+
+<systems> and components.  in order to develop such <systems>, we need  
+programming, programming languages, programming <systems>, <systems> development  
+intricacies of a machine's order code, higher level programming <systems>  
+
+
+DocID: CACM-2283
+
+are compared.  it is found that the algorithm <operating>  
+points.  it is concluded that the algorithm <operating> in  
+
+
+DocID: CACM-1534
+
+dad, the c. <operating> system  
+<operating> system, dad, is described in detail.  
+
+
+DocID: CACM-1519
+
+an <operating> system is described which will  
+george 3-a general purpose time sharing and <operating> system  
+

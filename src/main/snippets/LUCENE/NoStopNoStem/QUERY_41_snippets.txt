@@ -1,0 +1,713 @@
+LUCENE_NoStopNoStem
+
+Query
+Theory of distributed systems and databases.  Subtopics of special
+interest include reliability and fault-tolerance in distributed systems,
+atomicity, distributed transactions, synchronization algorithms, 
+resource allocation; lower bounds and models for asynchronous parallel
+systems.  Also theory of communicating processes and protocols.   
+
+     P. Box 2158 Yale Station, New Haven, Conn.  06520
+
+Top 100 Results (7 millisecs)
+
+
+DocID: CACM-3128
+
+exam<p>les <<<of>>> its use are given.  the relationshi<p> <<<of>>> the mechanism  
+<<<systems>>>.  the mechanism is def<in>ed <for>mally, <<<<and>>>> then several  
+<<<of>>> <in><for>mation matters.  an im<p>lementation <<<of>>> eventcount  
+
+
+DocID: CACM-3148
+
+<<<of>>> <p>articular languages <<<<and>>>> mach<in>es.  it a<p><p>ears to be useful <for>  
+<p>rogramm<in>g <for> <<<distributed>>> <<<<and>>>> other loosely cou<p>led <<<systems>>>  
+<p>rogram <<<of>>> develo<p>ment <in> advanced <p>rogramm<in>g languages, <<<<and>>>> relations  
+
+
+DocID: CACM-3043
+
+<<p>rocesses> communicate <<<<and>>>> synchronize by means <<<of>>> <p>rocedure  
+<<<<and>>>> shows that they <<in>clude> <p>rocedures, corout<in>es,  
+ex<p>ressions, <<<<and>>>> <in><p>ut/out<p>ut as <s<p>ecial> cases.  
+
+
+DocID: CACM-3082
+
+another <in> a <<<distributed>>> system is exam<in>ed, <<<<and>>>>  
+time, clocks, <<<<and>>>> the order<in>g <<<of>>> events <in> a <<<distributed>>> system  
+a <<<distributed>>> algorithm is given <for> synchroniz<in>g  
+
+
+DocID: CACM-2578
+
+self-stabiliz<in>g <<<systems>>> <in> s<p>ite <<<of>>> <<<distributed>>> control  
+multi<p>rocess<in>g, networks, self-stabilization, <synchronization>,  
+error recovery, <<<distributed>>> control, harmonious coo<p>eration, self-re<p>air  
+
+
+DocID: CACM-3141
+
+algorithm <for> f<in>d<in>g the largest  or smallest  <<<of>>> a set <<<of>>> uniquely  
+message ext<in>ction <in> order to achieve an average number <<<of>>>  
+<in> circular configurations <<<of>>> <<p>rocesses>  
+
+
+DocID: CACM-3137
+
+system from the <p>ers<p>ective <<<of>>> the end-user.  the mak<in>g evident the effect <<<of>>>  
+<<<distributed>>> <p>rocess<in>g, system design, cost m<in>imization, <<<distributed>>>  
+a methodology <for> the design <<<of>>> <<<distributed>>> <in><for>mation <<<systems>>>  
+
+
+DocID: CACM-2969
+
+<<<of>>> <p>rogram <<<<and>>>> data files <in> a com<p>uter network  
+<<<<and>>>> a <p>ossible a<p><p>lication <<<of>>> the model.  
+o<p>timal <p>rogram <<<<and>>>> data locations <in> com<p>uter networks  
+
+
+DocID: CACM-1747
+
+<<<of>>> a virtual com<p>uter are ex<p>la<in>ed.  exam<p>les <<<of>>> a<p><p>lications  
+<<<of>>> the criteria concern the read<in>g <<<of>>>  
+<<p>rocesses>, <p>rotection <in> multi<p>rogrammed <<<systems>>>,  
+
+
+DocID: CACM-2080
+
+es.  a fundamental set <<<of>>> <p>rimitives allows the dynamic creation <<<<and>>>> control  
+requirements <<<of>>> <p>rogram schedul<in>g <<<<and>>>> <resource> <allocation>.  the system  
+nucleus simulates an environment <in> which <p>rogram execution <<<<and>>>> <in><p>ut/out<p>ut  
+
+
+DocID: CACM-2371
+
+a system <<<of>>> communication between <<p>rocesses> <in> a  
+<in> a <resource> shar<in>g com<p>uter network  
+com<p>uter networks, <resource> shar<in>g  
+
+
+DocID: CACM-1751
+
+<in> modern com<p>uter <<<systems>>> is an adequate model <for>  
+<<<of>>> a general treatment <<<of>>> <resource> <allocation>  
+behavior, <p>rogram <models>, <resource> <allocation>, schedul<in>g, storage <allocation>  
+
+
+DocID: CACM-2342
+
+<<p>rocesses> as well as to s<<<of>>>tware <<p>rocesses>, <<<<and>>>>  
+sub<p>roblems, <in> the <for>m <<<of>>> <<p>arallel> <p>rograms, <<<<and>>>> <in><for>mal  
+the <for>mation <<<of>>> <p>artial rules <<<<and>>>> the calculation <<<of>>>  
+
+
+DocID: CACM-2128
+
+tasks on <p>rocessors <<<<and>>>> thereby reduce over-head.  the algorithm <also> has  
+time shar<in>g, <resource> <allocation>, schedul<in>g <algorithms>,  
+a <p>rocessor <allocation> method <for> time-shar<in>g  
+
+
+DocID: CACM-2522
+
+its behavior, <<<<and>>>> <in>dicates future directions <<<of>>> research  
+recent research <in> time-shar<in>g <p>ag<in>g <<<systems>>>  
+<<<<and>>>> are source <allocation> strategy based on  
+
+
+DocID: CACM-2849
+
+<for> error controlled communication are <<in>clude>d <for> com<p>leteness.  
+kilometer <<<of>>> coaxial cable.  a model <for> estimat<in>g <p>er<for>mance  
+control.  coord<in>ation <<<of>>> access to the ether <for> <p>acket  
+
+
+DocID: CACM-2406
+
+<<<<and>>>> <p>hysical as<p>ects <<<of>>> data.  a<p><p>lications <<<of>>> these  
+as <in> advanced data management <<<systems>>> <<<<and>>>> <<<distributed>>>  
+<<<<and>>>> <p>hysical as<p>ects <<<of>>> data is <in>creas<in>gly  
+
+
+DocID: CACM-2740
+
+sequential <<p>rocesses>.  the <<p>rocesses> synchronize by  
+<<<of>>> o<p>erat<in>g <<<systems>>>.  the <p>roject management  
+means <<<of>>> sema<p>hores <<<<and>>>> extended sema<p>hores  queue  
+
+
+DocID: CACM-2276
+
+<<<<and>>>> s<p>eed, with some <new> <algorithms>.  a number <<<of>>> <p>rocedures  
+can be made, whereas <in> the case <<<of>>> the normal  
+<<<<and>>>> normally <<<distributed>>> quantities.  the most efficient  
+
+
+DocID: CACM-2424
+
+hardware <<<<and>>>> s<<<of>>>tware required <for> dynamic  
+user gratuitously even <in> the <p>resence <<<of>>> a  
+verification, modular com<p>uter <<<systems>>>  
+
+
+DocID: CACM-2895
+
+<p>roblem <<<<and>>>> the writer <p>riority <<<of>>> the second  
+<<<of>>> communicat<in>g <<p>arallel> <<p>rocesses> is described.  
+a language <for> s<p>ecify<in>g the <in> tended behavior  
+
+
+DocID: CACM-2912
+
+<asynchronous> multi<p>rocess<in>g, multi<p>rocess <synchronization>,  
+the <p>roblem <<<of>>> shar<in>g data among <asynchronous>  
+two techniques <for> transmitt<in>g messages between <<p>rocesses>.  
+
+
+DocID: CACM-2596
+
+memory <allocation>, dynamic storage <allocation>  
+buddy method, <for> dynamic storage <allocation>  
+a weighted buddy method <for> dynamic storage <allocation>  
+
+
+DocID: CACM-2597
+
+exam<p>les <<in>clude> a s<in>gle <resource> scheduler,  
+<<<of>>> readers <<<<and>>>> writers.  
+disk head o<p>timizer, <<<<and>>>> a version <<<of>>> the <p>roblem  
+
+
+DocID: CACM-2949
+
+<in> order <for> the nodes <<<of>>> a <<<distributed>>> com<p>uter  
+<p>ro<<<of>>> <<<of>>> this to<p>ology <in><for>mation <p>rotocol is <also> <p>resented.  
+to<p>ology, rout<in>g <p>roblem <in> networks, <<<distributed>>> o<p>erat<in>g  
+
+
+DocID: CACM-2541
+
+<<<of>>> the schedul<in>g from the ma<in>tenance functions <in> <resource>  
+<<<<and>>>> the system's address<in>g structure, <<<<and>>>> centralized the  
+<new> conce<p>t <for> o<p>erat<in>g <<<systems>>>: se<p>aration  
+
+
+DocID: CACM-3076
+
+benefits <for> the <in>stitutions that use them <<<<and>>>> <p>otential  
+<<<systems>>> which automate the transfer <<<<and>>>> record<in>g  
+they <also> raise significant social, legal, <<<<and>>>> technical  
+
+
+DocID: CACM-2376
+
+<synchronization> <<<of>>> communicat<in>g <<p>rocesses>  
+<for>malization <<<of>>> a well-def<in>ed <synchronization>  
+this is demonstrated <for> a system consist<in>g <<<of>>>  
+
+
+DocID: CACM-3072
+
+<in> identical system structures <<<<and>>>> workload environments.  
+amount <<<of>>> memory <resource> required <for> effective  
+used are the data-flow rates <for> the <<p>rocesses>  
+
+
+DocID: CACM-1745
+
+use <<<of>>> com<p>uter <in>stallations <<<<and>>>> so that the cost <<<of>>> their  
+communications, <<<<and>>>> the develo<p>ment <<<of>>> <in><for>mation  
+the effective o<p>eration <<<of>>> free enter<p>rise <in>  
+
+
+DocID: CACM-3153
+
+the context <<<of>>> a <p>aged com<p>uter system.  two <p>arameterized <algorithms>  
+the <p>ossibility <<<of>>> giv<in>g different quality <<<of>>> service to jobs <<<of>>> different  
+or <<<<and>>>> <p>ag<in>g <<<<and>>>> file devices, with fixed numbers <<<of>>> jobs, is studied  
+
+
+DocID: CACM-1960
+
+<<in>clude> the ability given to any user to schedule his own <<p>arallel>  
+<p>rocess management <<<<and>>>> <resource> shar<in>g <in> the multiaccess system eso<p>e  
+time-shar<in>g, multi<p>rogramm<in>g, <p>rocess schedul<in>g, <resource> <allocation>  
+
+
+DocID: CACM-2482
+
+system, <for> construct<in>g a<p><p>ro<p>riate mixtures <<<<and>>>>  
+deadlocks, <resource> <allocation>, o<p>erat<in>g <<<systems>>>,  
+mixtures <<<of>>> detection, avoidance, <<<<and>>>> <p>revention  
+
+
+DocID: CACM-2950
+
+<<<of>>> a schedul<in>g system which <for>malizes the notion <<<of>>>  
+<<<of>>> the commonly im<p>lemented ones.  <for> time-<in>variant  
+<<<of>>> time-<in>variant <algorithms>, which <<in>clude> most  
+
+
+DocID: CACM-2504
+
+<models> <<<of>>> cognitive <<p>rocesses>, com<p>uter music,  
+concern<in>g music <<<<and>>>> com<p>uter com<p>osition <in> com<p>utational l<in>guistics  
+com<p>uter com<p>osition,music <<theory>>  
+
+
+DocID: CACM-1951
+
+<for> certa<in> com<p>uter communications traffic <models>  
+elementary <in> the sense that many <<<of>>> the r<<<<and>>>>om variables that  
+same distribution <in>de<p>endent <<<of>>> which <<<of>>> the four <<<systems>>> is be<in>g exam<in>ed.  
+
+
+DocID: CACM-2111
+
+<<<<and>>>> symbol tables, <<<<and>>>> the consideration <<<of>>> a limited class <<<of>>> s<p>ell<in>g  
+to com<p>ilers <<<<and>>>> o<p>erat<in>g <<<systems>>>.  these <<in>clude> the use <<<of>>> syntax  
+<<<<and>>>> semantics <in><for>mation, the organization <<<of>>> restricted keyword  
+
+
+DocID: CACM-1928
+
+<<<of>>> serial <<<<and>>>> simultaneous activities.  the <p>assage <<<of>>>  
+<in> execution time <<<<and>>>> s<p>ace, <<<<and>>>> a facility <for> h<<<<and>>>>l<in>g  
+<<<<and>>>> <<<systems>>> to be simulated may be comb<in>ations <<<of>>> synchronous  
+
+
+DocID: CACM-1924
+
+be <in> ma<in> memory at one time.  exam<in>ation <<<of>>> addition,  
+organiz<in>g matrices <<<<and>>>> matrix o<p>erations <for> <p>aged memory <<<systems>>>  
+matrix <algorithms>, array <p>rocess<in>g, <p>ag<in>g <algorithms>,  
+
+
+DocID: CACM-3119
+
+sim<p>le queue<in>g <models> are used to study the <p>er<for>mance trade<<<of>>>fs <<<of>>>  
+multi<p>le <p>rocessor <<<systems>>>.  issues considered <<in>clude> the im<p>act <<<of>>> c<p>u  
+service disci<p>l<in>es <<<<and>>>> distributions, level <<<of>>> multi<p>rogramm<in>g,  
+
+
+DocID: CACM-1935
+
+<<<<and>>>> <<<of>>>fers <new> <p>otential <for> <in><for>mation retrieval <<<systems>>>.  
+<<<<and>>>> variance <<<of>>> the number <<<of>>> trials to recover  
+a given document <in> a r<<<<and>>>>omly received list <<<of>>> files.  
+
+
+DocID: CACM-2454
+
+order <<<of>>> evaluation are exam<in>ed <in> some detail.  
+distribution <<<of>>> customers <in> closed queue<in>g  
+such as storage <allocation> strategies <<<<and>>>>  
+
+
+DocID: CACM-1828
+
+<<p>arallel> access<in>g, <<p>arallel> search, file search,  
+file system.  methods <for> <synchronization> <<<of>>>  
+a data base is a hierarchy <<<of>>> directories <for> an on-l<in>e  
+
+
+DocID: CACM-2470
+
+<<theory>>  or its derivatives  <for> the concise <<<<and>>>>  
+questions <<<of>>> local <<<<and>>>> global environments <<<<and>>>> <<<of>>>  
+structur<in>g, <<<<and>>>> unit<in>g.  it is <also> demonstrated  
+
+
+DocID: CACM-3124
+
+level <<<of>>> arrays <<<<and>>>> <new> o<p>erators to assist <in> the  
+arrays <<<of>>> numbers <<<<and>>>> characters.  an extension <<<of>>> a<p>l is <p>ro<p>osed that  
+construction <<<of>>> data-driven <algorithms>.  
+
+
+DocID: CACM-3006
+
+<<<<and>>>> <p>ag<in>g <algorithms>, an <in>crease <in> mean memory <allocation>  
+occur <in> <p>aged virtual memory o<p>erat<in>g <<<systems>>>  
+two <p>ag<in>g <algorithms>, are exam<in>ed <in> terms <<<of>>> their  
+
+
+DocID: CACM-2955
+
+<allocation>.  each buddy system corres<p>onds to a set <<<of>>>  
+any <<<of>>> a class <<<of>>> buddy <<<systems>>> <for> dynamic storage  
+<for> <in> ternal, external, <<<<and>>>> total fragmentation.  
+
+
+DocID: CACM-2016
+
+an array <<<of>>> measur<in>g tools devised to aid <in> the im<p>lementation <<<of>>> a <p>rototy<p>e  
+<<<<and>>>> record<in>g tools, <<<<and>>>> <s<p>ecial>ized measurement facilities.  some  
+<p>articular measurements <<<of>>> <<in>terest> <in> a system which comb<in>es dem<<<<and>>>>  
+
+
+DocID: CACM-1752
+
+effects <<<of>>> <p>rogram mix <<<<and>>>> load<in>g variations are <also> <p>resented.  
+<<<of>>> the task schedul<in>g <<<<and>>>> <p>ag<in>g <algorithms> that were im<p>lemented,  
+task schedul<in>g <<<<and>>>> <resource> balanc<in>g <for>  
+
+
+DocID: CACM-2030
+
+<also> com<p>ared with several <p>revious <p>arsers <for> context-sensitive  
+<for>mal language <<theory>>, <p>ars<in>g, <p>ars<in>g <algorithms>, recognition <algorithms>  
+each context-sensitive analysis once <<<<and>>>> only once.  the amount <<<of>>> memory  
+
+
+DocID: CACM-2900
+
+which to locate co<p>ies <<<of>>> a file-is known to be, <in> general,  
+<<<of>>> f<in>d<in>g the o<p>timal set <<<of>>> network sites at  
+<<in>clude>d <in> an o<p>timal <allocation>.  
+
+
+DocID: CACM-3000
+
+<<<<and>>>> some <<<of>>> their im<p>lications <for> the design <<<of>>> virtual  
+<<<of>>> the construction <<<<and>>>> behavior <<<of>>> real <p>rograms,  
+<<<of>>> memory requests <<<<and>>>> <for> their hold<in>g times  
+
+
+DocID: CACM-3059
+
+<models> are <for>mulated <in> terms <<<of>>> c<p>u:i/o <<<<and>>>> i/o:i/o overla<p>  
+are <in> a<p><p>roximate c<p>u:i/o utilization balance <<<<and>>>> <for>  
+<<<<and>>>> a<p><p>lied to the analysis <<<of>>> these <p>roblems.  
+
+
+DocID: CACM-2198
+
+level <<<of>>> user.  the use <<<of>>> cobol as a basis <for>  
+<p>roblem <<<of>>> cater<in>g to a high volume <<<of>>> <transactions>  
+<<<<and>>>> similarities between ca<p>abilities found <in>  
+
+
+DocID: CACM-2255
+
+<models> <<<of>>> cognitive <<p>rocesses>, com<p>uter music,  
+com<p>uter com<p>osition, music <<theory>>  
+comments on moorer's music <<<<and>>>> com<p>uter com<p>osition  
+
+
+DocID: CACM-1948
+
+grou<p>s <<<of>>> f<in>ite grou<p>s, character tables, <<<<and>>>> commutator  
+more im<p>ortant <algorithms> <in> use are described <<<<and>>>> contrasted,  
+diverse range <<<of>>> <p>roblems <in> grou<p> <<theory>>.  
+
+
+DocID: CACM-2616
+
+<in> <p>ractice.  extensions to the <<theory>> <<<of>>> com<p>utation  
+on the conversion <<<of>>> <p>rograms to decision tables: method <<<<and>>>> objectives  
+semantics, <<theory>> <<<of>>> <p>rogramm<in>g, <<<systems>>> analysis  
+
+
+DocID: CACM-2697
+
+a fast method <for> solv<in>g a class <<<of>>> tridiagonal l<in>ear <<<systems>>>  
+<in> terms <<<of>>> the ratio <<<of>>> the coefficient matrix diagonal  
+elements <<<of>>> the subdiagonals <<<<and>>>> su<p>erdiagonals  
+
+
+DocID: CACM-2932
+
+<<<<and>>>> methods.  illustrative exam<p>les <<<of>>> <p>ractical  
+<in> tractable <p>roblems, <p>robabilistic <algorithms>  
+the framework <for> research <in> the <<theory>> <<<of>>> com<p>lexity  
+
+
+DocID: CACM-2738
+
+use <<<of>>> the conce<p>t <<<of>>> trans<p>arency <in> the  
+design <<<of>>> hierarchically structured <<<systems>>>  
+a number <<<of>>> exam<p>les from hardware <<<<and>>>> s<<<of>>>tware  
+
+
+DocID: CACM-2777
+
+strong restrictions on the use <<<of>>> <p> <<<<and>>>> v.  these restrictions  
+<synchronization> <p>rimitives  
+smoker's <p>roblem cannot be solved us<in>g the <p> <<<<and>>>> v o<p>erations  
+
+
+DocID: CACM-3086
+
+are allowed.  the existence <<<of>>> an    n log n  <lower> bound  
+on the com<p>lexity <<<of>>> com<p>ut<in>g the measure <<<of>>> u[ai, bi]  
+are with<in>   <<<of>>> each other is <also> demonstrated.  these  
+
+
+DocID: CACM-1247
+
+<<<systems>>>.  the available services <<in>clude> dynamic <allocation>  
+<<<of>>> storage <for> contiguous blocks <<<of>>> arbitrary  
+size, <in><p>ut <<<<and>>>> out<p>ut <for> a hierarchy <<<of>>> data ty<p>es,  
+
+
+DocID: CACM-2890
+
+<<<of>>> a l<in>ear one <in> the rout<in>g table ma<in>ta<in>ed at each  
+two analytic <models> <<<of>>> a store-<<<<and>>>>-<for>ward communications  
+on quadratic ada<p>tive rout<in>g <algorithms>  
+
+
+DocID: CACM-2318
+
+<models> constitute a useful means <<<of>>> <in>vestigat<in>g  
+methods <for> evaluat<in>g the <p>er<for>mance <<<of>>> com<p>uter  
+the role <<<of>>> com<p>uter system <models> <in> <p>er<for>mance evaluation  
+
+
+DocID: CACM-3038
+
+<<<<and>>>> <p>ublic-key encry<p>tion <algorithms> are considered as the basis <for> <<p>rotocols>.  
+us<in>g encry<p>tion <for> authentication <in> large networks <<<of>>> com<p>uters  
+<<<of>>> authenticated mail, <<<<and>>>> <for> signature verification  
+
+
+DocID: CACM-1552
+
+<<<of>>> available storage to be obta<in>ed <<<<and>>>> returned  
+h<<<<and>>>>l<in>g <<<of>>> selected sizes, control <<<of>>> shatter<in>g <<<<and>>>>  
+<in>to a hierarchy <<<of>>> free storage zones, each <<<of>>>  
+
+
+DocID: CACM-2519
+
+the nature <<<of>>> the difficulty <in>volved <in> communicat<in>g  
+<p>sychological <<<<and>>>> <in><for>mation-<p>rocess<in>g <<p>rocesses>, <<<<and>>>>  
+devices, the exhibition <<<of>>> the structure <in>herent <in> the  
+
+
+DocID: CACM-1959
+
+<for> the design <<<<and>>>> cod<in>g <<<of>>> large shared data base <<<systems>>>.  the  
+the <new> organization which is <p>ro<p>osed <for> management <in><for>mation <<<systems>>>.  
+conditions with items <in> the data base.  an algorithm <for> resolv<in>g  
+
+
+DocID: CACM-2020
+
+some <<<of>>> these misunderst<<<<and>>>><in>gs <<<<and>>>> to highlight the advantages <<<<and>>>>  
+more <<<<and>>>> more frequently is a <p>ric<in>g <p>rocedure.  <in> this  
+effects <<<of>>> frequent <p>rice fluctuations.  although the subject <<<of>>> <p>ric<in>g has  
+
+
+DocID: CACM-2373
+
+denn<in>g, <p>. j.  
+work<in>g-set model, <p>ag<in>g, <p>ag<in>g <algorithms>,  
+<p>ro<p>erties <<<of>>> the work<in>g-set model  
+
+
+DocID: CACM-3025
+
+a <p>rice range <<<of>>> five to one.  the orig<in> <<<<and>>>>  
+<<<of>>> im<p>lementations to <p>resently <<in>clude> <<<systems>>> cover<in>g  
+evolution <<<of>>> the hardware, o<p>erat<in>g system, <<<<and>>>> languages  
+
+
+DocID: CACM-1484
+
+<<<<and>>>> automatic design <<<of>>> the system described, <in>  
+a language <for> describ<in>g the functions <<<of>>> synchronous <<<systems>>>*  
+<<<systems>>> are discussed, <<<<and>>>> a dialect <<<of>>> algol which  
+
+
+DocID: CACM-2816
+
+<in> most database organizations, the cost <<<of>>> access<in>g  
+o<p>timal reorganization <<<of>>> <<<distributed>>> s<p>ace disk files  
+which allows <for> <<<distributed>>> free s<p>ace is described.  
+
+
+DocID: CACM-3117
+
+<<<<and>>>> the relationshi<p> <<<of>>> this technology to law en<for>cement <<<<and>>>> society.  
+a tool <for> decision mak<in>g, strategic <p>lann<in>g <<<<and>>>> <p>erson/mach<in>e  
+<in> the use <<<of>>> com<p>uter technology by u. <p>olice de<p>artments.  this  
+
+
+DocID: CACM-2323
+
+then the <p>ros<p>ects <for> a general <<theory>> <<<of>>> functions  
+a list <<<of>>> a number <<<of>>> natural develo<p>ments  
+<for> the field <<<of>>> algebraic mani<p>ulation is given.  
+
+
+DocID: CACM-2320
+
+<<<of>>> <p>rograms <<<<and>>>> <p>ermits a large class <<<of>>> time-de<p>endent  
+o<p>erat<in>g <<<systems>>>, concurrent <<p>rocesses>, shared  
+re<p>resentation <<<of>>> multi<p>rogramm<in>g <in> a high  
+
+
+DocID: CACM-2927
+
+some <new> u<p><p>er <bounds> on the generation <<<of>>> <p>rime numbers  
+to the theoretical <lower> bound <for> sieve methods  
+<in>volv<in>g s<p>ace-time <<<<and>>>> additive-multi<p>licative  
+
+
+DocID: CACM-2979
+
+<also> been <in> terest <in> how humans make deductive <<<<and>>>> <in>ductive  
+<<<<and>>>> learn<in>g <<p>rocesses> on the one h<<<<and>>>>, <<<<and>>>> mach<in>e  
+<<<<and>>>> normative theories <<<of>>> behavior. an <in> teractive  
+
+
+DocID: CACM-2317
+
+<<in>clude> the <in>creased <<in>terest> <in> the develo<p>ment <<<of>>>  
+<<<of>>> the world's <p>roduction <p>rograms are written <<<<and>>>> will  
+<<<<and>>>> cobol rema<in> the languages <in> which most  
+
+
+DocID: CACM-2784
+
+<p>ercent <<<of>>> the above <for>mula is <also> derived.  
+both theoretically <<<<and>>>> <p>ractically.  the number <<<of>>> com<p>arisons  
+ex<p>ected time <bounds> <for> selection  
+
+
+DocID: CACM-1341
+
+<in> this essay some <<<of>>> these questions are <p>osed, <<<<and>>>>  
+<in> build<in>g current com<p>uter <<<systems>>>, we tend  
+levels <<<of>>> com<p>uter <<<systems>>>  
+
+
+DocID: CACM-1854
+
+<<<of>>> the <in>terru<p>t <<<<and>>>> <p>ermits the s<p>ecification <<<of>>> concurrent  
+<<<of>>> <<p>arallel> <<p>rocesses>.  a set <<<of>>> rout<in>es  
+<in>structions <for> the generation, term<in>ation, <<<<and>>>> <synchronization>  
+
+
+DocID: CACM-1572
+
+<<<systems>>> has raised a number <<<of>>> <p>roblems <for>  
+variety <<<of>>> time-shar<in>g <<<systems>>>.  it can <also> be  
+used to assist <in> the design <<<<and>>>> develo<p>ment <<<of>>> <new> time-shar<in>g  
+
+
+DocID: CACM-1748
+
+<<<<and>>>> the nature <<<of>>> basic o<p>erations on <<p>rocesses>  
+<<<systems>>> is ex<p>la<in>ed.  some as<p>ects <<<of>>> time-oriented  
+<<<of>>> <in>de<p>endent <<p>rocesses> are <p>resented <<<<and>>>> com<p>ared.  
+
+
+DocID: CACM-2931
+
+<in> the other direction <for> the more a<p><p>lied <p>arts <<<of>>>  
+<<<of>>> com<p>utation  <in> a way, the statics <<<of>>> the <p>roblem   
+enter <in> giv<in>g descri<p>tions <<<of>>> <<p>rocesses>.  
+
+
+DocID: CACM-2314
+
+<in><p>ut <<<<and>>>> out<p>ut <<<of>>> data would facilitate use <<<of>>>  
+<for> extended data <for>ms, storage management, <<<<and>>>> extensibility  
+efficient, <<<<and>>>> run on data.  because <<<of>>> this general  
+
+
+DocID: CACM-3181
+
+<<<<and>>>> fraud, <p>rivacy, system <reliability>, eft ombudsman  
+shortcom<in>gs <in> the <p>resent system <for> def<in><in>g res<p>onsibilities,  
+ef<for>t <<<of>>> considerable scale.  <in> addition, research has revealed  
+
+
+DocID: CACM-2926
+
+<<<of>>> each length are uni<for>mly <<<distributed>>> with<in> the  
+file, <<<<and>>>> if a wide distribution <<<of>>> record lengths  
+with that <<<of>>> another strategy, <<<<and>>>> analyzed.  
+
+
+DocID: CACM-2499
+
+<<<<and>>>> account<in>g are a<p><p>lied to this question, <<<<and>>>> some  
+<<<of>>> the memory <resource> essential to control <<<of>>> other  
+<<<<and>>>> relative weight<in>g <<<of>>> charges <for> de<p>endent  
+
+
+DocID: CACM-1754
+
+<p>roblems <<<of>>> storage <allocation>.  a method <<<of>>> characteriz<in>g  
+dynamic storage <allocation> <<<systems>>>  
+may be assessed.  a brief survey <<<of>>> storage <allocation>  
+
+
+DocID: CACM-2289
+
+<in> the effective use <<<of>>> cellular arrays <for> the  
+solution <<<of>>> gra<p>h <p>roblems is the determ<in>ation <<<of>>> <algorithms>  
+<algorithms> are <p>resented <for> the solution <<<of>>> certa<in>  
+
+
+DocID: CACM-2535
+
+<p>er<for>mance <<<of>>> the com<p>uter  model , <in> the sense  
+a study is made <<<of>>> the way <in> which <asynchronous>  
+analytical results <<in>clude> a general descri<p>tion <<<of>>> the  
+
+
+DocID: CACM-2629
+
+a number <<<of>>> features seldom found even <in> larger  
+<p>a<p>er discusses the nature <<<<and>>>> im<p>lementation <<<of>>> the  
+<in>itiate <asynchronous> <<p>rocesses>;  4  system comm<<<<and>>>>  
+
+
+DocID: CACM-1978
+
+<<<<and>>>> gra<p>hic term<in>als, we have available a <new> dimension  
+with the advent <<<of>>> on-l<in>e  time-shar<in>g  com<p>uter <<<systems>>>  
+<in> this <p>a<p>er we discuss some <<<of>>> the advantages accrued by such  
+
+
+DocID: CACM-2644
+
+<in> automated theorem <p>rov<in>g, there is a need <for> develo<p><in>g  
+<<<of>>> this language <p>ermits easy extension <<<of>>> automated  
+because <<<of>>> the large number <<<of>>> strategies  
+
+
+DocID: CACM-2851
+
+<<<of>>> floyd's technique <for> <p>rov<in>g term<in>ation.  <also> discussed  
+<<<of>>> certa<in> <for>ms <<<of>>> im<p>lementation is <also> discussed.  
+<<<of>>> an <in>f<in>ite set <<<of>>> control states by allow<in>g  
+
+
+DocID: CACM-1774
+
+semiautomatic <<<<and>>>> nonautomatic -- are classified, <<<<and>>>> the  
+the general features <<<of>>> <p>rogram overlay <<<systems>>>  
+<in> detail, with <s<p>ecial> reference to real time  
+
+
+DocID: CACM-1206
+
+mean values <<<of>>> the <p>arameters <<<<and>>>> their m<p>e's <in> terms  
+<in> the statistical <<<<and>>>> gra<p>hical methods  
+<<<<and>>>> the design <<<of>>> many ex<p>eriments is greatly sim<p>lified.  
+
+
+DocID: CACM-2095
+
+<<<of>>> the measurements is the large number <<<of>>> small segments-about 60  
+<p>ag<in>g, <resource> <allocation>, memory <allocation>, core utilization  
+should be relevant to the design <<<of>>> <new> com<p>uter <<<systems>>>,  
+

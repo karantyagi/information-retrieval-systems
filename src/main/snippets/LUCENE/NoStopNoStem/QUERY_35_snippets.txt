@@ -1,0 +1,705 @@
+LUCENE_NoStopNoStem
+
+Query
+Probabilistic algorithms especially those dealing with algebraic and
+symbolic manipulation.  Some examples:
+Rabiin, "Probabilistic algorithm on finite field", SIAM
+Waztch, "Probabilistic testing of polynomial identities", SIAM
+
+Rabin,M.
+
+Top 100 Results (55 millisecs)
+
+
+DocID: CACM-2932
+
+<and> methods.  illustrative <examples> <of> practical  
+complexity <of> computati<on>s, <algebraic> complexity,  
+in tractable problems, <<<probabilistic>>> <<algorithm>s>  
+
+
+DocID: CACM-1474
+
+<<<probabilistic>>> models for round<of>f error, <and> then to  
+errors is in <some> sense statistical.  the purpose <of> this  
+tests <of> <<<probabilistic>>> models for propagati<on> <of> round<of>f errors  
+
+
+DocID: CACM-3175
+
+<of> the alphabet has <on>e fixed substitute, <and> the word divisi<on>s  
+<<<probabilistic>>> classificati<on>, relaxati<on>  
+breaking substituti<on> ciphers using a relaxati<on> <algorithm>  
+
+
+DocID: CACM-2836
+
+<of> a c<on>text-free grammar.  an <algorithm> is presented  
+in additi<on>, the correctness <of> the <algorithm>  
+involving <<<probabilistic>>> parsing or combinatorial  
+
+
+DocID: CACM-2090
+
+<symbolic> expansi<on> <of> <algebraic> expressi<on>s  <algorithm> 377 $r2    
+<algebraic> multiplicati<on>, distributi<on> <algorithm>,  
+<algorithm>, <polynomial> distributi<on>, <polynomial> expansi<on>  
+
+
+DocID: CACM-2580
+
+<on> the producti<on>s deciding when <and> to what extent  
+<of> applicability rules <and> weight rules which operate  
+method is a set <of> producti<on>s together <with> sets  
+
+
+DocID: CACM-2165
+
+<of> the <field> equati<on>s in the presence <of> matter in  
+general relativity <and> the applicati<on> <of> <algebraic> manipulative systems  
+the paper describes <some> applicati<on>s <of> <symbolic>  
+
+
+DocID: CACM-2560
+
+the results are presented <of> an analysis <of>  
+by multiprogramming in the presence <of> this type <of> storage system.  
+a <<<probabilistic>>> model <of> a multiprogrammed computer  
+
+
+DocID: CACM-3071
+
+<of> the bel-petrov types <of> a gravitati<on>al <field>.  
+c<on>tains <examples> illustrating the use <of> the <algorithm>.  
+<symbolic> calculati<on> <of> certain <algebraic> invariants  
+
+
+DocID: CACM-1397
+
+proceedings <of> the acm symposium <on> <symbolic> <and> <algebraic> <manipulati<on>>  
+for <manipulati<on>> <of> <algebraic> formulas <and> symbol  
+the acm symposium <on> <symbolic> <and> <algebraic>  
+
+
+DocID: CACM-1386
+
+factoring <of> any <polynomial> may be found in a <finite> number  
+an <algorithm> for finding the <symbolic> factors <of>  
+<of> steps.  the <algorithm> c<on>sists <of> factoring  
+
+
+DocID: CACM-2645
+
+<of> the two languages are included.  the limitati<on>s <of>  
+<on> the analysis <of> <<algorithm>s>, <and> <some> <of> the directi<on>s  
+language which includes most <of> the features <of> algol  
+
+
+DocID: CACM-2681
+
+a <<<probabilistic>>> model <of> a multiprogramming system  
+<<<probabilistic>>> model, central processor productivity,  
+<and> the operating c<on>diti<on>s that lead  
+
+
+DocID: CACM-2516
+
+to predict the effect <of> such a system <on>  
+hardware is assumed to c<on>sist <on> n-levels <of>  
+<and> structured files employing multiple-hierarchical  
+
+
+DocID: CACM-2166
+
+<of> automated <algebraic> <manipulati<on>> which  
+<manipulati<on>> packages.  <some> future directi<on>s  
+mechanics are c<on>sidered <and> compared <with> <those> for general  
+
+
+DocID: CACM-2437
+
+<algorithm>.  all files <with> the same number <of>  
+average performance <of> the transformati<on> methods <on>  
+in accordance <with> the <algorithm>, <and> the  
+
+
+DocID: CACM-2169
+
+<with> integer coefficients.  it has been designed <and>  
+<symbolic> algebra, rati<on>al functi<on> <manipulati<on>>,  
+quickly <and> easily <on> a variety <of> computing  
+
+
+DocID: CACM-3203
+
+abd differentiate <algebraic> expressi<on>s. it is designed for use <with> problemms  
+grad assistant - a program for <symbolic> <algebraic> <manipulati<on>> <and>  
+in which a large amount <of> routine <manipulati<on>> is to be d<on>e by a program  
+
+
+DocID: CACM-1935
+
+<and> variance <of> the number <of> trials to recover  
+<and> <of>fers new potential for informati<on> retrieval systems.  
+<<<probabilistic>>> method, r<and>om sequencing, search techniques, tree structures  
+
+
+DocID: CACM-2323
+
+<algebraic> <manipulati<on>>, special functi<on>s, <algebraic>  
+simplificati<on>, <symbolic> integrati<on>, <algebraic>  
+a list <of> a number <of> natural developments  
+
+
+DocID: CACM-2450
+
+the design <of> scheduling <and> paging <<algorithm>s>.  although  
+is a dearth <of> published data <on> program measurements,  
+in the literature <dealing> <with> resource allocati<on>, there  
+
+
+DocID: CACM-2167
+
+<of> a designer who wants to c<on>struct a useful <and>  
+<some> <of> the theoretical results related to <algebraic>  
+<<algorithm>s> <and> the number-theoretic c<on>jectures <on> which  
+
+
+DocID: CACM-0265
+
+bit <manipulati<on>> <and> exp<and>ed character set input-output, <and> visual display.  
+in <symbolic> languages <and> for use <with>in fortran  
+multi-precisi<on> arithmetic , symbol <manipulati<on>>,  
+
+
+DocID: CACM-1393
+
+<with> integral coefficients unrestricted in size.  <some>  
+<of> <polynomial>s in any number <of> variables,  
+<algorithm> for <polynomial> greatest comm<on> divisor  
+
+
+DocID: CACM-1696
+
+codes are reviewed, <and> an updating procedure for <dealing>  
+<and> compared <with> <those> <of> another recently  
+<and> in the c<on>structi<on> <of> variable length  
+
+
+DocID: CACM-1214
+
+<some> experiments in <algebraic> <manipulati<on>> by computer  
+a set <of> subroutines to allow <algebraic> <manipulati<on>>s  
+a list processor, slip.  a series <of> four problems <of> increasing  
+
+
+DocID: CACM-2266
+
+<of> a <polynomial> <with> <on>ly real zeros.  the <algorithm>, which  
+an <algorithm> is described based <on> newt<on>'s  
+all zeros <of> a <polynomial> <with> <on>ly real zeros  
+
+
+DocID: CACM-2170
+
+applicati<on>s <of> symbol <manipulati<on>> in theoretical physics  
+symbol <manipulati<on>>, <algebraic> simplificati<on>,  
+this paper surveys the applicati<on>s <of> <symbolic>  
+
+
+DocID: CACM-1396
+
+batch <and> <on>line-are described.  finally, <some>  
+<of> simplificati<on>, displays <and> input/output  
+<of> differentiati<on>, integrati<on> <and> the supporting capabilities  
+
+
+DocID: CACM-1392
+
+<of> mathematical expressi<on> <manipulati<on>> <<algorithm>s>  
+extracti<on> <of> the skeletal structure <of> an expressi<on>.  
+various facets <of> the design <and> implementati<on>  
+
+
+DocID: CACM-0719
+
+or pop them up.  the availability <of> a variety <of> <field>  
+the basis <of> compiler decoding <<algorithm>s> the proper  
+use <of> machines <of> this class for compilati<on> has  
+
+
+DocID: CACM-2164
+
+<of> the unsolvability <of> the problem for a class <of> functi<on>s  
+<manipulati<on>>, led to manove's implementati<on> <and> to  
+horowitz' <and> tobey's reexaminati<on> <of> the hermite  
+
+
+DocID: CACM-2567
+
+<of> a linear system <with> c<on>stant coefficients <and>  
+than two orders <of> magnitude faster for <some>  
+<with> stiff systems <of> differential equati<on>s.  
+
+
+DocID: CACM-2931
+
+<of> computati<on>  in a way, the statics <of> the problem   
+<and> pro<of>s, which are clean <and> <with>out undue dependence  
+much c<on>centrati<on> <on> the <finite>-state <and> <algebraic>  
+
+
+DocID: CACM-1699
+
+<of> such a system include ease <of> use, learning time, <and>  
+<with> emphasis <on> interactive  man-machine  language <and> <on>  
+<some> <of> the mechanical <and> psychological limitati<on>s  
+
+
+DocID: CACM-0717
+
+<of> the given set,  2  all partiti<on>s <of> the given set  
+partiti<on>ing <<algorithm>s> for <finite> sets  
+the partiti<on>s <of> a set <with> n elements are represented  
+
+
+DocID: CACM-2253
+
+a by-product <of> the <symbolic> <manipulati<on>> <of> expressi<on>s  
+<manipulati<on>> <of> index expressi<on>s which arise as  
+address calculati<on>s, <algorithm> transformati<on>,  
+
+
+DocID: CACM-2850
+
+<symbolic> executi<on> <and> program <testing>  
+to manage <and> to prove things about <symbolic>  
+<symbolic> executi<on>, program <testing>, program debugging,  
+
+
+DocID: CACM-1862
+
+<of> c<on>scious government emphasis <on> strengthening computing  
+disc<on>tent <with> the status quo <and> the soluti<on>s they  
+the number <of> computers is small <and> so is the  
+
+
+DocID: CACM-2283
+
+<and> the relative performances <of> the <<algorithm>s>  
+a thinned image <with> an overall reduced number <of>  
+thinning <<algorithm>s> <on> rectangular, hexag<on>al, <and> triangular arrays  
+
+
+DocID: CACM-2402
+
+<and> will c<on>tinue to be a <field> <of> intense interest.  
+digital computers encourages the development <of> <<algorithm>s>  
+<of> biological macromolecules hasbeen  
+
+
+DocID: CACM-2956
+
+<and> resulting problems <with> c<on>versi<on> <of>  
+<with> a set <of> primitive operati<on>s <on> <those> values.  am<on>g  
+over the elements <of> any <finite> set  instead <of> the  
+
+
+DocID: CACM-1806
+
+based <on> the modified method is given in <algorithm>  
+to avoid this difficulty <and> to improve the rate <of>  
+given <and> a critical review <of> relating literature is  
+
+
+DocID: CACM-1216
+
+produce results as elegant <and> efficient as <those>  
+prints out the <symbolic> derivative <of> an absolutely  
+operator into an "<algebraic>" programming language.  
+
+
+DocID: CACM-1524
+
+criteri<on> has been tested <on> numerous <examples>  
+when searching for the root <of> a <polynomial>,  
+<polynomial>.  
+
+
+DocID: CACM-2490
+
+<and> e is the number <of> edges, each <algorithm>  
+efficient <<algorithm>s> for graph <manipulati<on>> [h]  <algorithm> a447   
+comp<on>ents <and> simple paths.  the <algorithm> for partiti<on>ing  
+
+
+DocID: CACM-2094
+
+type <of> a general n<on>linear <algorithm> due to osborne <and> wats<on>  
+<algorithm> can give satisfactory results <and>, in particular, can  
+mainly based <on> the exchange <<algorithm>s> <of> remes  1934, 1935 , for  
+
+
+DocID: CACM-1154
+
+<of> memory available in the same manner.  <examples>  
+<of> the length <of> the input,  3  restrict the total amount  
+than <finite> automata <and> less powerful than general  
+
+
+DocID: CACM-1667
+
+<and> resultant routine  <algorithm> 340 [c2]   
+root finders, roots <of> <polynomial> equati<on>s, <polynomial>  
+<testing> <of> roots, acceptance criteria  
+
+
+DocID: CACM-1893
+
+<and> resultant routine  <algorithm> 340 [c2]   
+root finders, roots <of> <polynomial> equati<on>s, <polynomial>  
+<testing> <of> roots, acceptance criteria  
+
+
+DocID: CACM-1589
+
+<and> storage, <and> hard copy presentati<on> <of>  
+results.  use <of> the system requires a minimum <of> experience  
+input <and> display, <on>line <and> <of>f line program preparati<on>  
+
+
+DocID: CACM-2767
+
+notices, <and> another uses an indexed linear list. the <<algorithm>s>  
+a comparis<on> <of> simulati<on> event list <<algorithm>s>  
+the advantages <and> limitati<on>s <of> the <<algorithm>s>.  
+
+
+DocID: CACM-3006
+
+<of> various anomalies are presented.  two paging <algorithm>  
+anomalies <with> variable partiti<on> paging <<algorithm>s>  
+two paging <<algorithm>s>, are examined in terms <of> their  
+
+
+DocID: CACM-1946
+
+step <of> computati<on> in solving systems <of> <polynomial>  
+<<algorithm>s> for computing the resultant <of> two  
+<with> regard to round-<of>f errors. results <of> tests are reported in detail.  
+
+
+DocID: CACM-2273
+
+tested  <algorithm> 2 .  the new <<algorithm>s> combine to a  
+certain degree the advantages <of> mask methods <with>  
+entry tables.  the <<algorithm>s> are based <on> the  
+
+
+DocID: CACM-1999
+
+approximants is c<on>sidered, <and> <some> optimal <polynomial> initial  
+<on> machine <with> slow or no divisi<on>, it is preferable to  
+the classical her<on> scheme.  the problem <of> optimal initial  
+
+
+DocID: CACM-1543
+
+types <of> computer problems.  by the use <of> tensor calculus  
+<of> the mathematical techniques employed.  <with> the program  
+computer formulati<on> <of> the equati<on>s <of> moti<on> using tensor notati<on>  
+
+
+DocID: CACM-0111
+
+<on> programming the numerical soluti<on> <of> <polynomial> equati<on>s  
+<of> accuracy <and> rapid c<on>vergence are realized.  
+the roots <of> <polynomial> equati<on>s.  by applying  
+
+
+DocID: CACM-2704
+
+features must satisfy, <and> proposes <some> new language  
+features for <dealing> <with> excepti<on>s in an orderly  
+structured programming, <on> c<on>diti<on>s, programming  
+
+
+DocID: CACM-1391
+
+in mad <and> fap <on> the ibm 7094 to manipulate <some>  
+<and> sets <of> maps, subsets <and> sets <of> subsets,  
+<of> the objects <of> modern algebra: <finite> groups, maps  
+
+
+DocID: CACM-1197
+
+finding zeros <of> a <polynomial> by the q-d <algorithm>  
+has been tested <on> a number <of> <polynomial>s <with> real  
+success was achieved, in most <of> the cases tried, <with>  
+
+
+DocID: CACM-1595
+
+<on> the computer enumerati<on> <of> <finite> topologies  
+the problem <of> enumerating the number <of> topologies  
+leading to an <algorithm> for enumerating <finite> topologies,  
+
+
+DocID: CACM-0892
+
+the results <of> the above operati<on>s.  <some> <examples> <of>  
+file records <with> the are <of> logical c<on>diti<on>  
+retrieval <and> <manipulati<on>> <of> data file records.  
+
+
+DocID: CACM-1628
+
+scope <of> this emerging pr<of>essi<on>, <and> <some> <of> its  
+variety <of> activities <and> is carried <on> by people  
+<with> a great variety <of> backgrounds.  it seems clear  
+
+
+DocID: CACM-3201
+
+<and> require <on>ly st<and>ard fortran input/output units 5 <and> 6; they are design  
+<symbolic> <manipulati<on>> <of> poiss<on> series  
+to avoid waste <and> overflow <of> core storage space.  
+
+
+DocID: CACM-0644
+
+strings <of> characters <and> symbols.  the c<on>cept <of> strings,  
+<and> a formal descripti<on> which, taken <with> the  
+language is followed by <examples>, a descripti<on> <of>  
+
+
+DocID: CACM-2884
+
+<with> a single exchange <of> two marks.  the other two <<algorithm>s>  
+<and> ehrlich's implementati<on> <of> the johns<on>-trotter <algorithm>.  
+<on> n marks.  four new <<algorithm>s> have the attribute  
+
+
+DocID: CACM-1210
+
+<some> comments <on> two years use <of> these subroutines are given.  
+<symbolic> naming <of> informati<on> files, <with>out violating  
+this note describes <some> fortran subroutines  
+
+
+DocID: CACM-0319
+
+<on> a class <of> iterati<on> formulas <and> <some> historical notes  
+to the "euler <polynomial>" <and> shows how a number <of> known  
+<some> historical notes <on> iterative procedures are  
+
+
+DocID: CACM-0762
+
+<some> remarks <on> the syntax <of> <symbolic> programming languages  
+
+
+DocID: CACM-2314
+
+input <and> output <of> data would facilitate use <of>  
+efficient, <and> run <on> data.  because <of> this general  
+a wide range <of> applicati<on>s.  three aspects <of> programming  
+
+
+DocID: CACM-1664
+
+an <algorithm> for deriving the equati<on>s <of>  
+equati<on>s <of> fluid moti<on> <and> the c<on>tinuity  
+paper the emphasis is <on> theoretical c<on>siderati<on>s <and>  
+
+
+DocID: CACM-1743
+
+for the reliable scheme <and> <some> interesting  
+<examples> are given.  
+<of> the problem, another similar scheme, which is  
+
+
+DocID: CACM-3023
+
+<and> <on> the efforts to achieve them, <and> it describes the  
+debugging <and> m<on>itoring, error h<and>ling, <and> input/output  
+<of> the important parameters <of> the various ibm  
+
+
+DocID: CACM-3007
+
+complexity <of> computati<on>s  corrigendum   
+
+
+DocID: CACM-2217
+
+<on> problems in a variety <of> domains.  <some> variati<on>s  
+<and> the proving program, <and> for analyzing <and>  
+performance <on> problems in a specific domain <and>  
+
+
+DocID: CACM-0284
+
+the task <of> compiling.  the <algorithm> was  
+<manipulati<on>> <of> <algebraic> expressi<on>s  
+been developed in c<on>juncti<on> <with> the development <of> programs  
+
+
+DocID: CACM-2081
+
+<and> utilized for efficient computing by saving memory space <and>  
+<of> matrices  are c<on>sidered, <and> matrix operators areext  
+superfluous operati<on>s.  sequences <of> matrices  <and> sequences <of> sequences  
+
+
+DocID: CACM-2341
+
+<and> preparati<on>  have been programmed <on> a printer  
+<of> program-defined c<on>necti<on> points.  <some> blocks  
+aggregate <of> characters in the form <of> a right parallelepiped,  
+
+
+DocID: CACM-2399
+
+<of> operati<on>, <and> <some> aspects <of> implementati<on> are discussed.  
+tube entry <and> display stati<on>s <with> keyboard <and> 13  
+a test-editing <and> <manipulati<on>> program is described.  
+
+
+DocID: CACM-2809
+
+following <some> lines <of> joint work <with> a.  
+<of> order unit norms, l-norms <and> m-norms.  an example  
+s. householder, the character <and> use <of> <algebraic>  
+
+
+DocID: CACM-2268
+
+ both <polynomial> <and> rati<on>al .  the <testing>  
+criteria applied.  a set <of> test problems <on> which  
+programs for integrating systems <of> ordinary  
+
+
+DocID: CACM-1253
+
+simscript <and> programmed entirely in an <algebraic>  
+to the reader familiar <with> <algebraic> languages.  
+implementati<on>, <and> major differences between  
+
+
+DocID: CACM-2997
+
+c<on>vex hulls <of> <finite> sets <of> poin ts in two <and> three dimensi<on>s  
+<and> three dimensi<on>s can be determined <with> o n  
+planar set <of> poin ts, spatial set <of>  
+
+
+DocID: CACM-1257
+
+any number <of> lines at any point <of> his previously  
+<of> the program being relocated appropriately.  
+a method <of> <on>-linr assembly-language debugging  
+
+
+DocID: CACM-1388
+
+<of> such equati<on>s <and> then generates the expansi<on>s  
+<of> any parameters <on> the problem soluti<on> can be  
+<on> a <finite> taylor series expansi<on> that includes  
+
+
+DocID: CACM-2414
+
+arithmetic overa <finite> <field> [a1]  <algorithm> a469   
+
+
+DocID: CACM-1824
+
+<of> parse-requests as a subroutine, <and> parse-time  
+text processing, string processing, symbol <manipulati<on>>,  
+macro system, an <algebraic> language preprocessor debugging  
+
+
+DocID: CACM-1334
+
+program <and> typeset photographically <on> an s-560 phot<on> system.  
+mechanizati<on> <of> tedious algebra: the  
+newcomb operators <of> planetary theory  
+
+
+DocID: CACM-1411
+
+<of> means, st<and>ard deviati<on>s <and> correlati<on>  
+<of> the current value <of> the statistic.  
+several <<algorithm>s> for computati<on> <of> basic  
+
+
+DocID: CACM-2096
+
+<on> computer experiments in the artificial intelligence <field>, these experiments  
+<and> other purposes.  it is based <on> the principle that it is  
+written in lisp to play the game <of> kalah, <and> it was dem<on>strated that  
+
+
+DocID: CACM-2135
+
+for rapid computati<on> <of> l  q  for a wide class <of>  
+selecti<on>s <of> q which includes the lagrangian <and>  
+is made to approximate l  f  <with> l  q  where q is a <polynomial>,  
+
+
+DocID: CACM-2060
+
+<algorithm> for computing or accessing its comp<on>ents.  the existence <of>  
+use <of> references insure that any process which accepts <some> data  
+functi<on>s <and> labels are permissible  results <of> functi<on>s <and> values  
+
+
+DocID: CACM-1948
+
+groups <of> <finite> groups, character tables, <and> commutator  
+more important <<algorithm>s> in use are described <and> c<on>trasted,  
+programming, symbol <manipulati<on>>, survey  
+
+
+DocID: CACM-1225
+
+<some> <of> the characteristic features <of> a predictive  
+the advantages <and> disadvantages <of> the  
+now operati<on>al at harvard <on> <and> ibm 7094, are delineated.  
+
+
+DocID: CACM-2344
+
+<algorithm> can also have a marked effect <on> the measure  
+<with> a <finite> n<on>c<on>tiguous store <and> an in<finite>  
+<on> the optimizati<on> <of> performance <of> time-sharing systems by simulati<on>  
+
+
+DocID: CACM-2385
+
+zeros <of> a complex <polynomial> [c2]  <algorithm> a419   
+roots, roots <of> a <polynomial>, zeros <of> a <polynomial>  
+
+
+DocID: CACM-3078
+
+<algebraic> <manipulati<on>> techniques.  a major purpose <of>  
+<of> a computer system c<on>structed <of> unreliable  
+analysis <of> the availability <of> computer  
+
+
+DocID: CACM-2644
+
+<of> this language permits easy extensi<on> <of> automated  
+because <of> the large number <of> strategies  
+<and> instructi<on>s <of> this language.  the use  
+
+
+DocID: CACM-2453
+
+this <algorithm> is easy to code <and> takes a much smaller  
+to the optimal <algorithm> <of> reinwald <and> sol<and>,  
+have single rules or that the cost <of> <testing> c<on>diti<on>s  
+

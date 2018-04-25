@@ -1,0 +1,703 @@
+LUCENE_NoStopNoStem
+
+Query
+Security considerations in local networks, network operating systems,
+and distributed systems.
+
+Top 100 Results (373 millisecs)
+
+
+DocID: CACM-2849
+
+ethernet: <distributed> packet switch<in>g for <local> computer <<network>s>  
+used to build <<systems>> which can be viewed as either <local>  
+<distributed> control, <distributed> comput<in>g,  
+
+
+DocID: CACM-2949
+
+<in> order for the nodes of a <distributed> computer  
+computer <<network>s>, <distributed> control, <network>  
+topology, rout<in>g problem <in> <<network>s>, <distributed> operat<in>g  
+
+
+DocID: CACM-2578
+
+self-stabiliz<in>g <<systems>> <in> spite of <distributed> control  
+multiprocess<in>g, <<network>s>, self-stabilization, synchronization,  
+error recovery, <distributed> control, harmonious cooperation, self-repair  
+
+
+DocID: CACM-2372
+
+<security> features of several exist<in>g <<systems>>, <and> serves  
+on the implementation of <security> measures <in> <in>formation <<systems>>  
+decision rules <and> whose row <and> column <in>dices are  
+
+
+DocID: CACM-3068
+
+here <in> terms of a general model for operat<in>g <<systems>>.  
+a model for verification of data <security> <in> operat<in>g <<systems>>  
+operat<in>g <<systems>>, <security>, protection, program verification  
+
+
+DocID: CACM-1745
+
+<in>formation <<network>s>, <in>formation <<systems>>, comput<in>g  
+<security>.  
+<and> free enterprise, comput<in>g economics,  
+
+
+DocID: CACM-3158
+
+for his own <security> <and> need not rely on the <security> of  
+secure personal comput<in>g <in> an <in>secure <network>  
+personal comput<in>g, <security>, privacy, <<network>s>, public-key encryption  
+
+
+DocID: CACM-3137
+
+<distributed> process<in>g, system design, cost m<in>imization, <distributed>  
+a macro model of a <distributed> <in>formation system <in> presented.  the model  
+a methodology for the design of <distributed> <in>formation <<systems>>  
+
+
+DocID: CACM-3082
+
+another <in> a <distributed> system is exam<in>ed, <and>  
+time, clocks, <and> the order<in>g of events <in> a <distributed> system  
+<distributed> <<systems>>, computer <<network>s>,  
+
+
+DocID: CACM-3076
+
+<<systems>> which automate the transfer <and> record<in>g  
+<<network>s>, <network> reliability, <security>, social values  
+value conflicts <and> social choice <in> electronic  
+
+
+DocID: CACM-2371
+
+<in> a resource shar<in>g computer <network>  
+<distributed> throughout a computer <network>.  
+computer <<network>s>, resource shar<in>g  
+
+
+DocID: CACM-2621
+
+operat<in>g <<systems>>, time shar<in>g <<systems>>, <security>, cryptography  
+a high <security> log-<in> procedure  
+the protection of time shar<in>g <<systems>> from  
+
+
+DocID: CACM-2776
+
+conducted dur<in>g 1971-73.  five major <and> 18 m<in>or <<network>s>  
+survey of computer <<network>s> <in> higher education  
+the development of <<network>s> <in> higher education  
+
+
+DocID: CACM-3174
+
+operat<in>g <<systems>>, passwords, computer <security>  
+extreme <security> <and> ease of use.  
+password <security>: a case history  
+
+
+DocID: CACM-3128
+
+<<systems>>.  the mechanism is def<in>ed formally, <and> then several  
+correctness arguments <and> also simplifies implementation <in> <distributed>  
+to protection mechanisms <in> the system is expla<in>ed; <in> particular,  
+
+
+DocID: CACM-1685
+
+of activity <<network>s> <and> to deal conveniently with <network>  
+<network> analysis, <network> calculation, <network> program  
+activity <network>, management project, st<and>ard <network>,  
+
+
+DocID: CACM-2969
+
+of program <and> data files <in> a computer <network>  
+optimal program <and> data locations <in> computer <<network>s>  
+occur <in> real heterogeneous computer <<network>s>.  <in>sights  
+
+
+DocID: CACM-1750
+
+operat<in>g <<systems>>, control data corporation 6600, operat<in>g system with ecs  
+multiprogrammed operat<in>g <<systems>>, multiprocessor  
+<considerations> <in> the design of a multiple  
+
+
+DocID: CACM-2951
+
+on a <network>. analytical, simulation, <and> statistical performance  
+the five diverse arpa <network> <<systems>> studied <in> detail,  
+<network> time-shar<in>g <<systems>> as it depends on some  
+
+
+DocID: CACM-2046
+
+<and> the concept of a universal data sublanguage are <in>troduced.  <in>  
+of changes <in> query, update, <and> report traffic <and> natural growth <in> the  
+of redundancy <and> consistency <in> the user's model.  
+
+
+DocID: CACM-1928
+
+<<network>s> of large <and> active digital <<systems>>  
+of <network> structures other than digital <<network>s>.  
+<in> execution time <and> space, <and> a facility for h<and>l<in>g  
+
+
+DocID: CACM-3141
+
+decentralized algorithms, <distributed> <<systems>>, operat<in>g <<systems>>  
+numbered processes arranged <in> a circle, <in> which no central  
+<in> circular configurations of processes  
+
+
+DocID: CACM-2870
+
+protection, <security>, <in>formation flow, <security>  
+of them accord<in>g to <security> objectives, <and>  
+derived from the <security> classes <and> justified by the semantics  
+
+
+DocID: CACM-3011
+
+<<systems>> currently <in> use by top management <in> most us <local>  
+management utilization of computers <in> american <local> governments  
+<in>volv<in>g improvements <in> decision <in>formation.  
+
+
+DocID: CACM-3148
+
+programm<in>g for <distributed> <and> other loosely coupled <<systems>>  
+program of development <in> advanced programm<in>g languages, <and> relations  
+<distributed> comput<in>g, modules, messages, assertions  
+
+
+DocID: CACM-1747
+
+processes, protection <in> multiprogrammed <<systems>>,  
+<<systems>>, computer <<systems>> design, <in>put equipment,  
+<in>put equipment design, operat<in>g <<systems>>, operat<in>g  
+
+
+DocID: CACM-1695
+
+by the <network>, <and> to store <and> retrieve <<network>s>  
+means for specification <and> modification of a <network> <and>  
+simulation, library <<systems>>, model<in>g, <network>  
+
+
+DocID: CACM-2900
+
+file allocation, computer <<network>s>, <distributed> data management  
+<in>cluded <in> an optimal allocation.  
+polynomial complete.  heuristics <and> other  
+
+
+DocID: CACM-1808
+
+relative <security>, costs, <and> preferred methods  
+<security> <<systems>>, confidential <in>formation  
+are <in>cluded <in> this paper.  
+
+
+DocID: CACM-2632
+
+operat<in>g system, kernel, nucleus, protection, <security>  
+of highly secure <<systems>>.  
+<in>troduction of new facilities, <and> the creation  
+
+
+DocID: CACM-2358
+
+<and> carries its own <in>dependent attributes of size <and> access  
+<considerations> of segmentation <and> shar<in>g <in> multics  
+of <in>formation stored <in> files kept <in> secondary storage.  
+
+
+DocID: CACM-2424
+
+operat<in>g <<systems>>, data <security>, fault tolerance,  
+verification, modular computer <<systems>>  
+availability, data privacy, <and> cost effectiveness.  
+
+
+DocID: CACM-3127
+
+portability, real time, operat<in>g <<systems>>, m<in>icomputer  
+thoth, a portable real-time operat<in>g system  
+encourages structur<in>g programs as <<network>s> of communicat<in>g processes  
+
+
+DocID: CACM-2622
+
+operat<in>g system <security>, <security>, authentication,  
+<in> many computer operat<in>g <<systems>> a user authenticates  
+this password with one recorded <in> a password  
+
+
+DocID: CACM-2111
+
+<and> symbol tables, <and> the consideration of a limited class of spell<in>g  
+operat<in>g <<systems>>, diagnostics, error detection,  
+spell<in>g correction <in> <<systems>> programs  
+
+
+DocID: CACM-0828
+
+<and> pressures <in> fluid flow <<network>s> is presented.  
+<in>compressible flow <network> calculations  
+
+
+DocID: CACM-2581
+
+recognized anywhere <in> an <in>put utterance.  these <local>  
+is <local>ly-organized <in> the sense that it builds <local>  
+augmented transition <network>, <local> pars<in>g  
+
+
+DocID: CACM-2454
+
+<and> quite simple to implement.  implementation <considerations>  
+<<network>s> with exponential servers  
+queue<in>g theory, queue<in>g <<network>s>, equilibrium  
+
+
+DocID: CACM-3038
+
+encryption, <security>, authentication, <<network>s>, protocols,  
+communication <in> computer <<network>s> is discussed.  
+us<in>g encryption for authentication <in> large <<network>s> of computers  
+
+
+DocID: CACM-3182
+
+electronic funds transfer <<systems>>  efts  is discussed <in> light  
+manual depository <and> other f<in>ancial service <<systems>> - for example,  
+are provided greater accuracy <and> freedom from error <and> fraud with  
+
+
+DocID: CACM-1723
+
+project <<network>s> are used <in> pert <and> cpm.  
+order<in>g, <network> construction by computer  
+computer construction of project <<network>s>  
+
+
+DocID: CACM-3111
+
+<in> such a fashion that communications <security>  
+<security>, wiretap, computer <network> <security>,  
+<in> a theoretical <and> a practical sense.  
+
+
+DocID: CACM-0046
+
+<and> <in> programm<in>g <<systems>>.  m<in>imum requirements  
+multiprogramm<in>g stretch: feasibility <considerations>  
+the tendency towards <in>creased parallelism <in>  
+
+
+DocID: CACM-2515
+
+<and> g. l. nemhauser  1968  produces event-node <<network>s>  
+<in> which both the number of nodes <and> the number of arcs  
+m<in>imal event-node <network> is an event-node <network>  
+
+
+DocID: CACM-2988
+
+<in> queue<in>g <network> models of computer <<systems>>.  
+<network> models, <in> teractive computer <<systems>>  
+<and> job swap time, <and> performance measures such as response  
+
+
+DocID: CACM-1728
+
+behavior <in> those multiprogramm<in>g <<systems>> <in> which  
+operat<in>g <<systems>>, supervisor simulation, mach<in>e  
+behavior, virtual memory <<systems>>, s<in>gle-level  
+
+
+DocID: CACM-3043
+
+microcomputer <<network>s> with <distributed> storage.  
+microprocessor <<network>s>, nondeterm<in>ism, guarded  
+concurrent programm<in>g, <distributed> processes,  
+
+
+DocID: CACM-2137
+
+<in> addition to the methods applied <in> most lisp <<systems>>.  
+concept, <and> that of global <and> <local> variables,  
+<and> "block level sequential" for those  
+
+
+DocID: CACM-2197
+
+<network> comput<in>g, regional comput<in>g <<network>s>,  
+comput<in>g <<network>s>.  one such <network> has  
+of the <network>.  a regional <network> br<in>gs many benefits  
+
+
+DocID: CACM-2406
+
+as <in> advanced data management <<systems>> <and> <distributed>  
+data translation, data base management <<systems>>,  
+a data def<in>ition <and> mapp<in>g language  
+
+
+DocID: CACM-1611
+
+<and> <network> analysis features of the algorithm  
+schedul<in>g project <<network>s>  
+schedul<in>g system ramps  resource allocation <and>  
+
+
+DocID: CACM-1247
+
+communication <and> bookkeep<in>g, <and> debugg<in>g aids.  
+computer programm<in>g <<systems>>  
+an operat<in>g environment for dynamic-recursive  
+
+
+DocID: CACM-2867
+
+<<systems>>. it is shown that the concepts of module <and>  
+modularization <and> hierarchy <in> a family of operat<in>g <<systems>>  
+used <in> the construction of a family of operat<in>g  
+
+
+DocID: CACM-2080
+
+nucleus simulates an environment <in> which program execution <and> <in>put/output  
+multiprogramm<in>g, operat<in>g <<systems>>, parallel processes, process concept,  
+that can be extended with a hierarchy of operat<in>g <<systems>> to suit diverse  
+
+
+DocID: CACM-2626
+
+protection <and> the control of <in>formation shar<in>g <in> multics  
+identification <and> authentication of users, <and> primary  
+multics, protection, <security>, privacy, access control,  
+
+
+DocID: CACM-2741
+
+pag<in>g <<systems>>  i  unstable regimes of operations <and>  ii   
+is taken <in> order to identify <in> multiprogramm<in>g  
+saturation <in> multiprogramm<in>g <<systems>>  
+
+
+DocID: CACM-1846
+
+<<systems>> are assumed to be described as a <network>  
+event <<systems>>, particularly computer <<systems>>, on  
+<in> which simultaneous events may occur  
+
+
+DocID: CACM-2198
+
+<and> update functions act<in>g on <network>  
+<and> similarities between capabilities found <in>  
+host language <<systems>> <and> those found <in> self-conta<in>ed  
+
+
+DocID: CACM-3181
+
+electronic funds transfer <<systems>>, consumer education, <security>  
+public protection <and> education with eft  
+<and> fraud, privacy, system reliability, eft ombudsman  
+
+
+DocID: CACM-1461
+
+discussion summary on operat<in>g <<systems>>  
+
+
+DocID: CACM-3177
+
+half the pieces <and> <security> breaches expose all but one of the  
+of robust key management schemes for cryptographic <<systems>>  
+that can function securely <and> reliably even when misfortunes destroy  
+
+
+DocID: CACM-2840
+
+<<systems>> is presented <and> its appropriateness  
+protection <in> operat<in>g <<systems>>  
+configuration is safe.  <in> general, <and> under surpris<in>gly  
+
+
+DocID: CACM-2151
+
+operat<in>g <<systems>>, multiprogramm<in>g <<systems>>, time-shar<in>g  
+<<systems>>, software measurement, user program  
+user program measurement <in> a time-shared environment  
+
+
+DocID: CACM-2597
+
+monitors, operat<in>g <<systems>>, schedul<in>g, mutual  
+of readers <and> writers.  
+monitors: an operat<in>g system structur<in>g concept  
+
+
+DocID: CACM-3025
+
+hardware <and> software development; <and> serv<in>g as a  
+evolution of the hardware, operat<in>g system, <and> languages  
+m<in>icomputer/microcomputer <<systems>>.  
+
+
+DocID: CACM-1978
+
+data.  <in> conclusion, area for future work <in> this field are discussed.  
+<<systems>> for solv<in>g problems <in> a particular area such as ord<in>ary  
+<<systems>> <and> design <considerations> for <in>teractive rout<in>es.  furthermore,  
+
+
+DocID: CACM-2317
+
+<and> cobol rema<in> the languages <in> which most  
+<in> the operat<in>g system area all major computer  
+languages, operat<in>g <<systems>>, programm<in>g  
+
+
+DocID: CACM-2138
+
+for use <in> writ<in>g production software <<systems>> for a  
+<<systems>> programm<in>g, data structures  
+bliss: a language for <<systems>> programm<in>g  
+
+
+DocID: CACM-2890
+
+<distributed> <network>, computer <network>, message switch<in>g  
+alternate rout<in>g, store-<and>-forward <network>,  
+<network> are constructed, one to f<in>d  
+
+
+DocID: CACM-2522
+
+operat<in>g <<systems>>, supervisory <<systems>>  
+recent research <in> time-shar<in>g pag<in>g <<systems>>  
+<<systems>>, resource allocation, software evaluation,  
+
+
+DocID: CACM-3059
+
+are <in> approximate cpu:i/o utilization balance <and> for  
+models are formulated <in> terms of cpu:i/o <and> i/o:i/o overlap  
+<and> i/o  
+
+
+DocID: CACM-0441
+
+is discussed <in> terms of the 7090.  a pert <network> of  
+topological sort<in>g of large <<network>s>  
+lockheed program, which is <in> current use.  
+
+
+DocID: CACM-1680
+
+to it, <and> surrender<in>g control to the operat<in>g  
+solution techniques, stored data, <and> all other library <and>  
+retrieval operat<in>g <<systems>>, graphics, displays, man-mach<in>e  
+
+
+DocID: CACM-2188
+
+cost, <and> the distribution of data storage <and>  
+design guidel<in>es, graphic display <<systems>>, mathematical  
+difficult task of select<in>g major sub<<systems>> <in>  
+
+
+DocID: CACM-2069
+
+operat<in>g <<systems>>, memory management  
+comments on a paper by wallace <and> mason  
+
+
+DocID: CACM-1844
+
+from <and> to the remote term<in>als.  <in> the  
+the size <and> power of the mach<in>es used <and> the  
+conversational <<systems>>, general purpose time-shar<in>g <<systems>>,  
+
+
+DocID: CACM-3070
+
+to model the arrival <and> activation of jobs, <and> a  
+<network> models, central server model  
+hybrid simulation models of computer <<systems>>  
+
+
+DocID: CACM-1951
+
+operat<in>g <<systems>>, optimization models  
+from four operational multiaccess <<systems>>, <and> the model is shown to  
+generally are of <in>terest <in> computer communications studies can be  
+
+
+DocID: CACM-2950
+
+<in> real operat<in>g <<systems>>.  the policy-driven scheduler  
+algorithm is developed <and> results <in> the def<in>ition  
+operat<in>g <<systems>>,processor shar<in>g, implementation  
+
+
+DocID: CACM-1751
+
+<in> modern computer <<systems>> is an adequate model for  
+multiprogramm<in>g, operat<in>g <<systems>>, program  
+general operat<in>g system concepts, multiprocess<in>g,  
+
+
+DocID: CACM-2379
+
+operat<in>g <<systems>>, system design, levels of abstraction,  
+the design of the venus operat<in>g system  
+the venus operat<in>g system is an experimental  
+
+
+DocID: CACM-1032
+
+<in> a paper by goffman, verhoeff <and> belzer  associated  
+theoretical <considerations> <in> <in>formation retrieval <<systems>>  
+<in>formation storage <and> retrieval <<systems>> are composed  
+
+
+DocID: CACM-3133
+
+logic <and> semantic <<network>s>  
+logic, semantic <<network>s>, theorem-prov<in>g, <in>dex<in>g, resolution, deduction,  
+<in>ference rules, <and> a procedural <in>terpretation.  on  
+
+
+DocID: CACM-3026
+
+timeshar<in>g, <and> transaction environments.  
+languages, data management <<systems>>,  
+large-scale ma<in> frame computer <<systems>>.  beg<in>n<in>g  
+
+
+DocID: CACM-2712
+
+queue<in>g <<network>s>, queue<in>g theory horner's rule,  
+the solution of separable closed queue<in>g <<network>s>  
+grows comb<in>atorially with the size of the <network>  
+
+
+DocID: CACM-1811
+
+<<systems>> are multiprocessor <<systems>> <in> which several of  
+of current <in> an electrical <network> was written for a  
+parallel-processor comput<in>g system, <and> execution  
+
+
+DocID: CACM-3028
+
+<in> these <and> other areas is discussed, <and>  
+context <and> then describes the architecture <and> system  
+storage, extra codes, compilers, operat<in>g <<systems>>,  
+
+
+DocID: CACM-2629
+
+operat<in>g <<systems>>, <in>clud<in>g:  1  a hierarchical file system  
+operat<in>g system for the digital equipment  
+corporation pdp-11/40 <and> 11/45 computers.  it offers  
+
+
+DocID: CACM-3021
+
+*  q-1  .  the <security> of the system rests <in> part on  
+has obvious applications <in> "electronic mail" <and> "electronic  
+privacy, authentication, <security>, factorization,  
+
+
+DocID: CACM-2320
+
+operat<in>g <<systems>>, concurrent processes, shared  
+operat<in>g <<systems>> but also with<in> user programs.  
+representation of multiprogramm<in>g <in> a high  
+
+
+DocID: CACM-1664
+
+<and> spherical polar coord<in>ate <<systems>>.  
+paper the emphasis is on theoretical <considerations> <and>  
+<<systems>>, fortran, symbolic manipulation  
+
+
+DocID: CACM-2319
+
+<and> design the performance aspects of an operat<in>g system  
+<and> computer <<systems>>.  
+more common <and> necessary <in> the near future.  
+
+
+DocID: CACM-2541
+
+<and> the system's address<in>g structure, <and> centralized the  
+new concept for operat<in>g <<systems>>: separation  
+design of the language, operat<in>g system,  
+
+
+DocID: CACM-3023
+
+<and> on the efforts to achieve them, <and> it describes the  
+debugg<in>g <and> monitor<in>g, error h<and>l<in>g, <and> <in>put/output  
+computer <<systems>>, architecture, <in>struction  
+
+
+DocID: CACM-3032
+
+<in> store-<and>-forward packet switch<in>g computer <<network>s>.  
+for its analysis <in> this paper, <and> also because  
+it can be implemented <in> exist<in>g <<network>s> with less complexity  
+
+
+DocID: CACM-2614
+
+critical path, <<network>s>, precedence <<network>s>  
+arrow to precedence <network> transformation [h]  algorithm a481   
+
+
+DocID: CACM-2407
+
+<<systems>> <in> organizations is discussed, <and> a  
+programs <in> <in>formation <<systems>>  
+<in>formation <<systems>>, <in>formation analysis,  
+
+
+DocID: CACM-2470
+
+questions of <local> <and> global environments <and> of  
+semantics, formal <<systems>>, lambda-calculus, extensible  
+of the assignment, conditional, <and> iterative  
+
+
+DocID: CACM-1462
+
+multilevel operat<in>g <<systems>>  
+operat<in>g <<systems>>. this implies that all applications-no  
+the operat<in>g <<systems>>, but at a different level.  
+
+
+DocID: CACM-2892
+
+are used to anticipate overhead <in> a heavily loaded <network>.  
+proposed <network> protocol <and> compared with those for the current system.  
+arpanet, computer communication <<network>s>, <in>terprocess  
+

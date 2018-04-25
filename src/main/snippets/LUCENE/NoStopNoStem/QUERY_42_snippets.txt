@@ -1,0 +1,700 @@
+LUCENE_NoStopNoStem
+
+Query
+Computer performance evaluation techniques using pattern recognition
+and clustering.
+
+     LA    70803
+
+Top 100 Results (3 millisecs)
+
+
+DocID: CACM-0462
+
+<pattern> c<la>ssification <and> <recognition> devices  
+<computer> <pattern> <recognition> <techniques>: electrocardiographic diagnosis  
+comparisons between machine <and> human <performance>  
+
+
+DocID: CACM-2641
+
+<clustering>, <pattern> <recognition>, feature  
+a minimal spanning tree <clustering> method [z]  algorithm a479   
+
+
+DocID: CACM-2215
+
+some <computer> simu<la>ted experiments in character <recognition>  
+to sequential <pattern> <recognition>  
+sequential <pattern> <recognition>, game tree searching,  
+
+
+DocID: CACM-1726
+
+<pattern> <recognition>, character <recognition>, text  
+preliminary investigation of <techniques>  
+resolution suitable for character <recognition>.  
+
+
+DocID: CACM-2402
+
+pictorial <pattern> <recognition> <and> the  
+pictorial <pattern> <recognition>, phase problem,  
+<pattern> <recognition> algorithms is hindered by the fact  
+
+
+DocID: CACM-2894
+
+of <computer> <performance>, instead of the more  
+<performance>, external measurement, methodology,  
+<evaluation> of results, is included.  
+
+
+DocID: CACM-2318
+
+the role of <computer> system models in <performance> <evaluation>  
+<computer> system <performance>.  this paper  
+methods for evaluating the <performance> of <computer>  
+
+
+DocID: CACM-2019
+
+<pattern> <recognition>, character <recognition>, normalization,  
+family of <pattern> st<and>ardization  
+size normalization, mapping, <pattern> preprocessor  
+
+
+DocID: CACM-2811
+
+to structural <pattern> <recognition> of carotid  
+structural <pattern> <recognition> of carotid pulse  
+structural <pattern> <recognition>, parsing, waveform analysis, pulse waves  
+
+
+DocID: CACM-1653
+
+<evaluation> is reviewed <and> <evaluation> goals <and>  
+<evaluation> <and> in the development of <evaluation> methods is explored.  
+when <using> them.  analysis, simu<la>tion, <and> synthesis are  
+
+
+DocID: CACM-2980
+
+picture processing, <pattern> <recognition>, segmentation, region editing  
+<techniques>.  such regions have been eliminated  
+basis of size <and> contrast.  a scheme is presented  
+
+
+DocID: CACM-2991
+
+smoothing the key-to-address transformation, <and>  
+hashing, hashing <techniques>, hashing methods, hash  
+<clustering>, information retrieval, open addressing, open  
+
+
+DocID: CACM-2370
+
+<and> programming support are described <and> typical applications  
+analog input <and> output facilities, <and> a variety of  
+digital <computer>, dot-mode <and> vector disp<la>ys,  
+
+
+DocID: CACM-2984
+
+<computer> system, <performance> <evaluation>, cost/utilization, system ba<la>nce  
+<performance>.  
+cost/utilization: a measure of system <performance>  
+
+
+DocID: CACM-2232
+
+it to the <pattern> boundary radius vector, <and> descriptions  
+the width concept in <pattern> <recognition> <and> the  
+feature extraction, <pattern> <recognition>,figure  
+
+
+DocID: CACM-2319
+
+<computer> system, operating system, <performance>  
+<and> design the <performance> aspects of an operating system  
+<and> <computer> systems.  
+
+
+DocID: CACM-2054
+
+speech <recognition>, word <recognition>, <pattern>-matching, <pattern>  
+an on-line <computer> processing system  
+<recognition>, time-sharing, remote access, voice input, speech input,  
+
+
+DocID: CACM-3070
+
+to model the arrival <and> activation of jobs, <and> a  
+discrete-event simu<la>tion <and> analytic <techniques> are  
+<performance> <evaluation>, simu<la>tion, queueing  
+
+
+DocID: CACM-3089
+
+<and> system <performance> <evaluation>  
+procedures, checking <techniques>, reliability  
+principal <performance> measures, including avai<la>bility,  
+
+
+DocID: CACM-0633
+
+ iii. analysis <and> <pattern> <recognition>   
+simu<la>tion <and> analysis of biochemical systems  
+
+
+DocID: CACM-2829
+
+<using> these new <techniques> are included.  
+texture <and> reflection in <computer> generated images  
+<and> size of this weighting function are chosen  
+
+
+DocID: CACM-2310
+
+ as in indices <and> concordances  is widespread <and> accepted  
+<pattern> <recognition>, <pattern> generation,  
+gathering data for the construction <and> testing  
+
+
+DocID: CACM-2849
+
+<using> packet address <recognition>.  design principles  
+<computer> networks, packet switching, multiprocessing,  
+<computer> networks or loosely coupled multiprocessors.  
+
+
+DocID: CACM-2231
+
+a <pattern> simi<la>r to an ambiguous <pattern> can also be constructed  
+compression, <pattern> <recognition>, integral geometry  
+of the <pattern> frame.  
+
+
+DocID: CACM-2494
+
+<and> to the rearranged matrix after <clustering>,  
+<computer> graphics, cluster analysis, numerical  
+taxonomy, hierarchical <clustering>, factor analysis  
+
+
+DocID: CACM-2542
+
+analysis <and> simu<la>tion routines.  <using> the <performance>  
+a software design <and> <evaluation> system  
+is proposed.  a system which integrates <performance> <evaluation>  
+
+
+DocID: CACM-0204
+
+proving theorems by <pattern> <recognition> i  
+
+
+DocID: CACM-1805
+
+of itself <and> its co-residents <and> simu<la>tion has  
+equipment  <evaluation>, hardware, <evaluation>,  
+<performance>, time sharing, time slicing  
+
+
+DocID: CACM-1931
+
+<and> running times that can be expected when <using>  
+i. for determinant <evaluation>.  an application <using>  
+interval arithmetic determinant <evaluation>  
+
+
+DocID: CACM-3091
+
+programmer <evaluation>, programmer scheduling,  
+programmer <performance> st<and>ards, predicting program  
+characteristic <and> four program characteristics  
+
+
+DocID: CACM-2437
+
+<performance> can be c<la>ssified <and> key distributions  
+r<and>omization <performance> analysis  
+general <performance> analysis of key-to-address  
+
+
+DocID: CACM-2451
+
+tree file, information storage <and> retrieval, <clustering>,  
+<performance> <and> that of an intuitively attractive  
+of data <and> shows that essentially the  
+
+
+DocID: CACM-2902
+
+memory management, programming <techniques>, simu<la>tion,  
+simu<la>tion memory management, simu<la>tion <techniques>,  
+this paper investigates the <performance> of  
+
+
+DocID: CACM-0851
+
+techniques  
+new <techniques> for sorting fixed-length records  
+design <and> characteristics of a variable-length  
+
+
+DocID: CACM-1908
+
+<using> time-sharing <and> batch-processing <computer>  
+on-line vs off-line <performance>, decision-making <performance>,  
+who, as nonprogrammers, are <using> the <computer> as an  
+
+
+DocID: CACM-2634
+
+<and> the results are summarized as to cost <and> <performance>.  
+several hundred college <and> university <computer>  
+are osiris, spss, bmd, data-text, <and> tsar.  
+
+
+DocID: CACM-3119
+
+<performance> <evaluation>, queueing models  
+multitasking, <and> job priorities.  
+the impact of distributions <and> disciplines  
+
+
+DocID: CACM-2344
+
+<using> variable time-slice <techniques> <and> by selecting  
+effect on system <performance>.  system <performance>  
+measure of <performance>, scheduling algorithms  
+
+
+DocID: CACM-2990
+
+thesaurus <and> phrase transformations  
+weighting, thesaurus construction, <and> phrase  
+the <performance> of information retrieval systems  
+
+
+DocID: CACM-2268
+
+a study comparing the <performance> of several <computer>  
+rational extrapo<la>tion showed the best <performance>.  
+a comparative study of <computer> programs  
+
+
+DocID: CACM-2113
+
+<recognition>, <pattern> <recognition>, matching procedures, tree-structure  
+<and> the state of single bits determines the operational flow of the  
+is reduced to a minimum, <and> the searching of lists is eliminated  
+
+
+DocID: CACM-1030
+
+<techniques> for the simu<la>tion of <computer> logic  
+characterize the <computer> being simu<la>ted constitutes  
+integral part of most <computer> design automation  
+
+
+DocID: CACM-0893
+
+experiments <using> this mode are described <and> comparisons  
+solution, determinant <evaluation> <and> matrix  
+significance arithmetic on a digital <computer>  
+
+
+DocID: CACM-2720
+
+analytical <techniques>.  <using> st<and>ard queueing  
+<using> 2314 <and> 3330 combinations are examined.  
+differing operational characteristics is examined <using>  
+
+
+DocID: CACM-1870
+
+some <techniques> for <using> pseudor<and>om numbers in <computer> simu<la>tion  
+value.  <techniques> for making use of such "numbers"  
+word is a 1-bit <and> can assume any desired parameter  
+
+
+DocID: CACM-2883
+
+picture processing, <pattern> <recognition>, edge  
+the minimization problem <and> a dynamic programming approach  
+of contours from noisy picture <and> the separation  
+
+
+DocID: CACM-2812
+
+<and> <performance> <evaluation>.  there are four major  
+<and> <performance> evaluator. the statement of requirements  
+analysis consists of a set of procedures <and> <computer>  
+
+
+DocID: CACM-3078
+
+systems <using> <computer>- aided algebra  
+on-line <computer> system.  
+analysis of the avai<la>bility of <computer>  
+
+
+DocID: CACM-2561
+
+data base <using> nonnumerical <clustering> algorithms.  they  
+inference, inductive inference, <clustering>, fact retrieval, heuristics  
+a variety of conditions involving incomplete <and> inconsistent data.  
+
+
+DocID: CACM-1915
+
+drawing, disp<la>ying <techniques>, <computer> graphics,  
+hidden line elimination, back line <recognition>, three-dimensional  
+considered sequentially, <and> all p<la>nes which hide every  
+
+
+DocID: CACM-3135
+
+three-dimensional <pattern> <recognition>, chemical  
+-structure analysis, drug analysis <and> design  
+presented uses the geometric structure of the <pattern> to define  
+
+
+DocID: CACM-3132
+
+<pattern> <recognition>, <pattern> c<la>ssification, linear discriminants, central  
+in two-c<la>ss <pattern> <recognition>, it is a st<and>ard  
+central solutions for <pattern> c<la>ssification  
+
+
+DocID: CACM-2746
+
+keywords <and> phrases, string <pattern> matching, bibliographic  
+matching machine from the keywords <and> then <using> the  
+consists of constructing a finite state <pattern>  
+
+
+DocID: CACM-3149
+
+, picture processing, <computer> graphics, <pattern> <recognition>.  
+
+
+DocID: CACM-2107
+
+secondary <clustering> as a cause of hash code inefficiency is discussed, <and> a  
+code eliminating secondary <clustering>  
+previous methods are made both analytically <and> empirically.  
+
+
+DocID: CACM-2910
+
+picture processing, <pattern> <recognition>, curve  
+
+
+DocID: CACM-2788
+
+picture processing, <pattern> <recognition>, curve detection,line fitting  
+
+
+DocID: CACM-1534
+
+the design <and> implementation of the c.  
+on slow peripherals, <and> the execution of normal  
+of dad are given, <and> an assessment is  
+
+
+DocID: CACM-2400
+
+picture processing, <pattern> <recognition>, line detection,  
+fitting, <and> gives alternative interpretations  
+hough has proposed an interesting <and> computationally  
+
+
+DocID: CACM-2882
+
+database architecture, database <performance> <and>  
+<evaluation>, invented list, threaded list, cellu<la>r  
+a stochastic <evaluation> model for database  
+
+
+DocID: CACM-2892
+
+<performance> <evaluation> <and> efficiency, resource sharing  
+arpanet, <computer> communication networks, interprocess  
+presented <and> by extrapo<la>tion these measurements  
+
+
+DocID: CACM-1050
+
+on operating program <using> these <techniques>.  
+<and> discussed.  implementation facts are presented  
+a parts breakdown technique <using> list structures  
+
+
+DocID: CACM-1427
+
+storage <and> cathode ray tube disp<la>y.  past <and> present  
+simu<la>tion of radioisotope scans by <computer>  
+research <using> the output of the simu<la>tor has  
+
+
+DocID: CACM-3048
+
+<performance> <evaluation>, deterministic simu<la>tion,  
+for <performance> <evaluation> of alternative  
+<performance> <evaluation> of highly concurrent  
+
+
+DocID: CACM-1526
+
+<computer> system <using> a page on dem<and> strategy  
+the hardware characteristics <and> the program statistics,  
+<performance>  measured by the average usage of  
+
+
+DocID: CACM-0961
+
+<using> only fortran ii.  these <techniques> allow  
+limited bit manipu<la>tion <using> fortran ii  
+<techniques> are developed for manipu<la>ting bits  
+
+
+DocID: CACM-3072
+
+<and> trace-driven <techniques>.  even re<la>tively simple dynamic  
+continuous-flow <and> preempt-resume scheduling  
+in the multiprogramming- multiprocessor <computer>  
+
+
+DocID: CACM-2716
+
+so that the interface analyzes <and> efficiently  
+<performance> of a particu<la>r user query is described.  
+<and> pipelined concurrency,  3  coordinating sort orders  
+
+
+DocID: CACM-2711
+
+typical <evaluation> results are shown, demonstrating  
+in particu<la>r, retrieval <performance> may corre<la>te inversely  
+in a document retrieval, or other <pattern> matching  
+
+
+DocID: CACM-1827
+
+recorded, <and> data items are further identified by job <and>  
+<performance>, software measurement, time-sharing <performance>,  
+<performance> monitoring, <performance> measurement,  
+
+
+DocID: CACM-2859
+
+caused by several processors simultaneously <using>  
+of program behavior <and> simu<la>tions of systems  
+results provide a good indication of the <performance>  
+
+
+DocID: CACM-2452
+
+<evaluation> <and> selection of file organization-a model <and> system  
+of data base structure design <and> <evaluation>.  
+file organization <performance>, file organization  
+
+
+DocID: CACM-2401
+
+a <pattern>, are reviewed <and> discussed.  an analogy with a  
+any <pattern>, regardless of the complexity of  
+a hardware implementation of the algorithm <using> <la>rge  
+
+
+DocID: CACM-1935
+
+binary <pattern>, file examination, graph theory, information  
+<and> offers new potential for information retrieval systems.  
+probabilistic method, r<and>om sequencing, search <techniques>, tree structures  
+
+
+DocID: CACM-1170
+
+<recognition> <and> learning logic was developed  
+the system is operational <and> avai<la>ble on  
+a dependency analysis system based on <pattern>  
+
+
+DocID: CACM-1543
+
+<computer> formu<la>tion of the equations of motion <using> tensor notation  
+<techniques> involved, a digital <computer> has been used  
+<and> a <computer> <la>nguage designed to facilitate  
+
+
+DocID: CACM-1542
+
+<and> main storage space required <and> compiler <and> interpreter  
+of a microprogrammed compiler <and> a microprogrammed  
+<performance> obtained.  the role of microprogramming  
+
+
+DocID: CACM-2903
+
+recursion elimination, <pattern> matching algorithms,  
+by <using> recursion in troduction, algorithms  
+called "recursion in troduction," is described <and>  
+
+
+DocID: CACM-3013
+
+image processing, <pattern> <recognition>, edge detection  
+pictures are compared with each other <and> with  
+the st<and>ard digital <la>p<la>cian <and> gradient.  a third  
+
+
+DocID: CACM-1785
+
+compilers are reviewed <and> a number of ways of <using>  
+scatter storage <techniques>  
+implementing the symbol tables of assemblers <and>  
+
+
+DocID: CACM-2871
+
+diagnosis <and> correction of logical errors.  
+user, termination is not proven, <and> incorrect  
+most present systems for verification of <computer>  
+
+
+DocID: CACM-3136
+
+the re<la>tionships between system price <and> hardware <performance>.  single  
+price/<performance> <pattern>s of u. <computer> systems  
+price/<performance>, grosch's <la>w, u. <computer> market  
+
+
+DocID: CACM-2951
+
+on a network. analytical, simu<la>tion, <and> statistical <performance>  
+<evaluation> tools are employed to investigate  
+response time monitor, <computer> networks, time-sharing  
+
+
+DocID: CACM-2145
+
+function for each point-to-point, <and> point-to-line  
+the tedious <and> error-prone although vitally important  
+components such as transistors <and> resistors have been  
+
+
+DocID: CACM-1468
+
+on <la>beling <techniques> <using> parallel processing  
+<and> the parallel processing simu<la>tor mentioned  
+also a few <computer>-generated outputs <using> this grammar  
+
+
+DocID: CACM-1265
+
+a number of diverse <recognition> procedures  
+comparison of the <recognition> of more realistic  
+the increase in <recognition> efficiency they afford  
+
+
+DocID: CACM-0860
+
+<and> tape drives for the two <techniques>.  
+sort <techniques> is developed for <computer>  
+a comparison between the polyphase <and> oscil<la>ting sort <techniques>  
+
+
+DocID: CACM-2862
+
+the <performance> of the pff algorithm.  
+model.  <using> these models, such parameters  
+of the <performance> of the rep<la>cement algorithm  
+
+
+DocID: CACM-2287
+
+based on minimizing <computer> memory space <and>  
+contour lines, topology, detection <and> <recognition>  
+the problem of detection <and> <recognition> of contour  
+
+
+DocID: CACM-1792
+
+of on-line <and> off line access to a <computer>.  these  
+online <and> off line programming <performance>  
+<performance>, debugging effectiveness, time sharing  
+
+
+DocID: CACM-1938
+
+<evaluation>.  
+quantitative time-sharing system <performance>  
+time-sharing <performance> criteria, time-sharing  
+
+
+DocID: CACM-2741
+
+behavior <and> evaluate the <performance> of computing  
+multiprogramming, paging, <performance> <evaluation>,  
+decomposability, instabilities, <and>  
+
+
+DocID: CACM-2035
+
+program preparation <and> assembly.  it focuses on the preparation <and> editing  
+facilities for text editing, automatic filing <and> file maintenance, <and>  
+conversational <computer> access,  
+
+
+DocID: CACM-2317
+
+system measurement <and> <evaluation> <techniques>,<and>  
+programming systems <and> <la>nguages 1965-1975  
+systems, <and> they all ran into simi<la>r  
+
+
+DocID: CACM-1973
+
+time per probe <and> <using> few probes per lookup.  <performance>  
+data <and> implementation hints are also given.  
+is simple, efficient, <and> exhaustive, while needing little  
+
+
+DocID: CACM-2798
+
+memory <performance> analysis, blockage buffer,  
+separately grouping instruction <and> data requests  
+the <performance> of various system structures,  
+
+
+DocID: CACM-2698
+
+<using> the well-known recognizer of earley,  
+<recognition> consists of a least-errors count for  
+grammars as drivers, <and> any finite string as input.  
+
+
+DocID: CACM-2251
+
+storage, hash table, key, hash address, <clustering>,  
+in terms of efficiency <and> computation complexity.  
+practically eliminates primary <clustering> at a very low cost.  
+
+
+DocID: CACM-2017
+
+the experimental sort programs <and> analysis of the <performance>  
+<performance> <evaluation>, memory management  
+conceived <and> implemented at ibm research in order to explore the  
+
+
+DocID: CACM-2571
+
+hasp, os/360, dispatching, scheduling, modeling, <performance> <evaluation>  
+monitor <and> employs it to study the effectiveness  
+of the monitor in improving system <performance>.  a  
+

@@ -1,0 +1,709 @@
+LUCENE_NoStopNoStem
+
+Query
+The use of Bayesian decision models to optimize information retrieval
+system performance.  This includes stopping rules to determine when a
+user should cease scanning the output of a retrieval search.
+
+Top 100 Results (8 millisecs)
+
+
+DocID: CACM-1699
+
+<<of>> <<the>> rese<<a>>rch is th<<a>>t <<a>>n <inform<<a>>tion> <retriev<<a>>l> <system>  
+<<of>> <<the>> <<to>>ols which would be <<a>>v<<a>>il<<a>>ble <<to>> him were  
+<inform<<a>>tion> <retriev<<a>>l> testing,  <inform<<a>>tion> <system>  
+
+
+DocID: CACM-3012
+
+<<a>>nd <retriev<<a>>l> <system>.  <<a>> moni<<to>>r built in<<to>> <<the>> computer  
+implement<<a>>tion, <system> <use>, <inform<<a>>tion> s<<to>>r<<a>>ge <<a>>nd <retriev<<a>>l> <system>  
+<this> p<<a>>per presents <<the>> results <<of>> <<a>> study  
+
+
+DocID: CACM-2451
+
+<<of>> such <<a>> model <this> p<<a>>per considers <<the>> design <<of>>  
+<<the>> optim<<a>>l tree c<<a>>nnot be implemented by me<<a>>ns <<of>> pr<<a>>ctic<<a>>l  
+<<of>> d<<a>>t<<a>> <<a>>nd shows th<<a>>t essenti<<a>>lly <<the>>  
+
+
+DocID: CACM-1236
+
+<<of>> <<a>>n<<a>>lysis procedures c<<a>>n in gener<<a>>l be relied upon <<to>>  
+<<a>>nd se<<a>>rch requests.  <this> fe<<a>>ture is <use>d in <<the>> <retriev<<a>>l>  
+oper<<a>>ting on <<the>> ibm 7094 is described.  <<the>> <system>  
+
+
+DocID: CACM-2848
+
+but r<<a>><<the>>r sets <<of>> <decision> <rules>.  <<the>> purpose <<of>> <this>  
+processes <<to>> be <<a>>u<<to>>m<<a>>ted.  <<the>> result <<of>> such <<a>>n interview  
+<<a>> structure <<of>> complete <decision> t<<a>>bles.  
+
+
+DocID: CACM-1359
+
+<this> results in <<the>> implement<<a>>tion <<of>> <<a>> two-p<<a>>rt  
+is derived from <<a>> job <<a>>ssumed <<to>> be expressed in <<a>> <use>r-oriented  
+m<<a>>nipul<<a>>tion <<of>> d<<a>>t<<a>> strings is <<the>> most complex  
+
+
+DocID: CACM-2046
+
+<<of>> ch<<a>>nges in query, upd<<a>>te, <<a>>nd report tr<<a>>ffic <<a>>nd n<<a>>tur<<a>>l growth in <<the>>  
+future <use>rs <<of>> l<<a>>rge d<<a>>t<<a>> b<<a>>nks must be protected from h<<a>>ving <<to>> know how <<the>>  
+<models> <<of>> <<the>> d<<a>>t<<a>>.  in section 1, in<<a>>dequ<<a>>cies <<of>> <<the>>se <models> <<a>>re discussed.  
+
+
+DocID: CACM-2979
+
+<<a>> progress report is presented <<of>> on-going  
+<<a>>nd <decision> m<<a>>king <<a>>re incorpor<<a>>ted in <<a>> l<<a>>rge  
+<<of>> <<a>>pplic<<a>>bility.  <<the>> <models> <<of>> hum<<a>>n judgment, choice,  
+
+
+DocID: CACM-1032
+
+<<of>> <inform<<a>>tion> <<a>>nd t<<a>>gging it for effective <retriev<<a>>l>,  
+<<of>> relev<<a>>ncy is developed which rew<<a>>rds <<the>> <system>  
+<<the>> nonrelev<<a>>nt, <<a>>nd pen<<a>>lizes <<the>> <system> for <<the>>  
+
+
+DocID: CACM-1506
+
+<system> <use>r <<a>>nd <<a>> <retriev<<a>>l> <<a>>pplic<<a>>tion.  <<the>> moni<<to>>r  
+run <<to>> completion r<<a>><<the>>r th<<a>>n "rolled-out" <<to>>  
+l<<a>>rge files by me<<a>>ns <<of>> <<a>> "di<<a>>logue" between <<a>>  
+
+
+DocID: CACM-3134
+
+<<the>> <<a>>ppropri<<a>>teness <<of>> <<the>> <<a>>bove <<a>>ppro<<a>>ch <<to>> <<a>> given <inform<<a>>tion> <system>  
+<this> p<<a>>per describes <<a>> method for <<the>> org<<a>>niz<<a>>tion <<a>>nd <retriev<<a>>l> <<of>> <<a>>ttribute  
+<<the>> norm<<a>>l multiplic<<a>>tion t<<a>>ble method yields f<<a>>r more r<<a>>pid <retriev<<a>>l>  
+
+
+DocID: CACM-2547
+
+<<the>> neighboring bound<<a>>ries <<to>> <<a>> point <<a>>nd <<the>>  
+represent<<a>>tion <<of>> con<<to>>urs <<a>>d regions for efficient computer se<<a>>rch  
+<<to>> <determine> whe<<the>>r <<a>> point lies within <<a>> closed bound<<a>>ry;  
+
+
+DocID: CACM-2722
+
+<<of>> <<the>> se<<a>>rch sp<<a>>ce  <<a>>s <<a>> d<<a>>t<<a>> structure for s<<to>>r<<a>>ge <<of>>  
+<<of>> se<<a>>rches , o  n log n .  se<<a>>rch <<a>>lgorithms  
+<<the>> root, o  n^ k-1 /k ; deletion <<of>> <<a>> r<<a>>ndom node,  
+
+
+DocID: CACM-2990
+
+<<to>> <<the>> frequency <<of>> occurrence <<of>> <<the>> term in <<the>>  
+<<to>> construct for <<the>> <<a>>ver<<a>>ge c<<a>>se.  in <<the>> present  
+<<of>> query term <<a>>ccur<<a>>cy is in troduced <<a>>s <<the>> prob<<a>>bility  
+
+
+DocID: CACM-2970
+
+<<of>> simul<<a>>tion <output>.  in p<<a>>rticul<<a>>r, it describes <<a>>  
+method due <<to>> p<<a>>ge [9] c<<a>>n be <use>d <<to>> obt<<a>>in <<a>> specified  
+<<a>>s <<the>> regener<<a>>tive st<<a>>te reduces <<the>> ch<<a>>nce <<of>>  
+
+
+DocID: CACM-2318
+
+<<the>> role <<of>> computer <system> <models> in <perform<<a>>nce> ev<<a>>lu<<a>>tion  
+<models> constitute <<a>> <use>ful me<<a>>ns <<of>> investig<<a>>ting  
+computer <system> <perform<<a>>nce>.  <this> p<<a>>per  
+
+
+DocID: CACM-2288
+
+<this> p<<a>>per.  conditions under which <<the>> consecutive <retriev<<a>>l>  
+<retriev<<a>>l> <system> with <<a>> minim<<a>>l se<<a>>rch time  
+<retriev<<a>>l> <system> b<<a>>sed on <<the>> consecutive  
+
+
+DocID: CACM-2711
+
+ se<<a>>rch requests , it <<a>>ppe<<a>>rs th<<a>>t <<the>> best indexing  
+<<a>>s <<a>> function <<of>> <<the>> density <<of>> <<the>> object sp<<a>>ce;  
+<<the>> v<<a>>lue <<of>> <<a>>n indexing <system> m<<a>>y be expressible  
+
+
+DocID: CACM-1680
+
+<system> <<to>> perform o<<the>>r jobs.  it exp<<a>>nds <<the>> power  
+<<a>> gener<<a>>l-purpose displ<<a>>y processing <<a>>nd tu<<to>>ri<<a>>l <system>  
+<<to>> it, <<a>>nd surrendering control <<to>> <<the>> oper<<a>>ting  
+
+
+DocID: CACM-1935
+
+<<a>> given document in <<a>> r<<a>>ndomly received list <<of>> files.  
+<<a>> m<<a>><<the>>m<<a>>tic<<a>>l model is developed for <<the>> me<<a>>n  
+<<a>>nd v<<a>>ri<<a>>nce <<of>> <<the>> number <<of>> tri<<a>>ls <<to>> recover  
+
+
+DocID: CACM-2598
+
+<<of>> <<the>> noiseless coding liter<<a>>ture <<a>>re <use>d <<to>>  
+<<to>> <<the>> <inform<<a>>tion> <<a>>lgorithm in extending <<the>> depth  
+<<the>> two problems is <<a>>lso <use>d <<to>> develop improvements  
+
+
+DocID: CACM-1937
+
+<<the>> comm<<a>>nd l<<a>>ngu<<a>>ge <<of>> <<the>> <system> provides <<the>> <use>r  
+<<a>> <use>r-oriented d<<a>>t<<a>> <retriev<<a>>l> <<a>>nd displ<<a>>y <system>.  
+in <this> p<<a>>per <<the>> st<<a>>tements <<of>> <<the>> request l<<a>>ngu<<a>>ge  
+
+
+DocID: CACM-2882
+
+<<to>> its difficulty <<a>>nd prohibitive cost. <this> p<<a>>per  
+discusses <<a>> simul<<a>>tion model <<of>> <<a>> d<<a>>t<<a>> <retriev<<a>>l>  
+by using <<the>> model <<to>> study <<the>> effect <<of>>  
+
+
+DocID: CACM-1527
+
+is possible <<to>> m<<a>>ke <use> <<of>> <<a>> recognition device <<of>> <this>  
+<<the>> <<a>>u<<to>>m<<a>>tic <retriev<<a>>l> <<of>> cert<<a>>in segments <<of>>  
+gener<<a>>ted by <<a>> gr<<a>>mm<<a>>r.  b<<a>>sed upon <<the>> <rules> <<of>> <this> gr<<a>>mm<<a>>r,  
+
+
+DocID: CACM-1908
+
+<<a>> <perform<<a>>nce> level equ<<a>>l <<to>> th<<a>>t <<of>> <<the>> b<<a>>tch  
+<this> study is <<the>> first known <<a>>ttempt <<to>> ev<<a>>lu<<a>>te  
+<<a>> much higher level <<of>> <perform<<a>>nce> is <<a>>tt<<a>>ined by  
+
+
+DocID: CACM-1524
+
+<<a>>ccept <<a>> number <<a>>s <<a>>n <<a>>dequ<<a>>te <<a>>pproxim<<a>>tion <<to>> <<the>> root.  
+<when> se<<a>>rching for <<the>> root <<of>> <<a>> polynomi<<a>>l,  
+for <<a>>ccepting <<a>> complex number <<a>>s <<a>> zero <<of>> <<a>> re<<a>>l  
+
+
+DocID: CACM-0891
+
+<<to>> m<<a>>ny different types <<of>> <retriev<<a>>l> problems.  fur<<the>>r,<<the>>  
+<<to>> inst<<a>>ll <<a>>n <inform<<a>>tion> <retriev<<a>>l> progr<<a>>m in less th<<a>>n  
+ from <<a>> progr<<a>>mming st<<a>>nd-point  <<to>> reconsider <<the>>ir position,  
+
+
+DocID: CACM-2516
+
+<<to>> predict <<the>> effect <<of>> such <<a>> <system> on  
+<<a>> prob<<a>>bilistic <<a>>n<<a>>lysis is employed <<to>> <determine>  
+<<a>> <system> might, for ex<<a>>mple, consist <<of>> f<<a>>st semiconduc<<to>>r  
+
+
+DocID: CACM-3087
+
+<<of>> <system> components <<a>>nd ex<<a>>mples <<of>> over<<a>>ll <system>  
+e<<a>>ch <<of>> which m<<a>>tches phr<<a>>ses with <<a>> specific  
+oper<<a>>tion.  <<the>> l<<a>>ngu<<a>>ge processing portion <<of>> <<the>>  
+
+
+DocID: CACM-0944
+
+<<the>> purpose <<of>> <this> p<<a>>per is <<to>> ex<<a>>mine  
+<<the>> s<<to>>r<<a>>ge <<a>>nd se<<a>>rch properties <<of>> <<a>> tree-org<<a>>nized  
+s<<to>>r<<a>>ge <<a>>nd se<<a>>rch properties <<of>> <<a>> tree-org<<a>>nized memory <system>  
+
+
+DocID: CACM-1936
+
+<<a>> function <<of>> <<the>> number <<of>> termin<<a>>l nodes.  <<the>>  
+<<the>> tree is ch<<a>>nge<<a>>ble  is tre<<a>>ted.  <<a>> procedure  
+between <<the>> f<<a>>st se<<a>>rch/slow upd<<a>>te ch<<a>>r<<a>>cteristics <<of>>  
+
+
+DocID: CACM-2726
+
+ <this> <<of>>ten improves <<the>> cl<<a>>rity <<of>> <<the>> <decision> t<<a>>ble  
+low frequency, <<the>>n <<the>> else rule c<<a>>n be <use>d <<to>> fur<<the>>r  
+t<<a>>bles by <<the>> combining <<of>> <decision> <rules>. <this> method  
+
+
+DocID: CACM-1976
+
+<<of>> f<<a>>lse drops;  3  <<the>> elimin<<a>>tion <<of>> computer time <<to>> perform intersection  
+<<of>> second<<a>>ry index v<<a>>lues in "buckets," it is possible <<to>> retrieve  
+<<of>> multiple <<a>>ccesses in m<<a>>ny c<<a>>ses;  2  <<the>> elimin<<a>>tion  
+
+
+DocID: CACM-1627
+
+<<a>> technique for org<<a>>nizing <<the>> devices <<of>> <<a>> computer  
+<retriev<<a>>l> <system>s.  <<the>> concept <<of>> level  
+s<<to>>r<<a>>ge c<<a>>p<<a>>cities <<of>> cert<<a>>in d<<a>>t<<a>> m<<a>>n<<a>>gement <<a>>nd <inform<<a>>tion>  
+
+
+DocID: CACM-2765
+
+criteri<<a>> <<to>> <determine> <<the>> optimum set <<of>> index keys.  
+index org<<a>>niz<<a>>tion, <inform<<a>>tion> s<<to>>r<<a>>ge <<a>>nd <retriev<<a>>l>, query <<a>>nswering  
+s<<to>>r<<a>>ge requirements, form<<a>>lizing <<the>> inter<<a>>ction <<of>> d<<a>>t<<a>>  
+
+
+DocID: CACM-2314
+
+<<a>> wide r<<a>>nge <<of>> <<a>>pplic<<a>>tions.  three <<a>>spects <<of>> progr<<a>>mming  
+<<of>> progr<<a>>mmers working in such dom<<a>>ins.  <<a>>  
+<<the>> <<a>>uthor feels <<a>>re import<<a>>nt <<to>> improve <<the>> productivity  
+
+
+DocID: CACM-2746
+
+<<of>> keywords.  <<the>> <<a>>lgorithm h<<a>>s been <use>d <<to>>  
+<<the>> lengths <<of>> <<the>> keywords.  <<the>> number <<of>> st<<a>>te tr<<a>>nsitions  
+number <<of>> keywords in <<a>> string <<of>> text.  <<the>> <<a>>lgorithm  
+
+
+DocID: CACM-2092
+
+det<<a>>il.  <<the>> <system> is written in lisp 1.5 <<a>>nd oper<<a>>tes on <<the>> q-32  
+from question <<to>> <<a>>nswer en<<a>>bles effective <use> <<to>> be m<<a>>de <<of>> <this>  
+<inform<<a>>tion>.  it is concluded th<<a>>t <<the>> development <<of>> pro<<to>>syn<<the>>x  
+
+
+DocID: CACM-2372
+
+one <<to>> perform much <<of>> <<the>> checking <<of>> security  
+on <<the>> implement<<a>>tion <<of>> security me<<a>>sures in <inform<<a>>tion> <system>s  
+<<the>> security <<of>> <<a>>n <inform<<a>>tion> <system> m<<a>>y be  
+
+
+DocID: CACM-1652
+
+<<to>> problems in <<a>>re<<a>> such <<a>>s <inform<<a>>tion> <retriev<<a>>l>, document  
+<<a>> code h<<a>>s been specific<<a>>lly designed <<to>> simplify  
+r<<a>>te <<of>> <<the>> <inform<<a>>tion> ch<<a>>nnel linking <<the>> <system> <<a>>nd  
+
+
+DocID: CACM-1681
+
+is sent <<to>> <<the>> <system>.  <<a>> m<<a>>cro flowch<<a>>rt <<of>> e<<a>>sy  
+<<of>> <<the>> tr<<a>>nsform<<a>>tions performed upon <<a>> s<<a>>mple  
+<<the>> prin<<to>>ut <<of>> <<a>> <retriev<<a>>l> demonstr<<a>>tion.  
+
+
+DocID: CACM-2140
+
+<<of>> file indexing n<<a>>med combined indices.  <this> technique  
+<<of>> <<the>> <<a>>cm, v. y. lum introduced <<a>> technique  
+<<of>> incre<<a>>sed s<<to>>r<<a>>ge sp<<a>>ce.  <this> p<<a>>per ex<<a>>mines combined  
+
+
+DocID: CACM-2453
+
+<this> <<a>>lgorithm is e<<a>>sy <<to>> code <<a>>nd t<<a>>kes <<a>> much sm<<a>>ller  
+<decision> t<<a>>bles, optimum computer progr<<a>>ms, <inform<<a>>tion> me<<a>>sure  
+<<a>> limited entry <decision> t<<a>>ble <<to>> <<a>> tree structured computer  
+
+
+DocID: CACM-3041
+
+<<a>> split tree is <<a>> bin<<a>>ry se<<a>>rch tree e<<a>>ch node <<of>> which  
+<<a>> m<<a>>xim<<a>>lly frequent key in th<<a>>t subtree, <<a>>nd <<a>> split  
+optimum bin<<a>>ry se<<a>>rch tree.  <<a>> discussion <<of>> <<the>>  
+
+
+DocID: CACM-2622
+
+in <<the>> computer.    <<a>>ll <<a>>spects <<of>> <<the>> <system>, including  
+<<a>> <use>r <<a>>u<<the>>ntic<<a>>tion scheme not requiring secrecy in <<the>> computer  
+h<<a>>ve <<a>>ccess <<to>> <<the>> t<<a>>ble, but he c<<a>>n penetr<<a>>te <<the>> <system>  
+
+
+DocID: CACM-2984
+
+indic<<a>>te <<the>> extent <<to>> which <<the>> <<to>>t<<a>>l <system>  
+<system> <perform<<a>>nce> in terms <<of>> <<a>> cost/utiliz<<a>>tion  
+cost/utiliz<<a>>tion: <<a>> me<<a>>sure <<of>> <system> <perform<<a>>nce>  
+
+
+DocID: CACM-1194
+
+<<the>> m<<a>>in c<<a>>t<<a>>log is <use>d <<to>> describe <<the>> documents,  
+direct <use>r <<a>>ccess <<to>> <<a>>ll det<<a>>ils <<of>> <<the>> <system> org<<a>>niz<<a>>tion,  
+<<the>> m<<a>>in fe<<a>>tures <<of>> <<the>> <inform<<a>>tion> <system> <<a>>re direct  
+
+
+DocID: CACM-1684
+
+in <this> p<<a>>per it is suggested th<<a>>t <<the>>se <rules>  
+<<the>> <use> <<of>> <decision> t<<a>>bles <<a>>s <<a>> <<to>>ol in <system>s  
+<<the>> <<the>>oretic<<a>>l b<<a>>sis <<of>> <<the>> <<a>>lgorithm <use>d is est<<a>>blished.  
+
+
+DocID: CACM-1725
+
+<<the>> individu<<a>>l digit columns <<of>> <<the>> memory.  thus <<the>>  
+<<of>> <<the>> word length.   in <this> p<<a>>per <<a>> very  
+<<to>> retrieve in order <<a>> number <<of>> distinct  
+
+
+DocID: CACM-2991
+
+<<to>> remove <<the>> effect <<of>> sequenti<<a>>l properties in <<the>>  
+<<to>> loc<<a>>te <<a>> record.  <<the>> combined effects <<of>> <<the>>se techniques  
+by <<a>>dding sh<<a>>dow buckets <<to>> <<a>>n open ch<<a>>ining file.  <<the>>  
+
+
+DocID: CACM-1271
+
+second<<a>>ry key <retriev<<a>>l> using <<a>>n ibm 7090-1301 <system>  
+<<a>> complete set <<of>> <<a>>ddresses <<of>> prim<<a>>ry records relev<<a>>nt  
+<<the>> second<<a>>ry key <retriev<<a>>l> method involves  
+
+
+DocID: CACM-2889
+
+<<of>> hb[1] trees  <<a>>vl trees  th<<a>>t is <<a>> function <<of>>  
+<<the>> cost <<of>> m<<a>>int<<a>>ining hb[k] trees drops sh<<a>>rply <<a>>s <<the>>  
+<<of>> <<the>> size <<of>> <<the>> tree except for <<the>> <<a>>ver<<a>>ge  
+
+
+DocID: CACM-3070
+
+<<the>> result <<a>>nd comput<<a>>tion<<a>>l costs <<of>> <<the>> hybrid model <<of>>  
+<<to>> model <<the>> <<a>>rriv<<a>>l <<a>>nd <<a>>ctiv<<a>>tion <<of>> jobs, <<a>>nd <<a>>  
+<system> processors.  <<the>> <<a>>ccur<<a>>cy <<a>>nd efficiency <<of>> <<the>>  
+
+
+DocID: CACM-1705
+
+<<of>> derived procedures  ioi, ior, iob, io<<a>> .  <<the>>  
+<<of>> providing <inform<<a>>tion> on <<the>> form <<of>> <output>  
+<<of>> <<the>> subset oti, otr, otb, ot<<a>>.  <<the>> berkeley style  
+
+
+DocID: CACM-2307
+
+reorg<<a>>niz<<a>>tion <<of>> <<the>> s<<to>>red <inform<<a>>tion> <<a>>s <<a>> function <<of>>  
+for <inform<<a>>tion> <retriev<<a>>l> <<a>>nd for <<the>> control  
+b<<a>>sed on <use>r needs, <<a>>nd for <<a>> continuous  
+
+
+DocID: CACM-1747
+
+<<of>> <<a>> virtu<<a>>l computer <<a>>re expl<<a>>ined.  ex<<a>>mples <<of>> <<a>>pplic<<a>>tions  
+proposed <system> fe<<a>>tures.  three possible criteri<<a>> <<of>> <this>  
+<<of>> <<the>> criteri<<a>> concern <<the>> re<<a>>ding <<of>>  
+
+
+DocID: CACM-2580
+
+<<of>> <<a>>pplic<<a>>bility <rules> <<a>>nd weight <rules> which oper<<a>>te  
+on <<the>> productions deciding <when> <<a>>nd <<to>> wh<<a>>t extent  
+by <<the>> computer implement<<a>>tion <<of>> <<the>> method <<a>>re  
+
+
+DocID: CACM-2561
+
+<<of>> <<a>> simil<<a>>rity structure which is imposed on <<the>>  
+<<a>> heuristic <<a>>ppro<<a>>ch <<to>> inductive inference in f<<a>>ct <retriev<<a>>l> <system>s  
+from <<a>>v<<a>>il<<a>>ble <inform<<a>>tion>.  <<the>> procedures m<<a>>ke <use>  
+
+
+DocID: CACM-3135
+
+<<to>> <<a>> set <<of>> pe<<a>>ks in <<the>> electron-density distribution <<of>>  
+objects within <<a>> l<<a>>rger structure is presented.  <<the>> se<<a>>rch technique  
+presented <use>s <<the>> geometric structure <<of>> <<the>> p<<a>>ttern <<to>> define  
+
+
+DocID: CACM-2198
+
+<<of>> gener<<a>>lized d<<a>>t<<a>> b<<a>>se m<<a>>n<<a>>gement <system>s.  <this> introduction  
+<<the>> <<a>>rt in <<the>>se <system>s <<a>>nd discusses <<the>> differences  
+level <<of>> <use>r.  <<the>> <use> <<of>> cobol <<a>>s <<a>> b<<a>>sis for  
+
+
+DocID: CACM-3095
+
+<<a>> bin<<a>>ry se<<a>>rch tree <<a>>ccording <<to>> <<a>> list <<of>> r<<a>>nge  
+<<a>> selective tr<<a>>vers<<a>>l <<a>>lgorithm for bin<<a>>ry se<<a>>rch trees  
+tr<<a>>vers<<a>>l which <use>s <<a>> t<<a>>g field for e<<a>>ch node in <<the>>  
+
+
+DocID: CACM-1938
+
+<<to>> utilize <<the>> full resources <<of>> <<the>> <system> th<<a>>t  
+<<a>> termin<<a>>l <use>r <<to>> utilize essenti<<a>>lly <<the>> full resources  
+<system> oper<<a>>tion, time-sh<<a>>ring <perform<<a>>nce> <<a>>n<<a>>lysis  
+
+
+DocID: CACM-1695
+
+<<a>> description is presented <<of>> plexus, <<a>> <system>  
+ex<<a>>min<<a>>tions <<of>> <<the>> gross ch<<a>>r<<a>>cteristics <<of>> <<the>> d<<a>>t<<a>> <<to>>  
+<<a>> neur<<a>>l network, <<to>> <<a>>n<<a>>lyze <<the>> <output> d<<a>>t<<a>> produced  
+
+
+DocID: CACM-2832
+
+<retriev<<a>>l> <<a>>nd <<a>>uxili<<a>>ry structures <<a>>re built up <<to>> m<<a>>ke  
+so th<<a>>t d<<a>>t<<a>> c<<a>>n be c<<a>>ched <<to>> speed up <retriev<<a>>l>.  <<a>> <retriev<<a>>l>  
+s<<to>>ring d<<a>>t<<a>> which is <<to>> be viewed <<a>>s <<a>> hier<<a>>rchy  
+
+
+DocID: CACM-1651
+
+<<the>> <<a>>rticle <includes> ex<<a>>mples <<of>> input, <output> from <<a>>  
+<<of>> <<the>> lp problem  limited only by <<a>> keypunch's  
+<<the>> input code described.  from <<a>> <use>r's st<<a>>ndpoint,  
+
+
+DocID: CACM-1855
+
+<rules> <<a>>re described.   <<a>> number <<of>> ex<<a>>mples <<of>> <output>  
+<<to>> <<a>> tr<<a>>nsform<<a>>tion<<a>>l gr<<a>>mm<<a>>r.  <<the>> m<<a>>in fe<<a>>tures <<of>> <<the>>  
+produced by <<the>> progr<<a>>m <<a>>re given.  <<the>> <output>  
+
+
+DocID: CACM-2860
+
+<<of>> design p<<a>>r<<a>>meters on over<<a>>ll <system> costs.  <<a>>  
+<rules> <<of>> thumb which h<<a>>ve been suggested for <<the>>  
+<this> p<<a>>per consolid<<a>>tes <<a>> number <<of>> popul<<a>>r  
+
+
+DocID: CACM-2319
+
+<<of>> <<a>>n oper<<a>>ting <system>, <<a>>n over<<a>>ll model <<of>> <<the>> <<to>>t<<a>>l  
+<system> must be developed <<to>> be <<a>>ble <<to>> <<a>>n<<a>>lyze  
+<<a>>nd design <<the>> <perform<<a>>nce> <<a>>spects <<of>> <<a>>n oper<<a>>ting <system>  
+
+
+DocID: CACM-2537
+
+in <<the>> text.  <<a>>lgorithm 444 <<a>>pplies <<to>> <this> p<<a>>per.  
+described.  <<the>> method relies on h<<a>>nd selection <<of>> <<a>>  
+<<the>> s<<to>>r<<a>>ge technique gives rise <<to>> <<a>> m<<a>><<the>>m<<a>>tic<<a>>l  
+
+
+DocID: CACM-2947
+
+delimiting <<the>> context in which <<the>> hit is <<to>> be  
+<system> much more powerful th<<a>>n <<the>> sum <<of>> its p<<a>>rts.  
+<<a>> function, <<a>> file, <<a>>nd <<a>> se<<a>>rch templ<<a>>te  
+
+
+DocID: CACM-1427
+
+<<the>> simul<<a>>tion <<of>> <<the>> <output> <<of>> <<a>>ny qu<<a>>ntum-limited <system>.  
+on <<the>> sc<<a>>n by <<a>>re<<a>>s <<of>> incre<<a>>sed dot density.  <<to>> study  
+<<the>> sc<<a>>n is <<a>> two-dimension<<a>>l p<<a>>ttern m<<a>>de up <<of>> dots.  
+
+
+DocID: CACM-0440
+
+<rules> th<<a>>t c<<a>>n be <<a>>pplied gener<<a>>lly <<to>> n<<a>>me <retriev<<a>>l>  
+<<the>>se <rules> <<a>>re described, <<a>>nd <<the>> w<<a>>ys in which <inform<<a>>tion>  
+m<<a>>ximum <use> <<of>> items <<of>> identifying <inform<<a>>tion>  
+
+
+DocID: CACM-1307
+
+<<to>> e<<a>>se <<the>> <use> <<of>> <<a>> d<<a>>t<<a>> processing <system> by <<a>>  
+<<the>> <use>r severely in <<the>> p<<a>>rticul<<a>>r l<<a>>ngu<<a>>ge he c<<a>>n <use>,  
+<<of>> d<<a>>t<<a>> h<<a>>ndled by <<the>> <system>.  since such <<a>> person is  
+
+
+DocID: CACM-2263
+
+<decision> t<<a>>ble, flowch<<a>>rting, preprocessor, optim<<a>>l progr<<a>>ms, se<<a>>rch  
+execution time for <<a>> <decision> t<<a>>ble in which simple <rules>  
+<<the>> conversion <<of>> limited-entry <decision> t<<a>>bles  
+
+
+DocID: CACM-1514
+
+<<of>>:  1  <<the>> prior proportion <<of>> omitted terms, <<a>>nd  2  <<the>>  
+on <<the>> expected g<<a>>in from <<a>>djust ing m<<a>>tched term <retriev<<a>>l> <system>s  
+ex<<a>>mple ev<<a>>lu<<a>>tes <<the>> g<<a>>in p<<a>>r<<a>>meters for <<a>> typic<<a>>l  
+
+
+DocID: CACM-2795
+
+<<the>> progr<<a>>m employs both <<the>> <inform<<a>>tion> <retriev<<a>>l> <<a>>nd  
+deduction c<<a>>p<<a>>bilities <<of>> <<the>> memory model.  <<the>>  
+underst<<a>>nding with respect <<to>> <<a>> given context.  <this>  
+
+
+DocID: CACM-2519
+
+devices, <<the>> exhibition <<of>> <<the>> structure inherent in <<the>>  
+using <<a>> computer b<<a>>sed <inform<<a>>tion> <retriev<<a>>l> <system>  
+<inform<<a>>tion> we <<a>>re communic<<a>>ting, <<a>>nd <<a>> sophistic<<a>>ted  
+
+
+DocID: CACM-1526
+
+<perform<<a>>nce>  me<<a>>sured by <<the>> <<a>>ver<<a>>ge us<<a>>ge <<of>>  
+<<the>> cpu  <when> <use>r progr<<a>>ms <<a>>re typic<<a>>l <<of>> those <<a>>rising  
+<<a>> model <<of>> multiprogr<<a>>mming for <<a>> p<<a>>rticul<<a>>r  
+
+
+DocID: CACM-2742
+
+<<a>> method for signific<<a>>ntly reducing <<the>> time spent sc<<a>>nning  
+reput<<a>>tion <<of>> e<<a>>ting up hours <<of>> computer time.  <this>  
+<<a>>mount <<of>> bookkeeping time is required <<to>> keep future events  
+
+
+DocID: CACM-2846
+
+<<of>> one key, is <<of>> <<the>> order logm n  <<a>>nd <<the>> s<<to>>r<<a>>ge  
+<<a>> p<<a>>r<<a>>meter <<of>> <<the>> trie, but where<<a>>s <<the>> fields <<of>> <<the>>  
+<<a>> key or <<a>>t le<<a>>st <<a>> pointer, <<the>> fields in <<a>> c-trie <<a>>re  
+
+
+DocID: CACM-2437
+
+<<a>> file <<a>>re <<a>>ssumed <<to>> h<<a>>ve been selected from <<the>>  
+<this> p<<a>>per presents <<a>> new <<a>>ppro<<a>>ch <<to>> <<the>> <<a>>n<<a>>lysis  
+<<a>>ll <this> c<<a>>n be done <<a>>n<<a>>lytic<<a>>lly.  <<the>> <<a>>ppro<<a>>ch  
+
+
+DocID: CACM-2033
+
+ sp<<a>>ce , <<the>> time required <<to>> identify <<a>> mess<<a>>ge <<a>>s <<a>> nonmember <<of>> <<the>>  
+<<a>>re intended <<to>> reduce <<the>> <<a>>mount <<of>> sp<<a>>ce required <<to>> cont<<a>>in <<the>> h<<a>>sh-coded  
+<<the>> comput<<a>>tion<<a>>l f<<a>>c<<to>>rs considered <<a>>re <<the>> size <<of>> <<the>> h<<a>>sh <<a>>re<<a>>  
+
+
+DocID: CACM-2176
+
+<<of>> merge sorting on mov<<a>>ble <<a>>rm disks <when> <<the>>  
+<when> sorting on mov<<a>>ble <<a>>rm disks, <<the>> number <<of>>  
+th<<a>>t <<the>> results do not depend on <<a>> p<<a>>rticul<<a>>r  
+
+
+DocID: CACM-1698
+
+<use>r, but r<<a>><<the>>r e<<a>>sy <<to>> ch<<a>>r<<a>>cterize <<the>> entire <use>r community.  
+<<the>> <<a>>bility <<of>> <<a>> computer <system> <<to>> communic<<a>>te  
+input?  wh<<a>>t is <<the>> m<<a>>ximum r<<a>>te <<a>>t which <<a>> process c<<a>>n  
+
+
+DocID: CACM-2968
+
+compiler-independent.  <<the>> qu<<a>>lity <<of>> <<the>> resulting  
+<<a>> comp<<a>>rison <<of>> tree-b<<a>>l<<a>>ncing <<a>>lgorithms  
+<<a>>lso presented <<a>>t <<a>> level believed <<to>> be l<<a>>ngu<<a>>ge-<<a>>nd  
+
+
+DocID: CACM-1083
+
+<<a>> whole h<<a>>s much bro<<a>>der <<a>>spects <<a>>s <<a>> <<to>>ol for <<the>>  
+while <<the>> compiler p<<a>>rt is efficient, <<the>> <system> <<a>>s  
+<<a>>n<<a>>lysis <<of>> well-formul<<a>>ted problems is described.  <<a>> modified  
+
+
+DocID: CACM-0282
+
+<<to>> rewrite <<the>> record on <<the>> s<<a>>me <<a>>re<<a>>.  <this> p<<a>>per ev<<a>>lu<<a>>tes  
+<<the>> optimum procedure is <<to>> byp<<a>>ss <<a>>n <<a>>re<<a>>, <<a>> second  
+necess<<a>>ry.  <<a>> formul<<a>> is developed <<to>> <determine> <<the>>  
+
+
+DocID: CACM-2535
+
+<perform<<a>>nce> <<of>> <<the>> computer  model , in <<the>> sense  
+<<the>> effects <<of>> multiplexing on <<a>> computer-communic<<a>>tions <system>  
+n<<a>>ture <<of>> <<the>> <<a>>rriv<<a>>l process from <<a>> <use>r <<to>> <<the>> computer  
+
+
+DocID: CACM-2645
+
+<<of>> <<the>> two l<<a>>ngu<<a>>ges <<a>>re included.  <<the>> limit<<a>>tions <<of>>  
+on <<the>> <<a>>n<<a>>lysis <<of>> <<a>>lgorithms, <<a>>nd some <<of>> <<the>> directions  
+<<the>> sound processor is <<a>> set <<of>> procedures  
+
+
+DocID: CACM-2631
+
+<<of>> <this> subset <<a>>re <<the>>n <use>d <<a>>s index keys for <retriev<<a>>l>.  
+<this> method tre<<a>>ts text <<a>>s <<a>> string <<of>> ch<<a>>r<<a>>cters r<<a>><<the>>r  
+<retriev<<a>>l>, n<<a>>mely, <<the>> m<<a>>inten<<a>>nce <<a>>nd <use> <<of>> l<<a>>rge  
+
+
+DocID: CACM-2370
+
+<<a>> tv c<<a>>mer<<a>> speci<<a>>lly interf<<a>>ced <<to>> <<a>> process control  
+<<a>>nd displ<<a>>y <system> h<<a>>s been in oper<<a>>tion <<a>>t <<the>>  
+<<a>>n<<a>>log input <<a>>nd <output> f<<a>>cilities, <<a>>nd <<a>> v<<a>>riety <<of>>  
+
+
+DocID: CACM-2389
+
+<<a>>nd <includes> me<<a>>ns <<to>> represent sp<<a>>ces <<a>>nd objects, <<to>> m<<a>>nipul<<a>>te  
+<<a>> computer l<<a>>ngu<<a>>ge <<a>>nd <<a>> set <<of>> progr<<a>>ms within  
+<<a>>ccording <<to>> <<a>> v<<a>>riety <<of>> constr<<a>>ints.  <<the>> <<a>>lgorithms  
+
+
+DocID: CACM-1415
+
+<<to>> select <<the>> preferred synt<<a>>ctic interpret<<a>>tion <<of>> <<a>> sentence.  
+<<a>> step, <<the>> <<a>>uthors <<a>>ttempted in 1963 <<to>> prep<<a>>re  
+by <<the>> h<<a>>rv<<a>>rd multip<<a>>th <<a>>n<<a>>lysis progr<<a>>m.  <<the>> b<<a>>sic  
+
+
+DocID: CACM-1827
+
+in <<the>> michig<<a>>n termin<<a>>l <system>  mts  for <<the>>  
+<<a>> s<<of>>tw<<a>>re me<<a>>surement f<<a>>cility which is p<<a>>rt <<of>>  
+<perform<<a>>nce> moni<<to>>ring in <<a>> time-sh<<a>>ring <system>  
+
+
+DocID: CACM-3163
+
+gives <<a>> neg<<a>>tive <<a>>nswer <<to>> <<the>> question <<of>> whe<<the>>r such trees <should>  
+be <<the>> first ex<<a>>mples <<of>> <<the>>ir kind, where deletion h<<a>>s <<a>> sm<<a>>ller time  
+<<the>> tree.  <this> represents <<a>>n improvement over <<the>> best previous  
+
+
+DocID: CACM-2988
+
+<<of>> in ter<<a>>ctive computer <system>s which <use> nonp<<a>>ged memories.  
+<this> p<<a>>per presents <<a>> comput<<a>>tion<<a>>lly tr<<a>>ct<<a>>ble  
+<this> methodology <<to>> <<a>>n <<a>>ctu<<a>>l multi<<a>>ccess  
+
+
+DocID: CACM-2053
+
+<<the>> <use> <<of>> execution time di<<a>>gnostics in pinpointing <<a>>mbiguities in <decision>  
+<<to>> fortr<<a>>n iv tr<<a>>nsl<<a>><<to>>r for <<the>> ibm 7044 developed by <<the>> <<a>>uthors <<a>>re given.  
+proposed in <<the>> liter<<a>>ture is m<<a>>de.  some fe<<a>>tures <<of>> <<a>> <decision> t<<a>>ble  
+
+
+DocID: CACM-2002
+
+subplots by <<the>> <<a>>ction <<of>> one or more simple modules is possible.  <<the>> <use>r  
+d in <<a>> w<<a>>y such th<<a>>t <<the>> <use>r could supply <<the>> minimum <<of>> <inform<<a>>tion>,  
+complexity <<to>> be constructed by <<a>>dding or repl<<a>>cing modules.  <<the>>  
+
+
+DocID: CACM-2203
+
+<<of>> <<a>>ccesses required <<to>> get <<to>> <<a>> record <<a>>nd <<the>> number  
+<<of>> overflow records cre<<a>>ted by <<a>> tr<<a>>nsform<<a>>tion.  
+se<<a>>rch, collisions, clusters, <inform<<a>>tion> <retriev<<a>>l>  
+
+
+DocID: CACM-2716
+
+<<a>> methodology for composing <<the>>m <<to>> <optimize> <<the>>  
+<<to>> support <<a>> rel<<a>>tion<<a>>l view <<of>> d<<a>>t<<a>> is proposed.  
+<perform<<a>>nce> <<of>> <<a>> p<<a>>rticul<<a>>r <use>r query is described.  
+

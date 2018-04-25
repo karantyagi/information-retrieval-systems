@@ -1,0 +1,708 @@
+LUCENE_NoStopNoStem
+
+Query
+Currently interested in isolation of root of polynomial; there is an old
+more recent material.
+
+Heindel, L.
+
+Top 100 Results (67 millisecs)
+
+
+DocID: CACM-1524
+
+<in> th<is> paper <an> a<l>gorithm <is> presented which  
+accept a number as <an> adequate approximation to the <root>.  
+when search<in>g for the <root> <<of>> a <po<l>ynomia<l>>,  
+
+
+DocID: CACM-1623
+
+may be <<in>terested> <in> the prob<l>em because it <is> stated  
+comm<an>d.  <in> particu<l>ar, it made extensive use <<of>> the  
+<is> <in>dicated.  the so<l>ution <<of>> the prob<l>em us<in>g formac  
+
+
+DocID: CACM-2808
+
+mathematics.  <an> account <is> given here <<of>> some <<of>>  
+have p<l>ayed <an> enormous part <in> the deve<l>opment <<of>>  
+for teach<in>g purposes, <an>d <there> <is> much re<l>ev<an>t <an>d  
+
+
+DocID: CACM-2749
+
+signific<an>t event method <is> found to be <more> efficient  
+re<l>ative runn<in>g time <<of>> the two methods <is> deve<l>oped.  
+<in> the simu<l>ation <<of>> some systems when computationa<l>  
+
+
+DocID: CACM-1999
+
+use <an> iterative scheme for the square <root> different from  
+approxim<an>ts <is> considered, <an>d some optima<l> <po<l>ynomia<l>> <in>itia<l>  
+square <root>, newton-raphson iteration, optima<l> approxim<an>ts  
+
+
+DocID: CACM-1567
+
+<po<l>ynomia<l>>s <in> the <l>ight <<of>> the theory <<of>> the  
+<root>s <<of>> a <po<l>ynomia<l>> <is> suggested.  
+on the representation <<of>> symmetric <po<l>ynomia<l>>s  
+
+
+DocID: CACM-2722
+
+<<of>> the search space  as a data structure for storage <<of>>  
+the <root>, o  n^ k-1 /k ; de<l>etion <<of>> a r<an>dom node,  
+<is> shown to be quite <in> its storage requirements.  
+
+
+DocID: CACM-0492
+
+bas<is> <<of>> a markov cha<in> mode<l>.  for the reader not <<in>terested>  
+address, which <is> one <l>ess th<an> the number <<of>> probes  
+based on the ca<l>cu<l>ation <<of>> <an> address from  
+
+
+DocID: CACM-0848
+
+<there> was the germ <<of>> <an> idea <in> two previous  
+usage for the square <root> <an>d <l>ogarithm function  
+r<an>ge symmetric about 10.1 wi<l><l> give examp<l>es <<of>> th<is>  
+
+
+DocID: CACM-0435
+
+<is> with th<is> somewhat neg<l>ected area that the author <is>  
+<current<l>y> a great dea<l> <<of>> time <an>d effort <is>  
+<is> presented for the h<an>d<l><in>g <<of>> a st<an>dard systems  
+
+
+DocID: CACM-1867
+
+one <is> <<in>terested> <in> the ratio <l> j  <<of>> the  
+<in> the rep<l>acement-se<l>ect<in>g technique <<of>> sort<in>g,  
+between sign ch<an>ges <<of>> <l> j -2 <is> 2.6662.  
+
+
+DocID: CACM-0116
+
+<is> to en<l><is>t the he<l>p <<of>> other members <in> br<in>g<in>g to  
+to as a sumador ch<in>o  ch<in>ese adder .  a survey <<of>> the <more>  
+rogers, j. <l>.  
+
+
+DocID: CACM-1667
+
+<root> f<in>ders, <root>s <<of>> <po<l>ynomia<l>> equations, <po<l>ynomia<l>>  
+test<in>g <<of>> <root>s, accept<an>ce criteria  
+<root>s <<of>> <po<l>ynomia<l>>s by a <root>-squar<in>g  
+
+
+DocID: CACM-1893
+
+<root> f<in>ders, <root>s <<of>> <po<l>ynomia<l>> equations, <po<l>ynomia<l>>  
+test<in>g <<of>> <root>s, accept<an>ce criteria  
+<root>s <<of>> <po<l>ynomia<l>>s by a <root>-squar<in>g  
+
+
+DocID: CACM-2657
+
+<l>ee <in> 1969 <is> given.  <in> the <o<l>d> a<l>gorithm, the program-synthesiz<in>g  
+<in> 1969.  the correctness <<of>> the improved a<l>gorithm  
+the pro<<of>> <is> comp<l>eted.  th<is> <is> achieved by us<in>g  
+
+
+DocID: CACM-2194
+
+by <an> assemb<l>er or compi<l>er when  1  the <l>ength <<of>>  
+sum <<of>> the <l>engths <<of>> the b<l>ocks <<of>> cod<in>g produced  
+<there> are b<l>ocks <<of>> <in>structions whose beg<in>n<in>gs  
+
+
+DocID: CACM-1763
+
+<root> f<in>ders, <po<l>ynomia<l>> equation <root>s, quadratic  
+<root>s <<of>> <l>ow-order <po<l>ynomia<l>> equations  a<l>gorithm 326 [c2]   
+equation <root>s, <po<l>ynomia<l>> zeros  
+
+
+DocID: CACM-2266
+
+po<in>t <in> the method <is> <po<l>ynomia<l>> def<l>ation used.  
+<an> a<l>gorithm <is> described based on newton's  
+a<l><l> zeros <<of>> a <po<l>ynomia<l>> with on<l>y rea<l> zeros  
+
+
+DocID: CACM-1620
+
+the method <<of>> nested mu<l>tip<l>ication <is> common<l>y  
+methods <<of>> eva<l>uat<in>g <po<l>ynomia<l>> approximations  
+methods have been deve<l>oped <in> <recent> years which  
+
+
+DocID: CACM-1949
+
+f<in>iteness assumptions <an>d <in>te<l><l>ectua<l> <<is>o<l>ation> <<of>> computer scient<is>ts  
+a<l>go<l> vs. fortr<an>, f<in>iteness assumptions, <in>te<l><l>ectua<l> <<is>o<l>ation>,  
+
+
+DocID: CACM-0464
+
+additiona<l> d<is>cussion <<of>> the work <in> re<l>ation to the <more>  
+<l><an>guage that <is> used to describe syntax <an>d <<of>>  
+resu<l>ts <<of>> the syntactic <an>a<l>ys<is> <in> a tabu<l>ar form.  severa<l>  
+
+
+DocID: CACM-1386
+
+<an> a<l>gorithm for f<in>d<in>g the symbo<l>ic factors <<of>>  
+<is> presented.  the a<l>gorithm <is> <an> extension <<of>> a technique  
+<<of>> steps.  the a<l>gorithm cons<is>ts <<of>> factor<in>g  
+
+
+DocID: CACM-0531
+
+<is> genera<l><l>y not preassigned to <an> <in>dividua<l> for  
+record <l><in>kage <in> the updat<in>g <<of>> fi<l>es <is>  
+<is> a <l>aborious operation which <is> subject to various  
+
+
+DocID: CACM-2324
+
+made <in> the next few years are <more> <l>ike<l>y  
+<<of>> st<an>dard test prob<l>ems, construction <<of>> user oriented  
+s<<of>>tware, <an>d compar<is>ons <<of>> <current<l>y> known  
+
+
+DocID: CACM-2181
+
+<is> d<an>ie<l> teichroew  the university <<of>> michig<an> .  
+gr<an>t, <is> estab<l><is>hed to appra<is>e the state <<of>> the art  
+systems.  <an> <an>a<l>ys<is> <<of>> the m<in>utes <<of>> the meet<in>gs  
+
+
+DocID: CACM-2744
+
+<in> bytes <<of>> sufficient size.  radix conversion <is> unnecessary,  
+th<is> paper presents a genera<l>ization <<of>> <an>  
+addition <in> <an> arbitrary base without radix conversion  
+
+
+DocID: CACM-0397
+
+<is> suitab<l>e as a st<an>dard for card reference fi<l>es <in> <in>formation process<in>g.  
+th<is> card format <is> sufficient to identify the <materia<l>>  
+process<in>g.  <an> 80-co<l>umn ibm card <is> divided <in>to two  
+
+
+DocID: CACM-1333
+
+th<is> resu<l>ts <in> truncation error.  much <<of>> th<is>  
+<an>d s<l>ight<l>y <more> f<l>exib<l>e a<l>gorithm <is> presented which  
+as noted <in> a <recent> artic<l>e by wo<l>fe.  a simp<l>er  
+
+
+DocID: CACM-1046
+
+except <in> some very sma<l><l> detai<l>s, <an>d <in> some comments,  
+<in> a number <<of>> artic<l>es pub<l><is>hed dur<in>g the  
+the purpose <<of>> th<is> paper <is> pure<l>y expository.  
+
+
+DocID: CACM-1643
+
+<<of>> the <po<l>ynomia<l>> by the accepted factor.  it <is> shown  
+<an> improvement to iterative methods <<of>> <po<l>ynomia<l>> factorization  
+by divid<in>g <in> order <<of>> both ascend<in>g <an>d descend<in>g  
+
+
+DocID: CACM-2709
+
+<<of>> if-then-e<l>se <an>d whi<l>e-do <is> d<is>cussed. severa<l> <recent>  
+notions <<of>> equiva<l>ence.  <in> conc<l>usion, the impact  
+further that <there> <is> <in>sufficient evidence  
+
+
+DocID: CACM-1852
+
+bootstrapp<in>g, <<of>> processors for programm<in>g <l><an>guages <is>  
+been used as the base <<of>> <an> imp<l>ementation, by  
+m<an>-week without us<in>g the <o<l>d> mach<in>e.  
+
+
+DocID: CACM-3039
+
+on-the-f<l>y garbage co<l><l>ection: <an> exerc<is>e <in> cooperation  
+as <an> examp<l>e <<of>> cooperation between sequentia<l>  
+<l>amport, <l>.  
+
+
+DocID: CACM-1259
+
+are given <in> which the form <<of>> <an> expression <is>  
+form <<of>> expression for either a set <<of>> <l>etters  
+app<l>ications <<of>> b<in>ary numbers <in> computer rout<in>es  
+
+
+DocID: CACM-2450
+
+<in> the <l>iterature dea<l><in>g with resource a<l><l>ocation, <there>  
+<in> the hope that workers <in> the fie<l>d might f<in>d experimenta<l>  
+<is> a dearth <<of>> pub<l><is>hed data on program measurements,  
+
+
+DocID: CACM-3166
+
+<<of>> the a<l>gorithms, one new, one <o<l>d>, are subst<an>tia<l><l>y <more> accurate  
+are <an>a<l>yzed.  two <<of>> the a<l>gorithms are we<l><l>-known <in> the stat<is>tica<l>  
+<<of>> the st<an>dard deviation <<of>>  unweighted  samp<l>ed data  
+
+
+DocID: CACM-1440
+
+<in> a form to faci<l>itate their use <in> ibm system/360 square  
+<<of>> primary <in>terest on ibm system/360.  
+<root> rout<in>es.  these approximations <in>c<l>ude  
+
+
+DocID: CACM-2598
+
+<<of>> search under certa<in> conditions <an>d <in> propos<in>g  
+sav<in>gs <in> execution time.  <there> <is> <an> <an>a<l>ogy  
+with <an> a<l>gorithm proposed <in> a <recent> paper by  
+
+
+DocID: CACM-1932
+
+fit <is> optima<l> for both types <<of>> error.  <more>over, use  
+for the ca<l>cu<l>ation <<of>> the square <root> us<in>g  
+measure <<of>> goodness <<of>> fit, optima<l> resu<l>ts are not  
+
+
+DocID: CACM-1134
+
+<<of>> simp<l>icity the treatment <<of>> subscripts <is> ignored.  
+cases <in> which the assumptions are vio<l>ated <in> the actua<l> mach<in>e.  
+ref<l>ect<in>g the structure <<of>> the mach<in>e, that <is> <more>  
+
+
+DocID: CACM-2307
+
+reorg<an>ization <<of>> the stored <in>formation as a function <<of>>  
+<<of>> dynamic <l>ibrary co<l><l>ections <in> which new items  
+<an>d <<of>> the mech<an>ization <<of>> documentation  
+
+
+DocID: CACM-2660
+
+para<l><l>e<l><is>m, <po<l>ynomia<l>> <root> f<in>d<in>g, rea<l> zeros  
+addendum to m. <l>. patrick paper  
+
+
+DocID: CACM-2423
+
+that syntactic ru<l>e <is> app<l>ied <in> the parse <<of>> a  
+words <<of>> 60-bit core memory <<of>> which 140 words are pars<in>g  
+ pgs  <current<l>y> <in> use on the cdc-6500 computer  
+
+
+DocID: CACM-1346
+
+<<of>> the app<l>icabi<l>ity <<of>> certa<in> extensions <<of>> the  
+sma<l><l> error, much <more> th<an> <in> the <po<l>ynomia<l>> case,  
+on the app<l>ication <<of>> the process <<of>> equa<l>ization  
+
+
+DocID: CACM-2407
+
+<materia<l>> necessary for such programs <is> identified,  
+curricu<l>um <is> proposed for <an> undergraduate program.  
+systems <in> org<an>izations <is> d<is>cussed, <an>d a  
+
+
+DocID: CACM-2254
+
+<is> imp<l>emented <in> a new array <l><an>guage, o<l>/2, <current<l>y>  
+<in>to subarrays <is> extended to a <more> usefu<l>  
+detai<l> to be <<of>> va<l>ue <in> the design <<of>> other array <l><an>guages.  
+
+
+DocID: CACM-1456
+
+storage <an>d retrieva<l> <<of>> aspects <<of>> me<an><in>g <in> directed graph structures  
+examp<l>es <<of>> methods <<of>> <in>putt<in>g <in>formation  
+def<in>itiona<l> <materia<l>>, <an>d references to  
+
+
+DocID: CACM-1726
+
+<materia<l>>, such as technica<l> journa<l>s.  for simp<l>er <materia<l>>,  
+error rates <<of>> the order <<of>> 0.1 percent are obta<in>ed <in>  
+<an>d <in> app<l>ications where the utmost accuracy <is> not necessary,  
+
+
+DocID: CACM-0332
+
+<an> efficient genera<l>ization <<of>> the cha<in><in>g method  
+key tr<an>sformation, <is> reviewed <in> <more> detai<l>.  
+johnson, <l>. r.  
+
+
+DocID: CACM-1644
+
+<<of>> a <l>east squares <po<l>ynomia<l>> makes the  
+the const<an>t term <<of>> the computed <po<l>ynomia<l>> to get  
+<po<l>ynomia<l>> <is> described.  
+
+
+DocID: CACM-1844
+
+<<of>> a b<an>k <<of>> <in>terch<an>geab<l>e computers, each <<of>> which  
+computation requirements <<of>> the particu<l>ar mix <<of>> users.  
+the ratio <<of>> users to computers <is> dependent on both  
+
+
+DocID: CACM-1931
+
+i. determ<in><an>ts <in> a program to test a set <<of>>  
+<in> matrix computations.  <in> the present paper  
+with straightforward use <<of>> i. <in> determ<in><an>t  
+
+
+DocID: CACM-1495
+
+<an> a<l>gorithm <is> deve<l>oped for express<in>g the  
+the <root> y0, <is> known at y=x0.  the a<l>gorithm  
+so<l>ution <<of>> tr<an>scendenta<l> equations by series reversion  
+
+
+DocID: CACM-0319
+
+to the "eu<l>er <po<l>ynomia<l>>" <an>d shows how a number <<of>> known  
+<there> <is> a short d<is>cussion <<of>> the "best" formu<l>a.  
+by rationa<l> approximations <<of>> "eu<l>er's formu<l>a"  
+
+
+DocID: CACM-1014
+
+<<of>> gett<in>g error terms.  it <is> natura<l> <there>fore to <l>ook  
+these <in>teractions it <is> impossib<l>e to ignore them <in>  
+a major prob<l>em <in> us<in>g the <an>a<l>ys<is> <<of>> vari<an>ce,  
+
+
+DocID: CACM-2840
+
+that th<is> prob<l>em <is> decidab<l>e, i.e. <there> <is> <an> a<l>gorithm  
+a mode<l> <<of>> protection mech<an><is>ms <in> comput<in>g  
+a situation <is> safe. various imp<l>ications <<of>> th<is> fact are d<is>cussed.  
+
+
+DocID: CACM-2696
+
+ce<l><l> <<of>> the rect<an>gu<l>ar grid.  emphas<is> <is> <an> avoid<in>g  
+the proposed method <is> <an> extension <<of>> the method <<of>>  
+function <is> a bicubic <po<l>ynomia<l>> <in> each  
+
+
+DocID: CACM-2742
+
+<there> mode<l>s are presented, a<l><l> <<of>> which improve <in> effectiveness  
+reputation <<of>> eat<in>g up hours <<of>> computer time.  th<is>  
+amount <<of>> bookkeep<in>g time <is> required to keep future events  
+
+
+DocID: CACM-3060
+
+m<an>y <<of>> the features <<of>> fortr<an> 77 <an>d a<l>so provides  
+<l><an>guage fortr<an>, x3.9-1978," but it <is> <more> common<l>y  
+<there> <is> a new st<an>dard fortr<an>.  the <<of>>ficia<l>  
+
+
+DocID: CACM-1433
+
+<in> a genera<l> way.  the generat<in>g function <<of>> the probabi<l>ity  
+<is> found.  the number <<of>> repetitions <<of>> a certa<in>  
+tr<an>sfer <<of>> data from tape to core memory <is> considered.  
+
+
+DocID: CACM-2946
+
+<an> a<l>ternative to event queues for synchronization <in> monitors  
+<<of>> th<is> primitive <in> terms <<of>> p <an>d  
+wait, but c<an> be imp<l>emented <more> efficient<l>y.  <an> imp<l>ementation  
+
+
+DocID: CACM-1253
+
+<an> attempt to present its f<l>avor.  a brief description <<of>>  
+<<of>> 20-gate to render th<is> <materia<l>> underst<an>dab<l>e  
+simscript <is> <in>c<l>uded, as <is> a sufficient description  
+
+
+DocID: CACM-2897
+
+adv<an>tage <<of>> <an>y specia<l> cases <is> done by the optimizations.  
+<recent> deve<l>opments <in> optimiz<in>g techniques  
+carter, j. <l>.  
+
+
+DocID: CACM-1550
+
+<in> <l>ess th<an> a specified number <<of>> runs, <there>  
+<in> <an> <in>troductory programm<in>g course <is> presented  
+a study <<of>> the programm<in>g efforts <<of>> students  
+
+
+DocID: CACM-2702
+
+when k <is> expressed <in> unary.  when k <is> expressed <in>  
+<<of>> the test.  <in> the first case, it <is> shown that for  
+<is> considered.  the time comp<l>exity <<of>> th<is> prob<l>em  
+
+
+DocID: CACM-0497
+
+it <is> further shown that <an> equation for u i  <in>vo<l>v<in>g  
+<in> a <recent> paper, be<l><l>m<an> showed how dynamic  
+procedure <is> considered <more> fu<l><l>y, <an>d the simi<l>arities  
+
+
+DocID: CACM-0585
+
+<is> a description <<of>> the evo<l>ution <<of>> the programm<in>g  
+<<of>> a mu<l>tiprogramm<in>g system.  the <materia<l>> that fo<l><l>ows  
+<in> the operation <<of>> its modified sperry-r<an>d univac scientific  
+
+
+DocID: CACM-2999
+
+some <recent> work on the deve<l>opment <<of>> genera<l>-purpose  
+arrays <<of>> data <is> presented. attention <is> first  
+given to some <<of>> the genera<l> prob<l>ems <<of>> mu<l>tidimensiona<l>  
+
+
+DocID: CACM-1031
+
+for a <root> <<of>> <an> equation f x  = 0 by me<an>s <<of>>  
+comput<in>g the <root>s <<of>> a sequence <<of>> re<l>ated equations <is> described.  
+determ<in>ation <<of>> a suitab<l>e <in>itia<l> estimate  
+
+
+DocID: CACM-2919
+
+are considered.  <in> th<is> paper it <is> suggested that  
+basic sections <<of>> the paper <in> troduce the subject,out<l><in>e  
+ivie, e. <l>.  
+
+
+DocID: CACM-0278
+
+<<of>> unbounded primary storage.  mapp<in>gs <<of>> the tota<l>  
+for <an> arbitrary m' program  a sequence <<of>> mapp<in>gs, a decoup<l><in>g  
+a<l><l>ocation <is> considered as a process <<of>> estab<l><is>h<in>g  
+
+
+DocID: CACM-2356
+
+<is> to <in>c<l>ude <in> the specification no <more> <in>formation  
+<is> i<l><l>ustrated by me<an>s <<of>> a variety <<of>> examp<l>es from a tutoria<l> system.  
+parnas, d. <l>.  
+
+
+DocID: CACM-1626
+
+<in> <an> idea<l> <l><is>t-process<in>g system <there> wou<l>d  
+<is> described which <is> good <in> th<is> environment  
+murphy, d. <l>.  
+
+
+DocID: CACM-1754
+
+prob<l>ems <<of>> storage a<l><l>ocation.  a method <<of>> characteriz<in>g  
+systems <is> <in>c<l>uded as <an> appendix.  
+<<of>> the paper <is> to provide a usefu<l> perspective from  
+
+
+DocID: CACM-1488
+
+<is> avai<l>ab<l>e <in> the cobo<l> processor.  it <is>  shown  
+<<of>> conditions are considered.  it <is> shown that  
+<more> th<an> two mutua<l><l>y exc<l>usive states <<of>> one, two or  
+
+
+DocID: CACM-1591
+
+<in>to <an> operat<in>g system <<of>> a <l>arge computer  
+addition, the adv<an>tages <<of>> th<is> type <<of>> system for computer  
+hughes, j. <l>.  
+
+
+DocID: CACM-1049
+
+these fai<l>, the <more> difficu<l>t method <<of>> f<in>ite differences  
+prob<l>ems <is> <<of>>ten <an> extreme<l>y difficu<l>t task.  
+<there> <is> no estab<l><is>hed numerica<l> technique for  
+
+
+DocID: CACM-2921
+
+<an> rrp <l>r m, k  parser c<an> determ<in>e the right end <<of>>  
+<is> no bound on the <l>ength <<of>> the h<an>d<l>e.  
+cf grammars.  a<l>so <in> troduced <is> a c<l>ass <<of>> parsers,  
+
+
+DocID: CACM-1601
+
+<in> a para<l><l>e<l> process<in>g environment.  convergence <is>  
+technique <is> given for the deve<l>opment <<of>> numerica<l>  
+which use the technique <<of>> the procedures <in>  
+
+
+DocID: CACM-1875
+
+or <<of>> fitt<in>g a given set <<of>> data, where  
+the best fit.  the first <is> a modified bernste<in> <po<l>ynomia<l>>  
+<<of>> its derivations <<of>> specified sign over the  
+
+
+DocID: CACM-1615
+
+<an> a<l>gorithm for generat<in>g <root> <l>ocus diagrams  
+draw both ord<in>ary <an>d time-<l>ag <root> <l>ocus diagrams  
+<an>d <more> accurate<l>y th<an> ever before.  time-<l>ag  
+
+
+DocID: CACM-2644
+
+<<of>> th<is> <l><an>guage permits easy extension <<of>> automated  
+<in> automated theorem prov<in>g, <there> <is> a need for deve<l>op<in>g  
+because <<of>> the <l>arge number <<of>> strategies  
+
+
+DocID: CACM-0616
+
+first phase <<of>> the work <<of>> the <l><an>guage structure  
+<an>d c<an> be addressed to <an>y <<of>> the members <<of>>  
+group.  the goa<l> <<of>> th<is> work <is> to arrive at a proper  
+
+
+DocID: CACM-2812
+
+<an>a<l>ys<is> cons<is>ts <<of>> a set <<of>> procedures <an>d computer  
+<an>a<l>ys<is> for the design <an>d deve<l>opment <<of>> <an>  
+<an>a<l>yzer, generator <<of>> a<l>ternative designs,  
+
+
+DocID: CACM-1908
+
+<an> experimenta<l> compar<is>on <<of>> prob<l>em-so<l>v<in>g  
+compar<is>on <<of>> their va<l>ues <in> a prob<l>em -  
+a much higher <l>eve<l> <<of>> perform<an>ce <is> atta<in>ed by  
+
+
+DocID: CACM-2581
+
+<is> <l>oca<l><l>y-org<an>ized <in> the sense that it bui<l>ds <l>oca<l>  
+recognized <an>ywhere <in> <an> <in>put utter<an>ce.  these <l>oca<l>  
+mi<l><l>er, p. <l>.  
+
+
+DocID: CACM-3127
+
+over a <l>arge set <<of>> mach<in>es.  it <is> <current<l>y> runn<in>g on two m<in>icomputers  
+me<l>en, <l>.  
+encourages structur<in>g programs as networks <<of>> communicat<in>g processes  
+
+
+DocID: CACM-1476
+
+<in> summary form.  m<an>y <<of>> the concepts <an>d pr<in>cip<l>es  
+the <o<l>d> <an>d new work <<of>> the task group.  the new work  
+papers <an>d are now embodied <in> work<in>g papers <<of>> that org<an>ization.  
+
+
+DocID: CACM-0276
+
+<is> concerned with the app<l>ication <<of>> computer  
+the <materia<l>> presented <in> th<is> paper <is> part  
+<<of>> the design p<l><an> <<of>> the core a<l><l>ocation portion  
+
+
+DocID: CACM-2893
+
+techno<l>ogy, <in> the <l>eve<l> <<of>> f<in><an>cia<l> support  
+computers as <an> <in>novation <in> americ<an> <l>oca<l> governments  
+<there> <is> subst<an>tia<l> variation among the <l>arger  
+
+
+DocID: CACM-1393
+
+<an> <in>dependent<l>y usefu<l> subsystem.  pm <is> compared with  
+<<of>> <po<l>ynomia<l>>s <in> <an>y number <<of>> variab<l>es,  
+pm <is> <an> ibm 7094 program system for forma<l> m<an>ipu<l>ation  
+
+
+DocID: CACM-2247
+
+<<of>> a system whi<l>e a<l><l>ow<in>g the shorten<in>g <<of>> its deve<l>opment  
+<is> dependent upon the criteria used <in> divid<in>g the  
+<in> most cases.  <an> a<l>ternative approach to imp<l>ementation  
+
+
+DocID: CACM-0718
+
+<an> experiment <in> automatic verification <<of>> programs  
+verification, <an>d what <is> the cost <<of>> th<is>  
+gressett, g. <l>.  
+
+
+DocID: CACM-2526
+
+<an>d it <is> shown that such hierarchies may operate <in>  
+a study <is> presented <<of>> some <<of>> the system  
+imp<l>ications <<of>> memory hierarchies <in> which the  
+
+
+DocID: CACM-2500
+
+portion <<of>> th<is> overhead.  the program, which <is>  
+<current<l>y> runn<in>g as part <<of>> a <l>arge sca<l>e genera<l> purpose  
+wou<l>d permit <more> comprehensive <l>eve<l>s <<of>> dead<l>ock  
+
+
+DocID: CACM-1633
+
+for a<l><l> the <root>s <<of>> the <po<l>ynomia<l>>.  three variations  
+ehr<l>ich, <l>. w.  
+<<of>> the variations are cubica<l><l>y convergent.  
+
+
+DocID: CACM-3114
+
+efficient encod<in>gs <<of>> a fi<l>e <in> the form <<of>>  
+<is> the compar<in>g <<of>> two versions <<of>> a source program  
+<is> easy to imp<l>ement, <an>d <is> computationa<l><l>y efficient,  
+
+
+DocID: CACM-1809
+
+<in> such a broad area center around the question <<of>> background  
+<in> the computer science department shou<l>d emphasize <an>  
+awareness <<of>> the prob<l>ems <<of>> computer imp<l>ementation  
+
+
+DocID: CACM-1806
+
+be <an>a<l>ytica<l>.  <an> <in>troduction to th<is> method <is>  
+convergence toward a <root>, some modifications <<of>>  
+given <an>d a critica<l> review <<of>> re<l>at<in>g <l>iterature <is>  
+
+
+DocID: CACM-2184
+
+it <is> found that a context c<an> be viewed as <an> abstraction  
+it <is> assumed that <there> <is> a simi<l>arity <<of>>  
+<is> some simi<l>arity between the idea <<of>> a fi<l>e directory  
+

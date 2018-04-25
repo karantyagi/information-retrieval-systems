@@ -1,0 +1,710 @@
+LUCENE_NoStopNoStem
+
+Query
+Any information on packet radio networks.  Of particular interest are
+algorithms for packet routing, and for dealing with changes in
+network topography.  I am not interested in the hardware used in the
+network.
+
+Top 100 Results (11 millisecs)
+
+
+DocID: CACM-3032
+
+<<i>n> store-<and>-<<for>>ward <<packet>> sw<i>tch<<i>n>g computer <<<network>>s>.  
+<<for>> <i>ts analys<i>s <<i>n> th<i>s paper, <and> also because  
+nodes <of> a <<network>>.  <algor<i>thms> <<for>> accompl<i>sh<<i>n>g  
+
+
+DocID: CACM-2949
+
+<on> <any> computer <<network>>.  <i>t <i>s based <on> baran's "hot  
+<<<i>n><<for>>mat<i><on>> protocol that was <i>mplemented <on> <<the>>  
+<i>t may <not> <<i>n>volve a central c<on>troller.  <<the>> topology  
+
+
+DocID: CACM-2890
+
+current <rout<<i>n>g> dec<i>s<i><on> <on> <<the>> future state <of>  
+<rout<<i>n>g> <algor<i>thms>, adapt<i>ve <rout<<i>n>g>, quadrat<i>c <rout<<i>n>g>,  
+c<on>d<i>t<i><on>s <<for>> an opt<i>mal <rout<<i>n>g>,  adapt<i>ve <rout<<i>n>g> tends  
+
+
+DocID: CACM-2892
+
+<are> <used> to ant<i>c<i>pate overhead <<i>n> a heav<i>ly loaded <<network>>.  
+<of> each level <are> summar<i>zed.  <<the>>n <<the>> l<<i>n>e eff<i>c<i>ency  
+proposed <<network>> protocol <and> comp<are>d <w<i>th> those <<for>> <<the>> current system.  
+
+
+DocID: CACM-1685
+
+<of> act<i>v<i>ty <<<network>>s> <and> to deal c<on>ven<i>ently <w<i>th> <<network>>  
+<on> act<i>v<i>ty <<<network>>s>  schedul<<i>n>g act<i>v<i>ty <<<network>>s>   
+<<network>> analys<i>s, <<network>> calculat<i><on>, <<network>> progr<am>  
+
+
+DocID: CACM-3158
+
+<<for>> h<i>s own secur<i>ty <and> need <not> rely <on> <<the>> secur<i>ty <of>  
+<w<i>th> <on>e or more central fac<i>l<i>t<i>es <i>s proposed.  <<the>> method employs a  
+a method <<for>> <i>mplement<<i>n>g secure pers<on>al comput<<i>n>g <<i>n> a <<network>>  
+
+
+DocID: CACM-2849
+
+<<for>> error c<on>trolled commun<i>cat<i><on> <are> <<i>n>cluded <<for>> completeness.  
+<on> <<the>> e<<the>>r <i>s d<i>str<i>buted <am><on>g <<the>> rece<i>v<<i>n>g stat<i><on>s  
+<and> <i>mplementat<i><on> <are> descr<i>bed, based <on> exper<i>ence  
+
+
+DocID: CACM-2515
+
+<<i>n> wh<i>ch both <<the>> number <of> nodes <and> <<the>> number <of> arcs  
+<and> g. l. nemhauser  1968  produces event-node <<<network>>s>  
+<<network>> to represent a set <of> precedence  
+
+
+DocID: CACM-2776
+
+c<on>ducted <of> <<the>> latter two nets.  based <on> <<the>>  
+<<i>n>cluded: <<the>> arpa net, <<the>> cal<i><<for>>n<i>a state college <<network>>,  
+exper<i>ences <of> <<the>>se operat<<i>n>g <<<network>>s>, a number <of> factors  
+
+
+DocID: CACM-2046
+
+<of> <changes> <<i>n> query, update, <and> report traff<i>c <and> natural growth <<i>n> <<the>>  
+<and> <<the>> c<on>cept <of> a un<i>versal data sublanguage <are> <<i>n>troduced.  <<i>n>  
+future users <of> large data banks must be protected from hav<<i>n>g to know how <<the>>  
+
+
+DocID: CACM-1928
+
+<of> ser<i>al <and> s<i>multaneous act<i>v<i>t<i>es.  <<the>> passage <of>  
+<<i>n> execut<i><on> t<i>me <and> space, <and> a fac<i>l<i>ty <<for>> h<and>l<<i>n>g  
+<of> <<the>> techn<i>ques descr<i>bed may be <used> <<for>> <<the>> s<i>mulat<i><on>  
+
+
+DocID: CACM-1846
+
+systems <are> assumed to be descr<i>bed as a <<network>>  
+problems.  <<the>> techn<i>que w<i>ll e<i><<the>>r f<<i>n>d a method <of>  
+<<the>> <<<i>n><<for>>mat<i><on>> ava<i>lable to <<the>> solut<i><on> techn<i>que, but  
+
+
+DocID: CACM-0616
+
+<and> can be addressed to <any> <of> <<the>> members <of>  
+<<the>> systems analyst's use.  <<the>>y trust that <<the>> <i>deas  
+language, at <<the>> systems level <of> data process<<i>n>g.  <<the>>  
+
+
+DocID: CACM-0441
+
+<i>s d<i>scussed <<i>n> terms <of> <<the>> 7090.  a pert <<network>> <of>  
+<and> ant<i>c<i>pated needs <are> completely served by <<the>>  
+<<for>> m<any> problems <<i>n>volv<<i>n>g analys<i>s <of> <<<network>>s>.  
+
+
+DocID: CACM-2401
+
+<any> pattern, regardless <of> <<the>> complex<i>ty <of>  
+may be <used> <<for>> count<<i>n>g patterns <on> a matr<i>x, <and>  
+a pattern, <are> rev<i>ewed <and> d<i>scussed.  an analogy <w<i>th> a  
+
+
+DocID: CACM-1989
+
+<<i>n> deta<i>l <and> <i>llustrated by ex<am>ples.  an <i>mplementat<i><on> <of> an  
+advantage <of> semant<i>c <<<i>n><<for>>mat<i><on>> to gu<i>de <<the>> pars<<i>n>g.  <<the>>  
+<<the>> use <of> augmented trans<i>t<i><on> <<network>> gr<am>mars <<for>> <<the>> analys<i>s  
+
+
+DocID: CACM-2969
+
+<of> progr<am> <and> data f<i>les <<i>n> a computer <<network>>  
+<and> a poss<i>ble appl<i>cat<i><on> <of> <<the>> model.  
+opt<i>mal progr<am> <and> data locat<i><on>s <<i>n> computer <<<network>>s>  
+
+
+DocID: CACM-2289
+
+<<i>n> <<the>> effect<i>ve use <of> cellular arrays <<for>> <<the>>  
+<and> <<the>> analys<i>s <of> m<any> types <of> <<<network>>s>.  
+solut<i><on> <of> graph problems <i>s <<the>> determ<<i>n>at<i><on> <of> <algor<i>thms>  
+
+
+DocID: CACM-1695
+
+by <<the>> <<network>>, <and> to store <and> retr<i>eve <<<network>>s>  
+means <<for>> spec<i>f<i>cat<i><on> <and> mod<i>f<i>cat<i><on> <of> a <<network>> <and>  
+<w<i>th> <<the>> user <and> perm<i>ts easy <and> rap<i>d trans<i>t<i><on>s  
+
+
+DocID: CACM-2371
+
+<<the>> hypo<<the>>t<i>cal appl<i>cat<i><on> <of> <<the>> system to an ex<i>st<<i>n>g <<network>> <i>s d<i>scussed.  
+<<i>n> a resource shar<<i>n>g computer <<network>>  
+a system <of> commun<i>cat<i><on> between processes <<i>n> a  
+
+
+DocID: CACM-2951
+
+<<the>> f<i>ve d<i>verse arpa <<network>> systems stud<i>ed <<i>n> deta<i>l,  
+<i>f <<the>> ult<i>mate a<i>m <of> a comput<<i>n>g <<network>>  
+<<network>> t<i>me-shar<<i>n>g systems as <i>t depends <on> some  
+
+
+DocID: CACM-0828
+
+<and> pressures <<i>n> flu<i>d flow <<<network>>s> <i>s presented.  
+a general method <<for>> <<the>> calculat<i><on> <of> flows  
+<<i>n>compress<i>ble flow <<network>> calculat<i><on>s  
+
+
+DocID: CACM-1723
+
+topolog<i>cally orders <<the>> arcs <and> nodes.  <<the>> number <of>  
+<<the>> algor<i>thm creates "dummy" act<i>v<i>t<i>es <and>  
+project <<<network>>s> <are> <used> <<i>n> pert <and> cpm.  
+
+
+DocID: CACM-1611
+
+<of> project <<network>><<i>n>g <are> developed.  <<the>> cr<i>t<i>cal  
+<and> <<network>> analys<i>s features <of> <<the>> algor<i>thm  
+some <of> <<the>> bas<i>c c<on>cepts <and> term<<i>n>ology  
+
+
+DocID: CACM-2274
+
+<<the>> nodes <are> word-sense mean<<i>n>gs <and> <<the>> paths <are>  
+<are> reported.  <<the>> system <i>s progr<am>med <<i>n> l<i>sp  
+by <<the>> system <i>s <<i>n> <<the>> <<for>>m <of> a <<network>> that <i>mposes  
+
+
+DocID: CACM-3040
+
+values <<for>> a set <of> var<i>ables subject to a set <of> c<on>stra<<i>n>ts.  
+des<i>red, <<i>n> order to preprocess <<the>> problem <<for>>  
+a <<the>>ory <of> c<on>s<i>stency levels <<i>n> such  
+
+
+DocID: CACM-2712
+
+<<the>> solut<i><on> <of> separable closed queue<<i>n>g <<<network>>s>  
+horner's rule <<for>> <<the>> evaluat<i><on> <of> general closed queue<<i>n>g <<<network>>s>  
+grows comb<<i>n>ator<i>ally <w<i>th> <<the>> s<i>ze <of> <<the>> <<network>>  
+
+
+DocID: CACM-2197
+
+<and> should <not> be judged as a purveyor <of> raw  
+<not> so much <<the>> computer power del<i>vered to <<the>> schools  
+<of> h<i>gher learn<<i>n>g <i>s through <<the>> c<on>struct<i><on> <of> reg<i><on>al  
+
+
+DocID: CACM-1458
+
+<changes> <<i>n> <<the>> work<<i>n>g c<on>d<i>t<i><on>s <not>ed.  <<the>>se <changes>  
+<changes> <<i>n> <<the>> processes related to produc<<i>n>g <and> check<<i>n>g  
+paper <<the>> <on>l<<i>n>e env<i>r<on>ment <and> <i>ts effect <on>  
+
+
+DocID: CACM-3164
+
+<of> nodes reachable al<on>g paths from <any> g<i>ven node.  
+<<i>n> wh<i>ch <<the>>re <are> c<on>stra<<i>n>ts <on> <<the>> perm<i>ss<i>ble sequences  
+where n <i>s <<the>> number <of> nodes <and> r <i>s <<the>> expected number  
+
+
+DocID: CACM-1728
+
+<<the>> frequency <of> page faults, <i>.e. <<the>> frequency <of> those  
+<of> page replacement <algor<i>thms> <and> <<for>> assess<<i>n>g <<the>>  
+<<the>> data collected from <<the>> <<i>n>terpret<i>ve execut<i><on> <of>  
+
+
+DocID: CACM-2572
+
+<on> man <and> h<i>s world v<i>ew.  current proposals <<for>>  
+<and> decentral<i>zed approach to <<the>> quest<i><on> <of> <<the>>  
+<i>s <not> yet <<i>n> a pos<i>t<i><on> to just<i>fy e<i><<the>>r <<the>> c<on>struct<i><on>  
+
+
+DocID: CACM-2900
+
+<of> f<<i>n>d<<i>n>g <<the>> opt<i>mal set <of> <<network>> s<i>tes at  
+<<the>> f<i>le allocat<i><on> problem-<i>.e. <<the>> problem  
+wh<i>ch to locate cop<i>es <of> a f<i>le-<i>s known to be, <<i>n> general,  
+
+
+DocID: CACM-1181
+
+tracer stud<i>es <and> neurophys<i>ology t<i>me-sequence stud<i>es <of> nerve <i>mpulses.  
+a method has evolved <<for>> transm<i>tt<<i>n>g data <of>  
+no spec<i>al<i>zed equ<i>pment <and> uses <any> ord<<i>n>ary  
+
+
+DocID: CACM-1572
+
+<<the>> s<i>mulat<i><on> <i>s dem<on>strated by a study <of> <<the>>  
+<<i>n> <<the>> analys<i>s <of> per<<for>>mance character<i>st<i>cs.  <<the>>  
+<used> to ass<i>st <<i>n> <<the>> des<i>gn <and> development <of> new t<i>me-shar<<i>n>g  
+
+
+DocID: CACM-2454
+
+<<<network>>s> <w<i>th> exp<on>ent<i>al servers.  express<i><on>s <<for>>  
+<<the>> computat<i><on>al <algor<i>thms> <are> based <on> two-d<i>mens<i><on>al  
+methods <are> presented <<for>> comput<<i>n>g <<the>> equ<i>l<i>br<i>um  
+
+
+DocID: CACM-1906
+
+down <<the>> board.  <<the>> planned <rout<<i>n>g> <i>s <<the>> bas<i>s <<for>>  
+<on> a two-s<i>ded pr<<i>n>ted c<i>rcu<i>t board <w<i>th> a  
+down from <<the>> upper p<<i>n>, through a v<i>a, <and>  
+
+
+DocID: CACM-3059
+
+<are> <<i>n> approx<i>mate cpu:<i>/o ut<i>l<i>zat<i><on> balance <and> <<for>>  
+system <are> developed <<i>n> th<i>s paper.  <<the>> solut<i><on> techn<i>que  
+models <are> <<for>>mulated <<i>n> terms <of> cpu:<i>/o <and> <i>/o:<i>/o overlap  
+
+
+DocID: CACM-2973
+
+n .  <<the>> <algor<i>thms> <of> th<i>s paper <are> shown to be opt<i>mal  
+two <algor<i>thms> <are> presented <<for>> sort<<i>n>g n^2  
+<rout<<i>n>g> <and> compar<i>s<on> steps, perfect shuffle.  
+
+
+DocID: CACM-1165
+
+<<the>> rca 301 emulator system <i>s suppl<i>ed <w<i>th>  
+use <of> both hardw<are> m<i>cro-progr<am> rout<<i>n>es <and>  
+<<the>> spectra 70/45 emulator <<for>> <<the>> rca 301  
+
+
+DocID: CACM-2450
+
+<<the>> des<i>gn <of> schedul<<i>n>g <and> pag<<i>n>g <algor<i>thms>.  although  
+has been proposed <<i>n> recent years as a bas<i>s <<for>>  
+<<i>n> <<the>> hope that workers <<i>n> <<the>> f<i>eld m<i>ght f<<i>n>d exper<i>mental  
+
+
+DocID: CACM-2630
+
+<<i>n> a d<i>rected graph.  <<the>>se <algor<i>thms> general<i>ze <<the>> floyd  
+<<the>> k shortest paths between every pa<i>r <of> vert<i>ces  
+<<the>> shortest path between every pa<i>r <of> vert<i>ces <<i>n> a d<i>rected graph.  
+
+
+DocID: CACM-1890
+
+<of> cars <<i>n> a block <i>s determ<<i>n>ed <on>ly by <<the>> dens<i>ty <of>  
+ex<am>ples <of> wh<i>ch <are> g<i>ven <<for>> an actual <are>a <of> <<the>> c<i>ty <of> kyoto, japan.  
+<of> traff<i>c flows <<i>n> a var<i>ety <of> s<i>tuat<i><on>s, some  
+
+
+DocID: CACM-1844
+
+<<the>> s<i>ze <and> power <of> <<the>> mach<<i>n>es <used> <and> <<the>>  
+be run <on> a ded<i>cated batch system <i>f compat<i>ble computers <are> <used>.  
+<<the>> rat<i>o <of> users to computers <i>s dependent <on> both  
+
+
+DocID: CACM-1601
+
+wh<i>ch use <<the>> techn<i>que <of> <<the>> procedures <<i>n>  
+obta<<i>n>ed <are> super<i>or to st<and>ard <algor<i>thms>.  
+env<i>r<on>ment.  <<i>n> such an env<i>r<on>ment <<the>> procedures  
+
+
+DocID: CACM-1551
+
+<<for>> a h<i>tac-5020 computer hav<<i>n>g n accumulators.  <<the>>  
+<<the>> frequency <of> stor<<i>n>g <and> recover<<i>n>g <<the>> part<i>al results  
+<of> <<the>> ar<i>thmet<i>c express<i><on>s <<i>n> cases where  
+
+
+DocID: CACM-3133
+
+<<the>>orem-prover <w<i>th> a potent<i>ally useful <<i>n>dex<<i>n>g scheme <and> path-follow<<i>n>g  
+<<the>> o<<the>>r h<and>, by regard<<i>n>g semant<i>c <<<network>>s> as an  
+<<i>n>ference rules, <and> a procedural <<i>n>terpretat<i><on>.  <on>  
+
+
+DocID: CACM-3076
+
+<of> deb<i>ts <and> cred<i>ts have begun to be <i>mplemented <on>  
+systems <<for>> electr<on><i>c funds transfer  eft  <are> <not>  
+<<the>> soc<i>al qual<i>t<i>es <of> d<i>fferent eft arrangements <and>  
+
+
+DocID: CACM-1397
+
+str<<i>n>gs, <<i>n> <<the>><i>r appl<i>cat<i><on>s, <and> <<i>n> <algor<i>thms> <<for>>  
+<<the>> acm sympos<i>um <on> symbol<i>c <and> algebra<i>c  
+<<for>> man<i>pulat<i><on> <of> algebra<i>c <<for>>mulas <and> symbol  
+
+
+DocID: CACM-1199
+
+<and> <<the>> appl<i>cat<i><on> <of> <<the>> results <are> d<i>scussed.  
+<w<i>th> th<i>s model, <<the>> results <of> <<the>> exper<i>ments,  
+<on> exper<i>ence; <<i>n> most <<i>n>stances, <<the>> benef<i>ts  
+
+
+DocID: CACM-2916
+
+<<the>> worst case behav<i>or <of> <<the>> algor<i>thm <i>s l<<i>n>ear <<i>n>  
+<<for>> tables l<<i>n>ear <<i>n> patlen plus <<the>> s<i>ze <of> <<the>> alphabet.  
+<<i>n> most cases, <not> all <of> <<the>> f<i>rst <i> characters  
+
+
+DocID: CACM-2833
+
+<algor<i>thms> <are> des<i>gned to work well <<i>n> systems  
+all storage at <<the>> users d<i>scret<i><on> <are> proposed.  <<the>>  
+<any> <<i>n>d<i>cat<i><on> that <part<i>cular> <i>tems <are> no l<on>ger useful  
+
+
+DocID: CACM-2598
+
+<<i>n> <<<i>n><<for>>mat<i><on>> <<the>>ory <of> no<i>seless cod<<i>n>g.  <<the>> results  
+<of> search under certa<<i>n> c<on>d<i>t<i><on>s <and> <<i>n> propos<<i>n>g  
+<<i>n> th<i>s paper per<<for>>m l<i>m<i>ted search <and>, accord<<i>n>gly,  
+
+
+DocID: CACM-1421
+
+<of> <<the>> <changes> made to algol 60, toge<<the>>r <w<i>th> a  
+<of> <i>mprovements based <on> s<i>x years exper<i>ence <w<i>th> that  
+<of> an <<i>n>troduct<i><on> to <<the>> new language <and> a summary  
+
+
+DocID: CACM-2060
+
+<not> perm<i>tted.  <<the>> funct<i><on>al approach to data structures <and> <<the>>  
+structures <are> treated as funct<i><on>s.   4  type declarat<i><on>s <are>  
+<of> var<i>ables.   2  ass<i>gnment <and> <<i>n>d<i>rect address<<i>n>g <are> <<for>>mal<i>zed  
+
+
+DocID: CACM-1516
+
+<on> an <i>tem-by-<i>tem bas<i>s when <i>t <i>s requ<i>red.  <<the>>  
+<and> <i>opak <<for>> fur<<the>>r compress<i><on> <of> <<<i>n><<for>>mat<i><on>> to be stored <on> tape or cards.  
+<<for>> <<the>> automat<i>c compress<i><on> <of> "<any>" <<<i>n><<for>>mat<i><on>>,  
+
+
+DocID: CACM-2625
+
+lack <of> an eff<i>c<i>ent absolute address <<for>> objects <<i>n>  
+systems <on> <<the>> bas<i>s <of> protect<i><on>, s<i>mpl<i>c<i>ty <of>  
+tables <are> ex<am><<i>n>ed.  <<the>> <<i>n>adequac<i>es <of>  
+
+
+DocID: CACM-1034
+
+analys<i>s <and> us<<i>n>g <<the>> results, <and> <<the>> lack <of> a techn<i>que  
+<of> documents <<i>n> <<the>> <<<i>n><<for>>mat<i><on>> <<network>> automat<i>cally.  
+project <<i>n>cept<i><on> <and> system operat<i><on>al date, <<the>> lack  
+
+
+DocID: CACM-0367
+
+a <<network>> <of> d<i>rected l<<i>n>e segments free <of> c<i>rcular  
+topolog<i>cal order<<i>n>g <of> a l<i>st <of>  
+r<and>omly-numbered elements <of> a <<network>>  
+
+
+DocID: CACM-2092
+
+capab<i>l<i>ty <are> presented <and> d<i>scussed.  <i>t <i>s shown that <<the>>  
+deta<i>l.  <<the>> system <i>s wr<i>tten <<i>n> l<i>sp 1.5 <and> operates <on> <<the>> q-32  
+<<<i>n><<for>>mat<i><on>>.  <i>t <i>s c<on>cluded that <<the>> development <of> protosyn<<the>>x  
+
+
+DocID: CACM-2380
+
+<on> dec pdp-10 augmented by spec<i>al pag<<i>n>g hardw<are>  
+<i>t descr<i>bes how <<the>> tenex des<i>gn <and> <i>mplementat<i><on>  
+wh<i>ch <are> <i>mportant <<for>> <any> t<i>me shar<<i>n>g system.  
+
+
+DocID: CACM-1456
+
+<are> <<i>n>adequate veh<i>cles <<for>> language process<<i>n>g <on> <any>  
+assoc<i>ates <w<i>th> each engl<i>sh word <<the>> syntact<i>c <<<i>n><<for>>mat<i><on>>,  
+<and> act<i>ve or pass<i>ve act<i><on>s <are> <used> as def<<i>n><i>t<i><on>al  
+
+
+DocID: CACM-2828
+
+mot<i><on> <and> placement, but also to ass<i>st <<i>n>  
+techn<i>ques <are> poss<i>ble.  f<i>rst, <<the>> range <of> complex<i>ty  
+<<the>> geometr<i>c structure <<i>n>herent <<i>n> <<the>> def<<i>n><i>t<i><on>  
+
+
+DocID: CACM-1770
+
+by <<the>> acm counc<i>l <on> november 11, 1966, <of>  
+<are> c<on>s<i>dered, <and> several sect<i><on>s <of> <<the>> acm gu<i>del<<i>n>es  
+a set <of> gu<i>del<<i>n>es <<for>> pr<of>ess<i><on>al c<on>duct <<i>n> <<<i>n><<for>>mat<i><on>>  
+
+
+DocID: CACM-1752
+
+<are> g<i>ven by trac<<i>n>g <<the>> development <of> <<the>> <algor<i>thms>  
+<<the>> d<i>scuss<i><on> <part<i>cular> emphas<i>s <i>s placed <on> balanc<<i>n>g  
+<<the>> system per<<for>>mance relat<i>ve to <<the>> character<i>st<i>cs  
+
+
+DocID: CACM-1159
+
+<<i>n> <any> spec<i>f<i>c case <are> d<i>scussed, <and> an attempt  
+d<i>scuss<i><on>, <w<i>th> emphas<i>s <on> <i>ts ec<on>om<i>cs. <<the>> c<on>s<i>derat<i><on>s  
+to <<the>>m.  f<<i>n>ally, reas<on>s <are> g<i>ven <<for>> bel<i>ev<<i>n>g that <<the>>  
+
+
+DocID: CACM-1135
+
+<<i>n> <<the>> progr<am>  e.g. mod<i>f<i>cat<i><on> <of> <on>ly <on>e entry <of> <<the>>  
+<of> flowcharts .  here an <<i>n>var<i>ant pattern <of> procedure  
+representat<i><on> <of> process as sets  tables  <of> relat<i><on>s  
+
+
+DocID: CACM-2581
+
+structures <are> <used> as "<i>sl<and>s <of> rel<i>ab<i>l<i>ty"  
+wh<i>ch c<on>ta<<i>n>s <am>b<i>gu<i>ty <and> error. <<the>> system  
+pars<<i>n>g system, des<i>gned <<for>> use <<i>n> a c<on>t<<i>n>uous  
+
+
+DocID: CACM-2887
+
+<<i>n> <<the>> four error categor<i>es <of> prev<i>ous  
+a study <of> errors, error-pr<on>eness, <and> error d<i>agnos<i>s <<i>n> cobol  
+des<i>gn, <and> lack <of> research.  <<the>> types  
+
+
+DocID: CACM-2342
+
+<<the>> correctness <of>   or d<i>scred<i>t  prove <<the>>  
+<<the>> <<for>>mat<i><on> <of> part<i>al rules <and> <<the>> calculat<i><on> <of>  
+subproblems, <<i>n> <<the>> <<for>>m <of> parallel progr<am>s, <and> <<i>n><<for>>mal  
+
+
+DocID: CACM-1856
+
+<are> to be taught to <<the>> progr<am> as <<the>>y <are> needed.  
+<<the>> s<am>e <<for>>mat as that <of> <<the>> memory.  <<i>n> th<i>s  
+<<i>n> <i>ts overall ab<i>l<i>ty to comprehend text.  <<the>>  
+
+
+DocID: CACM-3038
+
+<and> publ<i>c-key encrypt<i><on> <algor<i>thms> <are> c<on>s<i>dered as <<the>> bas<i>s <<for>> protocols.  
+<of> au<<the>>nt<i>cated c<on>nect<i><on>s, <<for>> <<the>> management  
+us<<i>n>g encrypt<i><on> <<for>> au<<the>>nt<i>cat<i><on> <<i>n> large <<<network>>s> <of> computers  
+
+
+DocID: CACM-2968
+
+trees <and> <<the>> overhead spent <on> bu<i>ld<<i>n>g <<the>>m <are>  
+<and> extens<i><on>s , we<i>ght-balance  <i>.e. bb <and> wb ,  
+use <of> <<the>> methods.  <i>f <<i>n>sert<i><on> <and> subsequent  
+
+
+DocID: CACM-2424
+
+<i>f <<the>> faults happen to re<<i>n><<for>>ce each o<<the>>r.  <on> pr<i>me,  
+<<the>> techn<i>que <of> dyn<am><i>c ver<i>f<i>cat<i><on> allows <<the>>  
+<of> operat<<i>n>g system dec<i>s<i><on>s <i>s <used> <on> <<the>> pr<i>me system  
+
+
+DocID: CACM-1889
+
+<<for>> <on>-c<am>pus tra<<i>n><<i>n>g <<for>> <<the>> <<i>n>st<i>tut<i><on>s, <<the>> need  
+<<for>> some spec<i>al progr<am>m<<i>n>g <and> documentat<i><on>  
+developed.  <<the>> exper<i>ence <of> two years <w<i>th> a statew<i>de  
+
+
+DocID: CACM-1612
+
+<of> <<the>> top-to-bottom pars<<i>n>g algor<i>thm as <used> <<i>n>  
+<of> <<the>> product<i><on>s def<<i>n><<i>n>g <<the>> gr<am>mar.  <<the>>  
+essent<i>al weakness <of> <<the>> method <i>s <<i>n> <deal<<i>n>g> <w<i>th> compl<i>cated  
+
+
+DocID: CACM-2988
+
+<<i>n> queue<<i>n>g <<network>> models <of> computer systems.  
+emp<i>r<i>cal analyses <and> analyt<i>c stud<i>es based <on> apply<<i>n>g  
+<of> f<<i>n><i>te memory s<i>ze <and> workload memory requ<i>rements  
+
+
+DocID: CACM-3070
+
+<<the>> result <and> computat<i><on>al costs <of> <<the>> hybr<i>d model <of>  
+to model <<the>> arr<i>val <and> act<i>vat<i><on> <of> jobs, <and> a  
+<of> a hybr<i>d s<i>mulat<i><on> model <<i>n> wh<i>ch both  
+
+
+DocID: CACM-2196
+
+<<the>> human so that <<the>> human can solve <<the>> problem eas<i>ly.  
+problem <<i>n> a brute <<for>>ce way as <<i>n> m<any> <of> today's heur<i>st<i>cs,  
+ab<i>l<i>t<i>es.  <<the>> computer <i>s <not> asked to solve <<the>>  
+
+
+DocID: CACM-1768
+
+<of> <<<i>n>terest> apart from <<the>><i>r appl<i>cat<i><on> <<i>n> th<i>s <part<i>cular> c<on>text.  
+<of> art<i>f<i>c<i>al gr<am>mars <and> <on> a subset <of> algol.  a  
+<and> <i>s recurs<i>ve . a number <of> heur<i>st<i>c procedures  
+
+
+DocID: CACM-3148
+
+<of> <part<i>cular> languages <and> mach<<i>n>es.  <i>t appears to be useful <<for>>  
+<w<i>th> o<<the>>r aspects <of> <<the>> project <are> also d<i>scussed.  
+progr<am> <of> development <<i>n> advanced progr<am>m<<i>n>g languages, <and> relat<i><on>s  
+
+
+DocID: CACM-2786
+
+<and> to use by people  <<for>> ex<am>ple, secretar<i>es <and>  
+<<the>> s<i>ze <and> f<on>t <changes>, pos<i>t<i><on><<i>n>g, l<<i>n>e draw<<i>n>g, <and>  
+<on> e<i><<the>>r a phototypesetter or <on> a term<<i>n>al <w<i>th> <<for>>ward  
+
+
+DocID: CACM-1423
+
+<and> <w<i>th> no add<i>t<i><on>al storage requ<i>rements.  <<the>> algor<i>thm  
+<<the>> loss <of> s<i>gn<i>f<i>cance wh<i>ch results <<i>n> <<for>>m<<i>n>g <<the>> product a'a expl<i>c<i>tly.  
+<<i>n>verse <of> a.  <<i>n> <<the>> sec<on>d case <<the>> algor<i>thm  
+
+
+DocID: CACM-2178
+
+<of> <<the>> def<<i>n><i>t<i><on> <of> a language <<i>n> terms <of> <i>ts semant<i>cs <are> d<i>scussed.  
+<of> <<the>> mean<<i>n>g to be ass<i>gned <<the>>m  <<the>>  
+<of> an expl<i>c<i>t syntax necessary.  an ex<am>ple <of>  
+
+
+DocID: CACM-1665
+
+<of> <<the>> nature <of> <<the>> <i>tems be<<i>n>g evaluated.  <i>f <<the>>  
+<of> events.  th<i>s allows <<the>> system to be <used> <<i>n> a  
+<part<i>cular> character read.  <<the>> system has been <<i>n> operat<i><on>  
+
+
+DocID: CACM-1623
+
+<<the>> use <of> progr<am>m<<i>n>g techn<i>ques <<i>n> <<for>>mac than <w<i>th>  
+<<i>n> a general  ma<<the>>mat<i>cal  sense <and> could be  
+comm<and>.  <<i>n> <part<i>cular>, <i>t made extens<i>ve use <of> <<the>>  
+
+
+DocID: CACM-2033
+
+<are> <<i>n>tended to reduce <<the>> <am>ount <of> space requ<i>red to c<on>ta<<i>n> <<the>> hash-coded  
+<<<i>n><<for>>mat<i><on>> from that assoc<i>ated <w<i>th> c<on>vent<i><on>al methods.  <<the>> reduct<i><on> <<i>n>  
+ space , <<the>> t<i>me requ<i>red to <i>dent<i>fy a message as a n<on>member <of> <<the>>  
+
+
+DocID: CACM-2923
+
+<and> der<i>ves new global <<<i>n><<for>>mat<i><on>> helpful <<i>n> solv<<i>n>g  
+deals <w<i>th> progr<am>s essent<i>ally at source level <and>  
+<<i>n> c<on>trast to <<the>> predom<<i>n>ant use <of> low-level  
+
+
+DocID: CACM-1867
+
+<on>e <i>s <<<i>n>terest>ed <<i>n> <<the>> rat<i>o l j  <of> <<the>>  
+expected length <of> <<the>> j-th sequence generated by <<the>>  
+techn<i>que to <<the>> number <of> memory cells <used>.  
+
+
+DocID: CACM-2967
+
+<w<i>th> <<the>> s<of>tw<are> s<i>mulat<i><on> <i>llustrates <<the>> advantages  
+<and> creates, mod<i>f<i>es, deletes, stores, <and> retr<i>eves  
+<of> <<the>> hardw<are> assoc<i>at<i>ve memory <<i>n> three <are>as:  
+
+
+DocID: CACM-2344
+
+<<the>> s<i>ze <of> <<the>> store, <and> <<the>> speed <of> <<the>> cpu.  a compar<i>s<on>  
+<not> normally under <<the>> c<on>trol <of> <<the>> schedul<<i>n>g  
+<and> wh<i>ch <of> <<the>> par<am>eters <not> normally  
+
+
+DocID: CACM-2198
+
+level <of> user.  <<the>> use <of> cobol as a bas<i>s <<for>>  
+<<the>> art <<i>n> <<the>>se systems <and> d<i>scusses <<the>> d<i>fferences  
+<and> update funct<i><on>s act<<i>n>g <on> <<network>>  
+
+
+DocID: CACM-2902
+
+free space l<i>sts <<for>> each s<i>ze <of> memory block <used>  
+<algor<i>thms>.  s<i>mple <algor<i>thms> operat<<i>n>g <on> memory ordered  
+terms <of> process<<i>n>g t<i>me, memory usage, <and> external memory  
+
+
+DocID: CACM-2894
+
+<of> computer per<<for>>mance, <<i>n>stead <of> <<the>> more  
+been collected <and> analyzed.  a dem<on>strat<i><on> <of>  
+<<the>> nbs <<network>> measurement system <i>s employed  
+
+
+DocID: CACM-1696
+
+codes <are> rev<i>ewed, <and> an updat<<i>n>g procedure <<for>> <deal<<i>n>g>  
+<and> comp<are>d <w<i>th> those <of> a<not>her recently  
+<and> <<i>n> <<the>> c<on>struct<i><on> <of> var<i>able length  
+
+
+DocID: CACM-1206
+
+<of> <<the>> <i>rf.  data compat<i>b<i>l<i>ty tests <w<i>th> <any>  
+<used> to reduce b<i>as <<i>n> <<the>> sjp <are> d<i>scussed.  <<i>n>adequac<i>es  
+<i>tem <of> <<<i>n><<for>>mat<i><on>>, <are> <used> to compute <<the>> max<i>mum  
+
+
+DocID: CACM-2948
+
+<and> <i>ts term<<i>n>als.  <<the>> system c<on>s<i>sts <of> a commun<i>cat<i><on>s  
+<of> term<<i>n>als <of> var<i>ous types.  <<the>> overall system  
+<<the>> term<<i>n>als <are> attached, <and> c<on>nect<<i>n>g med<i>um  
+
+
+DocID: CACM-1769
+
+<<the>> <on>ward sweep <of> automat<i>c process<<i>n>g <of>  
+<<the>> problems be<<i>n>g created by <<the>> populat<i><on>  
+d<i>stance, t<i>me, <and> s<i>ze.  <<the>> ma<<i>n> <<i>n>cent<i>ve <<for>> breach<<i>n>g  
+
+
+DocID: CACM-2402
+
+<and> w<i>ll c<on>t<<i>n>ue to be a f<i>eld <of> <<i>n>tense <<<i>n>terest>.  
+<<the>> correct structure can<not> be computed because <of>  
+<<for>> large structures.  th<i>s <i>s s<i>gn<i>f<i>cant, <<for>> crystallography  
+
+
+DocID: CACM-0531
+
+n<am>e up<on> marr<i>age, <and> o<<the>>r problems.  we <are> <<<i>n>terest>ed  
+<i>s generally <not> preass<i>gned to an <<i>n>d<i>v<i>dual <<for>>  
+purposes <of> report<<i>n>g serv<i>ces rece<i>ved to <<the>> health  
+

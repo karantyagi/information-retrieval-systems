@@ -1,0 +1,605 @@
+LUCENE_NoStopNoStem
+
+Query
+Parallel algorithms
+
+Top 100 Results (13 millisecs)
+
+
+DocID: CACM-2973
+
+<parallel> computer, <parallel> sorting, <parallel> merge,  
+sorting on a mesh-connected <parallel> computer  
+two <algorithms> are presented for sorting n^2  
+
+
+DocID: CACM-3075
+
+<parallel> processing, sorting, <algorithms>, bucket sort  
+fast <parallel> sorting <algorithms>  
+a <parallel> bucket-sort algorithm is presented  
+
+
+DocID: CACM-2266
+
+<parallel> numerical <algorithms>, real polynomials,  
+a highly <parallel> algorithm for approximating  
+is conceptually suitable for <parallel> computation,  
+
+
+DocID: CACM-1601
+
+obtained are superior to standard <algorithms>.  
+measurements are interpreted in a <parallel> processing  
+<parallel> numerical methods for the solution of equations  
+
+
+DocID: CACM-2557
+
+as well as <parallel> computers is discussed.  <algorithms>  
+minimization, <parallel> machine, time minimization  
+
+
+DocID: CACM-1468
+
+on labeling techniques using <parallel> processing  
+and the <parallel> processing simulator mentioned  
+<algorithms> was proposed by the author some years ago.  
+
+
+DocID: CACM-3156
+
+graph theory, <parallel> processing, <algorithms>,  
+computing connected components on <parallel> computers  
+we present a <parallel> algorithm which uses n2 processors to find the connected  
+
+
+DocID: CACM-0950
+
+<parallel> methods for integrating ordinary differential equations  
+<algorithms> ought to be replaced by algorithm which  
+computations of highly <parallel> computers as can be  
+
+
+DocID: CACM-2570
+
+<parallel> processing, precedence graphs, scheduling,  
+different <algorithms> suggested in the literature vary significantly  
+a comparison of list schedules for <parallel> processing systems  
+
+
+DocID: CACM-2433
+
+this storage method and express <parallel> <algorithms> are described.  
+<parallel>ism, array allocation, <parallel> control  
+
+
+DocID: CACM-2289
+
+<parallel> processing, special purpose computers,  
+<algorithms> for distance and spanning tree problems  
+<algorithms> are presented for the solution of certain  
+
+
+DocID: CACM-1957
+
+in <parallel>, rather than evaluating subexpressions and  
+the list set generator is defined and <algorithms>  
+
+
+DocID: CACM-2838
+
+<parallel> processing, real time, data structures, analysis of <algorithms>  
+processor in <parallel> with list processing operations,  
+<algorithms> for recovering discarded list structures in  
+
+
+DocID: CACM-2692
+
+these <algorithms> are able to clip polygons  
+clipping window.  the <algorithms> described achieve  
+a new family of clipping <algorithms> is described.  
+
+
+DocID: CACM-2114
+
+lists, prime keyword, <parallel> processing of lists  
+derived.  two <algorithms> which retrieve records from the generalized file  
+
+
+DocID: CACM-1302
+
+<parallel> signaling speeds for data transmission  
+
+
+DocID: CACM-0392
+
+comment on a paper on <parallel> processing  
+
+
+DocID: CACM-0141
+
+some thoughts on <parallel> processing  
+
+
+DocID: CACM-2685
+
+<parallel> computing, multiprocessor computers,  
+the <parallel> execution of do loops  
+methods are developed for the <parallel> execution  
+
+
+DocID: CACM-2723
+
+semaphores, <parallel> processing, compactification, relocation,  
+<algorithms> for a multiprocessing compactifying  
+
+
+DocID: CACM-2896
+
+with proving such <parallel> programs correct  
+a <parallel> program, dijkstra's on-the-fly garbage  
+an exercise in proving <parallel> programs correct  
+
+
+DocID: CACM-1828
+
+<parallel> accessing, <parallel> search, file search,  
+which will maximize the amount of <parallel>  
+
+
+DocID: CACM-1367
+
+
+
+DocID: CACM-1262
+
+procedure-oriented language statements to facilitate <parallel> processing  
+in <parallel>.  the statements are do together  
+a range of <parallel> operation and partly to  
+
+
+DocID: CACM-2182
+
+interrupts, supervisors, monitors, debugging, <parallel>  
+
+
+DocID: CACM-2700
+
+<parallel> program, semaphore, verification  
+halting.  thus correctness proofs of a <parallel>  
+when proving that a <parallel> program has a  
+
+
+DocID: CACM-1158
+
+program structures for <parallel> processing  
+constructs for organizing and explicating <parallel>  
+
+
+DocID: CACM-2714
+
+<parallel> processing, <parallel> merging, <parallel> binary insertion  
+merging with <parallel> processors  
+the previous best <parallel> merging algorithm,  
+
+
+DocID: CACM-2785
+
+<parallel> computation, <parallel> architecture  
+of the problems associated with <parallel> computer  
+
+
+DocID: CACM-0371
+
+remarks on <algorithms> 2 and 3, algorithm 15 and <algorithms> 25 and 26  
+
+
+DocID: CACM-2952
+
+
+
+DocID: CACM-1795
+
+optimal code for serial and <parallel> computation  
+
+
+DocID: CACM-2895
+
+formal specifications,program correctness, <parallel>  
+of communicating <parallel> processes is described.  
+
+
+DocID: CACM-1811
+
+<parallel>-processor, <parallel>ism, <parallel> programming,  
+
+
+DocID: CACM-1660
+
+index by subject to <algorithms>, 1960-1968  
+
+
+DocID: CACM-1952
+
+index by subject to <algorithms>, 1970  
+
+
+DocID: CACM-2007
+
+<algorithms> policy/revised august 1970  
+
+
+DocID: CACM-2342
+
+operating systems, <parallel> processes  
+interference between communicating <parallel> processes  
+<parallel> processes have been examined by  
+
+
+DocID: CACM-2401
+
+counting binary patterns, shrinking, <parallel>  
+a <parallel> processing algorithm for shrinking  
+window employed  two-by-two elements , the <parallel>  
+
+
+DocID: CACM-3059
+
+multiprogramming, <parallel> processing, queueing  
+models for <parallel> processing within programs:  
+approximate queueing models for internal <parallel>  
+
+
+DocID: CACM-2865
+
+of properties of <parallel> programs is presented.  
+which are added to a <parallel> program as  
+verifying properties of <parallel> programs: an axiomatic approach  
+
+
+DocID: CACM-3073
+
+program structures, <parallel> programming,  
+basic primitives of programming and that <parallel>  
+
+
+DocID: CACM-2080
+
+multiprogramming, operating systems, <parallel> processes, process concept,  
+are handled uniformly as <parallel>, cooperating process  
+
+
+DocID: CACM-1796
+
+index by subject to <algorithms>, 1969  
+index by subject to <algorithms>, 1960 1968  comm.  
+
+
+DocID: CACM-0270
+
+techniques for storage allocation <algorithms>  
+
+
+DocID: CACM-1342
+
+transportation problem  <algorithms> 293 [h]   
+
+
+DocID: CACM-2325
+
+of computation, <algorithms>, continuous <algorithms>  
+complexity , synthesis and analysis of <algorithms>,  
+of continuous <algorithms>.  four of the components  
+
+
+DocID: CACM-2226
+
+the <algorithms> as a suboptimizer is indicated.  
+further evidence for the analysis of <algorithms>  
+operations research, integer programming, zero-one variables, <algorithms>  
+
+
+DocID: CACM-0804
+
+exponentiation of series  <algorithms> 134   
+
+
+DocID: CACM-1569
+
+in a pl/i procedure whose structure and statements <parallel>  
+
+
+DocID: CACM-3044
+
+<parallel> evaluation, suspending cons, lisp, conditional  
+
+
+DocID: CACM-2884
+
+permutations, loop-free <algorithms>  
+classical permutation enumeration <algorithms> encounter  
+permutation enumeration: four new permutation <algorithms>  
+
+
+DocID: CACM-2851
+
+<parallel> program, correctness, verification,  
+formal verification of <parallel> programs  
+two formal models for <parallel> computation  
+
+
+DocID: CACM-2902
+
+<algorithms>.  simple <algorithms> operating on memory ordered  
+fragmentation.  <algorithms> main taining separate  
+well.  <algorithms> employing power-of-two block sizes  
+
+
+DocID: CACM-2950
+
+scheduling <algorithms>, scheduling models, priority,  
+of time-invariant <algorithms>, which include most  
+<algorithms>, the dependence of processing rates  
+
+
+DocID: CACM-3166
+
+four <algorithms> for the numerical computation  
+and computational literature; the other two are new <algorithms>  
+<algorithms> will provide accurate answers for many problems, but two  
+
+
+DocID: CACM-1551
+
+on compiling <algorithms> for arithmetic expressions  
+<algorithms> generate an object code which minimizes  
+this paper deals with <algorithms> concerning arithmetic  
+
+
+DocID: CACM-2830
+
+a practitioner's guide to addressing <algorithms>  corrigendum   
+
+
+DocID: CACM-3061
+
+simulations of dynamic sequential search <algorithms>  
+
+
+DocID: CACM-1953
+
+exponential integral ei x   <algorithms> 385 $s13    
+
+
+DocID: CACM-1374
+
+evaluation  <algorithms> 41[f3]; 269[f3]   
+
+
+DocID: CACM-1851
+
+generator of spanning trees  <algorithms> 354 [h]   
+
+
+DocID: CACM-2725
+
+a comparison of simulation event list <algorithms>  corrigendum   
+
+
+DocID: CACM-2505
+
+and adjacent transposition <algorithms>  
+
+
+DocID: CACM-2417
+
+four combinatorial <algorithms> [g6]  algorithm a466   
+
+
+DocID: CACM-2863
+
+realizable variable space <algorithms>.  
+page replacement <algorithms>, optimal page replacement  
+and the page partitioning replacement <algorithms>  
+
+
+DocID: CACM-1658
+
+programming, zero-one variables, <algorithms>  
+of several existing <algorithms> for the  
+analysis of <algorithms> for the zero-one programming problem  
+
+
+DocID: CACM-2740
+
+structuring, buffering, <parallel> processes, synchronizing  
+semaphores .  the number of <parallel> processes is carefully  
+
+
+DocID: CACM-1380
+
+
+
+DocID: CACM-2727
+
+a method is described which allows <parallel>  
+
+
+DocID: CACM-1008
+
+any meeting with <parallel> sessions.  
+
+
+DocID: CACM-2175
+
+<parallel> processing, cache, arithmetic expressions,  
+<parallel> exceeds the number of available processors,  
+in serials, in <parallel>, or in a combination of these  
+
+
+DocID: CACM-1846
+
+simulation, <parallel> processes, simultaneous events,  
+on simulating networks of <parallel> processes  
+simulating the <parallel> events or report that none  
+
+
+DocID: CACM-2195
+
+global recognition, <parallel> processing, dynamic  
+the method described is suitable for <parallel>  
+state can be computed in <parallel>, and the number  
+
+
+DocID: CACM-1747
+
+<parallel> processing, <parallel> programming,  
+a time-of-day clock,  the synchronization of <parallel>  
+
+
+DocID: CACM-1873
+
+accelerating lp <algorithms>  
+phase of lp <algorithms>.  other lp applications are indicated.  
+
+
+DocID: CACM-1924
+
+matrix <algorithms>, array processing, paging <algorithms>,  
+multiplication, and inversion <algorithms> shows  
+carefully designed matrix <algorithms> can lead to  
+
+
+DocID: CACM-2283
+
+thinning <algorithms>, rectangular, hexagonal,  
+and the relative performances of the <algorithms>  
+in this report three thinning <algorithms> are  
+
+
+DocID: CACM-2903
+
+recursion elimination, pattern matching <algorithms>,  
+by using recursion in troduction, <algorithms>  
+recursive <algorithms> in which no stack operations  
+
+
+DocID: CACM-3006
+
+fault frequency, paging <algorithms>  
+<algorithms>, virtual memory, working set, page  
+anomalies with variable partition paging <algorithms>  
+
+
+DocID: CACM-2273
+
+two <algorithms> for generating computer programs  
+from decision tables are described.  the <algorithms>  
+entry tables.  the <algorithms> are based on the  
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion <algorithms>,  
+new dispersion <algorithms> with more straightforward  
+various dispersion <algorithms> for the polyphase  
+
+
+DocID: CACM-1392
+
+of mathematical expression manipulation <algorithms>  
+formac expand and differentiation <algorithms>, a  
+in the design of <algorithms> for manipulating  
+
+
+DocID: CACM-2679
+
+claims.  of all these <algorithms>, quickersort requires  
+for six acm <algorithms>: quicksort  no. 64 ,  
+402 .  <algorithms> 271 and 402 are refinements of algorithm  
+
+
+DocID: CACM-2490
+
+graphs,analysis of <algorithms>, graph manipulation  
+efficient <algorithms> are presented for partitioning  
+efficient <algorithms> for graph manipulation [h]  algorithm a447   
+
+
+DocID: CACM-2514
+
+<parallel> .  examples are given involving array languages  
+
+
+DocID: CACM-1200
+
+operations, a <parallel> nomenclature is suggested  
+
+
+DocID: CACM-1471
+
+systems.  these meta-instructions relate to <parallel>  
+
+
+DocID: CACM-3175
+
+letters.  these probabilities are updated in <parallel> for all  
+
+
+DocID: CACM-1554
+
+movies of the three-dimensional <parallel> and perspective  
+
+
+DocID: CACM-1536
+
+<parallel>, as in wengert's procedure, but with the  
+
+
+DocID: CACM-1960
+
+include the ability given to any user to schedule his own <parallel>  
+
+
+DocID: CACM-1341
+
+with regard to such trends as time sharing, <parallel>  
+
+
+DocID: CACM-1603
+
+<parallel> processing capability.  user programs communicate  
+
+
+DocID: CACM-2426
+
+<algorithms> scale1, scale2, and scale3 for determination  
+
+
+DocID: CACM-2627
+
+<algorithms>, deterministic scheduling models  
+time, sequencing <algorithms>, optimal scheduling  
+which extend and generalize the <algorithms> known for  
+
+
+DocID: CACM-2236
+
+p.  <algorithms> r352, r385, r392   
+
+
+DocID: CACM-2942
+
+pattern implementation, <algorithms> in pascal  
+
+
+DocID: CACM-2647
+
+more on <algorithms> that reveal properties  
+
+
+DocID: CACM-2362
+
+matrix <algorithms>, linear equations, fortran,  
+

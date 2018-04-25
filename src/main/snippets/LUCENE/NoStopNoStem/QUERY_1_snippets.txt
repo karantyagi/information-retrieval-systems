@@ -1,0 +1,707 @@
+LUCENE_NoStopNoStem
+
+Query
+What articles exist which deal with TSS (Time Sharing System), an
+operating system for IBM computers?
+
+Top 100 Results (374 millisecs)
+
+
+DocID: CACM-1657
+
+sub<operating> <<system>>.  <an> improved version of the  
+system  
+<operating> <<system>>, memory protection, <time>-<sharing>,  
+
+
+DocID: CACM-1410
+
+interarrival statistics <for> <time> <sharing> <<system>>s  
+exponential distribution <for> interarrival <time>.  a much  
+<time>-<sharing> <<system>>  <tss> .  the input process  
+
+
+DocID: CACM-2319
+
+<with> respect to <operating> <<system>> per<for>m<an>ce  
+computer <<system>>, <operating> <<system>>, per<for>m<an>ce  
+of <an> <operating> <<system>>, <an> overall model of the total  
+
+
+DocID: CACM-1938
+
+of the <<system>> while <sharing> its <time> <with> other  
+some criteria <for> <time>-<sharing> <<system>> per<for>m<an>ce  
+qu<an>titative <time>-<sharing> <<system>> per<for>m<an>ce  
+
+
+DocID: CACM-1827
+
+to <<system>> actions are recorded <with> a supervisor call.  
+in the michig<an> terminal <<system>>  mts  <for> the  
+magnetic tape by <an> auxiliary program <for> off-line processing.  
+
+
+DocID: CACM-2218
+
+<<system>>.  inasmuch as the b6500 <<system>> is  
+<an> early framework <for> a pl<an>ned burroughs b6500 <time>-<sharing>  
+b6500, bulk core usage, <operating> <<system>> model, relocation,  
+
+
+DocID: CACM-2054
+
+<an> on-line digital computer processing <<system>> is considered in <which> <an>  
+<an> on-line computer processing <<system>>  
+least 40 users at a <time> <with> <an> <ibm> 360/65 computer.  
+
+
+DocID: CACM-1844
+
+computing <<system>> is presented.  the <<system>> org<an>ization described  
+of a b<an>k of interch<an>geable <computers>, each of <which>  
+be run on a dedicated batch <<system>> if compatible <computers> are used.  
+
+
+DocID: CACM-2629
+
+<operating> <<system>>s, including:  1  a hierarchical file <<system>>  
+<time>-<sharing>, <operating> <<system>>, file <<system>>, comm<an>d l<an>guage, pdp-11  
+<operating> <<system>> <for> the digital equipment  
+
+
+DocID: CACM-1605
+
+<an> experimental comparison of <time> <sharing> <an>d batch processing  
+was compared <with> that of the <ibm> ibsys batch-processing  
+<with> implications <for> further experimentation.  
+
+
+DocID: CACM-2357
+
+m<an>-year <for> design <an>d checkout, <an>d $16,000 <for> parts  
+the <<system>>, <which> required one m<an>-year <for> initial  
+<an> on-line <<system>> <operating> as part of a normal  
+
+
+DocID: CACM-1591
+
+a model <for> a multifunctional teaching <<system>>  
+written to run under the <operating> <<system>>  ibsys  <for>  
+interleaved <with> programming problems <which> the student  
+
+
+DocID: CACM-1161
+
+edp into the mass market <for> the first <time> on a large  
+of <which> <ibm> 1400 series was a part, brought  
+the "second generation" of stored-program <computers>,  
+
+
+DocID: CACM-1033
+
+of the <<system>> is <with> <an> interpretive tr<an>slator on <an> <ibm> 1620 computer.  
+on oper<an>ds <which> c<an> be entire arrays.  the <<system>> also  
+a <<system>> designed <for> intimate m<an>-machine  
+
+
+DocID: CACM-2378
+
+<an> <operating> <<system>> <which> is org<an>ized as a  
+<an> <operating> <<system>> based on the concept of a supervisory computer  
+<operating> <<system>>s, supervisors, multiprogramming,  
+
+
+DocID: CACM-2379
+
+described, <with> particular emphasis on the principles <which> guided the design.  
+the venus <operating> <<system>> is <an> experimental  
+<operating> <<system>>s, <<system>> design, levels of abstraction,  
+
+
+DocID: CACM-1749
+
+<operating> <<system>>, multiprogramming <<system>>, <<system>>  
+buffering, multiprogramming, processor <sharing>, multiprocessing  
+hierarchy, <<system>> structure, real-<time> debugging,  
+
+
+DocID: CACM-2535
+
+concluded that while, <for> certain values of <<system>>  
+<<system>> being <an> m/d/1 queue  the multiplexor  in t<an>dem  
+scheduling algorithms, <operating> <<system>>s  
+
+
+DocID: CACM-1698
+
+input?  <what> is the maximum rate at <which> a process c<an>  
+a statistical model <for> console behavior in multiuser <computers>  
+statistical models <for> input-output, <operating>  
+
+
+DocID: CACM-1487
+
+<time>-<sharing> <<system>> at mit <which> makes certain  
+problems <with> <which> eliza is concerned are:  1 the  
+eliza-a computer program <for> the study ofnatural  
+
+
+DocID: CACM-2371
+
+a <<system>> <for> interprocess communication  
+the hypothetical application of the <<system>> to <an> <exist>ing network is discussed.  
+computer networks, resource <sharing>  
+
+
+DocID: CACM-2541
+
+<an> overview of the ispl computer <<system>> design  
+design of this <<system>>  <which> has not been implemented .  
+design of the l<an>guage, <operating> <<system>>,  
+
+
+DocID: CACM-2947
+
+sitar: <an> interactive text processing <<system>> <for> small <computers>  
+<an>d text <an>alysis <<system>> <for> nontechnical users,  
+crts,<time> <sharing>, bibliographic search <an>d  
+
+
+DocID: CACM-2950
+
+criterion <for> the implementation efficiency of <an>  
+<operating> <<system>>s,processor <sharing>, implementation  
+of a scheduling <<system>> <which> <for>malizes the notion of  
+
+
+DocID: CACM-1506
+
+<for> resource allocation were import<an>t.  <for> this  
+the laconiq monitor: <time> <sharing> <for> online dialogues  
+computer  <an> <ibm> <<system>> 360/30 .  there<for>e techniques  
+
+
+DocID: CACM-1519
+
+<an> <operating> <<system>> is described <which> will  
+george 3-a general purpose <time> <sharing> <an>d <operating> <<system>>  
+depending on the installation, <which> c<an> adjust  
+
+
+DocID: CACM-2151
+
+virtual <computers>, per<for>m<an>ce improvement  
+<operating> <<system>>s, multiprogramming <<system>>s, <time>-<sharing>  
+of such a <<system>> <an>d the characteristics of  
+
+
+DocID: CACM-2501
+
+wylbur: <an> interactive text editing <an>d remote job entry <<system>>  
+<time>-<sharing> <<system>> <which> operates in conjunction <with> wylbur, is also included.  
+wylbur is a comprehensive <<system>> <for> m<an>ipulating  
+
+
+DocID: CACM-2424
+
+of <operating> <<system>> decisions is used on the prime <<system>>  
+construction of <an> <operating> <<system>> <which> does not make certain  
+dynamic verification of <operating> <<system>> decisions  
+
+
+DocID: CACM-1572
+
+<ibm> 360/67 <time>-<sharing> <<system>>.  
+the simulation of <time> <sharing> <<system>>s  
+to develop <an> appropriate hardware configuration  
+
+
+DocID: CACM-2946
+
+<an> alternative to event queues <for> synchronization in monitors  
+monitor, <operating> <<system>>, mutual exclusion, synchronization,  
+streams <sharing> a finite buffer pool.  
+
+
+DocID: CACM-1908
+
+<<system>>.  
+two such <<system>>s <for> <what> may well be the predomin<an>t user  
+<an> experimental comparison of problem-solving  
+
+
+DocID: CACM-2632
+
+basis <for> extension of the <<system>> in two directions: the  
+hydra-the kernel of <an> <operating> <<system>> <for> c.mmp,  
+<for> <deal>ing <with> objects, including the creation of new  
+
+
+DocID: CACM-2219
+
+a policy-driven scheduler <for> a <time>-<sharing> <<system>>  
+scheduler, <time>-<sharing>, <operating> <<system>>,  
+<operating> <<system>> c<an> be characterized  
+
+
+DocID: CACM-2344
+
+<with> a finite noncontiguous store <an>d <an> infinite  
+a measure of <<system>> per<for>m<an>ce is used to ascertain <which>  
+effect on <<system>> per<for>m<an>ce.  <<system>> per<for>m<an>ce  
+
+
+DocID: CACM-1805
+
+per<for>m<an>ce, <time> <sharing>, <time> slicing  
+at <an> effective rate, <which> may be a fraction of  
+monitor, <operating> <<system>>, <<system>> software, supervisors,  
+
+
+DocID: CACM-0637
+
+generated <with> 7090 neliac <<system>>.  the reduction  
+completed in may, 1961 in <which> the neliac <<system>>  
+was used to generate a compiler <for> the <ibm> 1401.  the  
+
+
+DocID: CACM-1225
+
+<<system>> are discussed in comparison to those of <an> immediate  
+path elimination <for> a predictive <an>alyzer, <which> c<an>  
+<an>alyzer, a <<system>> of syntactic <an>alysis  
+
+
+DocID: CACM-1544
+
+<<system>>.  a signific<an>t element of the <<system>> is  
+tele-cupl: a telephone <time> <sharing> <<system>>  
+to the telephone terminals, but the <<system>>  
+
+
+DocID: CACM-1408
+
+<deal> <with> this, a st<an>dard of efficiency is developed  
+is introduced <which> enormously increases the rate of  
+the prime function of a drum, <operating> in  
+
+
+DocID: CACM-1523
+
+<time> was approximately six m<an>-years, <with> the  
+sharer, a <time> <sharing> <<system>> <for> the cdc 6600  
+it uses a simple scheme <for> <<system>> extension <for>  
+
+
+DocID: CACM-1391
+
+a medium-scale programming <<system>> is written  
+in a <time>-<sharing> environment, the <<system>> c<an>  
+or engineer wishing to familiarize himself <with> the subset.  
+
+
+DocID: CACM-1752
+
+resource m<an>agement <for> a medium scale <time>-<sharing> <operating> <<system>>  
+task scheduling, paging, <<system>> simulation,  
+<time>-<sharing>, <operating> <<system>>s, resource m<an>agement,  
+
+
+DocID: CACM-2003
+
+of the software <<system>>; its design criteria provide the user <with>  
+<an> interactive software <<system>> <for> <computers>-aided  
+l<an>guages, <operating> at different levels, on <which> the interaction  
+
+
+DocID: CACM-1647
+
+<which> has been implemented <with>in the <ibm> 7040/44  
+in particular the <ibm> 7040/44 <for>tr<an> iv <<system>>.  
+<operating> <<system>>.  <for>tr<an> iv was selected as the source  
+
+
+DocID: CACM-2380
+
+<which> are import<an>t <for> <an>y <time> <sharing> <<system>>.  
+tenex, a paged <time> <sharing> <<system>> <for> the pdp-10  
+tenex is a new <time> <sharing> <<system>> implemented  
+
+
+DocID: CACM-0585
+
+initial experience <with> <an> <operating> multiprogramming <<system>>  
+to the automatic <time> <sharing> of independently coded  
+<an>d hardware <<system>> <which> has developed into the present  
+
+
+DocID: CACM-1071
+
+<for> computer usage. since <time>-<sharing> <<system>> users  
+cost factors <which> should be considered <for> computer usage  
+computer-usage accounting <for> generalized <time>-<sharing> <<system>>s  
+
+
+DocID: CACM-1226
+
+of file org<an>izations he must consider <for> his <<system>>.  
+of <an> org<an>ization <for> the data <with>in the file c<an>  
+this paper provides the <<system>>s designer <with> <an> in<for>mation  
+
+
+DocID: CACM-2764
+
+based on <what> we call "sem<an>tic density."  the <<system>>  
+program <for> natural l<an>guage, <which> h<an>dles  
+<an> intelligent <an>alyzer <an>d underst<an>der of english  
+
+
+DocID: CACM-1393
+
+<an> independently useful sub<<system>>.  pm is compared <with>  
+<<system>>, <which> is described <an>d compared <with>  
+pm is <an> <ibm> 7094 program <<system>> <for> <for>mal m<an>ipulation  
+
+
+DocID: CACM-2948
+
+<<system>>, a number of small remote <computers> to <which>  
+this paper describes a <<system>> <for> full-duplex  
+a terminal-oriented communication <<system>>  
+
+
+DocID: CACM-1680
+
+iv  g  <for> the <ibm> <<system>>/360, model 40, <an>d the <ibm> 2250  
+<<system>> is described.  this <<system>> was designed  
+programs  of the <operating> <<system>>.  l<an>guage processors  
+
+
+DocID: CACM-0698
+
+<an> <operating> <<system>> is described <which> allows  
+data-dial: two-way communication <with>  
+<computers> from ordinary dial telephones  
+
+
+DocID: CACM-1685
+
+of activity networks <an>d to <deal> conveniently <with> network  
+g<an>, a <<system>> <for> generating activity networks,  
+g<an>, a <<system>> <for> generating <an>d <an>alyzing activity networks  
+
+
+DocID: CACM-1462
+
+the basic software <for> all newer <computers>  
+multilevel <operating> <<system>>s  
+<<system>>.  large applications require supervisory  
+
+
+DocID: CACM-1854
+
+<which> is available in most modern <computers> is  
+<which> are prime examples of programs <with> concurrent  
+a basis <for> the construction of <operating> <<system>>s,  
+
+
+DocID: CACM-1464
+
+in relation to <an> elaborate <operating> <<system>>  
+<time>, the total <time> is satisfactory <an>d the  
+into the ibsys <operating> <<system>>.  assembly  
+
+
+DocID: CACM-2500
+
+<with> regard to <time> <an>d space in multiprogramming  
+<operating> <<system>>, keeps resources relatively  
+tasks <an>d resources <with> conflicting requirements.  
+
+
+DocID: CACM-2920
+
+<<system>>, etc., of the "safe situations" <which>  
+<operating> <<system>>, multiprogramming, <time>-<sharing>,  
+as a game between the <operating> <<system>> <an>d the processes  
+
+
+DocID: CACM-1750
+
+<operating> <<system>>s, control data corporation 6600, <operating> <<system>> <with> ecs  
+computer <<system>> <with> extended core storage  
+multiprogrammed <operating> <<system>>s, multiprocessor  
+
+
+DocID: CACM-3068
+
+a model <for> verification of data security in <operating> <<system>>s  
+m<an>y of those properties of <an> <operating> <<system>> <which>  
+ucla secure <operating> <<system>> is also discussed.  
+
+
+DocID: CACM-3127
+
+<with> quite different architectures.  both the <<system>> <an>d application  
+thoth isa real-<time> <operating> <<system>> <which> is designed to be portable  
+thoth, a portable real-<time> <operating> <<system>>  
+
+
+DocID: CACM-1264
+
+processing <time> is at a minimum.  this <<system>> will  
+blnsys is <an> <operating> <<system>> designed <for>  
+a program submitted <for> execution as <an> uncondensed  
+
+
+DocID: CACM-3023
+
+<with> the original objectives <for> <<system>>/360  
+machines <which> implement the architecture.  
+architecture of the <ibm> <<system>>/370  
+
+
+DocID: CACM-2522
+
+the <<system>> resources to the processes competing <for> them.  
+<operating> <<system>>s, supervisory <<system>>s  
+on methods of controlling a computer <<system>>.  
+
+
+DocID: CACM-1315
+
+<<system>> in j<an>uary, 1963.  the program <for> purchased  
+<<system>> of radioisotope accountability <for> three years.  the  
+radioisotopes is written in <for>mat <for>tr<an> <for> the <ibm>  
+
+
+DocID: CACM-1747
+
+<<system>>s, multiprogrammed <<system>> design, virtual <computers>,  
+input equipment design, <operating> <<system>>s, <operating>  
+deterministic <computers>, protection, memory protection,  
+
+
+DocID: CACM-3025
+
+computer structures, architecture, <operating> <<system>>, <time><sharing>  
+evolution of the hardware, <operating> <<system>>, <an>d l<an>guages  
+<sharing> computing <<system>>s; tr<an>sferring hardware  
+
+
+DocID: CACM-2365
+
+under <an> <operating> <<system>> <which> uses paging.  
+matrix computations <with> <for>tr<an> <an>d paging  
+<for> matrix computations c<an> often be improved  
+
+
+DocID: CACM-2439
+
+<<system>> c<an> communicate <with> m<an>y remote  
+in <an>y l<an>guage available on the <<system>>.  this  
+the <<system>> executive or in <an>y of the <<system>>'s compilers or interpreters.  
+
+
+DocID: CACM-2317
+
+increased use of microprogramming <for> some programming <<system>> functions.  
+of <operating> <<system>> principles.  import<an>t trends  
+in the <operating> <<system>> area all major computer  
+
+
+DocID: CACM-2838
+
+<an>alysis of <an> algorithm <for> real <time> garbage collection  
+a real <time> garbage collection <<system>> avoids  
+suitable <for> measuring the typical behavior of  
+
+
+DocID: CACM-1440
+
+starting approximations <for> square root calculation on <ibm> <<system>>/360  
+several <for> the r<an>ge [1/16, 1], <which> is the interval  
+several starting approximations <for> square  
+
+
+DocID: CACM-1542
+
+<an> experimental processing <<system>> <for> the algorithmic  
+microprogramming on <an> <ibm> <<system>>/360 model 30 using a  
+interpretive l<an>guage <which> c<an> be executed  
+
+
+DocID: CACM-3011
+
+<computers>, county government <computers>, computer impacts, m<an>agement computing  
+computer utilization, m<an>agement in<for>mation <<system>>,  
+governments.  <what> <exist>s is m<an>agement-oriented  
+
+
+DocID: CACM-2358
+
+as experience <with> use of on-line <operating>  
+<sharing>.  usually, <sharing> is accomplished by allowing  
+<operating> <<system>>, multics, virtual memory, segmentation,  
+
+
+DocID: CACM-2917
+
+<<system>> <for> small <computers>  corrigendum   
+sitar: <an> interactive text processing  
+
+
+DocID: CACM-2201
+
+<an>imator: <an> on-line two-dimensional film <an>imation <<system>>  
+<an>imator is a computer <an>imation <<system>> <which>  
+techniqueshe dec-338 serves as <an> input  
+
+
+DocID: CACM-1590
+
+converter attached to <an> interconnected <ibm> 7090-pdp-1  
+a computer procedure <which> determines pitch  
+<an> error detection <an>d correction procedurebout  
+
+
+DocID: CACM-2841
+
+<an> experimental <<system>> <for> computer-aided  
+of a practical 3-d <<system>> <for> designing space-<for>ms.  
+interactions <with> the surfaces are in real-<time>,  
+
+
+DocID: CACM-2740
+
+<operating> <<system>> structure, asynchronous  
+co<operating> processes, <operating> <<system>>, semaphores,  
+a large semaphore based <operating> <<system>>  
+
+
+DocID: CACM-2080
+
+that c<an> be extended <with> a hierarchy of <operating> <<system>>s to suit diverse  
+nucleus simulates <an> environment in <which> program execution <an>d input/output  
+the nucleus of a multiprogramming <<system>>  
+
+
+DocID: CACM-1046
+
+a very interesting programming <<system>> that they  
+in a number of <articles> published during the  
+a compiler-building <<system>> developed by brooker <an>d morris  
+
+
+DocID: CACM-3069
+
+about <which> variables may be modified, <which>  
+programs <an>d to <deal> <with> the <sharing> of variables  
+compute calling relationships or <sharing> patterns.  
+
+
+DocID: CACM-3174
+
+<operating> <<system>>s, passwords, computer security  
+security scheme on a remotely accessed <time>-<sharing> <<system>>.  
+to penetrate the <<system>>.  the result is a compromise between  
+
+
+DocID: CACM-0971
+
+programs, all competing <for> machine <time>.  to satisfy  
+<time> <sharing> in a traffic control program  
+the toronto traffic signal control <<system>> consists  
+
+
+DocID: CACM-2092
+
+iii into a practically useful <<system>> to work <with> large data  
+a deductive question-<an>swer <for> natural l<an>guage inference  
+structures <an>d the algorithms used <for> question <an>swering.  
+
+
+DocID: CACM-2681
+
+<an> expression is derived <for> the maximum  
+resource utilization, <<system>> throughput  
+fragmentation, multiprogramming <<system>> model,  
+
+
+DocID: CACM-1885
+
+<which> consider some particular aspect of the <<system>> in detail.  
+<ibm> 360/67 computer.  the <<system>> <deal>s <with> the tr<an>s<for>mational  
+<which> the algorithm <for> application of tr<an>s<for>mations  
+
+
+DocID: CACM-1828
+
+file <<system>>.  methods <for> synchronization of  
+by more th<an> one process, <what> are the rules <for> synchronization  
+a data base is a hierarchy of directories <for> <an> on-line  
+
+
+DocID: CACM-1626
+
+<with> a surprisingly low <time> penalty <for> use  
+<<system>> utilizing a drum <for> its principal storage medium,  
+in <an> i<deal> list-processing <<system>> there would  
+
+
+DocID: CACM-1892
+
+strategies, <operating> <<system>>s, memory m<an>agement  
+<<system>> design <an>d programming are discussed,  
+property of page-dem<an>d statistics <which> implies  
+
+
+DocID: CACM-1753
+
+of the multics <operating> <<system>> are introduced.  
+data <sharing>, dynamic linking, segmentation,  
+virtual memory, in<for>mation <sharing>, shared procedures,  
+
+
+DocID: CACM-2390
+
+between commentators <an>d <with> the author.  
+interactive <<system>>, org<an>ization of scientific community,  
+me<an>s are also provided <for> the contribution  
+
+
+DocID: CACM-1179
+
+<for> use at compile <time> <an>d at execute <time>, <an>d a rather  
+subroutine library, <an> input--output <<system>>  
+<for> the <ibm> 7090/7094 computer is described.  
+
+
+DocID: CACM-1173
+
+execution <time>.  the logic of this <<system>> is  
+<<system>> <for> h<an>dling the tr<an>sfers of program  
+the per<for>m<an>ce of a <<system>> <for> automatic segmentation  
+
+
+DocID: CACM-2560
+
+<<system>> <with> a two-level storage <<system>> in <which> there  
+computer <with> a two-level storage <<system>>  
+multiprogrammed computer <<system>>, storage <<system>>, hierarchical index sets  
+
+
+DocID: CACM-1960
+
+process m<an>agement <an>d resource <sharing> in the multiaccess <<system>> esope  
+<an>d the allocation-scheduling policy, <which> dynamically  
+processes using <<system>> primitive operations, the file-memory relationship,  
+
+
+DocID: CACM-3065
+
+brother trees <which> have <an> insertion algorithm <operating>  
+<an>d deletion c<an> be  carried out in o  log n  <time> <for>  
+insertion <an>d deletion are provided <for> the  
+

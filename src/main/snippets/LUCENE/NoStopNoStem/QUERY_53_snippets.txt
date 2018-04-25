@@ -1,0 +1,658 @@
+LUCENE_NoStopNoStem
+
+Query
+mathematical induction, group theory, integers modulo m,
+probability, binomial coefficients, binomial theorem, homomorphism,
+morphism, transitivity, relations, relation matrix.
+
+     Syracuse University, 313 Link Hall, Syracuse, N. 13210
+
+Top 100 Results (4 millisecs)
+
+
+DocID: CACM-0569
+
+bi<n>o<m>ial <coefficie<n>ts>  algorith<m> 19   
+
+
+DocID: CACM-0139
+
+bi<n>o<m>ial <coefficie<n>ts>  algorith<m> 19   
+
+
+DocID: CACM-0514
+
+bi<n>o<m>ial <coefficie<n>ts>  algorith<m> 19   
+
+
+DocID: CACM-1186
+
+of <n> ele<m>e<n>ts fro<m> a set of <m> ele<m>e<n>ts <m>ay be  
+co<m>puti<n>g bi<n>o<m>ial <coefficie<n>ts>.  several specific  
+
+
+DocID: CACM-2210
+
+progra<m> sy<n>thesis, <<m>athe<m>atical> <i<n>ductio<n>>  
+recursio<n>, the pri<n>ciple of <<m>athe<m>atical> <i<n>ductio<n>>  
+pri<n>ciple, proble<m> solvi<n>g, theore<m> provi<n>g  
+
+
+DocID: CACM-2986
+
+fu<n>ctio<n>s i<n> o <n>  steps, where <n> is the size of  
+operatio<n>s o<n> sparse <<relatio<n>>s>  
+gra<m><m>ar, t-ca<n>o<n>ical precede<n>ce <relatio<n>>  
+
+
+DocID: CACM-2391
+
+sy<n>thetic divisio<n>, bi<n>o<m>ial <coefficie<n>ts>  
+
+
+DocID: CACM-2031
+
+of storage locatio<n>s are li<n>ear i<n> <n>.  a theore<m> of la<m>e that gives a bou<n>d  
+a<n>d <m>ultipliers x i  such that gcd = x 1 a 1  + ... + x <n> a <n>   
+algorith<m> a<n>d bou<n>d for the greatest co<m><m>o<n> divisor of <n> <i<n>tegers>  
+
+
+DocID: CACM-0679
+
+the bi<n>o<m>ial <coefficie<n>ts>.  i<n> the area of logical co<n>trol  
+wells, <m>. b.  
+
+
+DocID: CACM-2229
+
+bi<n>o<m>ial theore<m>, <n>ewto<n> iteratio<n>s, chebyshev  
+approaches: the bi<n>o<m>ial theore<m> a<n>d the iteratio<n>  
+
+
+DocID: CACM-2420
+
+<n>orto<n>, l. <m>.  
+para<m>odulatio<n>.  the <n>ew rules e<m>body the <tra<n>sitivity>  
+
+
+DocID: CACM-2028
+
+greatest co<m><m>o<n> divisor of <n> <i<n>tegers>  
+<n>u<m>ber <theory>, diopha<n>ti<n>e equatio<n>s  
+
+
+DocID: CACM-2769
+
+<m>atrix, bi<n>ary <relatio<n>>  
+<m>atrix, directed graph, digraph, boolea<n>  
+the tra<n>sitive closure of bi<n>ary <<relatio<n>>s>  
+
+
+DocID: CACM-0203
+
+decodi<n>g co<m>bi<n>atio<n>s of the first <n> <i<n>tegers> take<n> k at a ti<m>e  
+brow<n>, r. <m>.  
+
+
+DocID: CACM-2416
+
+bre<n><n>er, <n>.  
+tra<n>spositio<n>, <m>atrix operatio<n>s, per<m>utatio<n>s,  
+pri<m>itive roots, <n>u<m>ber <theory>  
+
+
+DocID: CACM-1817
+
+<hall>, g.  
+<n>u<m>erical i<n>tegratio<n>, fourier <coefficie<n>ts>, filo<n>'s <m>ethod  
+co<m>putatio<n> of fourier <coefficie<n>ts>  algorith<m> 255 [c6]   
+
+
+DocID: CACM-2981
+
+<i<n>ductio<n>> a<n>d other co<m><m>o<n>ly used <i<n>ductio<n>> rules is explored  
+<i<n>ductio<n>> rule, co<m>putatio<n> <i<n>ductio<n>>, i<n>ductive  
+subgoal <i<n>ductio<n>>  
+
+
+DocID: CACM-0727
+
+a<n>d <<m>athe<m>atical> <theory> are suppliedxte<n>sio<n> of the  
+yohe, <m>.  
+
+
+DocID: CACM-1567
+
+<<relatio<n>>s> are give<n> betwee<n> certai<n> sy<m><m>etric  
+sy<m><m>etric <group>.  such a<n> approach u<n>ifies earlier work  
+poly<n>o<m>ials i<n> the light of the <theory> of the  
+
+
+DocID: CACM-2648
+
+wu<n>derlich, <m>. c.  
+<n>u<m>ber <theory> package, trial divisio<n>, <m>ultiprecise  
+a desig<n> for a <n>u<m>ber <theory> package  
+
+
+DocID: CACM-0717
+
+i<n>to <m> or fewer sets  1 <= <m> <= <n> , a<n>d  3  all  
+partitio<n>s of the give<n> set i<n>to exactly <m> sets  1 <= <m> <= <n> .  
+by certai<n> <n>-tuples of positive <i<n>tegers>.  
+
+
+DocID: CACM-2327
+
+auto<m>ata <theory>, brai<n> <theory>, <n>etwork co<m>plexity,  
+arbib, <m>. a.  
+toward a<n> auto<m>ata <theory> of brai<n>s  
+
+
+DocID: CACM-0495
+
+<m>atrix of <coefficie<n>ts> is required.  <m>a<n>y available procedures  
+adjust<m>e<n>t of several para<m>eters, the <coefficie<n>ts>  
+for i<n>verti<n>g a sy<m><m>etric <m>atrix has bee<n>  
+
+
+DocID: CACM-2476
+
+<hall>, p. a. v.  
+la<n>guage <theory>, co<n>text-free gra<m><m>ars  
+
+
+DocID: CACM-0852
+
+<hall>, <m>. h.  
+
+
+DocID: CACM-1887
+
+a recursive <relatio<n>> for the deter<m>i<n>a<n>t of a pe<n>tadiago<n>al <m>atrix  
+pe<n>tadiago<n>al <m>atrix, qui<n>diago<n>al <m>atrix, qui<n>diago<n>al  
+<m>atrix, ba<n>d <m>atrix, deter<m>i<n>a<n>t, characteristic  
+
+
+DocID: CACM-1609
+
+<hall> jr., a. d.  
+scheduli<n>g <u<n>iversity> course exa<m>i<n>atio<n>s by co<m>puter  
+each <group> at a differe<n>t period a <m>i<n>i<m>al  
+
+
+DocID: CACM-2953
+
+proc s x ; px the<n> <n> x ; s fx ; s gx ; <m> x  fi.  procedures  
+i<n>ductio<n>  
+
+
+DocID: CACM-0373
+
+cor<relatio<n>> <coefficie<n>ts> with <m>atrix <m>ultiplicatio<n>  algorith<m> 39   
+
+
+DocID: CACM-1403
+
+positive <i<n>tegers>  
+fi<n>di<n>g the <m> s<m>allest fu<n>ctio<n>al values of <m>o<n>oto<n>ic  
+a <m>ethod for fi<n>di<n>g the <m> s<m>allest values of  
+
+
+DocID: CACM-2834
+
+rei<n>gold, e. <m>.  
+to the ge<n>eratio<n> of the co<m>bi<n>atio<n>s of <n> thi<n>gs  
+take<n> k at a ti<m>e, the co<m>positio<n>s of <i<n>tegers>, a<n>d  
+
+
+DocID: CACM-0382
+
+bush, <n>.  
+statistical progra<m>s at the <u<n>iversity> of <n>orth caroli<n>a  
+
+
+DocID: CACM-0269
+
+riski<n>, b. <n>.  
+core allocatio<n> based o<n> <probability>  
+
+
+DocID: CACM-0725
+
+<m>ccor<m>ick, e. <m>.  
+<group> participatio<n> co<m>puter de<m>o<n>stratio<n>  
+
+
+DocID: CACM-0453
+
+wells, <m>.  
+e<n>large<m>e<n>t of a <group>  algorith<m> 136   
+
+
+DocID: CACM-1707
+
+<m>atrix to be si<m>ilar to a positive <m>atrix.  this  
+<m>atrix, yields a positive <m>atrix with a preassig<n>ed positive spectru<m>.  
+<hall>, c. a.  
+
+
+DocID: CACM-3156
+
+graph <theory>, parallel processi<n>g, algorith<m>s,  
+of a sy<m><m>etric boolea<n> <m>atrix.  we assu<m>e that the processors have  
+co<m>po<n>e<n>ts of a<n> u<n>directed graph with <n> vertices i<n> ti<m>e o log2<n> .  a<n>  
+
+
+DocID: CACM-2613
+
+<tra<n>sitivity>, sets  
+<tra<n>sitivity> sets [g7]  algorith<m> a482   
+
+
+DocID: CACM-2446
+
+willia<m>s, j. <m>.  
+sy<m><m>etric <group>, skew represe<n>tatio<n>, partitio<n>,  
+a<n>alysis of skew represe<n>tatio<n>s of the sy<m><m>etric <group>  algorith<m> a455   
+
+
+DocID: CACM-1948
+
+co<m>puters i<n> <group> <theory>: a survey  
+<group> <theory>, coset e<n>u<m>eratio<n>, sub<group> lattices,  
+diverse ra<n>ge of proble<m>s i<n> <group> <theory>.  
+
+
+DocID: CACM-0248
+
+what is proprietary i<n> <<m>athe<m>atical> progra<m><m>i<n>g?-i<m>pressio<n>s  
+special i<n>terest co<m><m>ittee o<n> <<m>athe<m>atical> progra<m><m>i<n>g  
+i<n> <<m>athe<m>atical> progra<m><m>i<n>g?" was spo<n>sored by the  
+
+
+DocID: CACM-1914
+
+progra<m><m>i<n>g, <m>atrix co<n>ditio<n>, <m>atrix scali<n>g  
+i<n>teger progra<m><m>i<n>g, li<n>ear algebra, <<m>athe<m>atical>  
+<m>atrix scali<n>g by i<n>teger progra<m><m>i<n>g  algorith<m> 348 [f1]   
+
+
+DocID: CACM-2520
+
+greatest co<m><m>o<n> divisor of <n> <i<n>tegers> a<n>d <m>ultipliers  algorith<m> c386   
+
+
+DocID: CACM-3037
+
+factorizatio<n> of all <i<n>tegers> betwee<n> 2 a<n>d <n> i<n> ti<m>e proportio<n>al to <n>.  
+of <i<n>tegers> <n>ot larger tha<n> <n> ca<n> be perfor<m>ed  
+i<n> ti<m>e proportio<n>al to <n>  assu<m>i<n>g that <m>ultiplicatio<n>  
+
+
+DocID: CACM-2199
+
+<m>atrix, sparse <m>atrix, <m>atrix <m>a<n>ipulatio<n>  
+<m>c<n>a<m>ee, j. <m>.  
+a sparse <m>atrix package  part i  [f4]  algorith<m> 408   
+
+
+DocID: CACM-2739
+
+sager, <n>.  
+the co<m>prehe<n>sive e<n>glish gra<m><m>ar of the <n>.  
+a<n>d routi<n>es the <<relatio<n>>s> which were fou<n>d to  
+
+
+DocID: CACM-0241
+
+<m>ethod  where <n> is the <n>u<m>ber of e<n>tries i<n> the <probability>  
+<n>ecessitati<n>g little <m>ore tha<n> <n> additio<n>s a<n>d <n> refere<n>ces  
+<m>achi<n>e of the <m>o<m>e<n>ts of a <probability> distributio<n>,  
+
+
+DocID: CACM-3085
+
+<m>atrix <m>ultiplicatio<n>, <m>atrix chai<n> product  
+co<m>putatio<n> order of <m>atrix chai<n> products  
+this paper discusses the co<m>putatio<n> of <m>atrix  
+
+
+DocID: CACM-1694
+
+the <probability> for the u<n>io<n> of <n> i<n>depe<n>de<n>t  
+algorith<m>, <probability>, opti<m>u<m>, storage vs. ti<m>e  
+a<n> algorith<m> for the <probability> of  
+
+
+DocID: CACM-1933
+
+u<n>ifor<m> <probability> de<n>sity, u<n>ifor<m> freque<n>cy  
+<n>u<m>ber ge<n>erator <<m>odulo> 2**31 - 1, a pri<m>e <m>erse<n><n>e  
+
+
+DocID: CACM-2326
+
+co<m>putatio<n>al <i<n>ductio<n>>  
+fix poi<n>t approach to the <theory> of co<m>putatio<n>  
+followi<n>g the fix poi<n>t <theory> of scott, the  
+
+
+DocID: CACM-1870
+
+<i<n>tegers> <m>ay be used to co<n>struct bi<n>ary  
+"<n>u<m>bers" i<n> which the <probability> that each bit i<n> the  
+
+
+DocID: CACM-2169
+
+<hall> jr., a. d.  
+with i<n>teger <coefficie<n>ts>.  it has bee<n> desig<n>ed a<n>d  
+
+
+DocID: CACM-1501
+
+eige<n>vectors of a 2<n> x 2<n> <m>atrix  
+two s<m>aller <m>atrices of order <n> which ca<n> be easily  
+eige<n>vectors of the 2<n> x 2<n> <m>atrix by use of  
+
+
+DocID: CACM-2957
+
+s<m>ith, j. <m>.  
+preserve two i<n>varia<n>ts.  well-defi<n>ed <<relatio<n>>s> are  
+disti<n>ct fro<m> <<relatio<n>>s> i<n> third <n>or<m>al for<m>.  it  
+
+
+DocID: CACM-2096
+
+the <m>  <n>  highest  lowest  valued successors.  a<n> <m> & <n> procedure was  
+experi<m>e<n>ts with the <m> & <n> tree-searchi<n>g progra<m>  
+the <m> & <n> procedure is sig<n>ifica<n>tly superior to the <m>i<n>i-<m>ax  
+
+
+DocID: CACM-1423
+
+<n> <m>atrix a, i<n>cludi<n>g the special case whe<n> <m>+<n> a<n>d a  
+yields the ordi<n>ary least squares tra<n>sfor<m>atio<n> <m>atrix  
+the ge<n>eralized i<n>verse of a <m>atrix is i<m>porta<n>t  
+
+
+DocID: CACM-0537
+
+davis, <m>.  
+
+
+DocID: CACM-0536
+
+baer, r. <m>.  
+are bou<n>d i<n> a <relatio<n>> with certai<n> para<m>eters  
+gives rise to a fu<n>ctio<n> <n> which is <n>o<n>li<n>ear i<n> the ai,  
+
+
+DocID: CACM-1761
+
+o'brie<n>, w. <m>.  
+chi-squared i<n>tegral, <probability>, special fu<n>ctio<n>s  
+
+
+DocID: CACM-0503
+
+colliso<n>, d. <m>.  
+ratio<n>al roots of poly<n>o<m>ials with i<n>teger <coefficie<n>ts>  algorith<m> 78   
+
+
+DocID: CACM-1099
+
+lichstei<n>, <m>.  
+co<m>puti<n>g ce<n>ter of the <u<n>iversity> of ci<n>ci<n><n>ati  
+to a<n>y syste<m>s <group>.  before the bli<n>d could beco<m>e a  
+
+
+DocID: CACM-2149
+
+ly<n>ess, j. <n>.  
+taylor <coefficie<n>ts>, taylor series, cauchy i<n>tegral,  
+taylor <coefficie<n>ts> of a<n> a<n>alytic fu<n>ctio<n> [c5]  
+
+
+DocID: CACM-2032
+
+<probability> distributio<n>s of path le<n>gths are derived a<n>d illustrated.  
+a<n>d their <relatio<n>> to trees studied i<n> the past is explai<n>edesults for the  
+
+
+DocID: CACM-2289
+
+levitt, k. <n>.  
+graph <theory>, cellular logic-i<n>-<m>e<m>ory arrays,  
+serial algorith<m>s for these proble<m>s require about <n>  
+
+
+DocID: CACM-1066
+
+progra<m><m>i<n>g <m>atrix <coefficie<n>ts>, data tra<n>s<m>issio<n>  
+a <<m>athe<m>atical> algorith<m>  i.e. the si<m>plex <m>ethod  to  
+
+
+DocID: CACM-0787
+
+wells, <m>.  
+<m>atrix divisio<n>  algorith<m> 197   
+
+
+DocID: CACM-1124
+
+wells, <m>.  
+<m>atrix divisio<n>  algorith<m> 197   
+
+
+DocID: CACM-1283
+
+ferri<n>g, <m>.  
+<m>atrix i<n>versio<n>  algorith<m> 231 [f1]   
+
+
+DocID: CACM-1308
+
+a <<m>athe<m>atical> <m>odel for <m>echa<n>ical part descriptio<n>  
+the flexibility of a <<m>athe<m>atical> <m>odel takes  
+<m>odel co<n>sists of a <group> of surface-defi<n>i<n>g quadric  
+
+
+DocID: CACM-3124
+
+je<n>ki<n>s, <m>.  
+trees, data-drive<n> algorith<m>s, <theory> of arrays  
+a <<m>athe<m>atical> study of three approaches for defi<n>i<n>g <n>ested  
+
+
+DocID: CACM-2346
+
+i<n>for<m>atio<n> <theory>, codi<n>g <theory>, hu-tucker  
+yohe, j. <m>.  
+
+
+DocID: CACM-1836
+
+precede<n>ce <m>atrix.  ofte<n> the i<n>for<m>atio<n> i<n> the <m>atrix  
+parsi<n>g, tra<n>sitio<n> <m>atrix, precede<n>ce  
+fu<n>ctio<n>s whe<n> give<n> the precede<n>ce <m>atrix; this algorith<m>  
+
+
+DocID: CACM-2058
+
+breb<n>er, <m>. a.  
+recta<n>gular <m>atrix, tra<n>spose  
+i<n>-situ tra<n>spositio<n> of a recta<n>gular <m>atrix  algorith<m> 380 $f1    
+
+
+DocID: CACM-2234
+
+heiberger, r. <m>.  
+eige<n>values, <m>atrix roots, pe<n>cil roots  
+roots of <m>atrix pe<n>cils  algorith<m> r405   
+
+
+DocID: CACM-1935
+
+retrieval, <<m>athe<m>atical> <m>odel, partitio<n>i<n>g,  
+bi<n>ary patter<n>, file exa<m>i<n>atio<n>, graph <theory>, i<n>for<m>atio<n>  
+a <<m>athe<m>atical> <m>odel is developed for the <m>ea<n>  
+
+
+DocID: CACM-1922
+
+data <li<n>k>, data <li<n>k> co<n>trol procedures, data <li<n>k>  establish<m>e<n>t/ter<m>i<n>atio<n>  
+<li<n>k>, <li<n>k> co<n>trol procedures, <li<n>k> establish<m>e<n>t/ter<m>i<n>atio<n>  
+procedures, <li<n>k> <m>essage tra<n>sfer procedures, <li<n>k> error  
+
+
+DocID: CACM-2405
+
+syste<m> of li<n>ear equatio<n>s, al<m>ost tridiago<n>al <m>atrix, sparse <m>atrix  
+kubicek, <m>.  
+li<n>ear syste<m>s with al<m>ost tridiago<n>al <m>atrix [f4]  algorith<m> a470   
+
+
+DocID: CACM-2806
+
+of a square <m>atrix, both related to hada<m>ard's  
+deter<m>i<n>a<n>t theore<m>, which have so<m>e <m>erits as alter<n>atives  
+
+
+DocID: CACM-2763
+
+gibbs, <n>. e.  
+spa<n><n>i<n>g tree, vertex adjace<n>cy <m>atrix  
+
+
+DocID: CACM-2554
+
+order of the <m>atrix a<n>d <m> the ba<n>dwidth, the <m>atrices  
+<m>atrices with b positive defi<n>ite.  if <n> is the  
+<m>atrix c whose ba<n>dwidth is the sa<m>e as a a<n>d b.  
+
+
+DocID: CACM-2697
+
+k is <m>uch less tha<n> <n>, the order of the <m>atrix.  if the  
+<m>alcol<m>, <m>. a.  
+i<n> ter<m>s of the ratio of the coefficie<n>t <m>atrix diago<n>al  
+
+
+DocID: CACM-1857
+
+chase, s. <m>.  
+i<n>tegratio<n>, fourier <coefficie<n>ts>, fourier series  
+
+
+DocID: CACM-2177
+
+for a graph with <n> <n>odes a<n>d <m> edges i<n>creases esse<n>tially  
+<m>atrix.  if w de<n>otes the word le<n>gth of the <m>achi<n>e  
+o<n> <n> <n>odes i<n>creases as <n>^g where g depe<n>ds o<n> the type  
+
+
+DocID: CACM-0003
+
+fried<m>a<n>, <m>. d.  
+tech<n>iques depart<m>e<n>t o<n> <m>atrix progra<m> sche<m>es  
+
+
+DocID: CACM-0475
+
+pei, <m>. l.  
+a test <m>atrix for i<n>versio<n> procedures  
+
+
+DocID: CACM-0067
+
+blach<m>a<n>, <n>. <m>.  
+
+
+DocID: CACM-2515
+
+lee, y. <m>.  
+activity, project precede<n>ce <<relatio<n>>s>  
+<m>i<n>i<m>al eve<n>t-<n>ode <n>etwork of project precede<n>ce <<relatio<n>>s>  
+
+
+DocID: CACM-0284
+
+ro<m>, a. r. <m>.  
+as a <<m>athe<m>atical> device exte<n>ds far beyo<n>d  
+
+
+DocID: CACM-1725
+
+theore<m> for associative <m>e<m>ories  
+access freque<n>cy proof, retrieval theore<m> proof  
+ordered retrieval theore<m>, colu<m><n> digit values, digit  
+
+
+DocID: CACM-2842
+
+a<n>d the u<n>derlyi<n>g <<m>athe<m>atical> <theory> of co<m>putatio<n>  
+e<n>viro<n><m>e<n>t, store, co<n>ti<n>uatio<n>, <theory>  
+<theory> of progra<m><m>i<n>g la<n>guage se<m>a<n>tics developed  
+
+
+DocID: CACM-2430
+
+syslo,<m>. <m>.  
+algorith<m>, graph <theory>, circuit search  
+
+
+DocID: CACM-2046
+
+a <m>odel based o<n> <n>-ary <<relatio<n>>s>, a <n>or<m>al for<m> for data base <<relatio<n>>s>,  
+hierarchies of data, <n>etworks of data, <<relatio<n>>s>, derivability,  
+sectio<n> 2, certai<n> operatio<n>s o<n> <<relatio<n>>s>  other tha<n> logical  
+
+
+DocID: CACM-2059
+
+operatio<n> research, <n>etwork proble<m>s, co<n>trol <theory>, traffic proble<m>s, etc.  
+graph operatio<n>s such as <n>ode a<n>d/or <li<n>k> deletio<n> or i<n>sertio<n>, u<n>io<n>,  
+
+
+DocID: CACM-1393
+
+of large <i<n>tegers> are described as co<n>stituti<n>g  
+with i<n>tegral <coefficie<n>ts> u<n>restricted i<n> size.  so<m>e  
+
+
+DocID: CACM-3108
+
+rodeh, <m>.  
+stri<n>g tra<n>s<m>issio<n>, deli<m>iters, co<m><m>as, e<n>codi<n>g of the <i<n>tegers>  
+
+
+DocID: CACM-0616
+
+structure <group> of the codasyl develop<m>e<n>t co<m><m>ittee  
+the la<n>guage structure <group>:  robert bosak, syste<m>  
+report is based, for the <m>ost part, o<n> a <<m>athe<m>atical>  
+
+
+DocID: CACM-2695
+
+<n> x <n> <m>atrix a<n>d deter<m>i<n>es whether or <n>ot it  
+gibbs, <n>. e.  
+tridiago<n>al <m>atrix, per<m>utatio<n>, algorith<m>,  
+
+
+DocID: CACM-2081
+
+progra<m><m>i<n>g, <m>atrix, <m>atrix co<n>cate<n>atio<n>,  
+<m>atrix seque<n>ces, progra<m><m>i<n>g la<n>guages,  
+of <m>atrices  are co<n>sidered, a<n>d <m>atrix operators areext  
+
+
+DocID: CACM-2758
+
+hatzopoulos, <m>.  
+<m>atrix i<n>versio<n>, separable syste<m>s  
+a <n>ote o<n> the lu factorizatio<n> of a sy<m><m>etric <m>atrix  
+

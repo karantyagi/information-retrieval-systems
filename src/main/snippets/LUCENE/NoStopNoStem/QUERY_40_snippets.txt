@@ -1,0 +1,709 @@
+LUCENE_NoStopNoStem
+
+Query
+List all articles dealing with data types in the following languages:
+that are referenced frequently in papers on the above languages (e.g. catch
+any languages with interesting type structures that I might have missed).
+
+Top 100 Results (7 millisecs)
+
+
+DocID: CACM-1588
+
+up<on> <<the>> <data> <l<i>st> <structures>.  <<the>>se two problems <have>  
+<structures> and/or from <<the>><i>r <<<i>n>>ab<i>l<i>ty to perform <<the>>  
+<<the>> ph<i>losophy of <<the>> pl/<i> language extens<i><on>s <are>  
+
+
+DocID: CACM-2956
+
+over <<the>> elements of <any> f<<<i>n>><i>te set  <<<i>n>>stead of <<the>>  
+<<the>> doma<<<i>n>> of an array as a <data> <type>, <<the>> need for  
+<data> <<type>s>, gener<i>c procedures, programm<<<i>n>>g <<<languages>>>  
+
+
+DocID: CACM-2265
+
+to <type> check<<<i>n>>g <<<i>n>> algol 60 <i>s made, and <<the>> attendant  
+solut<i><on> to <<the>> <type> check<<<i>n>>g problem based <on> <<the>>  
+character<i>zes <<the>> <type> relat<i><on>s <<w<i>th>><<<i>n>> <<the>> program  
+
+
+DocID: CACM-2060
+
+<structures> <are> treated as funct<i><on>s.   4  <type> declarat<i><on>s <are>  
+character<i>st<i>cs.   1  <any> value wh<i>ch <i>s perm<i>tted <<<i>n>> some c<on>text of <<the>>  
+not perm<i>tted.  <<the>> funct<i><on>al approach to <data> <structures> and <<the>>  
+
+
+DocID: CACM-1098
+
+<<<languages>>> <are> rev<i>ewed: forms of <data> <structures>  
+programm<<<i>n>>g <<<languages>>> wh<i>ch, am<on>g <<the>>m, exh<i>b<i>t <all> <<the>>  
+<<the>> same speed.  f<<<i>n>><all>y, <<the>> authors g<i>ve  
+
+
+DocID: CACM-2941
+
+<<type>s> and <type> coerc<i><on>s, <<the>> benef<i>ts of <<the>> <type> system  
+<<the>> spec<i>f<i>c top<i>cs addressed <are>: module structure  
+programm<<<i>n>>g <<<languages>>>, <<type>s>, modules,  
+
+
+DocID: CACM-3105
+
+<<<languages>>> <<that>> support <<the>> not<i><on> of abstract <data>  
+<<the>> approach can be used to extend <any> str<on>gly-<type>d  
+programm<<<i>n>>g <<<languages>>>, access c<on>trol, <data> <<type>s>,  
+
+
+DocID: CACM-1485
+
+<<w<i>th>> <<the>> suggest<i><on> <<that>> programm<<<i>n>>g <<<languages>>>  
+programm<<<i>n>>g language <are> <i>dent<i>f<i>ed as:  1  <<the>>  
+<<the>> structure of programm<<<i>n>>g <<<languages>>>  
+
+
+DocID: CACM-2705
+
+<<<i>n>> programm<<<i>n>>g. <<the>> development of natural <<<languages>>> toward  
+of <<the>> h<i>story of art<i>f<i>c<i>al, aux<i>l<i>ary <<<languages>>> <i>t  
+programm<<<i>n>>g <<<languages>>>, natural <<<languages>>>, and ma<<the>>mat<i>cs  
+
+
+DocID: CACM-2406
+
+<data> bases.  th<i>s paper rev<i>ews past work <<<i>n>> <<the>> <data>  
+<data> def<<<i>n>><i>t<i><on> <<<languages>>> wh<i>ch descr<i>be both <<the>> log<i>cal  
+<on> a computer system.  however, <<the>> need for  
+
+
+DocID: CACM-2051
+
+<<<i>n>> <<that>> pa<i>r of words.  <<the>> output <i>s a <l<i>st> of <all> corresp<on>dence  
+<<the>> r<eg>ular sound corresp<on>dences between genet<i>c<all>y related <<<languages>>>.  
+<<type>s> <<w<i>th>> <<the>><i>r frequency of occurrence <<<i>n>> <<the>> <data>, and a  
+
+
+DocID: CACM-1470
+
+<<the>> <data> <i>tself,  2  by referr<<<i>n>>g to <<the>> <data> by  
+<<the>> structure of programm<<<i>n>>g <<<languages>>>  
+<l<i>st> process<<<i>n>>g <<<languages>>>, <i>llustrate <<the>> forms  
+
+
+DocID: CACM-1051
+
+<papers> wh<i>ch <have> appl<i>ed some of <<the>>se c<on>cepts <<<i>n>> d<i>fferent  
+such use results <<<i>n>> a c<on>s<i>derable sav<<<i>n>>g <<<i>n>> both <<the>>  
+of standard <l<i>st> <structures> <<w<i>th>> s<<<i>n>>gle-word <i>tems, <<the>>  
+
+
+DocID: CACM-2002
+
+subplots by <<the>> act<i><on> of <on>e or more s<i>mple modules <i>s poss<i>ble.  <<the>> user  
+by <<the>> softw<are> system unless <<the>> user spec<i>f<i>es o<<the>>rw<i>se.  <<the>> structur<<<i>n>>g  
+comm<on> to <all> <<type>s> of <data> plots <are> outl<<<i>n>>ed and <<the>> way <<<i>n>> wh<i>ch <<the>>se  
+
+
+DocID: CACM-2470
+
+<<w<i>th>> <<the>> use of <<the>> paradox<i>cal comb<<<i>n>>ator, y.  <<the>>  
+<are> touched up<on>. <<the>> <<the>>ory <i>s appl<i>ed to <<the>>  
+<<the>> abstract<i><on>s used <<<i>n>>form<all>y <<<i>n>> <<the>> body of <<the>> paper.  
+
+
+DocID: CACM-1456
+
+<are> <<<i>n>>adequate veh<i>cles for language process<<<i>n>>g <on> <any>  
+assoc<i>ates <<w<i>th>> each engl<i>sh word <<the>> syntact<i>c <<<i>n>>format<i><on>,  
+o<<the>>r <l<i>st> process<<<i>n>>g <<<languages>>> <are> <i>de<all>y su<i>ted for  
+
+
+DocID: CACM-1324
+
+<<<languages>>> and search<<<i>n>>g large tree <structures>.  
+processors <are> seen to be c<on>cerned <<w<i>th>> measur<<<i>n>>g,  
+<are> descr<i>bed and rev<i>ewed.  <<the>> systems range from a c<on>versat<i><on>  
+
+
+DocID: CACM-2931
+
+<<the>> r<i>ght abstract<i><on>s to represent <<the>> necessary <structures>.  
+and <<w<i>th>> <<the>><i>r c<on>t<<<i>n>>uous mapp<<<i>n>>gs, has dem<on>strated <<the>>  
+<<<i>n>> <<the>> eff<i>c<i>ency of dec<i>s<i><on> methods <have> become ava<i>lable  
+
+
+DocID: CACM-2651
+
+<<the>> treatment of <data> <<type>s> <<<i>n>> el1  
+<data> <<type>s>, modes, mode un<i><on>s, <type> c<on>vers<i><on>,  
+and very flex<i>ble <data> <type> behav<i>or, <<<i>n>> a c<on>text <<that>>  
+
+
+DocID: CACM-2632
+
+of <any> of <<the>> operat<i><on>s def<<<i>n>>ed <<w<i>th>> respect to <<that>>  
+to a g<i>ven <type>, shar<<<i>n>>g, and protect<i><on> of <any> reference  
+bas<i>s for extens<i><on> of <<the>> system <<<i>n>> two d<i>rect<i><on>s: <<the>>  
+
+
+DocID: CACM-2198
+
+<<the>> next <i>s <<that>> of prov<i>d<<<i>n>>g more complex <data> <structures>  
+<structures> <i>s ment<i><on>ed, followed by a d<i>scuss<i><on> of <<the>>  
+<<the>> art <<<i>n>> <<the>>se systems and d<i>scusses <<the>> d<i>fferences  
+
+
+DocID: CACM-3198
+
+<<the>> problem we <have> been c<on>cerned <<w<i>th>> <i>s <<that>> of c<on>vert<<<i>n>>g language to  
+of language. <<<i>n>> <<the>> <are>as of language <<<i>n>>vest<i>gat<i><on> we <have> c<on>centrated f<i>rst  
+<on> formal<i>z<<<i>n>>g syntax and <<the>>n <on> semant<i>cs.  
+
+
+DocID: CACM-2940
+
+<on> abstract ent<i>t<i>es <<w<i>th>>out expl<i>c<i>t dependence <on> <<the>>  
+<<the>> alphard "form" prov<i>des <<the>> programmer <<w<i>th>>  
+<<<languages>>>, programm<<<i>n>>g methodology, proofs of correctness, <<type>s>, ver<i>f<i>cat<i><on>  
+
+
+DocID: CACM-1847
+
+<<<i>n>> <<the>> process <i>s to take <<the>> top element v of <<the>>  
+n, <<the>> store requ<i>red <<<i>n>> creases as n^2 and <<the>> t<i>me as  
+pushdown <l<i>st> and exam<<<i>n>>e <i>t, <i>.e. <<<i>n>>spect <all> those  
+
+
+DocID: CACM-2148
+
+<<the>> ma<<<i>n>> features of algol 68 <are> expla<<<i>n>>ed  
+<<the>> compos<i>t<i><on> of semant<i>cs <<<i>n>> algol 68  
+of programm<<<i>n>>g <<<languages>>>, <data> <structures>  
+
+
+DocID: CACM-2450
+
+<<<i>n>> <<the>> hope <<that>> workers <<<i>n>> <<the>> f<i>eld m<i>ght f<<<i>n>>d exper<i>mental  
+<<the>> words "work<<<i>n>>g set" <are> now comm<on>ly encountered  
+<<<i>n>> <<the>> l<i>terature <deal<<<i>n>>g> <<w<i>th>> resource <all>ocat<i><on>, <<the>>re  
+
+
+DocID: CACM-2003
+
+<<the>> des<i>gn process, <are> presented.  <<the>> ma<<<i>n>> emphas<i>s <i>s g<i>ven to <<the>>  
+of <<the>> softw<are> system; <i>ts des<i>gn cr<i>ter<i>a prov<i>de <<the>> user <<w<i>th>>  
+commands wh<i>ch <are> both s<i>mple and eff<i>c<i>ent <<<i>n>> order to perform <all>  
+
+
+DocID: CACM-2316
+
+of <<<languages>>> <are> g<i>ven.  <<the>> major <<<languages>>> <are> <l<i>st>ed  
+<on> chr<on>ology <<<i>n>>d<i>cates <<the>> happen<<<i>n>>gs of <<the>> s<i>gn<i>f<i>cant  
+<are> <<<i>n>>d<i>cated.  a key part of <<the>> paper <i>s a tree  
+
+
+DocID: CACM-2939
+
+<<<i>n>> <<the>> programm<<<i>n>>g process.  of <<the>>se, <on>ly <<the>>  
+work <<<i>n>> programm<<<i>n>>g methodology has led to <<the>> real<i>zat<i><on>  
+mechan<i>sms <<that>> support <<the>> use of <data> and  
+
+
+DocID: CACM-1457
+
+<<the>> character<i>st<i>cs of var<i>ous process<<<i>n>>g <<<languages>>> <are>  
+and tree or <l<i>st> <structures>.  <<the>> ma<<<i>n>> <data>  
+outl<<<i>n>>ed <<<i>n>> <<the>> l<i>ght of <<the>> procedures requ<i>r<<<i>n>>g  
+
+
+DocID: CACM-2254
+
+<<that>> subarrays may vary over <<the>> or<i>g<<<i>n>>al array <<<i>n>>  
+<<the>> value of part<i>t<i><on><<<i>n>>g for array <<<languages>>>.  
+wh<i>ch <are> used to der<i>ve and ma<<<i>n>>ta<<<i>n>> <<the>> array c<on>trol  
+
+
+DocID: CACM-1366
+
+each <are> summar<i>zed <<<i>n>> a ser<i>es of tables.  <<the>>  
+<<the>> c<on>clus<i><on> of <<the>> paper <i>s <<that>> <<the>> packages now  
+<<<languages>>>.  <<the>> computat<i><on>al character<i>st<i>cs of  
+
+
+DocID: CACM-2078
+
+<are> c<all>ed space plann<<<i>n>>g problems.  <<the>> representat<i><on>al  
+computer graph<i>c <<<languages>>>.  four alternat<i>ve <data> <structures>  
+<<that>> <all>ow automated space plann<<<i>n>>g <are> descr<i>bed and comp<are>d.  
+
+
+DocID: CACM-1350
+
+<<the>> structural descr<i>pt<i><on>s sd g,x  ass<i>gned to <<the>>  
+gs can be c<on>structed, wh<i>ch generates <<the>> same <<<languages>>>  
+y <i>  <are> <<<i>n>>termed<i>ate symbols and c a term<<<i>n>>al  
+
+
+DocID: CACM-2295
+
+comment <on> <<the>> compos<i>t<i><on> of semant<i>cs <<<i>n>> algol 68  
+of programm<<<i>n>>g <<<languages>>>, <data> <structures>  
+programm<<<i>n>>g pr<i>m<i>t<i>ves, programm<<<i>n>>g <<<languages>>>,  
+
+
+DocID: CACM-1678
+
+a number of courses <are> <l<i>st>ed <<<i>n>> <<the>> <are>a  
+role of each of <<the>> courses <<<i>n>> <<the>> graduate program  
+sw<i>tch<<<i>n>>g, and computab<i>l<i>ty, <<that>> m<i>ght be ava<i>lable  
+
+
+DocID: CACM-0616
+
+<<the>> systems analyst's use.  <<the>>y trust <<that>> <<the>> <i>deas  
+language, at <<the>> systems level of <data> process<<<i>n>>g.  <<the>>  
+<<<i>n>>terested <<<i>n>> develop<<<i>n>>g a <<the>>oret<i>cal approach to <data>  
+
+
+DocID: CACM-2957
+
+<i>s shown <<that>> <<the>>se not<i><on>s <are> complementary and both <are>  
+<data> abstract<i><on>, relat<i><on>al <data>base, <data> <type>,  
+suggested <<that>> aggr<eg>ate <<type>s>, and o<<the>>r <<type>s>  
+
+
+DocID: CACM-2314
+
+<are> stressed, as <i>s <<the>> dual<i>ty of <data>  
+<<the>> author feels <are> <i>mportant to <i>mprove <<the>> product<i>v<i>ty  
+<l<i>st> process<<<i>n>>g, programm<<<i>n>>g <<<languages>>>, des<i>gn of  
+
+
+DocID: CACM-2341
+
+<<<i>n>> what appears to be an easy and natural way.  <<<i>n>> add<i>t<i><on>  
+<<<i>n>> <any> of three d<i>mens<i><on>s, and merged <on> <<the>> bas<i>s  
+and preparat<i><on>  <have> been programmed <on> a pr<<<i>n>>ter  
+
+
+DocID: CACM-2699
+
+<<<languages>>>, set-<<the>>oret<i>c <<<languages>>>, <data>  
+<above> and below, and <<the>> s<<<i>n>>gle-valuedness of  
+<data> <structures> becomes poss<i>ble. <<the>> methods employed  
+
+
+DocID: CACM-1612
+
+of <<the>> top-to-bottom pars<<<i>n>>g algor<i>thm as used <<<i>n>>  
+of <<the>> product<i><on>s def<<<i>n>><<<i>n>>g <<the>> grammar.  <<the>>  
+essent<i>al weakness of <<the>> method <i>s <<<i>n>> <deal<<<i>n>>g> <<w<i>th>> compl<i>cated  
+
+
+DocID: CACM-1641
+
+<<w<i>th>> 32k of core memory and d<i>sks.  ga<<<i>n>>s <<<i>n>> memory space  
+<on> <<the>> number of pages ava<i>lable <<<i>n>> <<the>> fast store.  
+leaves <<the>> most often c<all>ed pages <<<i>n>> <<the>> fast memory.  
+
+
+DocID: CACM-1626
+
+and programs.  descr<i>bed <<<i>n>> th<i>s paper <are> a number  
+be enough core memory to c<on>ta<<<i>n>> <all> <<the>> <data>  
+of techn<i>ques <<that>> <have> been used to bu<i>ld a l<i>sp  
+
+
+DocID: CACM-2252
+
+of <<the>> method <are>:  1  <<the>> syntax of <<the>> language  
+<<the>> skelet<on>  <i>s ma<<<i>n>>ta<<<i>n>>ed to represent <<the>> statement  
+<on> l<<<i>n>>es;  2  an <<<i>n>>ternal <data> structure  c<all>ed  
+
+
+DocID: CACM-3103
+
+<<<i>n>> low-level <i>mplementat<i><on> deta<i>ls.  <<<i>n>> <<the>> past,  
+thus <<the>> programs produced us<<<i>n>>g abstract <<type>s> were  
+abstract <data> <<type>s>, automat<i>c programm<<<i>n>>g, <data>  
+
+
+DocID: CACM-2767
+
+<<<i>n>> use <<w<i>th>> current s<i>mulat<i><on> <<<languages>>>.  <<the>> most  
+<<the>> advantages and l<i>m<i>tat<i><on>s of <<the>> algor<i>thms.  
+prom<i>s<<<i>n>>g algor<i>thm uses <<the>> <<<i>n>>dexed <l<i>st> c<on>cept.  
+
+
+DocID: CACM-2081
+
+as to f<<<i>n>>d <<the>> forms best su<i>ted for computat<i><on>.  <<the>>se forms <are>  
+a matr<i>x calculus <i>s <<<i>n>>troduced <<w<i>th>> <<the>> <<<i>n>>tent<i><on> of develop<<<i>n>>g <data> <structures>  
+<<the>> paper <<<i>n>>vest<i>gates how <<the>> spec<i>al structure of matr<i>ces can be descr<i>bed  
+
+
+DocID: CACM-1861
+
+<<the>> mot<i>vat<i><on> beh<<<i>n>>d <<the>> form <<<i>n>> wh<i>ch def<<<i>n>><i>t<i><on>s <are>  
+h<i>gher level <<<languages>>> <i>s descr<i>bed.  users of <<the>>  
+<<<i>n>>to <<the>> mad language, so <<that>> <<the>><i>r use appears  
+
+
+DocID: CACM-2833
+
+<all> storage at <<the>> users d<i>scret<i><on> <are> proposed.  <<the>>  
+algor<i>thms <are> des<i>gned to work well <<<i>n>> systems  
+table stores <<the>> count for <i>tems wh<i>ch <are> <referenced> more than <on>ce.  
+
+
+DocID: CACM-1614
+
+of <<the>> program and <are> not f<i>xed <<<i>n>> <<the>> language.  even  
+new <data> <<type>s> and operators to <<the>> language.  
+<<w<i>th>> <<the>> block.  <<the>>y <are> an <<<i>n>>t<eg>ral part  
+
+
+DocID: CACM-2704
+
+features for <deal<<<i>n>>g> <<w<i>th>> except<i><on>s <<<i>n>> an orderly  
+languages  
+structured programm<<<i>n>>g, <on> c<on>d<i>t<i><on>s, programm<<<i>n>>g  
+
+
+DocID: CACM-2264
+
+<<that>> <<the>> effect of translat<<<i>n>>g and execut<<<i>n>>g <any> program  
+<are> <<<i>n>>troduced and descr<i>bed <<<i>n>>form<all>y <<<i>n>>  
+to make <<the>> proof r<i>gorous.  correctness of <<the>>  
+
+
+DocID: CACM-2138
+
+<data> <structures> <<<i>n>> terms of <<the>> access algor<i>thm for elements of <<the>> structure.  
+<<the>> def<<<i>n>><i>t<i><on> of <<the>> representat<i><on> of <all>  
+systems, etc.  pr<i>me des<i>gn goals of <<the>> des<i>gn <are> <<the>>  
+
+
+DocID: CACM-3188
+
+<i> <have> based my paper <on> sem<i>ot<i>cs and <i>ts three d<i>mens<i><on>. <i> should <<<i>n>>sert  
+at th<i>s po<<<i>n>>t <<that>> language has m<any> aspects and <<that>> pragmat<i>cs, semant<i>cs and  
+sem<i>ot<i>cs and programm<<<i>n>>g <<<languages>>>  
+
+
+DocID: CACM-3164
+
+<<<i>n>> wh<i>ch <<the>>re <are> c<on>stra<<<i>n>>ts <on> <<the>> perm<i>ss<i>ble sequences  
+where n <i>s <<the>> number of nodes and r <i>s <<the>> expected number  
+path matr<i>x representat<i><on> and <<the>> o<<the>>r uses a <l<i>st> <<w<i>th>> an  
+
+
+DocID: CACM-1476
+
+<<the>> old and new work of <<the>> task group.  <<the>> new work  
+<papers> and <are> now embod<i>ed <<<i>n>> work<<<i>n>>g <papers> of <<that>> organ<i>zat<i><on>.  
+<<<i>n>> summary form.  m<any> of <<the>> c<on>cepts and pr<<<i>n>>c<i>ples  
+
+
+DocID: CACM-1835
+
+<<<languages>>> programm<<<i>n>>g <<<languages>>>, student programm<<<i>n>>g  
+of <data> <<type>s>.  several novel and powerful features  
+<<the>> <i><i>tran programm<<<i>n>>g language  
+
+
+DocID: CACM-1936
+
+f<i>rst, trees wh<i>ch <have> <<the>> property <<that>> a pr<i>or<i> <<the>>  
+sussenguth suggests <<<i>n>> a paper  1963  <<that>> a  
+a funct<i><on> of <<the>> number of term<<<i>n>>al nodes.  <<the>>  
+
+
+DocID: CACM-2201
+
+at <<the>> user's request, th<i>s record <i>s sent to <<the>> <i>bm  
+<i>t <i>s ant<i>c<i>pated <<that>> <on>e of <<the>> pr<i>mary  
+mode.  dur<<<i>n>>g <all> stages <on> <<the>> system <<<i>n>>put elements  
+
+
+DocID: CACM-2603
+
+<<the>> class of reduc<<<i>n>>g trans<i>t<i><on> <<<languages>>>  
+<<<languages>>> and determ<<<i>n>><i>st<i>c <<<languages>>>  
+result <i>s extended, show<<<i>n>>g <<that>>, <<<i>n>> fact, <<the>> f<i>rst class  
+
+
+DocID: CACM-1459
+
+<<the>> spec<i>al nature of <<the>><i>r appl<i>cat<i><on>s, <<the>> env<i>r<on>ment  
+<<<i>n>> wh<i>ch <<the>><i>r object programs <are> executed  
+may not be <<the>> language extens<i><on>s <<that>> ult<i>mately  
+
+
+DocID: CACM-3030
+
+and <<<i>n>> <<the>> rel<i>ab<i>l<i>ty of <<the>> programs produced.  <<<i>n>> th<i>s  
+programm<<<i>n>>g <<<languages>>> <<that>> ease h<i>erarch<i>cal  
+recogn<i>zed as helpful <<<i>n>> <<the>> c<on>struct<i><on> of  
+
+
+DocID: CACM-2184
+
+<<the>> express<i><on> lambda name <l<i>st>  express<i><on>  value <l<i>st> ,  
+<<the>> two funct<i><on>s <are> d<i>scussed <<<i>n>> terms of <<the>>  
+<on> <<the>> mean<<<i>n>>g of names <<<i>n>> programm<<<i>n>>g systems  
+
+
+DocID: CACM-1135
+
+<<<i>n>> <<the>> program  e.g. mod<i>f<i>cat<i><on> of <on>ly <on>e entry of <<the>>  
+<<the>> requ<i>rements set by codasyl for such <<<languages>>>,  
+a process  e.g. changes affect<<<i>n>>g <on>ly <on>e of <<the>> output  
+
+
+DocID: CACM-1852
+
+<on> c<on>temporary comput<<<i>n>>g mach<<<i>n>>es.  exper<i>ence <<w<i>th>>  
+<on> th<i>s algor<i>thm <<<i>n>>d<i>cates <<that>> such a language can  
+programm<<<i>n>>g <<<languages>>>, <i>mplementat<i><on> techn<i>ques  
+
+
+DocID: CACM-1824
+
+<<the>> var<i>ous p<i>eces  at <all> levels  of <<the>> parse.  <i>t  
+<<<i>n>> spec<i>al purpose <<<languages>>> such as snobol4 and  
+<<the>> pattern-match<<<i>n>>g capab<i>l<i>t<i>es norm<all>y found <on>ly  
+
+
+DocID: CACM-2710
+
+<data>base, <data> sub<<<languages>>>, relat<i><on>s, query <<<languages>>>,  
+<i>s based <on> <<the>> relat<i><on>al model of <data>, and <i>s  
+<<the>> squ<are> <data> sublanguage  
+
+
+DocID: CACM-2929
+
+depends <on> run-t<i>me stat<i>st<i>cs about <<the>>  
+of <<the>> procedure body.  <<the>> general problem of  
+based <on> <<the>>se results <are> also presented.  
+
+
+DocID: CACM-2684
+
+<i>s g<i>ven <<<i>n>> a prev<i>ous paper by <<the>> author.  
+s<<<i>n>>ce <<the>> development of bnf, <<the>> def<<<i>n>><i>t<i><on>  
+notably <<the>> compat<i>b<i>l<i>ty between <<the>>  
+
+
+DocID: CACM-1237
+
+<<the>> nature of table-or<i>ented programm<<<i>n>>g <<<languages>>>  
+tables <are> analyzed.  <<<i>n>> add<i>t<i><on> to table analys<i>s,  
+<i>s fam<i>l<i>ar <<w<i>th>> <<the>> nature of dec<i>s<i><on> tables  
+
+
+DocID: CACM-1853
+
+of <<the>> two.  a descr<i>pt<i><on> <i>s g<i>ven of <<that>> <l<i>st> representat<i><on>  
+a <l<i>st> to be cha<<<i>n>>ed, compact, or <any> comb<<<i>n>>at<i><on>  
+and <<the>> operators <i>mplemented  most <are>  
+
+
+DocID: CACM-1463
+
+<<the>> <<<i>n>>tent of th<i>s paper to expand and clar<i>fy <<the>> remarks  
+l<<<i>n>>kage <<that>> were embod<i>ed <<<i>n>> <<the>> authors' prev<i>ous  
+paper <on> <<the>> em c<on>cepts, and to, f<<<i>n>><all>y, trace  
+
+
+DocID: CACM-2390
+
+users of <<the>> system can store <<<i>n>> <<the>> computer  
+<<the>> drawbacks <<that>> th<i>s places <on> research, <i>t <i>s suggested  
+means <are> also prov<i>ded for <<the>> c<on>tr<i>but<i><on>  
+
+
+DocID: CACM-0867
+
+<<the>> f<i>rst model c<on>s<i>ders a rectangular <are>a, <<w<i>th>>  
+models <are> developed to extend <<the>> method to <<the>>  
+<<the>> c<on>stra<<<i>n>>t <<that>> <<the>> plane s<eg>ments <are> def<<<i>n>>ed  
+
+
+DocID: CACM-1035
+
+<on> <<the>> complex<i>ty of <<the>> <l<i>st> of quant<i>t<i>es  
+m<i>xtures, <<<i>n>> an <<<i>n>>put/output <l<i>st> or <<<i>n>> an express<i><on>,  
+<<the>> fortran cep <<<languages>>> d<i>ffers from fortran  
+
+
+DocID: CACM-2958
+
+<<the>> paper also c<on>ta<<<i>n>>s a br<i>ef d<i>scuss<i><on> of <<the>> problems  
+abstract <data> <<type>s> and <<the>> development of <data> <structures>  
+abstract <data> <type>, correctness proof, <data> <type>,  
+
+
+DocID: CACM-1046
+
+<have> developed for <<the>> ferrant<i> atlas computer.  <<the>>  
+<<<i>n>> a number of <art<i>cles> publ<i>shed dur<<<i>n>>g <<the>>  
+except <<<i>n>> some very sm<all> deta<i>ls, and <<<i>n>> some comments,  
+
+
+DocID: CACM-1710
+
+<<the>> append<i>x.  emphas<i>s <i>s <on> <<the>> ph<i>losophy of <<the>> system  
+<data> <i>tems and an arb<i>trary number of <<the>> relat<i><on>sh<i>ps  
+<l<i>st> structure, set <<<languages>>>, model<<<i>n>>g, graph<i>cs  
+
+
+DocID: CACM-2897
+
+advantage of <any> spec<i>al cases <i>s d<on>e by <<the>> opt<i>m<i>zat<i><on>s.  
+strat<eg>y can <<<i>n>>deed result <<<i>n>> good object code.  <<the>>  
+strat<eg>y descr<i>bed <above> comp<are>s favorably <<w<i>th>> <<the>>  
+
+
+DocID: CACM-2317
+
+<<<languages>>> may very well become <<the>> most <i>mportant  
+<<<i>n>> <<the>> operat<<<i>n>>g system <are>a <all> major computer  
+<<<i>n>>clude <<the>> <<<i>n>>creased <<<i>n>>terest <<<i>n>> <<the>> development of  
+
+
+DocID: CACM-1650
+
+<<the>> follow<<<i>n>>g var<i>ants <are> d<i>scussed:  1  <<the>> standard  
+<<the>> calculat<i><on> of sums of squ<are>s <<<i>n>> <<the>> analys<i>s  
+so <<that>> m<any> analyses of <<the>> same <data> can be performed  
+
+
+DocID: CACM-1066
+
+by <<the>> new demands <<that>> appl<i>cat<i><on>s <<w<i>th>><<<i>n>> <<the>>  
+of <<the>> comp<on>ents of such a system <are>: translat<i><on>  
+system.  emphas<i>s <<<i>n>> th<i>s paper <i>s devoted to <<the>> underly<<<i>n>>g  
+
+
+DocID: CACM-1937
+
+<<the>> command language of <<the>> system prov<i>des <<the>> user  
+<<w<i>th>> an easy means for spec<i>fy<<<i>n>>g <data> retr<i>eval  
+<<<i>n>> th<i>s paper <<the>> statements of <<the>> request language  
+
+
+DocID: CACM-1223
+
+<<<i>n>> wh<i>ch <i>t was generated, so <<that>> <<the>> f<i>rst pass <i>s <<the>>  
+pass <<<i>n>> essent<i><all>y <<the>> reverse of <<the>> order  
+by <<the>> f<i>rst two passes, <all>ows <<the>> comp<i>ler  
+
+
+DocID: CACM-2177
+
+<on> n nodes <<<i>n>>creases as n^g where g depends <on> <<the>> <type>  
+graph.  <<the>> graph may be represented e<i><<the>>r  <i>  as an  
+of <<the>> web grammar approach.  <<the>> algor<i>thm <i>s comp<are>d  
+
+
+DocID: CACM-2036
+
+<<<i>n>> man-computer commun<i>cat<i><on>. a set of funct<i><on>s to accompl<i>sh <<the>> <above>  
+argued <<that>> th<i>s fac<i>l<i>ty w<i>ll help overcome some of <<the>> current l<i>m<i>tat<i><on>s  
+and rece<i>ve <<the>> corresp<on>d<<<i>n>>g output resp<on>se <i>s presented.  <<the>> commands  
+
+
+DocID: CACM-2838
+
+or <on> a s<<<i>n>>gle processor t<i>me-sh<are>d <<w<i>th>> <<the>>m.  
+suspend<<<i>n>>g <<the>> operat<i><on>s of a <l<i>st> processor  
+performance, so <<that>> <<the>> suff<i>c<i>ent c<on>d<i>t<i><on>s <are> also  
+
+
+DocID: CACM-2937
+
+and <<the>> number of runs c<on>ta<<<i>n>><<<i>n>>g errors shows <<that>>, at  
+<<the>> language <<<i>n>> wh<i>ch programs <are> wr<i>tten  
+can <have> a substant<i>al effect <on> <<the>> rel<i>ab<i>l<i>ty  
+
+
+DocID: CACM-2106
+
+solut<i><on> of <<<i>n>>terest<<<i>n>>g problems;  3  be capable of expos<<<i>n>>g <all>  
+several years of exper<i>ence <have> led to <<the>> bel<i>ef <<that>> <<the>> creat<i>ve  
+ 7  <all>ow <<the>> student ready access to <<the>> mach<<<i>n>>e;  8  be capable  
+
+
+DocID: CACM-3132
+
+hyperplanes <are> tested <on> three <data> sets.  although <frequently>  
+set.  <<the>> trad<i>t<i><on>al methods f<<<i>n>>d a hyperplane wh<i>ch separates <all>  
+three algor<i>thms wh<i>ch <are> def<<<i>n>>ed <<<i>n>> <<the>> paper <are> found to be  
+
+
+DocID: CACM-0321
+
+<<the>> more obscure features of <<the>> language <are> c<on>s<i>dered  
+<are> based <on> <<the>> authors' <<<i>n>>terpretat<i><on>s of <<the>> algol 60 report.  
+<on>ce <<the>> report <i>s expla<<<i>n>>ed <i>t <i>s <<<i>n>> fact easy to learn  
+
+
+DocID: CACM-2299
+
+<<type>s> of <data> man<i>pulat<i><on>.  such a <data> structure  
+<data> structure <i>s employed so <<that>> <on>ly a sm<all>  
+number of programmed subrout<<<i>n>>es <are> necessary for <all>  
+
+
+DocID: CACM-1902
+
+run under <<the>> scheme may be m<i>xed <<w<i>th>> o<<the>>r  
+to record <<the>> results of programm<<<i>n>>g exerc<i>ses <<<i>n>> three  
+<i>s made for test<<<i>n>>g <<w<i>th>> programmer-suppl<i>ed <data>  
+
+
+DocID: CACM-1878
+
+<are> reachable from program var<i>ables.  by trac<<<i>n>>g <all>  
+depend <on> be<<<i>n>>g able to f<<<i>n>>d and mark nodes <<that>>  
+collector <<that>> recovers aband<on>ed reentrant <l<i>st> <structures>  
+
+
+DocID: CACM-3173
+
+<structures> <are> <i>dent<i>f<i>ed:  1  a transact<i><on> <i>s an event <<that>>  
+occurs <<<i>n>> <<the>> computer and <<<i>n>>volves some operat<i><on> <on> some object  
+to a l<<<i>n>>e of code,  3  chunks <are> <frequently> occurr<<<i>n>>g  
+
+
+DocID: CACM-1264
+
+perform <any> or <all> of <<the>> follow<<<i>n>>g users spec<i>f<i>ed  
+<<<i>n>> <<the>> system.  
+blnsys-a 1401 operat<<<i>n>>g system <<w<i>th>> bra<i>lle capab<i>l<i>t<i>es  
+
+
+DocID: CACM-0536
+
+<are> bound <<<i>n>> a relat<i><on> <<w<i>th>> certa<<<i>n>> parameters  
+values of <<the>> a<i> wh<i>ch m<<<i>n>><i>m<i>zes <<the>> sum of squ<are>s of  
+of <<the>> <above> equat<i><on> for zm,  zm=n z1,...;a1,...   
+
+
+DocID: CACM-1309
+
+var<i>ety.  costs <are> suff<i>c<i>ently low so <<that>>  
+of large <data> banks c<on>ta<<<i>n>><<<i>n>>g <data> <<<i>n>> elementary form.  
+perm<i>ts select<i>ve extract<i><on> of <any> <data> subset, eff<i>c<i>ent  
+
+
+DocID: CACM-2622
+
+<have> access to <<the>> table, but he can penetrate <<the>> system  
+<<<i>n>> <<the>> computer.    <all> aspects of <<the>> system, <<<i>n>>clud<<<i>n>>g  
+<<the>> user.  <<the>> <<<i>n>>truder may know <all> about h and  
+

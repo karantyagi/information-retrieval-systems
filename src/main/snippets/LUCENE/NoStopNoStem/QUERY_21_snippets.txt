@@ -1,0 +1,677 @@
+LUCENE_NoStopNoStem
+
+Query
+computational complexity, intractability, class-complete reductions,
+algorithms and efficiency
+
+Top 100 Results (213 millisecs)
+
+
+DocID: CACM-2337
+
+sorting, <computational> <complexity>, <computational> combinatorics  
+a sorting problem <and> its <complexity>  
+<algorithms> is given.  one new algorithm for  
+
+
+DocID: CACM-2325
+
+<complexity> , synthesis <and> analysis of <algorithms>,  
+of computation, <algorithms>, continuous <algorithms>  
+numerical mathematics <and> computer science  
+
+
+DocID: CACM-3086
+
+<computational> <complexity>, <computational> models,  
+analysis of <algorithms>, combinatorial problems,  
+the decision tree <complexity> of computing the  
+
+
+DocID: CACM-3018
+
+cover, edge clique cover, <computational> <complexity>,  
+keyword conflicts <and> intersection graphs  
+<algorithms> which always produce solutions  
+
+
+DocID: CACM-2110
+
+compilers, <computational> <complexity>  
+to be superior to the top-down <and> bottom-up <algorithms> studied by griffiths  
+<and> petrick.  
+
+
+DocID: CACM-2837
+
+concrete <computational> <complexity>, upper bounds,  
+selection problem, <algorithms>, comparison problems,  
+algorithm, <and> extends kirkpatrick's method to a  
+
+
+DocID: CACM-2997
+
+<computational> <complexity>, convex hull, optimal <algorithms>,  
+<and> conquer" technique <and> recursively apply  
+proposed <algorithms> is optimal within a multiplicative  
+
+
+DocID: CACM-2932
+
+<complexity> of computations, algebraic <complexity>,  
+<complexity> of computations  
+in tractable problems, probabilistic <algorithms>  
+
+
+DocID: CACM-2702
+
+<computational> <complexity>, context-free grammars,  
+on the <complexity> of lr k  testing  
+the <complexity> of the problem depends very strongly  
+
+
+DocID: CACM-2927
+
+<and> the bit <complexity> to o n logn log log logn .  
+<computational> <complexity>, sieve, prime number generation,  
+involving space-time <and> additive-multiplicative  
+
+
+DocID: CACM-2216
+
+uniformly distributed branching ratios, <and>  
+discussed by hoare, singleton, <and> van emden.  
+only minor <reductions> in the expected sorting effort,  
+
+
+DocID: CACM-2950
+
+are defined <and> related to existing <algorithms>.  a  
+efficiency  
+scheduling <algorithms>, scheduling models, priority,  
+
+
+DocID: CACM-2784
+
+selection, <computational> <complexity>, medians, tournaments, quantiles  
+both theoretically <and> practically.  the number of comparisons  
+
+
+DocID: CACM-2986
+
+<computational> <complexity>, sparse relation, boolean  
+union, <and> inverse, can be computed efficiently.  
+an expression whose oper<and>s are sparse relations <and>  
+
+
+DocID: CACM-2771
+
+<computational> geometry, computer-aided design,  
+added together or subtracted.  two <algorithms> to  
+of solid objects to be synthesized <and> stored  
+
+
+DocID: CACM-3165
+
+<computational> geometry, computer cartography, automated cartography  
+for area computation <and> point inclusion.  the algorithm is  
+the new organization is further illustrated by the outline of <algorithms>  
+
+
+DocID: CACM-2454
+
+<computational> <algorithms> for closed queueing  
+the <computational> <algorithms> are based on two-dimensional  
+such as storage allocation strategies <and>  
+
+
+DocID: CACM-1658
+
+programming, zero-one variables, <algorithms>  
+zero-one programming problem.  <computational> experience  
+of several existing <algorithms> for the  
+
+
+DocID: CACM-3110
+
+np-complete, <computational> <complexity>.  
+
+
+DocID: CACM-2679
+
+402 .  <algorithms> 271 <and> 402 are refinements of algorithm  
+sorting, in-place sorting, sorting <efficiency>,  
+some performance tests of "quicksort" <and> descendants  
+
+
+DocID: CACM-2743
+
+merge sorting, <computational> <complexity>, data  
+
+
+DocID: CACM-3131
+
+<algorithms> especially useful for microcomputer control <and> other  
+focus is a number system <and> supporting <computational>  
+speed, <computational> accuracy, microcomputer applications  
+
+
+DocID: CACM-2251
+
+in terms of <efficiency> <and> computation <complexity>.  
+size n = 2^r.  it allows full table searching, <and>  
+
+
+DocID: CACM-2936
+
+published <algorithms>.  first, the new algorithm's  
+<and> second, its worst-case <complexity> is o   
+recently <algorithms> have been presented for the  
+
+
+DocID: CACM-1619
+
+neely has discussed <computational> error generated  
+which are error-free, simple in concept, <and>  
+by some <algorithms> used to compute various  
+
+
+DocID: CACM-1309
+
+reports, regardless of <computational> <complexity> or format  
+processing through any <computational> sequence,  
+use of two special languages, extract <and> matran,  
+
+
+DocID: CACM-3055
+
+is shown to have expected swap <complexity> 5/9n.  
+dijkstra starts with a simple program <and> arrives at  
+have been given by dijkstra [1] <and> meyer [3].  
+
+
+DocID: CACM-2645
+
+language <and> to output results estimating its <efficiency>.  
+on the analysis of <algorithms>, <and> some of the directions  
+analysis of <algorithms>  
+
+
+DocID: CACM-3166
+
+<and> <computational> literature; the other two are new <algorithms>  
+four <algorithms> for the numerical computation  
+<algorithms> will provide accurate answers for many problems, but two  
+
+
+DocID: CACM-2828
+
+visible surface <algorithms>, hidden surface <algorithms>,  
+hierarchical geometric models for visible surface <algorithms>  
+to frame coherence <and> clipping define a graphical  
+
+
+DocID: CACM-2365
+
+matrix <algorithms>, linear equations, fortran,  
+matrix computations with fortran <and> paging  
+the <efficiency> of conventional fortran programs  
+
+
+DocID: CACM-2903
+
+stacks, <computational> induction  
+recursion elimination, pattern matching <algorithms>,  
+by using recursion in troduction, <algorithms>  
+
+
+DocID: CACM-2931
+
+<and> proofs, which are clean <and> without undue dependence  
+logic <and> programming languages  
+through the developments in <complexity> theory.  
+
+
+DocID: CACM-2953
+
+with tree traversal <and> sorting <algorithms>.  each method  
+stacks, trees, sorting <algorithms>, <computational>  
+or more stacks, <and> the solutions are compared  
+
+
+DocID: CACM-1659
+
+<computational> linguistics course curriculum, <computational>  
+linguistics graduate program, <computational>  
+<computational> linguistics, mathematical linguistics,  
+
+
+DocID: CACM-3037
+
+primes, <algorithms>, data structures  
+however, our version is perhaps simpler <and> more elegant.  
+primes between 2 <and> n.  the algorithm executes  
+
+
+DocID: CACM-3070
+
+to model the arrival <and> activation of jobs, <and> a  
+system processors.  the accuracy <and> <efficiency> of the  
+the result <and> <computational> costs of the hybrid model of  
+
+
+DocID: CACM-2189
+
+each other, <and> is generated successively  
+the permutation is determined by {e[k]}.  two <algorithms>  
+be cycling the permutations <and> by taking them in the  
+
+
+DocID: CACM-2855
+
+<and> extensions of the algorithm are discussed.  
+<algorithms> for the same problem.  some variations  
+list moving, list copying, lisp, space <complexity>, constant workspace  
+
+
+DocID: CACM-2766
+
+the best previous bounded workspace copying <algorithms>  
+list processing, copying, linear time, space <complexity>  
+operates in linear time <and> does not require tag bits.  
+
+
+DocID: CACM-3163
+
+ly known insertion <algorithms> of hirschberg <and> kosaraju, which require  
+the insertion <and> deletion <algorithms> for oshb trees appear much  
+more complicated than the corresponding <algorithms> for avl trees.  
+
+
+DocID: CACM-2746
+
+finite state machines, <computational> <complexity>.  
+keywords <and> phrases, string pattern matching, bibliographic  
+matching machine from the keywords <and> then using the  
+
+
+DocID: CACM-1957
+
+<efficiency> derives from evaluating the expression as a whole <and>  
+the list set generator is defined <and> <algorithms>  
+in parallel, rather than evaluating subexpressions <and>  
+
+
+DocID: CACM-1462
+
+of responsibility between levels leads to greater <efficiency> <and>  
+less logical <complexity>, while actually  
+
+
+DocID: CACM-2706
+
+<computational> <complexity>, polynomial completeness,  
+
+
+DocID: CACM-2169
+
+run time data structures, <and> implementation  
+implemented to h<and>le large problems with ease <and>  
+quickly <and> easily on a variety of computing  
+
+
+DocID: CACM-2033
+
+layout, retrieval trade-offs, retrieval <efficiency>, storage <efficiency>  
+in this paper trade-offs among certain <computational> factors  
+<and> compared with a particular conventional hash-coding method.  
+
+
+DocID: CACM-2749
+
+<efficiency> is of sufficient importance.  
+in the simulation of some systems when <computational>  
+interaction <and> less efficient at high levels.  a simple  
+
+
+DocID: CACM-2499
+
+<and> accounting are applied to this question, <and> some  
+monitor, executive, multiprogramming, <efficiency>,  
+<algorithms>, these are not arbitrary accounting  
+
+
+DocID: CACM-2313
+
+in their power <and> <complexity> over the 15-year  
+concepts <and> the structural relations which exist  
+computers.  the original concepts have split, <and>  
+
+
+DocID: CACM-1496
+
+<and> its application in a compiler-compiler  
+
+
+DocID: CACM-2226
+
+the <algorithms> as a suboptimizer is indicated.  
+further evidence for the analysis of <algorithms>  
+operations research, integer programming, zero-one variables, <algorithms>  
+
+
+DocID: CACM-2627
+
+which extend <and> generalize the <algorithms> known for  
+presenting <and> analyzing new <algorithms> it is shown  
+<algorithms>, deterministic scheduling models  
+
+
+DocID: CACM-3150
+
+<and> lays out some possible directions for future research.  
+can provide the means to underst<and> <and> manipulate complex  
+language concepts will not be adequate for building <and> maintaining  
+
+
+DocID: CACM-2389
+
+<and> includes means to represent spaces <and> objects, to manipulate  
+<and> the search <algorithms> are detailed.  
+them, <and> to test the resulting arrangements  
+
+
+DocID: CACM-3162
+
+<computational> <complexity>, linear time, worst case, string matching, periodicity  
+
+
+DocID: CACM-1650
+
+a unifying <computational> method for the  
+into all polynomial partitions <and> their interactions  
+a <computational> method which may be used for  
+
+
+DocID: CACM-2289
+
+<algorithms> for distance <and> spanning tree problems  
+<and> typical row <and> column operations are readily  
+steps, <and> noncellular implementations require from  
+
+
+DocID: CACM-3032
+
+routing procedures <and> data structures already  
+nodes of a network.  <algorithms> for accomplishing  
+for its analysis in this paper, <and> also because  
+
+
+DocID: CACM-2035
+
+program preparation <and> assembly.  it focuses on the preparation <and> editing  
+facilities for text editing, automatic filing <and> file maintenance, <and>  
+layering, linc, man-machine communication, on-line editing, on-line <efficiency>,  
+
+
+DocID: CACM-2916
+
+bibliographic search, <computational> <complexity>,  
+supported with empirical evidence <and> a theoretical  
+
+
+DocID: CACM-2524
+
+corresponding search <algorithms>, which are intended  
+using certain inequalities satisfied by metrics <and> by  
+are presented which compare the <efficiency> of the methods.  
+
+
+DocID: CACM-0371
+
+remarks on <algorithms> 2 <and> 3, algorithm 15 <and> <algorithms> 25 <and> 26  
+
+
+DocID: CACM-2695
+
+is an important <computational> tool  
+only row <and> corresponding column permutations.  the  
+of comparisons, the number of assignments, <and> the number  
+
+
+DocID: CACM-1886
+
+factorization <algorithms>, code optimization, sequencing  
+necessarily generated.  the factorization <algorithms>  
+boolean switching expressions <and> of factoring polynomials  
+
+
+DocID: CACM-2703
+
+grammars, <computational> <complexity>, exponential  
+the intrinsically exponential <complexity> of  
+
+
+DocID: CACM-1706
+
+used to provide alternative <computational> patterns.  
+procedures so that numeric <and> symbolic processes may  
+<and> a variant of snobol's pattern matching make up  
+
+
+DocID: CACM-2030
+
+grammars <and> general rewriting systems, <and> the difference between  
+formal language theory, parsing, parsing <algorithms>, recognition <algorithms>  
+derivations <and> a parsing algorithm which finds  
+
+
+DocID: CACM-2111
+
+<and> symbol tables, <and> the consideration of a limited class of spelling  
+incorporating spelling correction <algorithms> in  
+saving both programmer <and> machine time.  
+
+
+DocID: CACM-1491
+
+the sequence of corresponding syntactic <reductions>  
+syntactic rules <and> interpretation rules is determined by  
+between structure <and> meaning.  the structure of a  
+
+
+DocID: CACM-2081
+
+<and> utilized for efficient computing by saving memory space <and>  
+ended to sequence operators <and> cumulative operators.  <algorithms>  
+of matrices  are considered, <and> matrix operators areext  
+
+
+DocID: CACM-1350
+
+languages-its relative <efficiency>  
+<and> processing time.  
+parse algorithm" <and> an immediate constituent  
+
+
+DocID: CACM-2092
+
+relational properties <and> complex-relation-forming operators, <and>  
+structures <and> the <algorithms> used for question answering.  
+semantics, artificial intelligence, <computational>  
+
+
+DocID: CACM-2135
+
+formulas <and> mechanical quadrature rules  
+approximating f.  <algorithms> are developed  
+selections of q which includes the lagrangian <and>  
+
+
+DocID: CACM-2955
+
+two <algorithms> are presented for implementing  
+for in ternal, external, <and> total fragmentation.  
+buddy system, <and> the weighted buddy system are given.  
+
+
+DocID: CACM-1572
+
+of <efficiency> <and> greater applicability, the model was  
+<algorithms> or techniques.  for the sake  
+would suggest, <and> there are few guides to assist  
+
+
+DocID: CACM-3132
+
+experiments with some <algorithms> that find  
+than a noncentral hyperplane.  six <algorithms> for finding central  
+a lower error rate in classifying new points <and> is therefore better  
+
+
+DocID: CACM-2504
+
+concerning music <and> computer composition in <computational> linguistics  
+
+
+DocID: CACM-2628
+
+minimal-total-processing time drum <and> disk scheduling disciplines  
+over the sltf discipline.  the <computational> requirements  
+moving-head drum <and> moving-head disk storage units are  
+
+
+DocID: CACM-3153
+
+or <and> paging <and> file devices, with fixed numbers of jobs, is studied  
+numerical solutions <and> economical lower bounds for the  
+to determine optimal degrees of multiprogramming <and> the proportion  
+
+
+DocID: CACM-1265
+
+<algorithms> for producing grammars equivalent to  
+the increase in recognition <efficiency> they afford  
+a given context-free grammar have been considered, <and>  
+
+
+DocID: CACM-3118
+
+a permutation algorithm is derived, <and> the class of optimum <algorithms> is  
+
+
+DocID: CACM-0719
+
+permit ready establishment <and> manipulation  
+the basis of compiler decoding <algorithms> the proper  
+
+
+DocID: CACM-3151
+
+points, real-time <algorithms>, on-line <algorithms>.  
+<computational> geometry, convex hull, planar set of  
+
+
+DocID: CACM-3057
+
+picture <and> that of a reference picture is minimized.  
+<complexity> o k1 x k2 .  if the monotone property  
+
+
+DocID: CACM-1465
+
+<and> reliability; empty options <and> default conventions  
+features promote clarity <and> reliability.  
+<efficiency> dictates that the overall effectiveness  
+
+
+DocID: CACM-2892
+
+performance evaluation <and> <efficiency>, resource sharing  
+presented <and> by extrapolation these measurements  
+levels of protocol hierarchy <and> the characteristics  
+
+
+DocID: CACM-1947
+
+<and> loop identification.  implementation of these <and> other  
+compilers, data flow analysis, dominance, <efficiency>,  
+methods of analyzing the control flow <and> data  
+
+
+DocID: CACM-3065
+
+trees, insertion <and> deletion <algorithms>  
+insertion <and> deletion are provided for the  
+<and> deletion can be  carried out in o  log n  time for  
+
+
+DocID: CACM-2457
+
+powerful inductive methods <computational> induction  
+practical approaches; second, presentation <and> examination  
+recursive programs, least fixed point, <computational>  
+
+
+DocID: CACM-3040
+
+backtrack, combinatorial <algorithms>, constraint  
+of backtrack tree search <efficiency>.  an algorithm  
+
+
+DocID: CACM-3134
+
+for information storage <and> retrieval  
+are compared to other common approaches.  <algorithms> evaluating  
+for the information system.  <algorithms> for the organization an  
+
+
+DocID: CACM-1811
+
+parallel-processor computing system, <and> execution  
+the solution time of a <computational> problem. the  
+
+
+DocID: CACM-2126
+
+respect to <efficiency>, flexibility, <and> utility  
+the system <and> its base language are appraised with  
+
+
+DocID: CACM-2938
+
+the <complexity> of reasoning about concurrency <and> execution  
+systems analytically verifiable <and> ultimately  
+with increasing <complexity> of reasoning  
+
+
+DocID: CACM-0598
+
+<and> full utilization of a well-constructed cobol library.  
+the cobol librarian - a key to object program <efficiency>  
+
+
+DocID: CACM-2701
+
+a fast <and> usually linear algorithm for global  
+larger classes of function spaces <and> graphs by relaxing  
+
+
+DocID: CACM-2723
+
+<algorithms> for a multiprocessing compactifying  
+<and> interlocks. complete procedures for garbage  
+list operations <and> the other performing  
+
+
+DocID: CACM-2884
+
+permutations, loop-free <algorithms>  
+classical permutation enumeration <algorithms> encounter  
+operations, <and> subscripted array references  
+
+
+DocID: CACM-3007
+
+<complexity> of computations  corrigendum   
+

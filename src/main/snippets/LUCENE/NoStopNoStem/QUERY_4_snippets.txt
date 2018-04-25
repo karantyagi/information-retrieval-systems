@@ -1,0 +1,711 @@
+LUCENE_NoStopNoStem
+
+Query
+I'm interested in mechanisms for communicating between disjoint processes,
+possibly, but not exclusively, in a distributed environment.  I would
+rather see descriptions of complete mechanisms, with or without implementations,
+as opposed to theoretical work on the abstract problem.  Remote procedure
+calls and message-passing are examples of my interests.
+
+Top 100 Results (376 millisecs)
+
+
+DocID: CACM-2342
+
+s' <<<i>n>> <a>cc<or>d<a>nce w<i>th <a> tr<a>ns<i>t<i><on> rule s --> s'.  <a>  
+<the> c<or>rectness <<of>>   <or> d<i>scred<i>t  prove <the>  
+<a>s quest<i><on>s <<of>> <<<i>n>>clus<i><on> <between> sets <<of>> st<a>tes, <or>  
+
+
+DocID: CACM-2931
+
+<<of>> comput<a>t<i><on>  <<<i>n>> <a> w<a>y, <the> st<a>t<i>cs <<of>> <the> <problem>   
+<<<i>n>> <the> o<the>r d<i>rect<i><on> <f<or>> <the> m<or>e <a>ppl<i>ed p<a>rts <<of>>  
+w<i>th <the> method <<of>> d<a>t<a> types <a>s l<a>tt<i>ces  <or> p<a>rt<i><a>l  
+
+
+DocID: CACM-3128
+
+ex<a>mples <<of>> <i>ts use <a>re g<i>ven.  <the> rel<a>t<i><on>sh<i>p <<of>> <the> mech<a>n<i>sm  
+<a>bstr<a>ct objects c<a>lled eventcounts <a>nd sequencers, th<a>t <a>llows <processes>  
+<to> protect<i><on> <mech<a>n<i>sms> <<<i>n>> <the> system <i>s expl<a><<<i>n>>ed; <<<i>n>> p<a>rt<i>cul<a>r,  
+
+
+DocID: CACM-2377
+
+<to> <a> c<a>ll <to> <a> comp<a>n<i><on> user <procedure>.  <the> <mech<a>n<i>sms>  
+c<a>lls <a>nd subsequent returns <to> occur w<i>thout  
+<<of>> p<a>ss<<<i>n>>g <a>nd referenc<<<i>n>>g <a>rguments <a>re <the>  
+
+
+DocID: CACM-1135
+
+<<<i>n>> <the> progr<a>m  e.g. mod<i>f<i>c<a>t<i><on> <<of>> <on>ly <on>e entry <<of>> <the>  
+<<of>> flowch<a>rts .  here <a>n <<<i>n>>v<a>r<i><a>nt p<a>ttern <<of>> <procedure>  
+<a> process  e.g. ch<a>nges <a>ffect<<<i>n>>g <on>ly <on>e <<of>> <the> output  
+
+
+DocID: CACM-2314
+
+<a> w<i>de r<a>nge <<of>> <a>ppl<i>c<a>t<i><on>s.  three <a>spects <<of>> progr<a>mm<<<i>n>>g  
+<<of>> progr<a>mmers w<or>k<<<i>n>>g <<<i>n>> such dom<a><<<i>n>>s.  <a>  
+<a>nd p<a>ck<a>g<<<i>n>>g.  <<i>m>plement<a>t<i><on> <<of>> <a> gener<a>l<i>zed <env<i>r<on>ment>  
+
+
+DocID: CACM-2060
+
+<not> perm<i>tted.  <the> funct<i><on><a>l <a>ppro<a>ch <to> d<a>t<a> structures <a>nd <the>  
+structures <a>re tre<a>ted <a>s funct<i><on>s.   4  type decl<a>r<a>t<i><on>s <a>re  
+<<of>> v<a>r<i><a>bles.   2  <a>ss<i>gnment <a>nd <<<i>n>>d<i>rect <a>ddress<<<i>n>>g <a>re <f<or>>m<a>l<i>zed  
+
+
+DocID: CACM-3043
+
+<processes> commun<i>c<a>te <a>nd synchr<on><i>ze by me<a>ns <<of>> <procedure>  
+<the> p<a>per g<i>ves sever<a>l ex<a>mples <<of>> d<i>str<i><but>ed <processes>  
+<a> l<a>ngu<a>ge c<on>cept <f<or>> c<on>current <processes>  
+
+
+DocID: CACM-0616
+
+<a>nd c<a>n be <a>ddressed <to> <a>ny <<of>> <the> members <<of>>  
+<the> systems <a>n<a>lyst's use.  <the>y trust th<a>t <the> <i>de<a>s  
+<<<i>n>> th<i>s rep<or>t.  r<a><the>r, <the>y h<a>ve tr<i>ed <to> present  
+
+
+DocID: CACM-2438
+
+<<<i>n>> <the> s<<i>m>ple c<a>se,<i>t runs <i>dent<i>c<a>lly <to> <the>  
+<procedure> <a>ct<i>v<a>ted.  th<i>s <i>s str<a><i>ght<f<or>>w<a>rd <to>  
+<to> c<on>trol flow.  <the> techn<i>que h<a>s <the> property th<a>t,  
+
+
+DocID: CACM-2905
+
+<to> g<i>ve m<<<i>n>><<i>m><a>l  <or> <a>lmost m<<<i>n>><<i>m><a>l  t<a>bles <f<or>>  
+set <i> <the> sm<a>llest t<a>ble <<<i>n>> wh<i>ch <the> elements <<of>> <i>  
+<<of>> <a>n <i>tem <<<i>n>> <a> st<a>t<i>c t<a>ble w<i>th <a> s<<<i>n>>gle probe  
+
+
+DocID: CACM-2851
+
+<a> p<a>r<a>llel-progr<a>m model.  <the> <f<or>>mer model does <not>  
+<the>re <to> be <a>rb<i>tr<a>r<i>ly m<a>ny <<<i>n>>struct<i><on> po<<<i>n>>ters  <or>  
+<a>re presented: <a>n <a>bstr<a>ct c<on>ceptu<a>l model <a>nd  
+
+
+DocID: CACM-2939
+
+<<<i>n>> <the> progr<a>mm<<<i>n>>g process.  <<of>> <the>se, <on>ly <the>  
+<mech<a>n<i>sms> th<a>t supp<or>t <the> use <<of>> d<a>t<a> <a>nd  
+w<or>k <<<i>n>> progr<a>mm<<<i>n>>g methodology h<a>s led <to> <the> re<a>l<i>z<a>t<i><on>  
+
+
+DocID: CACM-2895
+
+<the> spec<i>f<i>c<a>t<i><on>s <a>re c<on>str<a><<<i>n>> ts <on> <the> <or>der <<<i>n>> wh<i>ch  
+<problem> <a>nd <the> wr<i>ter pr<i><or><i>ty <<of>> <the> sec<on>d  
+events <<of>> <a> comput<a>t<i><on> c<a>n occur.  <the> l<a>ngu<a>ge  
+
+
+DocID: CACM-2684
+
+<a> sm<a>ll <but> s<i>gn<i>f<i>c<a>nt subset <<of>> pl/<i> <i>s c<on>s<i>dered.  <a>  
+<to> def<<<i>n>>e <a>bstr<a>ct synt<a>x <a>nd tr<a>nsl<a>t<i><on>s <between> l<a>ngu<a>ges,  
+<between> <a>ctu<a>l <a>nd <f<or>>m<a>l p<a>r<a>meters, <a>nd  
+
+
+DocID: CACM-3141
+
+<a>lg<or><i>thm <f<or>> f<<<i>n>>d<<<i>n>>g <the> l<a>rgest  <or> sm<a>llest  <<of>> <a> set <<of>> un<i>quely  
+c<on>troller ex<i>sts <a>nd <the> number <<of>> <processes> <i>s <not> known <a> pr<i><or><i>.  
+mess<a>ge ext<<<i>n>>ct<i><on> <<<i>n>> <or>der <to> <a>ch<i>eve <a>n <a>ver<a>ge number <<of>>  
+
+
+DocID: CACM-1727
+
+<the> s <i>j .  <i>t <i>s e<a>s<i>er <to> est<<i>m><a>te <not> s <i>j  <but>  
+<<of>> s <i>j , where s <i>j  <i>s <the> me<a>n v<a>lue <<of>> <the> number  
+<i>.  <a>lthough <the> p <i>j  <a>re, <f<or>> e<a>ch <i>, prop<or>t<i><on><a>l <to>  
+
+
+DocID: CACM-2848
+
+<but> r<a><the>r sets <<of>> dec<i>s<i><on> rules.  <the> purpose <<of>> th<i>s  
+<the> dec<i>s<i><on> rules <a>nd thus prov<i>de <a>n <a><i>d <<<i>n>> develop<<<i>n>>g  
+<processes> <to> be <a>u<to>m<a>ted.  <the> result <<of>> such <a>n <<<i>n>>terv<i>ew  
+
+
+DocID: CACM-2969
+
+<on>e computer <to> <a><not>her c<a>n <a>lso be g<a><<<i>n>>ed from <the>  
+<<of>> progr<a>m <a>nd d<a>t<a> f<i>les <<<i>n>> <a> computer netw<or>k  
+dependenc<i>es <between> f<i>les <a>nd progr<a>ms such <a>s  
+
+
+DocID: CACM-3021
+
+<the> rem<a><<<i>n>>der when <the> result <i>s d<i>v<i>ded by <the> publ<i>cly  
+cour<i>ers <or> o<the>r secure me<a>ns <a>re <not> needed <to> tr<a>nsm<i>t  
+<a> mess<a>ge c<a>n be "s<i>gned" us<<<i>n>>g <a> pr<i>v<a>tely held  
+
+
+DocID: CACM-1665
+
+<<of>> events.  th<i>s <a>llows <the> system <to> be used <<<i>n>> <a>  
+<<of>> <the> n<a>ture <<of>> <the> <i>tems be<<<i>n>>g ev<a>lu<a>ted.  <i>f <the>  
+<<of>> <the> system <i>s <a> lex<i>c<a>l process<or> wh<i>ch re<a>ds <a> str<<<i>n>>g  
+
+
+DocID: CACM-3103
+
+<f<or>> <a>bstr<a>ct types from <a> l<i>br<a>ry <<of>> <<i>m>plement<a>t<i><on>s  
+<a> system <f<or>> <a>u<to>m<a>t<i>c<a>lly choos<<<i>n>>g eff<i>c<i>ent <<i>m>plement<a>t<i><on>s  
+proved <to> be very helpful <<<i>n>> c<on>struct<<<i>n>>g <a>nd  
+
+
+DocID: CACM-2900
+
+wh<i>ch <to> loc<a>te cop<i>es <<of>> <a> f<i>le-<i>s known <to> be, <<<i>n>> gener<a>l,  
+some <the><or>ems <to> <a><i>d <<<i>n>> solv<<<i>n>>g <the> f<i>le <a>lloc<a>t<i><on> <problem>  
+<a><i>ds <to> f<<<i>n>>d<<<i>n>>g opt<<i>m><a>l, <or> ne<a>r-opt<<i>m><a>l, solut<i><on>s <a>re  
+
+
+DocID: CACM-3105
+
+<<<i>n>> oper<a>t<<<i>n>>g systems by <a>ccess c<on>trol <mech<a>n<i>sms>.  th<i>s  
+<a> l<a>ngu<a>ge extens<i><on> <f<or>> express<<<i>n>>g c<on>str<a><<<i>n>>ts <on> d<a>t<a> <a>ccess  
+<the> c<on>str<a><<<i>n>>ts <a>re st<a>ted decl<a>r<a>t<i>vely, <a>nd c<a>n  
+
+
+DocID: CACM-3049
+
+<to> <the> des<i>gn <<of>> sembegs <a>nd outl<<<i>n>>es <the> m<a>j<or>  
+extend<a>ble <to> <a> fully <<<i>n>>ter<a>ct<i>ve system.  <the>  
+sembegs <i>s e<a>sy <to> extend <a>nd mod<i>fy <to> meet <the>  
+
+
+DocID: CACM-2439
+
+<the> system execut<i>ve <or> <<<i>n>> <a>ny <<of>> <the> system's comp<i>lers <or> <<<i>n>>terpreters.  
+<<<i>n>> <a>ny l<a>ngu<a>ge <a>v<a><i>l<a>ble <on> <the> system.  th<i>s  
+w<a>s <<i>m>plemented w<i>thout requ<i>r<<<i>n>>g <a>ny ch<a>nges <<<i>n>>  
+
+
+DocID: CACM-1145
+
+<<<i>n>> <the> com<i>t l<a>ngu<a>ge <a>nd successfully tested <on> <the> <i>bm 7090.  
+g<i>ven <a> p<a><i>r <<of>> d<i>rected l<<<i>n>>e gr<a>phs, <the> <problem>  
+<<of>> <a>scert<a><<<i>n>><<<i>n>>g whe<the>r <or> <not> <the>y <a>re <i>som<or>ph<i>c  
+
+
+DocID: CACM-2519
+
+<the> n<a>ture <<of>> <the> d<i>ff<i>culty <<<i>n>>volved <<<i>n>> commun<i>c<a>t<<<i>n>>g  
+dev<i>ces, <the> exh<i>b<i>t<i><on> <<of>> <the> structure <<<i>n>>herent <<<i>n>> <the>  
+<i>s ex<a>m<<<i>n>>ed.  <the> <problem> <i>s <a>n<a>lyzed <<<i>n>> terms <<of>>  
+
+
+DocID: CACM-2721
+
+<<<i>n>> <a>dd<i>t<i><on>, <the> study dem<on>str<a>tes <the> usefulness <<of>>  
+<<<i>n>> <the> columb<i><a> r<i>ver w<a>s m<a>de b<a>sed <on> <a>pprox<<i>m><a>t<i><on>s  
+<<of>> <the> <a>ccur<a>cy <<of>> <the> s<<i>m>ul<a>t<i><on> methods, <a> s<<i>m>ul<a>t<i><on>  
+
+
+DocID: CACM-0409
+
+<<of>> d<i>st<<<i>n>>ct d<a>t<a> descr<i>pt<i><on>s <a>nd <the> c<on>tent <a>nd  
+<f<or>> <a>ccept<<<i>n>>g, st<or><<<i>n>>g, <a>nd retr<i>ev<<<i>n>>g both descr<i>pt<i><on>s  
+<<of>> comm<a>nd <a>nd descr<i>pt<i>ve l<a>ngu<a>ges.  <the> c<on>cept  
+
+
+DocID: CACM-1253
+
+<not> <a> progr<a>mm<<<i>n>>g gu<i>de <to> <the> l<a>ngu<a>ge, <but> r<a><the>r  
+<a>n <a>ttempt <to> present <i>ts fl<a>v<or>.  <a> br<i>ef descr<i>pt<i><on> <<of>>  
+<to> <the> re<a>der f<a>m<i>l<i><a>r w<i>th <a>lgebr<a><i>c l<a>ngu<a>ges.  
+
+
+DocID: CACM-3148
+
+<<of>> p<a>rt<i>cul<a>r l<a>ngu<a>ges <a>nd m<a>ch<<<i>n>>es.  <i>t <a>ppe<a>rs <to> be useful <f<or>>  
+progr<a>mm<<<i>n>>g <a> w<i>de r<a>nge <<of>> t<a>sks.  th<i>s <i>s p<a>rt <<of>> <a>n <a>mb<i>t<i>ous  
+<a>nd tr<a>ns<a>ct<i><on> key, <the> methodology <i>s shown <to> be <<<i>n>>dependent  
+
+
+DocID: CACM-1458
+
+prov<i>de <a> f<a>c<i>l<i>ty <f<or>> <the> <on>l<<<i>n>>e user; <i>t <i>s <the>  
+<to> <on>l<<<i>n>>e progr<a>mm<<<i>n>>g, <the>re <a>re <a> number <<of>>  
+p<a>per <the> <on>l<<<i>n>>e <env<i>r<on>ment> <a>nd <i>ts effect <on>  
+
+
+DocID: CACM-2233
+
+<<of>> encod<<<i>n>>g <i>tself so <a>s <to> y<i>eld new clues <a>nd deeper  
+<<of>> <the> un<<<i>n>><i>t<i><a>ted, <the> encod<<<i>n>>g method used <<<i>n>> <the>  
+w<i>th <the> <a><i>d <<of>> <a>n uns<a>n<i>t<i>zed vers<i><on> <<of>> <the>  
+
+
+DocID: CACM-2705
+
+m<a><the>m<a>t<i>cs <a>nd n<a>tur<a>l l<a>ngu<a>ges.  <the> spl<i>t <between>  
+<a>venues <f<or>> fur<the>r w<or>k <<of>> w<i>de <<<i>n>>fluence <a>re  
+dom<<<i>n>><a>nt <f<or>> <a> l<on>g t<<i>m>e <to> come.  <the> most prom<i>s<<<i>n>>g  
+
+
+DocID: CACM-1470
+
+<f<or>> <a> l<a>ngu<a>ge.   he c<on>cludes by suggest<<<i>n>>g <the> evolut<i><on>  
+<the> expl<i>c<i>t c<a>ll.  <the> three pr<<<i>n>>c<i>p<a>l w<a>ys <<of>>  
+<the> d<a>t<a> <i>tself,  2  by referr<<<i>n>>g <to> <the> d<a>t<a> by  
+
+
+DocID: CACM-2767
+
+<<<i>n>> use w<i>th current s<<i>m>ul<a>t<i><on> l<a>ngu<a>ges.  <the> most  
+<not><i>ces, <a>nd <a><not>her uses <a>n <<<i>n>>dexed l<<<i>n>>e<a>r l<i>st. <the> <a>lg<or><i>thms  
+<the> <a>dv<a>nt<a>ges <a>nd l<<i>m><i>t<a>t<i><on>s <<of>> <the> <a>lg<or><i>thms.  
+
+
+DocID: CACM-1742
+
+<a>s <i>t w<a>s found th<a>t success<i>ve <<i>m>provements <to>  
+<between> d<i>spl<a>y <a>nd p<a>rent computer <i>s <a> key f<a>ct<or> <<<i>n>> d<i>spl<a>y process<or> des<i>gn.  
+<to> w<or>k eff<i>c<i>ently, such <a> ch<a>nnel must h<a>ve <a> suff<i>c<i>ent number  
+
+
+DocID: CACM-2916
+
+<the> w<or>st c<a>se beh<a>v<i><or> <<of>> <the> <a>lg<or><i>thm <i>s l<<<i>n>>e<a>r <<<i>n>>  
+<f<or>> t<a>bles l<<<i>n>>e<a>r <<<i>n>> p<a>tlen plus <the> s<i>ze <<of>> <the> <a>lph<a>bet.  
+<the> loc<a>t<i><on>, "<i>," <<of>> <the> f<i>rst occurrence <<of>> <a>  
+
+
+DocID: CACM-0724
+
+<<of>> progr<a>mmers <to>w<a>rd <the><i>r c<a>reers <a>nd jobs.  <a> very  
+w<or>k, <a>nd mostf<<<i>n>>d <the><i>r jobs <<of>>fer h<i>gh level <<of>> pr<<of>>ess<i><on><a>l  
+cho<i>ce <f<or>> most <a>nd <the>y expect <to> rem<a><<<i>n>> <<<i>n>>  
+
+
+DocID: CACM-2929
+
+w<i>th l<i>ttle <<<i>n>>cre<a>se <<<i>n>> <the> s<i>ze <<of>> comp<i>led code <a>nd <a>  
+<<of>> <the> <procedure> body.  <the> gener<a>l <problem> <<of>>  
+progr<a>m <to> be opt<<i>m><i>zed.  prel<<i>m><<<i>n>><a>ry results <f<or>> <the>  
+
+
+DocID: CACM-1651
+
+<the> <a>rt<i>cle <<<i>n>>cludes ex<a>mples <<of>> <<<i>n>>put, output from <a>  
+<<of>> <the> lp <problem>  l<<i>m><i>ted <on>ly by <a> keypunch's  
+<to> <a>ny l<<<i>n>>e<a>r progr<a>mm<<<i>n>>g solut<i><on> rout<<<i>n>>e, <f<or>> subsequent  
+
+
+DocID: CACM-1908
+
+<a> per<f<or>>m<a>nce level equ<a>l <to> th<a>t <<of>> <the> b<a>tch  
+who, <a>s n<on>progr<a>mmers, <a>re us<<<i>n>>g <the> computer <a>s <a>n  
+comp<a>r<i>s<on> <<of>> <the><i>r v<a>lues <<<i>n>> <a> <problem> -  
+
+
+DocID: CACM-2840
+
+<a> s<i>tu<a>t<i><on> <i>s s<a>fe. v<a>r<i>ous <<i>m>pl<i>c<a>t<i><on>s <<of>> th<i>s f<a>ct <a>re d<i>scussed.  
+whe<the>r <a> subject c<a>n <a>cqu<i>re <a> p<a>rt<i>cul<a>r r<i>ght <to>  
+<to> determ<<<i>n>>e whe<the>r <a> system <<<i>n>> <a> p<a>rt<i>cul<a>r  
+
+
+DocID: CACM-1846
+
+<a> c<on>vent<i><on><a>l d<i>g<i>t<a>l computer <a>re de<a>lt w<i>th.  <the>  
+<the> <<<i>n>><f<or>>m<a>t<i><on> <a>v<a><i>l<a>ble <to> <the> solut<i><on> techn<i>que, <but>  
+<problem>s.  <the> techn<i>que w<i>ll e<i><the>r f<<<i>n>>d <a> method <<of>>  
+
+
+DocID: CACM-1829
+
+from <the> hum<a>n user.  <i>t <a>lso w<i>ll resp<on>d <to> comm<a>nds  
+<the> hum<a>n <a>nd progr<a>m c<a>n <<<i>n>>ter<a>ct <on> <a> symmetr<i>c<a>l  
+<a>nd equ<a>l b<a>s<i>s through <the> med<i>um <<of>> <the> gr<a>ph<i>c m<on><i>t<or>.  
+
+
+DocID: CACM-2865
+
+<a>n <a><i>d <to> prov<<<i>n>>g <i>t c<or>rect.  <the> <<<i>n>><f<or>>m<a>t<i><on> <<<i>n>> <a> p<a>rt<i><a>l  
+<a> cruc<i><a>l <a>x<i>om prov<i>des <f<or>> <the> use <<of>> <a>ux<i>l<i><a>ry v<a>r<i><a>bles,  
+wh<i>ch <a>re <a>dded <to> <a> p<a>r<a>llel progr<a>m <a>s  
+
+
+DocID: CACM-0321
+
+<a>nd <to> use c<or>rectly.  <<<i>n>> th<i>s p<a>per some <<of>>  
+<on>ce <the> rep<or>t <i>s expl<a><<<i>n>>ed <i>t <i>s <<<i>n>> f<a>ct e<a>sy <to> le<a>rn  
+<to> be wr<i>tten, <a>s we w<i>ll <see> l<a>ter, <a>nd here<<<i>n>>  
+
+
+DocID: CACM-0435
+
+<a>lso w<i>th <the> <problem> <<of>> m<a><<<i>n>>t<a><<<i>n>><<<i>n>>g, <<i>m>prov<<<i>n>>g <a>nd  
+<a>nd <procedure>s <i>s <not> <<<i>n>>st<a>nt<a>neous, <but> r<a><the>r occurs  
+<a> dec<i>s<i><on> m<a>tr<i>x <a>s <the> b<a>s<i>s <f<or>> <a> s<<i>m>ple d<a>t<a> <<<i>n>>put rout<<<i>n>>e  
+
+
+DocID: CACM-1014
+
+<<of>> gett<<<i>n>>g err<or> terms.  <i>t <i>s n<a>tur<a>l <the>re<f<or>>e <to> look  
+<to> <the> computer <to> h<a>ndle <the> bulk <<of>> w<or>k <<<i>n>>volved  
+<a>s <the> number <<of>> f<a>ct<or>s <<<i>n>>cre<a>ses, <i>s <the>  
+
+
+DocID: CACM-2940
+
+<a>nd <the> c<on>trol structure <<of>> <the> l<a>ngu<a>ge <i>tself.  <a>  
+<to> be expressed <<<i>n>> <the> <f<or>>m <<of>> pro<<of>> rules <a>re developed.  
+<on> <a>bstr<a>ct ent<i>t<i>es w<i>thout expl<i>c<i>t dependence <on> <the>  
+
+
+DocID: CACM-3069
+
+<on> <the> <procedure>, <a>nd <a>ll <<of>> <i>ts subc<a>lls.  <the>  
+<<<i>n>><f<or>>m<a>t<i><on> <<<i>n>> <a> s<<<i>n>>gle p<a>ss, <not> requ<i>r<<<i>n>>g <a> prep<a>ss <to>  
+progr<a>ms <a>nd <to> de<a>l w<i>th <the> sh<a>r<<<i>n>>g <<of>> v<a>r<i><a>bles  
+
+
+DocID: CACM-3056
+
+<a>re used <to> keep tr<a>ck <<of>> <a>s m<a>ny <a>s 130,000 events w<i>th  
+<or> s<<of>>tw<a>re used <f<or>> <the> m<on><i>t<or><<<i>n>>g <<of>> exper<<i>m>ents <or> <processes>.  
+be expected <to> be 24 percent <or> less 95 percent <<of>>  
+
+
+DocID: CACM-1588
+
+<<of>> pl/<i>.  <the> b<a>s<i>c c<on>cepts <<of>> l<i>st process<<<i>n>>g <a>nd  
+<the> ph<i>losophy <<of>> <the> pl/<i> l<a>ngu<a>ge extens<i><on>s <a>re  
+d<i>scussed.  <<<i>n>> <a>dd<i>t<i><on>, sever<a>l det<a><i>led l<i>st-process<<<i>n>>g ex<a>mples <a>re prov<i>ded.  
+
+
+DocID: CACM-2406
+
+<on> <a> computer system.  however, <the> need <f<or>>  
+<a>s <<<i>n>> <a>dv<a>nced d<a>t<a> m<a>n<a>gement systems <a>nd d<i>str<i><but>ed  
+<a>nd phys<i>c<a>l <a>spects <<of>> d<a>t<a>.  <a>ppl<i>c<a>t<i><on>s <<of>> <the>se  
+
+
+DocID: CACM-1626
+
+<a>nd progr<a>ms.  descr<i>bed <<<i>n>> th<i>s p<a>per <a>re <a> number  
+<<of>> techn<i>ques th<a>t h<a>ve been used <to> bu<i>ld <a> l<i>sp  
+<<of>> v<i>rtu<a>l mem<or>y <to> <a>llow <a>ddress <a>r<i>thmet<i>c <f<or>> type  
+
+
+DocID: CACM-1534
+
+<<of>> <the> system.  <the> techn<i>ques found useful <<<i>n>> <the> development  
+<the> use <<of>> <the> drums, <the> buffer<<<i>n>>g <<of>> <<<i>n>>put <a>nd output  
+<a> l<a>rge drum b<a>ck<<<i>n>>g st<or>e <a>nd <i>s <<<i>n>>tended <to>  
+
+
+DocID: CACM-1536
+
+ev<a>lu<a>t<i><on> <<of>> <a> funct<i><on> <a>nd der<i>v<a>t<i>ve proceed <<<i>n>>  
+der<i>v<a>t<i>ves <<of>> <a> funct<i><on>, w<i>thout <the> need <f<or>>  
+p<a>r<a>llel, <a>s <<<i>n>> wengert's <procedure>, <but> w<i>th <the>  
+
+
+DocID: CACM-2692
+
+th<a>t <a> new vertex m<a>y be requ<i>red <a>t <a> c<or>ner <<of>> <the>  
+<a>nd l<a>st, <<<i>n>> m<a>rked c<on>tr<a>st <to> represent<a>t<i><on> <a>s <a>  
+<a>s so<on> <a>s <the> f<i>rst output vertex from <the> proceed<<<i>n>>g  
+
+
+DocID: CACM-1307
+
+<to> e<a>se <the> use <<of>> <a> d<a>t<a> process<<<i>n>>g system by <a>  
+<<<i>n>> compos<<<i>n>>g comm<a>nds <to> <the> computer.  <<<i>n>> <the>  
+<<of>> d<a>t<a> h<a>ndled by <the> system.  s<<<i>n>>ce such <a> pers<on> <i>s  
+
+
+DocID: CACM-1323
+
+<a> c<or>resp<on>dence <between> <a>lgol 60 <a>nd church's l<a>mbd<a>-<not><a>t<i><on>: p<a>rt <i>*  
+<a> c<or>resp<on>dence <between> express<i><on>s <<of>> <a>lgol 60 <a>nd express<i><on>s  
+<the> sec<on>d p<a>rt <<of>> <the> p<a>per g<i>ves <a> <f<or>>m<a>l descr<i>pt<i><on>,  
+
+
+DocID: CACM-1099
+
+<to> <a>ny systems group.  be<f<or>>e <the> bl<<<i>n>>d could become <a>  
+<a>nd <a><i>ds wh<i>ch were des<i>gned by <the> st<a>ff <<of>> <the> med<i>c<a>l  
+w<or>k.  bec<a>use <<of>> <<<i>n>>tense tr<a><<<i>n>><<<i>n>>g <<<i>n>> <a>nd  
+
+
+DocID: CACM-3013
+
+<the> sec<on>d uses <the> d<i>fference <between> <the> me<a>n <a>nd  
+<to> <on>e <<of>> <the> st<a>nd<a>rd d<i>g<i>t<a>l <a>pprox<<i>m><a>t<i><on>s <to> <the> gr<a>d<i>ent.  
+<to> step edges, <but> <not> <to> r<a>mps.  <the> f<i>rst  
+
+
+DocID: CACM-3018
+
+<to> <the> <problem> <<of>> cover<<<i>n>>g <the> edges <<of>> <a> gr<a>ph  
+<the> number <<of>> <complete> subgr<a>phs.  <a> rel<a>t<i><on>sh<i>p  
+from <a>lg<or><i>thm <f<or>> <the> o<the>r.  <a>s c<on>sequences <<of>>  
+
+
+DocID: CACM-2870
+
+<f<or>> ver<i>fy<<<i>n>>g <the> secure flow <<of>> <<<i>n>><f<or>>m<a>t<i><on> through <a> progr<a>m.  
+<<of>> secure <<<i>n>><f<or>>m<a>t<i><on> flow <a>m<on>g secur<i>ty cl<a>sses. <the>  
+<<of>> <the>m <a>cc<or>d<<<i>n>>g <to> secur<i>ty object<i>ves, <a>nd  
+
+
+DocID: CACM-2080
+
+es.  <a> fund<a>ment<a>l set <<of>> pr<<i>m><i>t<i>ves <a>llows <the> dyn<a>m<i>c cre<a>t<i><on> <a>nd c<on>trol  
+<<of>> <a> h<i>er<a>rchy <<of>> <processes> <a>s well <a>s <the> commun<i>c<a>t<i><on> <a>m<on>g <the>m.  
+requ<i>rements <<of>> progr<a>m schedul<<<i>n>>g <a>nd resource <a>lloc<a>t<i><on>.  <the> system  
+
+
+DocID: CACM-1506
+
+fe<a>ture <<of>> <the> system <i>s th<a>t <i>t <i>s event-dr<i>ven r<a><the>r  
+<f<or>> resource <a>lloc<a>t<i><on> were <<i>m>p<or>t<a>nt.  <f<or>> th<i>s  
+run <to> complet<i><on> r<a><the>r th<a>n "rolled-out" <to>  
+
+
+DocID: CACM-3081
+
+<to> comb<<<i>n>>e <the> c<on>cept <<of>> sh<a>llow b<<<i>n>>d<<<i>n>>g <<<i>n>> l<i>sp w<i>th  
+<processes> c<a>n be <a>ct<i>ve <<<i>n>> <the> s<a>me <env<i>r<on>ment>  
+v<a>lue <<of>> <a> v<a>r<i><a>ble <to> be <a>ccessed <<<i>n>> <a> bounded  
+
+
+DocID: CACM-1699
+
+<<of>> such <a> system <<<i>n>>clude e<a>se <<of>> use, le<a>rn<<<i>n>>g t<<i>m>e, <a>nd  
+w<i>th emph<a>s<i>s <on> <<<i>n>>ter<a>ct<i>ve  m<a>n-m<a>ch<<<i>n>>e  l<a>ngu<a>ge <a>nd <on>  
+<<of>> <the> <to>ols wh<i>ch <would> be <a>v<a><i>l<a>ble <to> h<<i>m> were  
+
+
+DocID: CACM-3064
+
+<the> sec<on>d p<a>rt de<a>ls w<i>th <the> less <a>pp<a>rent <problem>  
+<<<i>n>> s<<i>m>ul<a>ted t<<i>m>e; th<a>t <<<i>n>>f<<<i>n>><i>te loops c<a>used by <the> c<on>c<a>ten<a>t<i><on>  
+<the> event-m<a>n<i>pul<a>t<i><on> system presented here c<on>s<i>sts <<of>>  
+
+
+DocID: CACM-2742
+
+<problem> l<i>es <<<i>n>> <the> f<a>ct th<a>t <a> s<i>gn<i>f<i>c<a>nt  
+<problem> m<a>y be <a>ttr<i><but>ed <<<i>n>> p<a>rt <to> d<i>ff<i>cult<i>es  
+<the>re models <a>re presented, <a>ll <<of>> wh<i>ch <<i>m>prove <<<i>n>> effect<i>veness  
+
+
+DocID: CACM-1550
+
+<to> <the> l<a>st run <on> e<a>ch <problem>.  even though <the>  
+<a>nd <the> effects <<of>> h<a>v<<<i>n>>g <<<i>n>>st<a>nt turn<a>round  <a> few m<<<i>n>>utes   
+<the> <i>tems comp<a>red <a>re <the> number <<of>> computer  
+
+
+DocID: CACM-1595
+
+<the> <problem> <<of>> enumer<a>t<<<i>n>>g <the> number <<of>> <to>polog<i>es  
+<a>nd computed results <a>re g<i>ven <f<or>> n <= 7.  
+<on> <the> computer enumer<a>t<i><on> <<of>> f<<<i>n>><i>te <to>polog<i>es  
+
+
+DocID: CACM-2017
+
+from <the> exper<<i>m>ent<a>l ef<f<or>>t <i>s used <to> <a>rr<i>ve <a>t <a> set <<of>>  
+c<on>ce<i>ved <a>nd <<i>m>plemented <a>t <i>bm rese<a>rch <<<i>n>> <or>der <to> expl<or>e <the>  
+<env<i>r<on>ment> ch<a>r<a>cter<i>st<i>c <<of>> v<i>rtu<a>l mem<or>y m<a>ch<<<i>n>>es.  descr<i>pt<i><on>s <<of>>  
+
+
+DocID: CACM-2541
+
+<<of>> new schedul<<<i>n>>g <a>lg<or><i>thms  dec<i>s<i><on> <<of>> wh<a>t <to> do  w<i>thout  
+<on>e <<of>> <the>se dom<a><<<i>n>>s <to> <a><not>her h<a>s h<a>d <on> <the>  
+<a>nd <the> system's <a>ddress<<<i>n>>g structure, <a>nd centr<a>l<i>zed <the>  
+
+
+DocID: CACM-2915
+
+<<of>> <f<or>>m<a>l<i>sms w<i>th<<<i>n>> future st<a>nd<a>rds <a>nd <the>  
+pl/<i>, <a>nd b<a>s<i>c.  propos<a>ls <a>re m<a>de <f<or>> <the> <<<i>n>>clus<i><on>  
+<to> <the> <a>nom<a>l<i>es wh<i>ch ex<i>st <between> <the> v<a>r<i>ous publ<i>shed  
+
+
+DocID: CACM-1728
+
+<the> frequency <<of>> p<a>ge f<a>ults, <i>.e. <the> frequency <<of>> those  
+<<of>> p<a>ge repl<a>cement <a>lg<or><i>thms <a>nd <f<or>> <a>ssess<<<i>n>>g <the>  
+<the> d<a>t<a> collected from <the> <<<i>n>>terpret<i>ve execut<i><on> <<of>>  
+
+
+DocID: CACM-2252
+
+<<<i>n>> wh<i>ch st<a>tements c<a>n be nested  such <a>s <a>lgol <a>nd  
+<<of>> <the> method <a>re:  1  <the> synt<a>x <<of>> <the> l<a>ngu<a>ge  
+<on> <<<i>n>>d<i>v<i>du<a>l l<<<i>n>>es <a>nd th<a>t d<on>e glob<a>lly <to>  
+
+
+DocID: CACM-2196
+
+<the> hum<a>n so th<a>t <the> hum<a>n c<a>n solve <the> <problem> e<a>s<i>ly.  
+<a> m<a>n-m<a>ch<<<i>n>>e <a>ppro<a>ch <to>w<a>rd solv<<<i>n>>g <the> tr<a>vel<<<i>n>>g s<a>lesm<a>n <problem>  
+<but> <i>t <i>s <a>sked <to> <or>g<a>n<i>ze <the> d<a>t<a> <f<or>>  
+
+
+DocID: CACM-1166
+
+<a> use <<of>> m<a>cros <<<i>n>> tr<a>nsl<a>t<i><on> <<of>> symbol<i>c  
+<<of>> m<a>cro c<a>lls <a>re requ<i>red <to> supply <a>rguments  
+<to> <the> b<a>s<i>c skele<to>n <f<or>> e<a>ch p<a>rt<i>cul<a>r <<<i>n>>struct<i><on>.  
+
+
+DocID: CACM-1159
+
+<to> <the>m.  f<<<i>n>><a>lly, re<a>s<on>s <a>re g<i>ven <f<or>> bel<i>ev<<<i>n>>g th<a>t <the>  
+<on>e computer <to> <a><not>her.  <<of>> <the> methods ex<a>m<<<i>n>>ed, <the>  
+<a> survey <i>s <<of>>fered <<of>> techn<i>ques <f<or>> tr<a>nsferr<<<i>n>>g  
+
+
+DocID: CACM-2534
+
+<<of>> d<i><a>gnost<i>c <a>ss<i>st<a>nce <<<i>n>> <a> b<a>tch process<<<i>n>>g <env<i>r<on>ment>.  
+pl/c <i>s <a> comp<i>ler <f<or>> <a> d<i><a>lect <f<or>> pl/<i>.  <the>  
+<to> <a>ccommod<a>te <the>se extens<i><on>s <to> pl/<i> w<i>thout  
+
+
+DocID: CACM-1677
+
+<f<or>> f<i>ve ye<a>rs <i>s descr<i>bed.  e<a>ch log<i>c<a>l ent<i>ty <<<i>n>> st<or><a>ge  
+<a> progr<a>m, <a> d<a>t<a> vect<or>, <or> codew<or>ds wh<i>ch <<<i>n>>  
+<a>nd from progr<a>ms <to> d<a>t<a>, <a>nd b<a>s<i>s <f<or>> st<or><a>ge protect<i><on>.  
+
+
+DocID: CACM-2020
+
+<the> w<i>despre<a>d use <<of>> complex th<i>rd gener<a>t<i><on> comput<<<i>n>>g systems h<a>s led <to> <a>  
+<a>lso g<i>ven <to> <the> me<a>ns by wh<i>ch users c<a>n be <<<i>n>>sul<a>ted from <the> h<a>rmful  
+some <<of>> <the>se m<i>sunderst<a>nd<<<i>n>>gs <a>nd <to> h<i>ghl<i>ght <the> <a>dv<a>nt<a>ges <a>nd  
+
+
+DocID: CACM-2816
+
+<a> b<a>s<i>c <problem> <i>s <to> est<a>bl<i>sh <the> proper tr<a>de<<of>>f <between>  
+<<<i>n>> most d<a>t<a>b<a>se <or>g<a>n<i>z<a>t<i><on>s, <the> cost <<of>> <a>ccess<<<i>n>>g  
+<the> d<a>t<a>b<a>se w<i>ll <<<i>n>>cre<a>se due <to> structur<a>l  
+
+
+DocID: CACM-1248
+
+presented <<<i>n>> th<i>s p<a>per <i>s <the> <problem> <<of>> wr<i>t<<<i>n>>g  
+<a>nd per<f<or>>m such s<<i>m>pl<i>f<i>c<a>t<i><on>s <on> <i>t <a>s c<a>n be detected  
+from <the> <a>rgument-progr<a>m's <f<or>>m <a>l<on>e, w<i>thout  
+
+
+DocID: CACM-2092
+
+c<a>p<a>b<i>l<i>ty <a>re presented <a>nd d<i>scussed.  <i>t <i>s shown th<a>t <the>  
+det<a><i>l.  <the> system <i>s wr<i>tten <<<i>n>> l<i>sp 1.5 <a>nd oper<a>tes <on> <the> q-32  
+<the> quest<i><on>-<a>nswer<<<i>n>>g <procedure>s wh<i>ch employ <the>se fe<a>tures <<<i>n>>  
+
+
+DocID: CACM-1083
+
+<a> whole h<a>s much bro<a>der <a>spects <a>s <a> <to>ol <f<or>> <the>  
+<<<i>n>> much <the> s<a>me m<a>nner <a>s <the>y <would> <a>ppe<a>r <<<i>n>>  
+wh<i>le <the> comp<i>ler p<a>rt <i>s eff<i>c<i>ent, <the> system <a>s  
+
+
+DocID: CACM-3188
+
+<i> h<a>ve b<a>sed <my> p<a>per <on> sem<i>ot<i>cs <a>nd <i>ts three d<<i>m>ens<i><on>. <i> should <<<i>n>>sert  
+<a>spects <<<i>n>><to> <the> three sem<i>ot<i>c d<<i>m>ens<i><on> <a>nd <the>re <see>ms <to> be <a> str<on>g  
+<a>t th<i>s po<<<i>n>>t th<a>t l<a>ngu<a>ge h<a>s m<a>ny <a>spects <a>nd th<a>t pr<a>gm<a>t<i>cs, sem<a>nt<i>cs <a>nd  
+
+
+DocID: CACM-2359
+
+s<i>ze; <a>nd s<i>gn<i>f<i>c<a>nt use <<of>> <the> f<i>le <<<i>n>> <the> <<<i>n>>dex <a>s <opposed>  
+<the> t<<i>m>e <to> loc<a>te <a> rec<or>d <i>s dependent <not> <on> <the> <to>t<a>l  
+<to> <the> c<on>vent<i><on><a>l <i>s<a>m method <<of>> ch<a><<<i>n>><<<i>n>>g <the>  
+
+
+DocID: CACM-1527
+
+<the> subject <<of>> th<i>s p<a>per <i>s <a> <procedure> <f<or>>  
+<a> set wh<i>ch c<a>n be exh<a>ust<i>vely <a>nd <exclus<i>vely>  
+<or>, m<or>e c<or>rectly, <i>s gr<a>mm<a>t<i>c<a>l <<<i>n>> terms <<of>>  
+
+
+DocID: CACM-2273
+
+c<on>vers<i><on> <<of>> dec<i>s<i><on> t<a>bles by rule m<a>sk method w<i>thout rule m<a>sk  
+<<i>m>med<i><a>tely r<a><the>r th<a>n <a>t <the> end <<of>> <the> <<<i>n>>terpret<<<i>n>>g  
+1 <a>nd 2  <or> c<on>d<i>t<i><on>s wh<i>ch <a>re <a>lre<a>dy  
+
+
+DocID: CACM-1978
+
+rout<<<i>n>>es wh<i>ch <a>re e<a>sy <to> use <a>nd <a>lso t<a>ke <a>dv<a>nt<a>ge <<of>> <the>  
+d<a>t<a>.  <<<i>n>> c<on>clus<i><on>, <a>re<a> <f<or>> future w<or>k <<<i>n>> th<i>s f<i>eld <a>re d<i>scussed.  
+systems <f<or>> solv<<<i>n>>g <problem>s <<<i>n>> <a> p<a>rt<i>cul<a>r <a>re<a> such <a>s <or>d<<<i>n>><a>ry  
+
+
+DocID: CACM-3072
+
+<<of>> <<<i>n>>put-output <a>ct<i>v<i>ty.  <a>ttent<i><on> <i>s g<i>ven <to> <the>  
+used <a>re <the> d<a>t<a>-flow r<a>tes <f<or>> <the> <processes>  
+<the> <<i>m>provement <i>s gre<a>test under <a> he<a>vy  
+
+
+DocID: CACM-2396
+
+<a> v<a>l<i>d <<<i>n>>terpret<a>t<i><on> <<of>> <the> <<<i>n>>put.  wh<i>le <the> sem<a>nt<i>c  
+<the> model f<i>rst <a>ppl<i>es synt<a>ct<i>c <a>n<a>lys<i>s <to>  
+l<i>ke th<a>t <<of>> qu<i>ll<i><a>n's tlc.  muse, from <a> model <to> underst<a>nd  
+
+
+DocID: CACM-2402
+
+<the> c<or>rect structure c<a>n<not> be computed bec<a>use <<of>>  
+<f<or>> l<a>rge structures.  th<i>s <i>s s<i>gn<i>f<i>c<a>nt, <f<or>> cryst<a>llogr<a>phy  
+<a>nd w<i>ll c<on>t<<<i>n>>ue <to> be <a> f<i>eld <<of>> <<<i>n>>tense <<<i>n>>terest.  
+
+
+DocID: CACM-2932
+
+<the> fr<a>mew<or>k <f<or>> rese<a>rch <<<i>n>> <the> <the><or>y <<of>> complex<i>ty  
+<a>nd methods.  <i>llustr<a>t<i>ve ex<a>mples <<of>> pr<a>ct<i>c<a>l  
+<f<or>> new rese<a>rch <a>re d<i>scussed.  
+
+
+DocID: CACM-2946
+
+<<of>> th<i>s pr<<i>m><i>t<i>ve <<<i>n>> terms <<of>> p <a>nd  
+two ex<a>mples <a>re presented: <the> re<a>ders <a>nd  
+h<a>nsen <a>nd ho<a>re, event <a>re used <f<or>> synchr<on><i>z<a>t<i><on>.  
+
+
+DocID: CACM-1143
+
+d<a>t<a> <<of>> <the> dec<a>y type by <f<or>>ms <<<i>n>>volv<<<i>n>>g <the> sums <<of>>  
+<a>s well <a>s <to> <the> results <<of>> exper<<i>m>ents w<i>th r<a>d<i>o<a>ct<i>ve  
+<a> comp<a>r<a>t<i>ve study h<a>s been m<a>de <<of>> <a> v<a>r<i>ety  
+
+
+DocID: CACM-2450
+
+h<a>s been proposed <<<i>n>> recent ye<a>rs <a>s <a> b<a>s<i>s <f<or>>  
+<<<i>n>> <the> hope th<a>t w<or>kers <<<i>n>> <the> f<i>eld m<i>ght f<<<i>n>>d exper<<i>m>ent<a>l  
+<i>s <a> de<a>rth <<of>> publ<i>shed d<a>t<a> <on> progr<a>m me<a>surements,  
+

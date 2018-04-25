@@ -1,0 +1,675 @@
+LUCENE_NoStopNoStem
+
+Query
+Number-theoretic algorithms, especially involving prime number series,
+sieves, and Chinese Remainder theorem.
+
+Top 100 Results (19 millisecs)
+
+
+DocID: CACM-2644
+
+<theorem> proving, resolution, factoring,  
+<and> inference rules presently under consideration  
+a language <especially> oriented toward automated  
+
+
+DocID: CACM-2200
+
+<and> <remainder> in complement form.  <algorithms>  
+the division algorithm <theorem> is expressed  
+form of the <remainder> condition for complement  
+
+
+DocID: CACM-2927
+
+<involving> space-time <and> additive-multiplicative  
+computational complexity, sieve, <prime> <number> generation,  
+<number> theory, linked list, preprocessing,  
+
+
+DocID: CACM-1841
+
+<prime> <number>s, <number> theory, sorting  
+a <prime> <number> generator using the  
+
+
+DocID: CACM-1840
+
+<prime> <number>s, factoring, <number> theory  
+an efficient <prime> <number> generator  algorithm 357 [a1]   
+
+
+DocID: CACM-1539
+
+<prime> <number> generator 1; <prime> <number> generator  
+
+
+DocID: CACM-3021
+
+<prime> <number>, electronic mail, message-passing,  
+has obvious applications in "electronic mail" <and> "electronic  
+specified product, n, of two large secret <prime>  
+
+
+DocID: CACM-3131
+
+<algorithms> <especially> useful for microcomputer control <and> other  
+focus is a <number> system <and> supporting computational  
+focus microcomputer <number> system  
+
+
+DocID: CACM-1933
+
+<number> generator modulo 2**31 - 1, a <prime> mersenne  
+<prime> factorization for 2**61 - 2 <and> a primitive root  
+pseudo-r<and>om <number>, r<and>om <number>, modular arithmetic,  
+
+
+DocID: CACM-2089
+
+<prime> <number>  algorithm 310 $a1    
+<prime> <number>s, generator  
+
+
+DocID: CACM-1874
+
+<number>, r<and>om <number> generator, multiplicative  
+r<and>om <number>, uniform distribution, pseudo-r<and>om  
+are given <and> related to previously established  
+
+
+DocID: CACM-1420
+
+a new uniform pseudor<and>om <number> generator  
+<number> generator is discussed, in which the  
+modulus is the largest <prime> within accumulator capacity  
+
+
+DocID: CACM-1538
+
+<prime> <number> generator 2  algorithm 311 [a1]   
+
+
+DocID: CACM-1537
+
+<prime> <number> generator 1  algorithm 310 [a1]   
+
+
+DocID: CACM-2462
+
+an efficient <prime> <number> generator  algorithm r357   
+
+
+DocID: CACM-0942
+
+fortran subroutines for time <series> analysis  
+piece of applied statistical research, <involving> extensive  
+<and> a set of fortran subroutines has been  
+
+
+DocID: CACM-1967
+
+<number> theory, <prime> <number>s, complex <number>s  
+
+
+DocID: CACM-2420
+
+<theorem>-proving algorithm based upon hyper-resolution <and>  
+a detailed description of the program <and>  
+problems <involving> partial orderings.  this paper presents  
+
+
+DocID: CACM-2524
+
+corresponding search <algorithms>, which are intended  
+using certain inequalities satisfied by metrics <and> by  
+to reduce the <number> of comparisons required to achieve  
+
+
+DocID: CACM-2289
+
+<algorithms> for distance <and> spanning tree problems  
+<and> typical row <and> column operations are readily  
+steps, <and> noncellular implementations require from  
+
+
+DocID: CACM-2229
+
+<series>, such as poisson <series> or chebyshev <series>.  it  
+<series>, poisson <series>, fourier <series>  
+construction of rational <and> negative powers of a formal <series>  
+
+
+DocID: CACM-2276
+
+<and> speed, with some new <algorithms>.  a <number> of procedures  
+shorter <algorithms> <and> faster but space consuming  
+the exponential <and> normal distributions  
+
+
+DocID: CACM-2402
+
+pictorial pattern recognition <and> the  
+autocorrelation or patterson function, <especially>  
+digital computers encourages the development of <algorithms>  
+
+
+DocID: CACM-1257
+
+assembled program in core, with the <remainder>  
+has been developed <and> implemented in a program  
+any <number> of lines at any point of his previously  
+
+
+DocID: CACM-2167
+
+<algorithms> <and> the <<number>-theoretic> conjectures on which  
+<and> simplification of expressions. finally we discuss  
+<algorithms> for certain classes of expressions are included.  
+
+
+DocID: CACM-2031
+
+is presented.  the <number> of arithmetic operations <and> the <number>  
+<number> theory, diophantine equations  
+algorithm <and> bound for the greatest common divisor of n integers  
+
+
+DocID: CACM-1679
+
+where the <number> of points in the <series> is  
+multiply <and> add operations, <and> which require  
+reduction in computation <and> storage which  
+
+
+DocID: CACM-2232
+
+definition of width-at-angle, a <theorem> relating  
+for an illustrative example; graphical <and> tabular comparisons  
+precise so that computer <algorithms> for feature extraction  
+
+
+DocID: CACM-2325
+
+complexity , synthesis <and> analysis of <algorithms>,  
+of computation, <algorithms>, continuous <algorithms>  
+numerical mathematics <and> computer science  
+
+
+DocID: CACM-2695
+
+of comparisons, the <number> of assignments, <and> the <number>  
+algorithm requires no arithmetic while the <number>  
+only row <and> corresponding column permutations.  the  
+
+
+DocID: CACM-2605
+
+of problem specification <and> problem computation.  
+<involving> these <number>s are executed according to interval  
+the solution to a small <number> of st<and>ard  
+
+
+DocID: CACM-2109
+
+hence the entire table of size p, where p is that <prime> <number>, can be searched.  
+occur <and> linear search methods are used.  the search size, because  
+the complement of the set of quadratic residues can easily be determined <and>  
+
+
+DocID: CACM-1924
+
+matrix <algorithms>, array processing, paging <algorithms>,  
+multiplication, <and> inversion <algorithms> shows  
+matrix representations <and> operations are examined  
+
+
+DocID: CACM-2490
+
+<and> e is the <number> of edges, each algorithm  
+graphs,analysis of <algorithms>, graph manipulation  
+efficient <algorithms> are presented for partitioning  
+
+
+DocID: CACM-2770
+
+is a <prime> <number>.  here, certain results are derived for  
+the quadratic hash method when the table size is not a <prime> <number>  
+
+
+DocID: CACM-1691
+
+modulo two, congruential generators, <prime> <number>s,  
+r<and>om <number>s, pseudor<and>om <number> generators, autocorrelation  
+tests for r<and>om <number> generators.  it  
+
+
+DocID: CACM-1725
+
+<theorem> for associative memories  
+access frequency proof, retrieval <theorem> proof  
+ordered retrieval <theorem>, column digit values, digit  
+
+
+DocID: CACM-2146
+
+less reading <and> writing than most <algorithms> in  
+sorting, polyphase sorting, dispersion <algorithms>,  
+new dispersion <algorithms> with more straightforward  
+
+
+DocID: CACM-2206
+
+representation, mixed-radix conversion, <prime> <number>,  
+
+
+DocID: CACM-2507
+
+representation, mixed radix conversion, <prime> <number>,  
+
+
+DocID: CACM-3037
+
+<prime>s, <algorithms>, data structures  
+a linear sieve algorithm for finding <prime> <number>s  
+however, our version is perhaps simpler <and> more elegant.  
+
+
+DocID: CACM-2095
+
+<especially> with respect to the organization of paging schemes.  
+the results are certainly not installation independent, <and> although they  
+of the measurements is the large <number> of small segments-about 60  
+
+
+DocID: CACM-2267
+
+the radix <and> <number> of digits of the floating-point  
+<algorithms> to reveal properties of floating-point arithmetic  
+two <algorithms> are presented in the form of  
+
+
+DocID: CACM-2138
+
+is designed so as to be <especially> suitable  
+the host machine, <and> to provide a rational means  
+systems, etc.  <prime> design goals of the design are the  
+
+
+DocID: CACM-1497
+
+divisor in divide- <and>- correct methods  
+increase on the <number> of corrections on the quotient  
+segment of every partial <remainder> by a suitably rounded  
+
+
+DocID: CACM-2283
+
+<and> the relative performances of the <algorithms>  
+thinning <algorithms> on rectangular, hexagonal, <and> triangular arrays  
+thinning <algorithms>, rectangular, hexagonal,  
+
+
+DocID: CACM-3166
+
+<and> computational literature; the other two are new <algorithms>  
+four <algorithms> for the numerical computation  
+estimates, rounding error analysis, condition <number>.  
+
+
+DocID: CACM-1171
+
+between the <algorithms> is not only the <number>  
+of constraints <and> the <number> of variables but  
+<algorithms> for linear programming  
+
+
+DocID: CACM-2657
+
+program-synthesizing <algorithms>, <theorem> proving,  
+an improved program-synthesizing algorithm <and> its correctness  
+based on the algorithm proposed by waldinger <and>  
+
+
+DocID: CACM-1385
+
+<chinese> news items <and> periodical literature  
+to ordinary <chinese> workers <and> peasants.  communist  
+planning, organization <and> educational aspects of computer  
+
+
+DocID: CACM-1697
+
+<and> output of <chinese> characters are included.  
+it is limited to 4000 <chinese> characters <and> some mathematical  
+inputting <and> outputting nonst<and>ard characters  
+
+
+DocID: CACM-2726
+
+the quine-mccluskey method, <prime> implicants, minimization,  
+ 4  reducing the <number> of decision rules.  
+method for finding <prime> implicants.  if some of the  
+
+
+DocID: CACM-1386
+
+algorithm <and> several examples are discussed.  
+kronecker's method <and> introducing the remaining  
+used by kronecker in a proof that the <prime>  
+
+
+DocID: CACM-2217
+
+<and> the proving program, <and> for analyzing <and>  
+<and> implemented for use with the multiple  
+the effectiveness <and> generality of the learning  
+
+
+DocID: CACM-0944
+
+properties applicable to problems <involving>  
+word length <and> distribution of stored information  
+the storage <and> search properties of a tree-organized  
+
+
+DocID: CACM-3055
+
+<algorithms> given by dijkstra are shown to have an expected <number>  
+dijkstra starts with a simple program <and> arrives at  
+have been given by dijkstra [1] <and> meyer [3].  
+
+
+DocID: CACM-1862
+
+the <number> of computers is small <and> so is the  
+resources <and> disciplines; superimposed are  
+over-come.  universities, <especially> those with  
+
+
+DocID: CACM-0804
+
+exponentiation of <series>  <algorithms> 134   
+
+
+DocID: CACM-3027
+
+to the final multistage pipeline structure <involving>  
+set, which includes a <number> of features  
+of the mu5 project, the aims <and> ideas for mu5  
+
+
+DocID: CACM-1710
+
+data items <and> an arbitrary <number> of the relationships  
+asp structures are built <and> manipulated by means  
+structure package in which an arbitrary <number> of  
+
+
+DocID: CACM-1099
+
+serious professional, a <number> of aids <and> techniques  
+environment <and> also because of superbly trained  
+problems <and> make the blind a valuable addition  
+
+
+DocID: CACM-2355
+
+quadrature, error estimates, chebyshev <series>  
+various error estimates, <and> summarizes experience  
+of a cosine transformation <and> the arithmetic  
+
+
+DocID: CACM-3141
+
+controller exists <and> the <number> of processes is not known a priori.  
+decentralized <algorithms>, distributed systems, operating systems  
+message extinction in order to achieve an average <number> of  
+
+
+DocID: CACM-2111
+
+<and> symbol tables, <and> the consideration of a limited class of spelling  
+incorporating spelling correction <algorithms> in  
+saving both programmer <and> machine time.  
+
+
+DocID: CACM-1879
+
+fragmented into a large <number> of separate blocks;  
+a note on storage fragmentation <and> program segmentation  
+a method of segment allocation <and> an accompanying  
+
+
+DocID: CACM-1957
+
+results from any expression <involving> sets <and> set operators.  the  
+the list set generator is defined <and> <algorithms>  
+in parallel, rather than evaluating subexpressions <and>  
+
+
+DocID: CACM-2767
+
+notices, <and> another uses an indexed linear list. the <algorithms>  
+the advantages <and> limitations of the <algorithms>.  
+scheduling distributions <especially> chosen to show  
+
+
+DocID: CACM-2936
+
+published <algorithms>.  first, the new algorithm's  
+<and> second, its worst-case complexity is o   
+recently <algorithms> have been presented for the  
+
+
+DocID: CACM-2948
+
+<and> multiplexing of character output.  
+detection <and> correction on the telephone lines,  
+the terminals are attached, <and> connecting medium  
+
+
+DocID: CACM-2860
+
+bucket sizes, <and> loading order <and> considered.  particular  
+design of record addressing <algorithms>, <and> discusses  
+considers storage device characteristics <and> time/space  
+
+
+DocID: CACM-0063
+
+octal diagrams of binary conception <and>  
+conception circa 5000 years ago, <and> octal diagrams  
+about 4800 years ago, as derived by the <chinese> ancients.  
+
+
+DocID: CACM-1504
+
+<number> of nodes <and> edges, when storage is limited our  
+<algorithms> for finding a fundamental set  
+<and> storage requirements for both methods are presented.  
+
+
+DocID: CACM-3164
+
+where n is the <number> of nodes <and> r is the expected <number>  
+path matrix representation <and> the other uses a list with an  
+of actions. two pad <algorithms> are presented; one uses a simple  
+
+
+DocID: CACM-2555
+
+applied to expressions <involving> any variable-precision  
+where p denotes the operation's precision <and>  
+order.  other operations such as log, sin, <and>  
+
+
+DocID: CACM-1787
+
+an <algorithms> is described which constructs  
+compilers, operates with a pushdown stack <and> with  
+the type of recognizer, used in a <number> of  
+
+
+DocID: CACM-2498
+
+<number> of page sizes is considered.  two <algorithms>  
+<and> in a page table, per segment, is then solved for a  
+
+
+DocID: CACM-3118
+
+a permutation algorithm is derived, <and> the class of optimum <algorithms> is  
+in this paper.  a lower bound to the <number> of steps required buy  
+
+
+DocID: CACM-2837
+
+selection problem, <algorithms>, comparison problems,  
+the worst-case minimum <number> of comparisons  
+algorithm, <and> extends kirkpatrick's method to a  
+
+
+DocID: CACM-2447
+
+cubatures, sard kernels, numerical integration, <remainder> formulas  
+use of sard kernels.  numerical results <and> computer  
+
+
+DocID: CACM-2087
+
+permutation, ordering, <number>, <number> system, p-<number>, combinatorial  
+a <number> system for the permutations  
+
+
+DocID: CACM-0626
+
+r<and>om codes in a 5-digit <number>  
+a method of representation, storage <and> retrieval  
+of 13 r<and>om codes in a 4-digit <number> or 16  
+
+
+DocID: CACM-2306
+
+ancient babylonian <algorithms>  
+sexagesimal <number> system, sorting  
+science.  a <number> of old babylonian tablets, many  
+
+
+DocID: CACM-0537
+
+connection with trial runs <and> possible improvements.  
+
+
+DocID: CACM-1946
+
+determinant <and> collins' reduced polynomial <remainder> sequence  
+<and> computing speed.  preliminary considerations narrow  
+<algorithms> for computing the resultant of two  
+
+
+DocID: CACM-2114
+
+lists, <prime> keyword, parallel processing of lists  
+file structure, directory decoding, <and> record retrieval are defined  
+as inverted files, index-sequential files, <and> multilist files are  
+
+
+DocID: CACM-2606
+
+gragg-bulirsh-stoer, <and> the taylor <series> method.  
+the taylor <series> method <and> the new method are shown  
+integration, taylor <series>, singularities,  
+
+
+DocID: CACM-0116
+
+<and> present status of the sumador chino.  
+<and> on instruments of calculation has uncovered no reference  
+to as a sumador chino  <chinese> adder .  a survey of the more  
+
+
+DocID: CACM-3163
+
+ly known insertion <algorithms> of hirschberg <and> kosaraju, which require  
+the insertion <and> deletion <algorithms> for oshb trees appear much  
+more complicated than the corresponding <algorithms> for avl trees.  
+
+
+DocID: CACM-1717
+
+generating <prime> implicants via ternary encoding <and> decimal arithmetic  
+algorithm to obtain the extremals <and> <prime> implicants  
+<prime> implicants, extremal, switching function,  
+
+
+DocID: CACM-2208
+
+hashing <algorithms>, memory allocation, memory hierarchy,  
+function of the hashing algorithm, the <number> of  
+expected <number> of entries filed in the first-level  
+
+
+DocID: CACM-2561
+
+a variety of conditions <involving> incomplete <and> inconsistent data.  
+data base using nonnumerical clustering <algorithms>.  they  
+which are altered by deleting part of the data <and>  
+
+
+DocID: CACM-1783
+
+a floating-point <number> in another base <and> then converted  
+<number> in one base is converted into  
+back to a floating-point <number> in the original  
+
+
+DocID: CACM-0334
+
+division <and> square root in the quater-imaginary <number> system  
+
+
+DocID: CACM-1520
+
+absolute value <and> square root of a complex <number>  algorithm 312 [a2]   
+
+
+DocID: CACM-0977
+
+conversions between calendar date <and>  
+julian day <number>  algorithm 199 [z]   
+
+
+DocID: CACM-0785
+
+conversions between calendar date <and> julian day <number>  algorithm 199   
+
+
+DocID: CACM-1727
+
+avoiding the necessity of computation <involving>  
+of s ij , where s ij  is the mean value of the <number>  
+of the s ij  from the p ij  is found, <and> some ways  
+
+
+DocID: CACM-2142
+
+<and> medicine  e.g. in electron microscopy <and>  
+<and> varied <number> of fields.  the most important  
+from electron micrographs <and> three-dimensional  
+
+
+DocID: CACM-2924
+
+of spline theory <and> <algorithms>, an in teractive  
+means for man-machine communication, <and> software for  
+routines for structural, medical <and> graphical applications.  
+
+
+DocID: CACM-3018
+
+keyword conflicts <and> intersection graphs  
+<algorithms> which always produce solutions  
+problem is established which allows <algorithms>  
+
