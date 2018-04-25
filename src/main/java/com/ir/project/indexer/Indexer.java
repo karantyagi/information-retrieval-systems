@@ -47,7 +47,7 @@ public class Indexer {
 
         List<String> stopwords = Utilities.getStopWords();
 
-        String resultDir2 = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "stoppedIndex";
+        String resultDir2 = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "stoppedindex";
         String outFile2 = resultDir2 + File.separator + "metadata.json";
         if (!new File(resultDir2).isDirectory())
         {
