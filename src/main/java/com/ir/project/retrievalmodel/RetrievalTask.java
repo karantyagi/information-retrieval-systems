@@ -120,7 +120,7 @@ public class RetrievalTask implements Callable<List<RetrievedDocument>>{
 
     private String snippetPageIntro(String query,String model, String systemRunName, Long time) {
         return (model+"_"+systemRunName+"\n\n"+
-                "Query\n\n"+query+"\n\n"+
+                "Query\n"+query+"\n\n"+
                 "Top 100 Results ("+time+" millisecs)\n" +
                 "\n");
     }

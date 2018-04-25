@@ -58,6 +58,16 @@ public class SnippetGenerator {
         {
 
             // TODO : this & significant words
+            // significant words = query terms,  if more than 75% words are stop words
+            // significant words = query terms  - stopwords, if stop words make less 75% of the query
+
+            // what about docs with no sentences ???
+            // e.g.
+            // QUERY_ID: 18 , QL_NoStopNoStem
+//            Query
+//
+//            Languages and compilers for parallel processors, especially highly
+//            horizontal microcoded machines; code compaction
 
             for(String q : queryTerms) {
                 if(!q.equals(name)){
