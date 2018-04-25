@@ -1,11 +1,17 @@
 package com.ir.project.extracredit;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ThreadLocalRandom;
+import java.io.FileWriter;
+import org.jsoup.Jsoup;
+import com.ir.project.retrievalmodel.Runner;
+import com.ir.project.utils.SearchQuery;
 
+import org.jsoup.nodes.Document;
 public class ECTask1 {
     public List<String> bucket;
     public String makeBucket(String query){
@@ -89,9 +95,23 @@ public class ECTask1 {
         charArray[position2] = temp;
         return new String(charArray);
     }
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException{
+        String content="";
         ECTask1 e = new ECTask1();
-        System.out.println(e.makeBucket(" I am interested in articles written either by Prieve or Udo Pooch"));
+        Runner r=new Runner();
+//        FileWriter fw=new FileWriter("/Users/harshmeet/Desktop/IR/errorModel/QueryOutput.txt");
+//              content=content+ r.fetchSearchQueries("/Users/harshmeet/Desktop/IR/errorModel/cacm.query.txt");
+              List<SearchQuery> l= r.fetchSearchQueries("/Users/harshmeet/Desktop/IR/errorModel/cacm.query.txt");
+              System.out.println(l.get(2).getQuery());
+//        fw.write(content);
+//        fw.close();
+
+
+
+
+
+//        System.out.println(e.makeBucket(
+//        		" Security considerations in local networks, network operating systems and distributed systems"));
         //Result:  i am ineseerttd in alitcres wteitrn either by pervie or udo pocoh, here 40% of the words are selected and their letters are shuffled 
     }
 }
