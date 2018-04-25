@@ -15,6 +15,7 @@ import com.ir.project.stemmer.QueryEnhancer;
 import com.ir.project.stemmer.StemClassGenerator;
 import com.ir.project.utils.SearchQuery;
 import com.ir.project.utils.Utilities;
+import org.apache.commons.cli.*;
 
 import javax.validation.constraints.NotNull;
 import java.io.*;
@@ -29,10 +30,10 @@ public class Runner {
 
     private DocMetadataAndIndex metadataAndIndex;
 
-    public Runner(String luceneModel){}   // for loading lucene index
+    public Runner(String luceneModel) throws FileNotFoundException {}   // for loading lucene index
 
 
-    public Runner(RetrievalModelRun systemRun) {
+    public Runner(RetrievalModelRun systemRun) throws FileNotFoundException {
                 ObjectMapper om = new ObjectMapper();
                 try {
                     String indexPath;
@@ -67,7 +68,7 @@ public class Runner {
                 }
         }
 
-    public void run(List<SearchQuery> queries, RetrievalModelRun systemName, Map<Integer, List<String>> relevantQueryDocMap) {
+    public void run(List<SearchQuery> queries, RetrievalModelRun systemName, Map<Integer, List<String>> relevantQueryDocMap, boolean generateSnippet) {
         //TODO:
         long start;
         long elapsed;
@@ -75,32 +76,32 @@ public class Runner {
         String snippetDir = "src" + File.separator + "main" + File.separator + "snippets" + File.separator;
 
         start = System.currentTimeMillis();
-        runTFIDFModel(queries,systemName.name(),outFile,snippetDir, relevantQueryDocMap);
+        runTFIDFModel(queries,systemName.name(),outFile,snippetDir, relevantQueryDocMap, generateSnippet);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n --------------------------------- TFID Retrieval Run complete ------------------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
         start = System.currentTimeMillis();
-        runBM25Model(queries,systemName.name(),outFile,snippetDir, relevantQueryDocMap);
+        runBM25Model(queries,systemName.name(),outFile,snippetDir, relevantQueryDocMap, generateSnippet);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
         start = System.currentTimeMillis();
-        runQueryLikelihoodModel(queries,systemName.name(),outFile,snippetDir, relevantQueryDocMap);
+        runQueryLikelihoodModel(queries,systemName.name(),outFile,snippetDir, relevantQueryDocMap, generateSnippet);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n ------------------------ Smoothed Query Likelihood Retrieval Run complete ------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
     }
 
-    private void runLucene(List<SearchQuery> queries, RetrievalModelRun systemRun,String outputDir,String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
+    private void runLucene(List<SearchQuery> queries, RetrievalModelRun systemRun,String outputDir,String snippetDir,Map<Integer, List<String>> relevantQueryDocMap, boolean generateSnippet) {
         RetrievalModel lucene = new LuceneRetrievalModel();
         ExecutorService executor = Executors.newFixedThreadPool(10);
         List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
         for(SearchQuery q : queries) {
-            RetrievalTask task = new RetrievalTask(lucene, q, outputDir,snippetDir, systemRun.name());
+            RetrievalTask task = new RetrievalTask(lucene, q, outputDir,snippetDir, systemRun.name(), generateSnippet);
             Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
             futures.add(f);
         }
@@ -111,14 +112,14 @@ public class Runner {
 
     }
 
-    private void runTFIDFModel(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
+    private void runTFIDFModel(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap, boolean generateSnippet) {
         try {
             RetrievalModel tfidf = new TFIDF(metadataAndIndex);
             ExecutorService executor = Executors.newFixedThreadPool(10);
             List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
             for(SearchQuery q : queries) {
-                RetrievalTask task = new RetrievalTask(tfidf, q, outputDir,snippetDir,systemRunName);
+                RetrievalTask task = new RetrievalTask(tfidf, q, outputDir,snippetDir,systemRunName, generateSnippet);
                 Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
                 futures.add(f);
             }
@@ -131,7 +132,7 @@ public class Runner {
         }
     }
 
-    private void runBM25Model(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
+    private void runBM25Model(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap, boolean generateSnippet) {
         double k1 = 1.2;
         double b = 0.75;
         double k2 = 100;
@@ -143,7 +144,7 @@ public class Runner {
             List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
             for(SearchQuery q : queries) {
-                RetrievalTask task = new RetrievalTask(bm25, q, outputDir,snippetDir,systemRunName);
+                RetrievalTask task = new RetrievalTask(bm25, q, outputDir,snippetDir,systemRunName, generateSnippet);
                 Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
                 futures.add(f);
             }
@@ -156,7 +157,8 @@ public class Runner {
         }
     }
 
-    private void runQueryLikelihoodModel(List<SearchQuery> queries, String systemRunName, String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap) {
+    private void runQueryLikelihoodModel(List<SearchQuery> queries, String systemRunName,
+                                         String outputDir, String snippetDir,Map<Integer, List<String>> relevantQueryDocMap, boolean generateSnippet) {
 
         try
         {
@@ -166,7 +168,7 @@ public class Runner {
         List<Future<Pair<SearchQuery, List<RetrievedDocument>>>> futures = new ArrayList<>();
 
         for(SearchQuery q : queries) {
-            RetrievalTask task = new RetrievalTask(queryLikelihoodModel, q, outputDir,snippetDir, systemRunName);
+            RetrievalTask task = new RetrievalTask(queryLikelihoodModel, q, outputDir,snippetDir, systemRunName, generateSnippet);
             Future<Pair<SearchQuery, List<RetrievedDocument>>> f = executor.submit(task);
             futures.add(f);
         }
@@ -270,13 +272,49 @@ public class Runner {
         return searchQueryList;
     }
 
-    public static void main(String args[]) throws IOException {
 
-        System.out.println();
+    public static void main(String args[]) throws ParseException, IOException {
+
+        Options options = new Options();
+
+        options.addOption("snippet", false, "generate document snippet");
+        options.addOption("taskName", true, "task to run [ can be one of the TASK1, TASK2 or TASK3, ALL]");
+        CommandLineParser parser = new DefaultParser();
+        CommandLine cmd = parser.parse(options, args);
+
+        boolean generateSnippet = false;
+
+        if (cmd.hasOption("snippet")) {
+            generateSnippet = true;
+        }
+
+        String taskName = null;
+        if (cmd.hasOption("taskName")) {
+            taskName = cmd.getOptionValue("taskName").toUpperCase();
+        } else {
+            HelpFormatter formatter = new HelpFormatter();
+            formatter.printHelp( "Retreival Model", options );
+            System.exit(1);
+        }
+
+        if (taskName.equals("TASK1")) {
+            runTask1(generateSnippet);
+        } else if (taskName.equals("TASK2")) {
+            runTask2(generateSnippet);
+        } else if (taskName.equals("TASK3")) {
+            runTask3(generateSnippet);
+        } else if (taskName.equals("ALL")) {
+            runTask1(generateSnippet);
+            runTask2(generateSnippet);
+            runTask3(generateSnippet);
+        }
+
+    }
+
+    // runs for base line models for Phase 1 task 1.
+    public static void runTask1(boolean generateSnippet) throws IOException {
         long start = 0;
         long elapsed =0;
-
-        // initialize Test Collection - Releance Judgements and Query file
 
         String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
                 + File.separator + "testcollection" +  File.separator + "cacm.rel.txt";
@@ -297,7 +335,7 @@ public class Runner {
 
         Runner testRunTask1 = new Runner(RetrievalModelRun.NoStopNoStem); // Stopping with no stemming
         List<SearchQuery> queries = testRunTask1.fetchSearchQueries(queriesFilePath);
-        testRunTask1.run(queries,RetrievalModelRun.NoStopNoStem, relevantQueryDocMap);
+        testRunTask1.run(queries,RetrievalModelRun.NoStopNoStem, relevantQueryDocMap, generateSnippet);
 
         // ==========================
         // Run 4: LuceneNoStopNoStem
@@ -305,7 +343,7 @@ public class Runner {
 
         // Initializing Lucene
 
-/*
+
         Runner testRunLucene = new Runner(RetrievalModelType.LUCENE.name());
         LuceneRetrievalModel runLucene = new LuceneRetrievalModel();
         String luceneIndexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
@@ -319,7 +357,7 @@ public class Runner {
 
         start = System.currentTimeMillis();
 
-        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem,outFile,snippetDir, relevantQueryDocMap);
+        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem,outFile,snippetDir, relevantQueryDocMap, generateSnippet);
 
         runLucene .closeIndex();
         elapsed = System.currentTimeMillis() - start;
@@ -327,34 +365,35 @@ public class Runner {
         System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds");
 
-*/
+    }
 
 
-        // ==========================
-        // TASK 2 : Run 1
-        // ==========================
+    // running query enhancement on BM25 using query time stemming.
+    public static void runTask2(boolean generateSnippet) throws IOException {
 
-        /*
-        String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
-                "testcollection" + File.separator + "cleanedcorpus";
+        long start = 0;
+        long elapsed =0;
 
-        String tempstemmedCorpusFilePath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
-                "testcollection" + File.separator + "cacm_stem.txt";
+        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.rel.txt";
 
-        Map<String, Set<String>> stemClasses =
-                new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
+        start = System.currentTimeMillis();
+        Map<Integer, List<String>> relevantQueryDocMap = Utilities.fetchQueryRelevantDocList(relevantDocFilePath);
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("Loaded relevence Judgements - Run Time : " + elapsed + " milliseconds");
 
-        QueryEnhancer queryEnhancer = new QueryEnhancer(stemClasses);
 
-        queryEnhancer.enhanceQuery("hello world query");
+        String queriesFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.query.txt";
+        Runner testRunTask2 = new Runner(RetrievalModelRun.NoStopNoStem); // Stopping with no stemming
+        List<SearchQuery> queries = testRunTask2.fetchSearchQueries(queriesFilePath);
 
-        */
 
         String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
                 "testcollection" + File.separator + "cleanedcorpus";
 
         // generate stem classes
-        Map<String, Set<String>> stemClasses =  new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
+        Map<String, Set<String>> stemClasses = new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
 
         // prune stem classes
         //stemClasses = StemClassGenerator.pruneStemClasses(stemClasses);
@@ -364,32 +403,56 @@ public class Runner {
 
         //StemClassGenerator.saveStemClassesToFile(stemOutFile, stemClasses);
 
-        // Expand query uaing query stems..
-        Map<String,Set<String>> semClasses = StemClassGenerator.getStemClasses(stemClassesFilePath);
+        // Expand query using query stems..
+        Map<String, Set<String>> semClasses = StemClassGenerator.getStemClasses(stemClassesFilePath);
+
+        QueryEnhancer queryEnhancer = new QueryEnhancer(stemClasses);
+        for (SearchQuery searchQuery : queries) {
+            searchQuery.setQuery(queryEnhancer.enhanceQuery(searchQuery.getQuery()));
+        }
+
+        String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator;
+        String snippetDir = "src" + File.separator + "main" + File.separator + "snippets" + File.separator;
+
+        start = System.currentTimeMillis();
+        testRunTask2.runBM25Model(queries, RetrievalModelRun.NoStopNoStem.name(), outFile, snippetDir, relevantQueryDocMap, generateSnippet);
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------");
+        System.out.println("Run Time : " + elapsed + " milliseconds\n");
+
+    }
 
 
+    public static void  runTask3(boolean generateSnippet) throws IOException {
+        long start = 0;
+        long elapsed =0;
+
+        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.rel.txt";
+
+        start = System.currentTimeMillis();
+        Map<Integer, List<String>> relevantQueryDocMap = Utilities.fetchQueryRelevantDocList(relevantDocFilePath);
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("Loaded relevence Judgements - Run Time : " + elapsed + " milliseconds");
 
 
+        String queriesFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.query.txt";
 
-        // ==============
-        // TASK 3
-        // ==============
 
         // Run 1,2,3: TFIDFWithStopNoStem, BM25NoWithStopNoStem, QLWithStopNoStem
         // Stopping with no stemming
 
         Runner testRunTask3A = new Runner(RetrievalModelRun.WithStopNoStem);
-        testRunTask3A.run(queries,RetrievalModelRun.WithStopNoStem,relevantQueryDocMap);
+        List<SearchQuery> queries = testRunTask3A.fetchSearchQueries(queriesFilePath);
+
+        testRunTask3A.run(queries,RetrievalModelRun.WithStopNoStem,relevantQueryDocMap, generateSnippet);
 
         // Run 4,5,6:
 
         // Index the stemmed version of	the	corpus (cacm_stem.txt)
 
         Runner testRunTask3B = new Runner(RetrievalModelRun.NoStopWithStem);
-        testRunTask3B.run(queries,RetrievalModelRun.NoStopWithStem,relevantQueryDocMap);
-
-
-        //
-
+        testRunTask3B.run(queries,RetrievalModelRun.NoStopWithStem,relevantQueryDocMap, generateSnippet);
     }
 }

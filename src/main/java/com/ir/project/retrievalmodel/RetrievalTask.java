@@ -17,19 +17,21 @@ public class RetrievalTask implements Callable<Pair<SearchQuery, List<RetrievedD
     private RetrievalModel retrievalModel;
     private SearchQuery query;
     private String outFolder;
+    private boolean generateSnippet;
     private String snippetFolder;
     private String systemName; // represents the RUN e.g. NoStopNoStem
     private String literal;
 
 
     public RetrievalTask(@NotNull RetrievalModel retrievalModel, @NotNull SearchQuery query,
-                         @NotNull String outFileName,@NotNull String snippetDir, @NotNull String systemName) {
+                         @NotNull String outFileName,@NotNull String snippetDir, @NotNull String systemName, boolean generateSnippet) {
         this.retrievalModel = retrievalModel;
         this.query = query;
         this.systemName =  systemName;
         this.outFolder = outFileName+ retrievalModel.getModelType().name()+ File.separator +systemName+File.separator;
         this.snippetFolder = snippetDir + retrievalModel.getModelType().name()+ File.separator +systemName+File.separator;
         this.literal = "Q0";
+        this.generateSnippet = generateSnippet;
     }
 
     @Override
@@ -85,7 +87,9 @@ public class RetrievalTask implements Callable<Pair<SearchQuery, List<RetrievedD
             // rd.getDocumentID();
             // rd.getScore();
             snippetSentences = new ArrayList<>();
-            ////snippetSentences = SnippetGenerator.getSummary(docDir+rd.getDocumentID()+".html_cleaned",this.query.getQuery());
+            if (this.generateSnippet) {
+                snippetSentences = SnippetGenerator.getSummary(docDir+rd.getDocumentID()+".html_cleaned",this.query.getQuery());
+            }
             if(i<100){
 
                 // Write to html file again
