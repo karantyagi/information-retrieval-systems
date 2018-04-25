@@ -65,25 +65,26 @@ public class EvaluationStats {
         if (outputFolderPath.charAt(outputFolderPath.length() - 1 ) != File.separator.charAt(0))
             outputFolderPath = outputFolderPath + "/";
 
-         for (Map.Entry<SearchQuery, PrecisionRecallTable> entry : precisionRecallTableAndQueryMap.entrySet()) {
-             String outFilePath = outputFolderPath + entry.getKey().getQueryID() + this.runModel + ".table";
-             StringBuffer content = new StringBuffer();
-             content
-                     .append("Query ID: ")
-                     .append(entry.getKey().getQueryID())
-                     .append(System.getProperty("line.separator"))
-                     .append("Query : ")
-                     .append(entry.getKey().getQuery())
-                     .append(System.getProperty("line.separator"))
-                     .append(entry.getValue().toString());
+        if (!new File(outputFolderPath).exists()) {
+            new File(outputFolderPath).mkdirs();
+        }
+        for (Map.Entry<SearchQuery, PrecisionRecallTable> entry : precisionRecallTableAndQueryMap.entrySet()) {
+            String outFilePath = outputFolderPath + entry.getKey().getQueryID() + this.runModel + ".table";
+            StringBuffer content = new StringBuffer();
+            content
+                    .append("Query ID: ")
+                    .append(entry.getKey().getQueryID())
+                    .append(System.getProperty("line.separator"))
+                    .append("Query : ")
+                    .append(entry.getKey().getQuery())
+                    .append(System.getProperty("line.separator"))
+                    .append(entry.getValue().toString());
 
-             try {
-                 Files.write(Paths.get(outFilePath), content.toString().getBytes());
-             } catch (IOException e) {
+            try {
+                Files.write(Paths.get(outFilePath), content.toString().getBytes());
+            } catch (IOException e) {
                  e.printStackTrace();
-             }
-
-
+            }
          }
     }
 

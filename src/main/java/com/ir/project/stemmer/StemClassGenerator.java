@@ -1,10 +1,14 @@
 package com.ir.project.stemmer;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ir.project.utils.Utilities;
 import org.tartarus.snowball.ext.PorterStemmer;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -241,6 +245,30 @@ public class StemClassGenerator {
         }
 
         return wordSet;
+    }
+
+
+    public static void saveStemClassesToFile(String filePath, Map<String,Set<String>> stemClasses) {
+        ObjectMapper om = new ObjectMapper();
+        try {
+            Files.write(Paths.get(filePath), om.writeValueAsBytes(stemClasses));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static Map<String,Set<String>> getStemClasses(String filePath) {
+        Map<String,Set<String>> map = new HashMap<>();
+        ObjectMapper om = new ObjectMapper();
+
+        try {
+            File file = new File(filePath);
+            map = om.readValue(file, map.getClass());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return map;
     }
 
 }
