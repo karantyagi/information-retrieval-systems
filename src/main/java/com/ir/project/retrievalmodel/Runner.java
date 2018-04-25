@@ -341,13 +341,24 @@ public class Runner {
         String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
                 "testcollection" + File.separator + "cleanedcorpus";
 
-        Map<String, Set<String>> stemClasses =
-                new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
+        // generate stem classes
+        Map<String, Set<String>> stemClasses =  new StemClassGenerator(cleanedCorpusDocPath).stemCorpus();
 
+        // prune stem classes
+        //stemClasses = StemClassGenerator.pruneStemClasses(stemClasses);
 
-        String stemOutFile = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+        String stemClassesFilePath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
                 "testcollection" + File.separator + "stemclasses.json";
-        StemClassGenerator.saveStemClassesToFile(stemOutFile, stemClasses);
+
+        //StemClassGenerator.saveStemClassesToFile(stemOutFile, stemClasses);
+
+        // Expand query uaing query stems..
+        Map<String,Set<String>> semClasses = StemClassGenerator.getStemClasses(stemClassesFilePath);
+
+
+
+
+
         // ==============
         // TASK 3
         // ==============
