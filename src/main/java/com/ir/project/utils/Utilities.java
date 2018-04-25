@@ -2,8 +2,8 @@ package com.ir.project.utils;
 
 import com.ir.project.retrievalmodel.RetrievedDocument;
 
-import java.io.File;
-import java.io.FileNotFoundException;
+import javax.validation.constraints.NotNull;
+import java.io.*;
 import java.util.*;
 
 public class Utilities {
@@ -48,7 +48,7 @@ public class Utilities {
         return docTextMap;
     }
 
-    private static String[] getWordListForDoc(File doc) throws FileNotFoundException {
+    public static String[] getWordListForDoc(File doc) throws FileNotFoundException {
         List<String> words = new ArrayList<>();
         Scanner sc = new Scanner(doc);
         while(sc.hasNext()){
@@ -100,6 +100,7 @@ public class Utilities {
         return queryTerms;
     }
 
+
     public static void displayRetrieverdDoc(List<RetrievedDocument> retreivedDocs) {
         System.out.println("\nNo. of Docs scored: "+ retreivedDocs.size()+"\n");
         retreivedDocs.forEach(doc->System.out.println(doc.toString()));
@@ -128,5 +129,37 @@ public class Utilities {
         return queryRelevantDocList;
     }
 
+    public static List<String> getStopWords() throws IOException {
+
+        List<String> stopWordList = new ArrayList<>();
+        String stopWordsFilePath = "src" + File.separator
+                + "main" + File.separator + "resources" + File.separator
+                + "testcollection" + File.separator + "common_words";
+
+        try {
+
+            FileInputStream fstream = new FileInputStream(stopWordsFilePath);
+            BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+            String line;
+            String fullQuery = "";
+            int qID = 0;
+            String words[];
+
+            //Read File Line By Line
+            while ((line = br.readLine()) != null) {
+                stopWordList.add(Utilities.processedWord(line).trim());
+            }
+
+            //Close the input stream
+            br.close();
+            fstream.close();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
+        // print out stopwords list
+        //stopWordList.forEach(w->System.out.println(w));
+    return stopWordList;
+    }
 
 }

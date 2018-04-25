@@ -17,20 +17,27 @@ public class SnippetGenerator {
         return findSignificance(docSentence, query);
     }
 
-    private static List<String> findSignificance(String[] sentence, String query) {
+    private static List<String> findSignificance(String[] sentence, String query) throws IOException {
 
+        System.out.println(query+"\n");
         Map<String, Double> scoreMap = new HashMap<>();
         List<String> snippetTopSentences = new ArrayList<>();
         List<String> queryTerms = Utilities.getQueryTerms(query);
+
         for(String s: sentence) {
             double count=0.0d;
             int startIndex= -1;
             int highIndex= -1;
             String word;
             String[] sen = Utilities.processedText(s).split(" ");
+            List<String> stopwords = Utilities.getStopWords();
             for(int i=0; i< sen.length; i++) {
                 word = Utilities.processedWord(sen[i]);
-                if(queryTerms.contains(word)) {
+
+                // ONLY those query terms which are not stop words are considered significant
+
+                if(queryTerms.contains(word) && !stopwords.contains(word)) {
+                //if(queryTerms.contains(word)) {
                     if(startIndex == -1) {
                         startIndex = i;
                     }
@@ -58,8 +65,8 @@ public class SnippetGenerator {
         {
 
             // TODO : this & significant words
-            // significant words = query terms,  if more than 75% words are stop words
-            // significant words = query terms  - stopwords, if stop words make less 75% of the query
+            // TODO : significant words = query terms,  if more than 75% words are stop words
+            // TODO: significant words = query terms  - stopwords, if stop words make less 75% of the query
 
             // what about docs with no sentences ???
             // e.g.
@@ -69,12 +76,16 @@ public class SnippetGenerator {
 //            Languages and compilers for parallel processors, especially highly
 //            horizontal microcoded machines; code compaction
 
-            for(String q : queryTerms) {
-                if(!q.equals(name)){
-                    name = name.replace(q, "<" + q + ">");
-                }
+            List<String> stopwords = Utilities.getStopWords();
 
+            for(String q : queryTerms) {
+                if(!stopwords.contains(q)){
+                    name = name.replaceAll(" "+q+" ", " ["+ q +"] ");
+                    name = name.replaceAll(" "+q+"\\W"," ["+q+"]" );
+                    name = name.replaceAll("\\W"+q+" ","["+q+"] " );
+                }
             }
+
             snippetTopSentences .add(name);
             countOfSnippets++;
             if(countOfSnippets>=3)break;
@@ -85,11 +96,11 @@ public class SnippetGenerator {
         //  Display Snippet
         // ------------------
 
-        /*
+
         for(String sen : snippetTopSentences){
             System.out.println(sen);
         }
-        */
+
         return snippetTopSentences;
     }
 
@@ -103,8 +114,6 @@ public class SnippetGenerator {
         List<String> snippetSentences = SnippetGenerator
                 .getSummary(docDir+"CACM-2112.html_cleaned","Languages and compilers for parallel processors, especially highly\n" +
                         "horizontal microcoded machines; code compaction");
-
-
 
 
     }

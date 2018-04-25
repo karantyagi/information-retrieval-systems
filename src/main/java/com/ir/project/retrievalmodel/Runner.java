@@ -221,8 +221,6 @@ public class Runner {
                         fullQuery+= line + "\n";
                     }
 
-
-
                 }
 
             }
@@ -318,6 +316,15 @@ public class Runner {
         */
 
 
+        // ==============
+        // TASK 3 : RUN
+        // ==============
+
+
+        Runner testRunTask3 = new Runner();
+
+
+        //
 
     }
 }
