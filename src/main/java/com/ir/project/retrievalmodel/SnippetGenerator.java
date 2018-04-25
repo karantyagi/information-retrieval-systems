@@ -19,7 +19,7 @@ public class SnippetGenerator {
 
     private static List<String> findSignificance(String[] sentence, String query) throws IOException {
 
-        System.out.println(query+"\n");
+        //System.out.println(query+"\n");
         Map<String, Double> scoreMap = new HashMap<>();
         List<String> snippetTopSentences = new ArrayList<>();
         List<String> queryTerms = Utilities.getQueryTerms(query);
@@ -96,10 +96,11 @@ public class SnippetGenerator {
         //  Display Snippet
         // ------------------
 
-
+        /*
         for(String sen : snippetTopSentences){
             System.out.println(sen);
         }
+        */
 
         return snippetTopSentences;
     }

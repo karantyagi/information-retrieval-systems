@@ -8,6 +8,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Callable;
 
@@ -83,7 +84,8 @@ public class RetrievalTask implements Callable<Pair<SearchQuery, List<RetrievedD
                             "\n");
             // rd.getDocumentID();
             // rd.getScore();
-            snippetSentences = SnippetGenerator.getSummary(docDir+rd.getDocumentID()+".html_cleaned",this.query.getQuery());
+            snippetSentences = new ArrayList<>();
+            ////snippetSentences = SnippetGenerator.getSummary(docDir+rd.getDocumentID()+".html_cleaned",this.query.getQuery());
             if(i<100){
 
                 // Write to html file again
