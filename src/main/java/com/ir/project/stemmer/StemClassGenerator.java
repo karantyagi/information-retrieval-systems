@@ -23,6 +23,8 @@ public class StemClassGenerator {
         this.porterStemmer = new PorterStemmer();
     }
 
+
+    /*
     public static void main(String argv[]) {
 
         try {
@@ -36,13 +38,13 @@ public class StemClassGenerator {
 
             System.out.println("\n");
 
-            /*
+
             Map<String, Set<String>> subStemClasses  =
                     stemClasses.entrySet()
                             .stream()
                             .filter(p -> (p.getValue().size()>10))
                             .collect(Collectors.toMap(p -> p.getKey(), p -> p.getValue()));
-                            */
+
 
             // prune stem classes
             stemClasses = StemClassGenerator.pruneStemClasses(stemClasses);
@@ -51,18 +53,12 @@ public class StemClassGenerator {
                     "testcollection" + File.separator + "stemclasses.json";
 
             StemClassGenerator.saveStemClassesToFile(stemOutFile, stemClasses);
-            /*
-            System.out.println("Printing pruned stem classes\n");
-            for (String word : stemClasses.keySet()) {
-                if(stemClasses.get(word).size()>1){
-                    System.out.printf("%-10s : %s\n",word,stemClasses.get(word));
-                }
-            }
-            */
+
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
+    */
 
 
     public Map<String, Set<String>> stemCorpus() throws FileNotFoundException {
