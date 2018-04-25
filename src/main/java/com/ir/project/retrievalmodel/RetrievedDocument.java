@@ -17,6 +17,11 @@ public class RetrievedDocument {
         return documentID;
     }
 
+    public RetrievedDocument(String documentID, double score) {
+        this.documentID = documentID;
+        this.score = score;
+    }
+
     public void setDocumentID(String documentID) {
         this.documentID = documentID;
     }
