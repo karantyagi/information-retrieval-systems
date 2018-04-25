@@ -44,34 +44,35 @@ public class Runner {
         long start;
         long elapsed;
         String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator;
+        String snippetDir = "src" + File.separator + "main" + File.separator + "snippets" + File.separator;
 
         start = System.currentTimeMillis();
-        runTFIDFModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
+        runTFIDFModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n --------------------------------- TFID Retrieval Run complete ------------------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
         start = System.currentTimeMillis();
-        runBM25Model(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
+        runBM25Model(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
         start = System.currentTimeMillis();
-        runQueryLikelihoodModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
+        runQueryLikelihoodModel(queries,RetrievalModelRun.NoStopNoStem.name(),outFile,snippetDir);
         elapsed = System.currentTimeMillis() - start;
         System.out.println("\n ------------------------ Smoothed Query Likelihood Retrieval Run complete ------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds\n");
 
     }
 
-    private void runLucene(List<SearchQuery> queries, String SystemRunName,String outputDir) {
+    private void runLucene(List<SearchQuery> queries, String SystemRunName,String outputDir,String snippetDir) {
         RetrievalModel lucene = new LuceneRetrievalModel();
         ExecutorService executor = Executors.newFixedThreadPool(10);
         List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
 
         for(SearchQuery q : queries) {
-            RetrievalTask task = new RetrievalTask(lucene, q, outputDir,SystemRunName);
+            RetrievalTask task = new RetrievalTask(lucene, q, outputDir,snippetDir,SystemRunName);
             Future<List<RetrievedDocument>> f = executor.submit(task);
             futures.add(f);
         }
@@ -81,14 +82,14 @@ public class Runner {
 
     }
 
-    private void runTFIDFModel(List<SearchQuery> queries, String SystemRunName, String outputDir) {
+    private void runTFIDFModel(List<SearchQuery> queries, String SystemRunName, String outputDir, String snippetDir) {
         try {
             RetrievalModel tfidf = new TFIDF(metadataAndIndex);
             ExecutorService executor = Executors.newFixedThreadPool(10);
             List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
 
             for(SearchQuery q : queries) {
-                RetrievalTask task = new RetrievalTask(tfidf, q, outputDir, SystemRunName);
+                RetrievalTask task = new RetrievalTask(tfidf, q, outputDir,snippetDir,SystemRunName);
                 Future<List<RetrievedDocument>> f = executor.submit(task);
                 futures.add(f);
             }
@@ -99,7 +100,7 @@ public class Runner {
         }
     }
 
-    private void runBM25Model(List<SearchQuery> queries, String SystemRunName, String outputDir) {
+    private void runBM25Model(List<SearchQuery> queries, String SystemRunName, String outputDir, String snippetDir) {
         double k1 = 1.2;
         double b = 0.75;
         double k2 = 100;
@@ -111,7 +112,7 @@ public class Runner {
             List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
 
             for(SearchQuery q : queries) {
-                RetrievalTask task = new RetrievalTask(bm25, q, outputDir,SystemRunName);
+                RetrievalTask task = new RetrievalTask(bm25, q, outputDir,snippetDir,SystemRunName);
                 Future<List<RetrievedDocument>> f = executor.submit(task);
                 futures.add(f);
             }
@@ -122,7 +123,7 @@ public class Runner {
         }
     }
 
-    private void runQueryLikelihoodModel(List<SearchQuery> queries, String SystemRunName, String outputDir) {
+    private void runQueryLikelihoodModel(List<SearchQuery> queries, String SystemRunName, String outputDir, String snippetDir) {
 
         double smoothingFactor = 0.35;
         RetrievalModel queryLikelihoodModel = new QLModel(metadataAndIndex, smoothingFactor);
@@ -130,7 +131,7 @@ public class Runner {
         List<Future<List<RetrievedDocument>>> futures = new ArrayList<>();
 
         for(SearchQuery q : queries) {
-            RetrievalTask task = new RetrievalTask(queryLikelihoodModel, q, outputDir, SystemRunName);
+            RetrievalTask task = new RetrievalTask(queryLikelihoodModel, q, outputDir,snippetDir, SystemRunName);
             Future<List<RetrievedDocument>> f = executor.submit(task);
             futures.add(f);
         }
@@ -217,7 +218,7 @@ public class Runner {
 
         System.out.println();
 
-        /*
+
         Runner testRun = new Runner();
 
         String queryText = "What articles exist which deal with TSS (Time Sharing System), an\n" +
@@ -239,32 +240,35 @@ public class Runner {
 
         testRun.run(queries);
 
-        */
+
 
         // ==========================
         // Run 4: LuceneNoStopNoStem
         // ==========================
 
-        /*
+
         Runner testRunLucene = new Runner(RetrievalModelType.LUCENE.name());
         LuceneRetrievalModel runLucene = new LuceneRetrievalModel();
         String luceneIndexDirPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator + "luceneindex" +  File.separator;
         runLucene.loadIndex(luceneIndexDirPath);
-        String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator;
+        String outFile =    "src" + File.separator + "main" + File.separator + "output" + File.separator;
+        String snippetDir = "src" + File.separator + "main" + File.separator + "snippets" + File.separator;
 
         long start = System.currentTimeMillis();
-        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile);
+        testRunLucene.runLucene(queries,RetrievalModelRun.NoStopNoStem.name(),outFile, snippetDir);
         runLucene .closeIndex();
         long elapsed = System.currentTimeMillis() - start;
 
         System.out.println("\n ------------------------ Lucene(default settings) Retrieval Run complete -------------------");
         System.out.println("Run Time : " + elapsed + " milliseconds");
 
-        */
+
 
         // ==========================
         // Run 1: TASK 2
         // ==========================
+
+        /*
         String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
                 "testcollection" + File.separator + "cleanedcorpus";
 
@@ -278,7 +282,7 @@ public class Runner {
 
         queryEnhancer.enhanceQuery("hello world query");
 
-
+        */
 
 
 
