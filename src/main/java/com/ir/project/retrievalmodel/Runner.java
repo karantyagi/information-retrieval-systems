@@ -225,8 +225,6 @@ public class Runner {
                         fullQuery+= line + "\n";
                     }
 
-
-
                 }
 
             }
@@ -333,6 +331,15 @@ public class Runner {
         String stemOutFile = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
                 "testcollection" + File.separator + "stemclasses.json";
         StemClassGenerator.saveStemClassesToFile(stemOutFile, stemClasses);
+        // ==============
+        // TASK 3 : RUN
+        // ==============
+
+
+        Runner testRunTask3 = new Runner();
+
+
+        //
 
     }
 }
