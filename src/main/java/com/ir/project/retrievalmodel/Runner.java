@@ -1,6 +1,8 @@
 package com.ir.project.retrievalmodel;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.ir.project.extracredit.ECTask1;
+import com.ir.project.extracredit.ECTask2;
 import com.ir.project.indexer.DocMetadataAndIndex;
 import com.ir.project.indexer.StemmedIndexer;
 import com.ir.project.retrievalmodel.bm25retrieval.BM25;
@@ -277,16 +279,10 @@ public class Runner {
 
         Options options = new Options();
 
-        options.addOption("snippet", false, "generate document snippet");
-        options.addOption("taskName", true, "task to run [ can be one of the TASK1, TASK2 or TASK3, ALL]");
+        options.addOption("taskName", true, "task to run [ can be one of the TASK1, TASK2 or TASK3, PHASE1, PHASE2, noiseGeneration, softMatching]");
         CommandLineParser parser = new DefaultParser();
         CommandLine cmd = parser.parse(options, args);
 
-        boolean generateSnippet = false;
-
-        if (cmd.hasOption("snippet")) {
-            generateSnippet = true;
-        }
 
         String taskName = null;
         if (cmd.hasOption("taskName")) {
@@ -298,15 +294,26 @@ public class Runner {
         }
 
         if (taskName.equals("TASK1")) {
-            runTask1(generateSnippet);
+            runTask1(false);
         } else if (taskName.equals("TASK2")) {
-            runTask2(generateSnippet);
+            runTask2(false);
         } else if (taskName.equals("TASK3")) {
-            runTask3(generateSnippet);
-        } else if (taskName.equals("ALL")) {
-            runTask1(generateSnippet);
-            runTask2(generateSnippet);
-            runTask3(generateSnippet);
+            runTask3(false);
+        } else if (taskName.equals("PHASE1")) {
+            runTask1(false);
+            runTask2(false);
+            runTask3(false);
+        } else if (taskName.equals("PHASE2")) {
+            runPhase2(true);
+        } else if (taskName.equals("SOFTMATCHING")) {
+            runSoftMatching();
+
+        } else if (taskName.equals("NOISEGENERATION")) {
+            runWithNoiseGeneration();
+        } else {
+            HelpFormatter formatter = new HelpFormatter();
+            formatter.printHelp( "Retreival Model", options );
+            System.exit(1);
         }
 
     }
@@ -454,5 +461,97 @@ public class Runner {
 
         Runner testRunTask3B = new Runner(RetrievalModelRun.NoStopWithStem);
         testRunTask3B.run(queries,RetrievalModelRun.NoStopWithStem,relevantQueryDocMap, generateSnippet);
+    }
+
+
+    public static void runPhase2(boolean generateSnippet) throws IOException {
+
+        long start = 0;
+        long elapsed =0;
+
+        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.rel.txt";
+
+        start = System.currentTimeMillis();
+        Map<Integer, List<String>> relevantQueryDocMap = Utilities.fetchQueryRelevantDocList(relevantDocFilePath);
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("Loaded relevence Judgements - Run Time : " + elapsed + " milliseconds");
+
+
+        String queriesFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.query.txt";
+        Runner testRunTask2 = new Runner(RetrievalModelRun.NoStopNoStem); // Stopping with no stemming
+        List<SearchQuery> queries = testRunTask2.fetchSearchQueries(queriesFilePath);
+
+
+        String cleanedCorpusDocPath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "cleanedcorpus";
+
+
+        String stemClassesFilePath = "src" + File.separator + "main" + File.separator + "resources" + File.separator +
+                "testcollection" + File.separator + "stemclasses.json";
+
+        String outFile = "src" + File.separator + "main" + File.separator + "output" + File.separator + "phase2" + File.separator;
+        String snippetDir = "src" + File.separator + "main" + File.separator + "snippets" + File.separator;
+
+        start = System.currentTimeMillis();
+        testRunTask2.runBM25Model(queries, RetrievalModelRun.NoStopNoStem.name(), outFile, snippetDir, relevantQueryDocMap, generateSnippet);
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("\n --------------------------------- BM25 Retrieval Run complete ------------------------------");
+        System.out.println("Run Time : " + elapsed + " milliseconds\n");
+
+    }
+
+    public static void runWithNoiseGeneration() throws IOException {
+        System.out.println();
+        long start = 0;
+        long elapsed =0;
+
+        // initialize Test Collection - Releance Judgements and Query file
+
+        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.rel.txt";
+
+        start = System.currentTimeMillis();
+        Map<Integer, List<String>> relevantQueryDocMap = Utilities.fetchQueryRelevantDocList(relevantDocFilePath);
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("Loaded relevence Judgements - Run Time : " + elapsed + " milliseconds");
+
+
+        String queriesFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.query.txt";
+
+        Runner testRunTask1 = new Runner(RetrievalModelRun.NoStopNoStem); // Stopping with no stemming
+        List<SearchQuery> noisyQueries = testRunTask1.fetchSearchQueries(queriesFilePath);
+
+        noisyQueries = ECTask1.returnNoisySearchQuery(noisyQueries);
+        testRunTask1.run(noisyQueries,RetrievalModelRun.NoStopNoStem, relevantQueryDocMap, true);
+
+    }
+
+
+    public static void runSoftMatching() throws IOException {
+        System.out.println();
+        long start = 0;
+        long elapsed =0;
+
+        // initialize Test Collection - Relevance Judgements and Query file
+
+        String relevantDocFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.rel.txt";
+
+        start = System.currentTimeMillis();
+        Map<Integer, List<String>> relevantQueryDocMap = Utilities.fetchQueryRelevantDocList(relevantDocFilePath);
+        elapsed = System.currentTimeMillis() - start;
+        System.out.println("Loaded relevence Judgements - Run Time : " + elapsed + " milliseconds");
+
+
+        String queriesFilePath = "src" + File.separator + "main" + File.separator + "resources"
+                + File.separator + "testcollection" +  File.separator + "cacm.query.txt";
+        Runner testRunTask1 = new Runner(RetrievalModelRun.NoStopNoStem); // Stopping with no stemming
+        List<SearchQuery> Noisyqueries = testRunTask1.fetchSearchQueries(queriesFilePath);
+
+        List<SearchQuery> correctedQuery= new ECTask2(testRunTask1.metadataAndIndex).getMitigatedQuaries(Noisyqueries);
+        testRunTask1.run(Noisyqueries,RetrievalModelRun.NoStopNoStem, relevantQueryDocMap, true);
     }
 }

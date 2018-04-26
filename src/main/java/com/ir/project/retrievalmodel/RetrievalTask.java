@@ -79,7 +79,7 @@ public class RetrievalTask implements Callable<Pair<SearchQuery, List<RetrievedD
                 + File.separator + "testcollection" +  File.separator + "cleanedcorpus" + File.separator;
         List<String> snippetSentences;
 
-        for (int i = 0; i < retrievedDocumentList.size(); i++){
+        for (int i = 0; i < retrievedDocumentList.size() && i < 100; i++){
             rd = retrievedDocumentList.get(i);
             htmlwriter.append("\n" +
                             "DocID: "+rd.getDocumentID()+"\n" +
@@ -90,6 +90,8 @@ public class RetrievalTask implements Callable<Pair<SearchQuery, List<RetrievedD
             if (this.generateSnippet) {
                 snippetSentences = SnippetGenerator.getSummary(docDir+rd.getDocumentID()+".html_cleaned",this.query.getQuery());
             }
+
+
             if(i<100){
 
                 // Write to html file again
@@ -122,7 +124,7 @@ public class RetrievalTask implements Callable<Pair<SearchQuery, List<RetrievedD
         htmlfilewriter.close();
         bw.close();
         fw.close();
-        System.out.println("\""+retrievalModel.getModelType().name()+"\\"+this.systemName+"\\QUERY_" + query.getQueryID()+"_results.txt\" created!");
+        //System.out.println("\""+retrievalModel.getModelType().name()+"\\"+this.systemName+"\\QUERY_" + query.getQueryID()+"_results.txt\" created!");
     }
 
     private String snippetPageIntro(String query,String model, String systemRunName, Long time) {
