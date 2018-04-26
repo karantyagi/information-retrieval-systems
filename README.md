@@ -28,6 +28,8 @@ The code is divided into multiple functional packages.
  - Run Options `usage: Retreival Model: -taskName <arg>`   
   - task to run - [can be one of the __TASK1__, __TASK2__ or __TASK3__,
       __PHASE1__, __PHASE2__, __noiseGeneration__, __softMatching__]
+      
+> NOTE: Read more about tasks in the [Problem Statement](https://github.com/karantyagi/information-retrieval-systems/blob/master/Problem%20Statement.pdf)
 `
 ### Key Terms
 `BM25, Lucene, Query Language Model, Noise Generation, Soft Matching`
