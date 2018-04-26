@@ -26,10 +26,9 @@ The code is divided into multiple functional packages.
  - Every task in project can be run using a command line flag in Runner.java.
  - Run `Runner.java#main()` method in `retreivalmodels` package.
  - Run Options `usage: Retreival Model: -taskName <arg>`   
-  - task to run [ can be one of the TASK1, TASK2 or TASK3,
-      PHASE1, PHASE2, noiseGeneration, softMatching]
+  - task to run - [can be one of the __TASK1__, __TASK2__ or __TASK3__,
+      __PHASE1__, __PHASE2__, __noiseGeneration__, __softMatching__]
 `
-
 ### Key Terms
 `BM25, Lucene, Query Language Model, Noise Generation, Soft Matching`
  
