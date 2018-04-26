@@ -1,16 +1,41 @@
-# `Todo`
-
-- [ ] ???? excel files need -ASK HITESH
-- [ ] __@savan__ threads to write to output and snippet files
-- [ ] __@harshmeet__ : extra credit part 2 
-- [x] __@savan @karan__ - store stemClasses.json after running stem generation algorithm, then apply it on 1 run for evaluation
-</br> this will take a lot of time
-- [ ] __@karan__ - fix stem class pruning on query-time-stemming branch
-- [ ] __@savan__ - perform stemmed runs for task 3
+## Implementing and Evaluating Information Retrieval Models
+Hi! This repo is for project work of course work CS 6200 Information Retreival Systems at Northeastern University. The project implements information retrieval methods like cleaning, indexing, stemming, query enhancement. It then implements various document search modals like BM25, TF-IDF, QueryLanguageModal along with lucene. It uses CACM as corpus.
 
 
------
+### General Layout
 
-# information-retrieval-system
-Design, build, evaluate, compare performance (retrieval effectiveness) of information retrieval systems.
-[X] Lucene Runs
+The code is divided into multiple functional packages.
+
+ 1. cleaner : handles cleaning logic.
+ 2. indexer: handles indexing logic based on cleaned corpus.
+ 3. retreivalmodel: implements various document retreival algorithms.
+ 4. stemmer: handles stemming task
+ 5. utils: general purpose functions.
+ 6. evaluation: performs evaluation metrics on retreived documents for modal.
+
+### Compiling and Running Program
+
+**Creating cleaned corpus and index files.**
+- Import the project in IntelliJ or Eclipse
+- To generate the cleaned corpus, run Cleaner.java in cleaner package. This will generate a folder under `src/main/resources/testcollection/cleanedcorpus` folder.
+- To generate the index user Indexer.java. StemmedIndexer.java can be used to generate index of stemmed version of cacm corpus.
+
+
+**Running project tasks**
+
+ - Every task in project can be run using a command line flag in Runner.java.
+ - Run `Runner.java#main()` method in `retreivalmodels` package.
+ - Run Options `usage: Retreival Model: -taskName <arg>`   
+  - task to run [ can be one of the TASK1, TASK2 or TASK3,
+      PHASE1, PHASE2, noiseGeneration, softMatching]
+`
+
+### Key Terms
+`BM25, Lucene, Query Language Model, Noise Generation, Soft Matching`
+ 
+
+### Contributions
+
+- Harshmeet Kaur Johal (johal.k@husky.neu.edu)
+- Karan Tyagi (tyagi.k@husky.neu.edu)
+- Savan Patel (patel.sav@husky.neu.edu)
