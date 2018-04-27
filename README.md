@@ -1,5 +1,5 @@
 ## Implementing and Evaluating Information Retrieval Models
-Hi! This repo is for project work of course work CS 6200 Information Retreival Systems at Northeastern University. The project implements information retrieval methods like cleaning, indexing, stemming, query enhancement. It then implements various document search modals like BM25, TF-IDF, QueryLanguageModal along with lucene. It uses CACM as corpus.
+This repo is for project work of course work CS 6200 Information Retreival Systems at Northeastern University. The project implements information retrieval methods like cleaning, indexing, stemming, query enhancement. It also implements various document search models like BM25, TF-IDF, Query Likelihood Model along with Lucene. It uses CACM as corpus.
 
 
 ### General Layout
@@ -8,17 +8,17 @@ The code is divided into multiple functional packages.
 
  1. cleaner : handles cleaning logic.
  2. indexer: handles indexing logic based on cleaned corpus.
- 3. retreivalmodel: implements various document retreival algorithms.
+ 3. retriever: implements various document retreival algorithms.
  4. stemmer: handles stemming task
  5. utils: general purpose functions.
- 6. evaluation: performs evaluation metrics on retreived documents for modal.
+ 6. evaluation: performs evaluation uisng metrics like Precision, Recall, MAP, MRR etc. on retreived documents for model.
 
 ### Compiling and Running Program
 
 **Creating cleaned corpus and index files.**
 - Import the project in IntelliJ or Eclipse
 - To generate the cleaned corpus, run Cleaner.java in cleaner package. This will generate a folder under `src/main/resources/testcollection/cleanedcorpus` folder.
-- To generate the index user Indexer.java. StemmedIndexer.java can be used to generate index of stemmed version of cacm corpus.
+- To generate the index user Indexer.java. StemmedIndexer.java can be used to generate index of stemmed version of CACM corpus.
 
 
 **Running project tasks**
